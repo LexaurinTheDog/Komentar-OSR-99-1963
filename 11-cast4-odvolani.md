@@ -57,6 +57,26 @@
 
 ## § 202 — Vyloučení odvolání
 
+> (1) Odvolání není přípustné proti usnesení, jímž
+> a) se upravuje vedení řízení,
+> b) byl účastník vyzván, aby neúplné, nesrozumitelné nebo neurčité podání doplnil nebo opravil (§ 43 odst. 1),
+> c) bylo prominuto zmeškání lhůty,
+> d) byla nebo nebyla připuštěna změna návrhu,
+> e) bylo rozhodnuto o svědečném nebo o nárocích podle § 139 odst. 3,
+> f) byl schválen smír,
+> g) byl zamítnut návrh na přerušení řízení podle § 109 nebo podle § 110,
+> h) byl žalovaný vyzván, aby se ve věci písemně vyjádřil (§ 114b),
+> i) bylo opraveno rozhodnutí, netýká-li se oprava výroku rozhodnutí,
+> j) bylo rozhodnuto, že doručení je neúčinné (§ 50d),
+> k) byla uložena povinnost složit zálohu na náklady důkazu,
+> l) bylo vyhověno návrhu na přezkum evropského platebního rozkazu,
+> m) bylo nařízeno první setkání s mediátorem podle § 100 odst. 2,
+> n) byl zrušen platební rozkaz podle § 173 odst. 2.
+>
+> (2) Odvolání není přípustné proti rozsudku vydanému v řízení, jehož předmětem bylo v době vydání rozsudku peněžité plnění nepřevyšující 10 000 Kč, k příslušenství pohledávky se přitom nepřihlíží; to neplatí u rozsudku pro uznání a u rozsudku pro zmeškání.
+>
+> (3) Odvolání jen proti důvodům rozhodnutí není přípustné.
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — vyloučení proti USNESENÍ (taxativní výčet):**
@@ -92,6 +112,14 @@
 
 ## § 203 — Speciální subjekty odvolání
 
+> (1) Vedlejší účastník může podat odvolání jen tehdy, jestliže do řízení vstoupil nejpozději do patnácti dnů od doručení rozhodnutí účastníku, kterého v řízení podporuje. Odvolání vedlejšího účastníka není přípustné, jestliže se jím podporovaný účastník odvolání vzdal nebo jestliže s odvoláním vedlejšího účastníka nesouhlasí.
+>
+> (2) Státní zastupitelství může podat odvolání jen ve věcech, do nichž může podle zákona vstoupit nebo v nichž může podat návrh na zahájení řízení, a jen tehdy, jestliže do řízení vstoupilo dříve, než uplynula odvolací lhůta všem účastníkům řízení.
+>
+> (3) Úřad pro zastupování státu ve věcech majetkových může podat odvolání jen v případech a za podmínek uvedených v § 35a a jen tehdy, jestliže do řízení vstoupil dříve, než uplynula odvolací lhůta všem účastníkům řízení.
+>
+> (4) Ochránce práv dětí může podat odvolání jen v případech a za podmínek uvedených v § 35b a jen tehdy, jestliže do řízení vstoupil dříve, než uplynula odvolací lhůta všem účastníkům řízení.
+
 ### Výklad
 
 **Odst. 1 — vedlejší účastník:**
@@ -112,6 +140,12 @@
 ---
 
 ## § 204 — LHŮTA ODVOLÁNÍ (klíčové!)
+
+> (1) Odvolání se podává do patnácti dnů od doručení písemného vyhotovení rozhodnutí u soudu, proti jehož rozhodnutí směřuje. Bylo-li vydáno opravné usnesení týkající se výroku rozhodnutí, běží tato lhůta znovu od právní moci opravného usnesení.
+>
+> (2) Odvolání je podáno včas také tehdy, jestliže bylo podáno po uplynutí patnáctidenní lhůty proto, že se odvolatel řídil nesprávným poučením soudu o odvolání. Neobsahuje-li rozhodnutí poučení o odvolání, o lhůtě k odvolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že odvolání není přípustné, lze podat odvolání do tří měsíců od doručení.
+>
+> (3) O prominutí zmeškání lhůty k odvolání rozhoduje soud prvního stupně.
 
 ### Výklad / smysl ustanovení
 
@@ -145,6 +179,21 @@ Pokud bylo vydáno **opravné usnesení** (§ 164) **týkající se výroku**, l
 ## NÁLEŽITOSTI ODVOLÁNÍ (§ 205 — § 205b)
 
 ## § 205 — Náležitosti + 7 odvolacích důvodů
+
+> (1) V odvolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se napadá, v čem je spatřována nesprávnost tohoto rozhodnutí nebo postupu soudu (odvolací důvod) a čeho se odvolatel domáhá (odvolací návrh).
+>
+> (2) Odvolání proti rozsudku nebo usnesení, jímž bylo rozhodnuto ve věci samé, lze odůvodnit jen tím, že
+> a) nebyly splněny podmínky řízení, rozhodoval věcně nepříslušný soud prvního stupně, rozhodnutí soudu prvního stupně vydal vyloučený soudce nebo soud prvního stupně byl nesprávně obsazen, ledaže místo samosoudce rozhodoval senát,
+> b) soud prvního stupně nepřihlédl k odvolatelem tvrzeným skutečnostem nebo k jím označeným důkazům, ačkoliv k tomu nebyly splněny předpoklady podle § 118b nebo § 175 odst. 4 části první věty za středníkem,
+> c) řízení je postiženo jinou vadou, která mohla mít za následek nesprávné rozhodnutí ve věci,
+> d) soud prvního stupně neúplně zjistil skutkový stav věci, neboť neprovedl navržené důkazy potřebné k prokázání rozhodných skutečností,
+> e) soud prvního stupně dospěl na základě provedených důkazů k nesprávným skutkovým zjištěním,
+> f) dosud zjištěný skutkový stav neobstojí, neboť tu jsou další skutečnosti nebo jiné důkazy, které nebyly dosud uplatněny (§ 205a),
+> g) rozhodnutí soudu prvního stupně spočívá na nesprávném právním posouzení věci.
+>
+> (3) Odvolatel může bez souhlasu soudu měnit odvolací návrhy a odvolací důvody i po uplynutí lhůty k odvolání.
+>
+> (4) Rozsah, v jakém se rozhodnutí napadá, může odvolatel měnit jen v průběhu trvání lhůty k odvolání.
 
 ### Výklad / smysl ustanovení
 
@@ -189,6 +238,14 @@ Pokud bylo vydáno **opravné usnesení** (§ 164) **týkající se výroku**, l
 ---
 
 ## § 205a — OMEZENÍ NOVÝCH SKUTEČNOSTÍ V ODVOLÁNÍ (klíčový institut)
+
+> Skutečnosti nebo důkazy, které nebyly uplatněny před soudem prvního stupně, jsou u odvolání proti rozsudku nebo usnesení ve věci samé odvolacím důvodem jen tehdy, jestliže
+> a) se týkají podmínek řízení, věcné příslušnosti soudu, vyloučení soudce nebo obsazení soudu;
+> b) jimi má být prokázáno, že v řízení došlo k vadám, které mohly mít za následek nesprávné rozhodnutí ve věci;
+> c) jimi má být zpochybněna věrohodnost důkazních prostředků, na nichž spočívá rozhodnutí soudu prvního stupně;
+> d) jimi má být splněna povinnost tvrdit všechny pro rozhodnutí věci významné skutečnosti nebo důkazní povinnost, a to za předpokladu, že pro nesplnění některé z uvedených povinností neměl odvolatel ve věci úspěch a že odvolatel nebyl řádně poučen podle § 118a odst. 1 až 3;
+> e) odvolatel nebyl řádně poučen podle § 119a odst. 1;
+> f) nastaly (vznikly) po vyhlášení (vydání) rozhodnutí soudu prvního stupně.
 
 ### Výklad / smysl ustanovení
 
@@ -240,6 +297,12 @@ Tato „**omezená přípustnost důvodů**" znamená, že rozsudek pro uznání
 
 ## § 206 — Odkladný účinek
 
+> (1) Podá-li ten, kdo je k tomu oprávněn, včas přípustné odvolání, nenabývá rozhodnutí právní moci, dokud o odvolání pravomocně nerozhodne odvolací soud.
+>
+> (2) Bylo-li však rozhodnuto o několika právech se samostatným skutkovým základem nebo týká-li se rozhodnutí několika účastníků, z nichž každý jedná v řízení sám za sebe (§ 91 odst. 1) a odvolání se výslovně vztahuje jen na některá práva nebo na některé účastníky, není právní moc výroku, který není napaden, odvoláním dotčena. To neplatí v případech, kdy na rozhodnutí o napadeném výroku je závislý výrok, který odvoláním nebyl výslovně dotčen, nebo jestliže z právního předpisu vyplývá určitý způsob vypořádání poměru mezi účastníky.
+>
+> (3) Právní moc ostatních výroků není dotčena také tehdy, jestliže odvolání směřuje pouze proti výroku o nákladech řízení, o příslušenství pohledávky, o lhůtě k plnění nebo o předběžné vykonatelnosti rozsudku.
+
 ### Výklad
 
 **Odst. 1 — odkladný účinek:** Včasné přípustné odvolání oprávněnou osobou → rozhodnutí **NENABÝVÁ PRÁVNÍ MOCI**, dokud odvolací soud nerozhodne. = **suspenzivní účinek**.
@@ -259,6 +322,10 @@ Tato „**omezená přípustnost důvodů**" znamená, že rozsudek pro uznání
 ---
 
 ## § 207 — Vzdání se a vzetí zpět odvolání
+
+> (1) Vzdát se odvolání je možno jedině vůči soudu, a to až po vyhlášení (vydání) rozhodnutí.
+>
+> (2) Dokud o odvolání nebylo rozhodnuto, je možno vzít je zpět; v takovém případě odvolací soud odvolací řízení zastaví. Vzal-li někdo odvolání zpět, nemůže je podat znovu.
 
 ### Výklad
 
@@ -304,6 +371,8 @@ Předseda senátu **soudu 1. stupně** odstraňuje **vady** ve včas podaném od
 
 ## § 210a — Změna prvostupňovým soudem (autoremedura)
 
+> Usnesení o povinnosti zaplatit soudní poplatek nebo usnesení, z něhož nenabyla dosud práva osoba jiná než odvolatel, nebo usnesení, kterým bylo uloženo pořádkové opatření (§ 53), nebo usnesení o odmítnutí žaloby, popřípadě jiného návrhu na zahájení řízení (§ 43 odst. 2, § 75a, § 75b odst. 2, § 78d odst. 2), nebo usnesení o odmítnutí odvolání (§ 208), nebo rozhodnutí vydané podle části šesté může k odvolání změnit přímo soud prvního stupně, pokud odvolání v celém rozsahu vyhoví.
+
 ### Výklad
 
 **Soud 1. stupně sám** může změnit své **usnesení**, pokud odvolání **v celém rozsahu vyhoví**. Týká se:
@@ -332,6 +401,11 @@ Předseda senátu **soudu 1. stupně** odstraňuje **vady** ve včas podaném od
 
 ## § 212 — Rozsah přezkumu (vázán návrhem)
 
+> Odvolací soud projedná věc v mezích, ve kterých se odvolatel domáhá přezkoumání rozhodnutí. Tímto rozsahem není vázán
+> a) v případech, kdy na rozhodnutí o napadeném výroku je závislý výrok, který odvoláním nebyl dotčen,
+> b) v případech, kde jde o taková společná práva nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří vystupují na jedné straně, a kde platí úkony jednoho z nich i pro ostatní (§ 91 odst. 2), třebaže odvolání podal jen některý z účastníků,
+> c) jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+
 ### Výklad
 
 Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá přezkoumání (= vázán **rozsahem odvolání**).
@@ -348,6 +422,18 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 ---
 
 ## § 212a — Důvody přezkumu
+
+> (1) Není-li dále stanoveno jinak, rozhodnutí soudu prvního stupně lze přezkoumat i z důvodů, které nebyly v odvolání uplatněny (§ 205 odst. 2).
+>
+> (2) Rozsudek nebo usnesení, jímž bylo rozhodnuto ve věci samé, nelze přezkoumat podle odstavce 1, neobsahuje-li odvolání přes výzvu soudu (§ 43 a 209) žádné odvolací důvody.
+>
+> (3) K novým skutečnostem nebo důkazům (§ 205a a 211a) odvolací soud smí přihlédnout, jen když byly uplatněny.
+>
+> (4) Rozsudek pro uznání a rozsudek pro zmeškání odvolací soud přezkoumá jen z důvodů uvedených v § 205b.
+>
+> (5) Odvolací soud též přihlédne k vadám uvedeným v § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3. K jiným vadám řízení před soudem prvního stupně přihlíží odvolací soud, jen když mohly mít za následek nesprávné rozhodnutí ve věci a jen jestliže za odvolacího řízení nemohla být zjednána náprava.
+>
+> (6) Usnesení, jímž nebylo rozhodnuto ve věci samé, lze přezkoumat jen z důvodů, které se týkají toho, co soud prvního stupně řešil ve výroku usnesení.
 
 ### Výklad
 
@@ -368,6 +454,16 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 ---
 
 ## § 213 — DOPLNĚNÍ A OPAKOVÁNÍ DOKAZOVÁNÍ (klíčový institut!)
+
+> (1) Odvolací soud není vázán skutkovým stavem, jak jej zjistil soud prvního stupně.
+>
+> (2) Odvolací soud může zopakovat dokazování, na základě kterého soud prvního stupně zjistil skutkový stav věci; dosud provedené důkazy zopakuje vždy, má-li za to, že je z nich možné dospět k jinému skutkovému zjištění, než které učinil soud prvního stupně.
+>
+> (3) K provedeným důkazům, z nichž soud prvního stupně neučinil žádná skutková zjištění, odvolací soud při zjišťování skutkového stavu věci nepřihlédne, ledaže by je zopakoval; tyto důkazy je povinen zopakovat, jen jestliže ke skutečnosti, jež jimi má být prokázána, soud prvního stupně provedl jiné důkazy, z nichž při zjišťování skutkového stavu vycházel.
+>
+> (4) Odvolací soud doplní dokazování o účastníky navržené důkazy, které dosud nebyly provedeny, ukazuje-li se to potřebné ke zjištění skutkového stavu věci; to neplatí jen tehdy, má-li být provedeno rozsáhlé doplnění dokazování a jestliže ke skutečnosti, jež jimi má být prokázána, dosud nebylo provedeno žádné nebo zcela nedostatečné dokazování.
+>
+> (5) Při zjišťování skutkového stavu odvolací soud nepřihlíží ke skutečnostem nebo důkazům, které byly účastníky řízení uplatněny v rozporu s § 205a nebo § 211a.
 
 ### Výklad / smysl ustanovení
 
@@ -413,6 +509,17 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 ---
 
 ## § 214 — Jednání u odvolacího soudu
+
+> (1) K projednání odvolání nařídí předseda senátu odvolacího soudu jednání.
+>
+> (2) Jednání není třeba nařizovat, jestliže
+> a) se odmítá odvolání;
+> b) se zastavuje nebo přerušuje odvolací řízení;
+> c) odvolání směřuje proti usnesení soudu prvního stupně, jímž bylo rozhodnuto o předběžném opatření, nebo jinému usnesení, kterým nebylo rozhodnuto ve věci samé;
+> d) se zrušuje rozhodnutí podle § 219a odst. 1;
+> e) odvolání se týká toliko nákladů řízení, lhůty k plnění nebo předběžné vykonatelnosti.
+>
+> (3) Jednání není třeba nařizovat také tehdy, bylo-li odvolání podáno jen z důvodu nesprávného právního posouzení věci a účastníci se práva účasti na projednání věci vzdali, popřípadě s rozhodnutím věci bez nařízení jednání souhlasí; to neplatí, jestliže odvolací soud opakuje nebo doplňuje dokazování.
 
 ### Výklad
 
@@ -467,6 +574,14 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 
 ## § 219a — ZRUŠENÍ
 
+> (1) Odvolací soud rozhodnutí zruší, jestliže
+> a) tu jsou takové vady, že řízení nemělo proběhnout pro nedostatek podmínek řízení nebo rozhodoval věcně nepříslušný soud nebo vyloučený soudce anebo soud nebyl správně obsazen, ledaže místo samosoudce rozhodoval senát, popřípadě i jiné vady, které mohly mít za následek nesprávné rozhodnutí ve věci, a za odvolacího řízení nemohla být zjednána náprava,
+> b) rozhodnutí není přezkoumatelné pro nesrozumitelnost nebo nedostatek důvodů,
+> c) soud nepřibral za účastníka toho, kdo měl být účastníkem,
+> d) soud nepokračoval v řízení s tím, kdo je procesním nástupcem účastníka, který po zahájení řízení ztratil způsobilost být účastníkem řízení.
+>
+> (2) Odvolací soud rozsudek nebo usnesení, jímž bylo rozhodnuto ve věci samé, zruší také tehdy, jestliže ke zjištění skutkového stavu věci je třeba provést další účastníky navržené důkazy, které nemohou být provedeny v odvolacím řízení (§ 213 odst. 3 a 4); ustanovení § 213 odst. 5 tím nesmí být dotčeno.
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — 4 důvody zrušení:**
@@ -494,6 +609,12 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 
 ## § 220 — ZMĚNA (apelační rozhodnutí)
 
+> (1) Odvolací soud změní rozsudek nebo usnesení, jímž bylo rozhodnuto ve věci samé, jestliže nejsou splněny podmínky pro jejich potvrzení (§ 219) nebo zrušení (§ 219a) a jestliže
+> a) soud prvního stupně rozhodl nesprávně, ačkoliv správně zjistil skutkový stav;
+> b) po doplnění nebo zopakování dokazovaní je skutkový stav věci zjištěn tak, že je možné o věci rozhodnout.
+>
+> (2) Odvolací soud změní rozsudek nebo usnesení, jímž bylo rozhodnuto ve věci samé, také tehdy, jestliže schválí smír.
+
 ### Výklad
 
 **Podmínky změny:**
@@ -519,6 +640,13 @@ Pokud odvolací soud odmítne odvolání proti PO, které **zaniklo / pozbylo ú
 ---
 
 ## § 221 — Co odvolací soud dělá po ZRUŠENÍ
+
+> (1) Zruší-li odvolací soud rozhodnutí podle § 219a,
+> a) vrátí věc soudu prvního stupně k dalšímu řízení, nebo
+> b) postoupí věc věcně příslušnému okresnímu nebo krajskému soudu, popřípadě soudu zřízenému k projednávání a rozhodování věcí určitého druhu, anebo
+> c) rozhodne o zastavení řízení, jestliže je tu takový nedostatek podmínek řízení, který nelze odstranit (§ 104 odst. 1); není-li dána pravomoc soudů, rozhodne též o postoupení věci orgánu, do jehož pravomoci náleží.
+>
+> (2) Zruší-li odvolací soud rozhodnutí proto, že nebyl dodržen závazný právní názor (§ 226 odst. 1, § 235h odst. 2 věta druhá a § 243d odst. 1) nebo že v řízení došlo k závažným vadám, může nařídit, aby v dalším řízení věc projednal a rozhodl jiný senát (samosoudce), nebo přikázat věc k dalšímu řízení jinému soudu prvního stupně, kterému je nadřízen.
 
 ### Výklad
 
