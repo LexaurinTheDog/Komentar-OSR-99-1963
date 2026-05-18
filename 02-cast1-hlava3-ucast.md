@@ -119,6 +119,20 @@ Paragraf 19 stanoví **procesní subjektivitu** = obecnou způsobilost být nosi
 
 ## § 21 — Jednání za právnickou osobu
 
+> (1) Za právnickou osobu jedná
+> a) člen statutárního orgánu; tvoří-li statutární orgán více osob, jedná za právnickou osobu předseda statutárního orgánu, popřípadě jeho člen, který tím byl pověřen; je-li předsedou nebo pověřeným členem právnická osoba, jedná vždy fyzická osoba, která je k tomu touto právnickou osobou zmocněna nebo jinak oprávněna, nebo
+> b) její zaměstnanec (člen), který tím byl statutárním orgánem pověřen, nebo
+> c) vedoucí jejího odštěpného závodu, jde-li o věci týkající se tohoto závodu, nebo
+> d) její prokurista, může-li podle udělené prokury jednat samostatně.
+>
+> (2) Ustanovení odstavce 1 se nepoužije, stanoví-li tento nebo zvláštní zákon, že za právnickou osobu jednají jiné osoby.
+>
+> (3) Byla-li u právnické osoby zavedena nucená správa, dočasná správa nebo správa pro řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, jedná za ni nucený správce, dočasný správce nebo osoba vykonávající správu pro řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, která má podle zákona postavení jejího statutárního orgánu, popřípadě zaměstnanci právnické osoby, které tím nucený správce, dočasný správce nebo osoba vykonávající správu pro řešení krize pověřila; jinak se postupuje podle odstavců 1 a 2.
+>
+> (4) Za právnickou osobu nemůže jednat ten, jehož zájmy jsou v rozporu se zájmy právnické osoby.
+>
+> (5) Každý, kdo jedná za právnickou osobu, musí své oprávnění prokázat. V téže věci může za právnickou osobu současně jednat jen jediná osoba.
+
 ### Výklad / smysl ustanovení
 
 Paragraf 21 vymezuje, **kdo je oprávněn jednat za PO** v civilním řízení. Pořadí (alternativy v odst. 1):
@@ -157,6 +171,16 @@ Paragraf 21 vymezuje, **kdo je oprávněn jednat za PO** v civilním řízení. 
 
 ## § 21a — Jednání za stát
 
+> (1) Za stát před soudem vystupuje
+> a) Úřad pro zastupování státu ve věcech majetkových v případech stanovených podle zvláštního právního předpisu,
+> b) organizační složka státu příslušná podle zvláštního právního předpisu v ostatních případech.
+>
+> (2) Vystupuje-li před soudem za stát Úřad pro zastupování státu ve věcech majetkových, jedná před soudem jménem státu zaměstnanec zařazený v Úřadu pro zastupování státu ve věcech majetkových, pověřený jeho generálním ředitelem.
+>
+> (3) Vystupuje-li před soudem za stát organizační složka státu příslušná podle zvláštního právního předpisu, jedná před soudem jménem státu vedoucí organizační složky státu nebo jím pověřený zaměstnanec působící u této nebo jiné organizační složky státu.
+>
+> (4) Ustanovení § 21 odst. 4 a 5 platí obdobně.
+
 ### Výklad / smysl ustanovení
 
 Stát je v civilním procesu **specifickým účastníkem**. Za něj vystupuje:
@@ -181,6 +205,10 @@ Stát je v civilním procesu **specifickým účastníkem**. Za něj vystupuje:
 ---
 
 ## § 21b — Jednání za obec a vyšší ÚSC (kraj)
+
+> (1) Za obec a za vyšší územně samosprávný celek jedná ten, kdo je podle zvláštního zákona oprávněn je zastupovat navenek, nebo jejich zaměstnanec, který tím byl touto osobou pověřen.
+>
+> (2) Ustanovení § 21 odst. 4 a 5 platí obdobně.
 
 ### Výklad
 
@@ -216,6 +244,8 @@ Hlava III rozlišuje **tři typy zastoupení**:
 
 ## § 22 — Zákonné zastoupení FO, která nemůže jednat samostatně
 
+> Fyzická osoba, která nemůže před soudem jednat samostatně, musí být zastoupena svým zákonným zástupcem nebo opatrovníkem.
+
 ### Výklad
 
 FO, která nemůže před soudem jednat samostatně (= nemá plnou procesní způsobilost — typicky **nezletilý**, **osoba s omezenou svéprávností**, **osoba pod opatrovnictvím**), **musí být zastoupena**:
@@ -230,6 +260,8 @@ Bez zákonného zástupce nemůže nezletilý ani omezeně svéprávný procesn�
 
 ## § 23 — Rozhodnutí o nutnosti zastoupení
 
+> Vyžadují-li to okolnosti případu, může předseda senátu rozhodnout, že fyzická osoba, která není plně svéprávná, musí být v řízení zastoupena svým zákonným zástupcem nebo opatrovníkem, i když jde o věc, v níž by jinak mohla jednat samostatně.
+
 ### Výklad
 
 I tehdy, kdy FO není plně svéprávná, ale o věci by jinak mohla samostatně jednat, může předseda senátu **rozhodnout o povinném zastoupení** zákonným zástupcem / opatrovníkem.
@@ -239,6 +271,10 @@ Typicky: pokud je 16letý nezletilý dostatečně zralý a má svéprávnost pro
 ---
 
 ## § 24 — Smluvní zastoupení obecně
+
+> (1) Účastník se může dát v řízení zastupovat zástupcem, jejž si zvolí. Nejedná-li se o zastupování podle § 26 nebo podle § 26a, může být zvoleným zástupcem účastníka jen fyzická osoba. V téže věci může mít účastník současně jen jednoho zvoleného zástupce.
+>
+> (2) Jsou-li v řízení projednávány utajované informace, mohou účastníky zastupovat pouze fyzické osoby, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení těchto utajovaných informací vydaným podle zvláštního právního předpisu, nebo které byly poučeny způsobem uvedeným v § 40a odst. 1.
 
 ### Výklad
 
@@ -256,6 +292,10 @@ Typicky: pokud je 16letý nezletilý dostatečně zralý a má svéprávnost pro
 ---
 
 ## § 25 — Advokát jako zástupce
+
+> (1) Zástupcem si účastník může vždy zvolit advokáta. Advokátu lze udělit pouze plnou moc pro celé řízení (dále jen „procesní plná moc").
+>
+> (2) Advokát je oprávněn dát se zastupovat jiným advokátem nebo, s výjimkou případů, v nichž je zastoupení advokátem podle tohoto zákona povinné, advokátním koncipientem nebo svým zaměstnancem jako dalším zástupcem.
 
 ### Výklad
 
@@ -282,6 +322,10 @@ Povinné advokátní zastoupení je v civilním procesu vyžadováno **u dovolá
 
 ## § 25a — Notář jako zástupce
 
+> (1) Účastník si může zvolit zástupcem též notáře; notář může účastníka zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Notáři lze udělit pouze procesní plnou moc.
+>
+> (2) Notář je oprávněn dát se zastupovat jiným notářem a, s výjimkou případů, v nichž je zastoupení notářem podle tohoto zákona povinné, též notářským kandidátem nebo notářským koncipientem.
+
 ### Výklad
 
 Účastník si může zvolit zástupcem **notáře** — ale **jen v rozsahu** stanoveném zákonem č. 358/1992 Sb., o notářích a jejich činnosti. Typicky:
@@ -297,6 +341,8 @@ V čistě sporných civilních věcech (např. žaloba o zaplacení) **notář �
 
 ## § 25b — Patentový zástupce
 
+> S výjimkou dovolání si účastník může zvolit zástupcem též patentového zástupce; patentový zástupce může účastníka zastupovat jen v rozsahu oprávnění stanoveného zvláštním právním předpisem.
+
 ### Výklad
 
 Patentový zástupce (zákon č. 417/2004 Sb.) může zastupovat účastníka **s výjimkou dovolání** (= dovolání si vyžaduje advokáta). Rozsah: jen ve věcech podle zákona o patentových zástupcích (= patenty, užitné a průmyslové vzory, ochranné známky, označení původu).
@@ -308,6 +354,22 @@ V agendě duševního vlastnictví (krajské soudy podle § 9 odst. 2 písm. g) 
 ---
 
 ## § 26 — Zvláštní právnické osoby jako zástupci (odbory, antidiskriminační org. atd.)
+
+> (1) Odborová organizace může, s výjimkou věcí týkajících se vztahů mezi podnikateli vyplývajících z podnikatelské činnosti, v řízení zastupovat účastníka, který je jejím členem.
+>
+> (2) Úřad pro mezinárodněprávní ochranu dětí (dále jen „Úřad") může zastupovat účastníka v řízení o určení nebo změnu vyživovací povinnosti a v řízení o výkon rozhodnutí ukládajícího povinnost k placení výživného, jde-li o věci se vztahem k cizině.
+>
+> (3) Ve věcech ochrany před diskriminací na základě pohlaví, rasového nebo etnického původu, náboženství, víry, světového názoru, zdravotního postižení, věku anebo sexuální orientace se účastník může dát v řízení zastupovat též právnickou osobou vzniklou na základě zvláštního právního předpisu, k jejímž činnostem uvedeným ve stanovách patří ochrana před takovou diskriminací.
+>
+> (4) Ve sporech o nárocích vycházejících z autorského zákona, o nárocích z ohrožení a porušení práv podle autorského zákona a o nárocích na vydání bezdůvodného obohacení získaného na úkor toho, komu svědčí práva podle autorského zákona, se účastník může dát zastupovat právnickou osobou, k jejímuž předmětu podnikání, popřípadě činnosti patří ochrana práv podle autorského zákona.
+>
+> (5) Je-li ve věcech pracovních žalobcem cizinec, může se dát v řízení zastupovat též právnickou osobou vzniklou na základě zvláštního právního předpisu, k jejímž činnostem uvedeným ve stanovách patří ochrana práv cizinců; za právnickou osobu jedná k tomu pověřený její zaměstnanec nebo člen, který má vysokoškolské právnické vzdělání, které je podle zvláštních právních předpisů vyžadováno pro výkon advokacie. Ustanovení tohoto odstavce o zastoupení cizince právnickou osobou se použije i v případech, ve kterých se uplatní přímo použitelný předpis Evropské unie z oblasti volného pohybu pracovníků.
+>
+> (6) Ve věcech pracovních a ve věcech vyplývajících ze zákona o pobytu cizinců na území České republiky se může dát cizinec, který na území pobývá na vízum k pobytu nad 90 dnů za účelem sezónního zaměstnání, v řízení zastupovat právnickou osobou, k jejímž činnostem uvedeným ve stanovách patří ochrana práv cizinců.
+>
+> (7) Ve věcech ochrany osobních údajů se může dát subjekt údajů v řízení zastupovat též právnickou osobou, jejíž zisk se nerozděluje a k jejímž činnostem uvedeným v zakladatelském právním jednání patří ochrana práv subjektů údajů; za právnickou osobu jedná k tomu pověřený její zaměstnanec nebo člen, který má vysokoškolské právnické vzdělání, které je podle zvláštních předpisů vyžadováno pro výkon advokacie.
+>
+> (8) Převezme-li odborová organizace nebo Úřad anebo právnická osoba podle odstavců 3, 4 a 6 zastoupení, jedná jejich jménem za zastoupeného osoba uvedená v § 21.
 
 ### Výklad / smysl ustanovení
 
@@ -339,6 +401,12 @@ Paragraf 26 zakládá **výjimky z pravidla, že zvoleným zástupcem musí být
 
 ## § 26a — Stát jako zástupce obce (ÚZSVM)
 
+> (1) V případech a za podmínek uvedených ve zvláštním právním předpise může být obec v řízení zastoupena státem, za nějž před soudem vystupuje Úřad pro zastupování státu ve věcech majetkových.
+>
+> (2) Při zastupování podle odstavce 1 lze státu udělit pouze procesní plnou moc.
+>
+> (3) Převezme-li stát zastoupení podle odstavce 1, jedná jménem státu za zastoupenou obec zaměstnanec zařazený v Úřadu pro zastupování státu ve věcech majetkových, pověřený jeho generálním ředitelem.
+
 ### Výklad
 
 V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zastoupena **státem** prostřednictvím **ÚZSVM**. Typicky: malé obce, které nemají vlastní právní oddělení a vyžadují odbornou právní pomoc ve sporech o majetek. ÚZSVM má **procesní plnou moc** (odst. 2).
@@ -346,6 +414,12 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 ---
 
 ## § 27 — Obecný zmocněnec (FO bez profesního statusu)
+
+> (1) Účastník se může dát zastoupit také kteroukoliv fyzickou osobou, která je plně svéprávná. Tento zástupce může jednat jedině osobně.
+>
+> (2) Soud rozhodne, že zastoupení podle odstavce 1 nepřipouští, jestliže zástupce zřejmě není způsobilý k řádnému zastupování, anebo jestliže jako zástupce vystupuje v různých věcech opětovně.
+>
+> (3) Soud je povinen zaslat Ministerstvu spravedlnosti opis rozhodnutí podle odstavce 2 do 30 dnů od právní moci takového rozhodnutí.
 
 ### Výklad
 
@@ -370,6 +444,18 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 ---
 
 ## § 28 — Plná moc — udělení, odvolání, výpověď, zánik
+
+> (1) Zástupci, jejž si účastník zvolil, udělí písemně nebo ústně do protokolu procesní plnou moc nebo plnou moc jen pro určité úkony.
+>
+> (2) Odvolání plné moci účastníkem nebo její výpověď zástupcem jsou vůči soudu účinné, jakmile mu byly účastníkem nebo zástupcem oznámeny; vůči jiným účastníkům řízení jsou účinné, jakmile jim byly oznámeny soudem.
+>
+> (3) Zvolí-li si účastník jiného zástupce, platí, že tím také vypověděl plnou moc dosavadnímu zástupci.
+>
+> (4) Podpisy na písemné plné moci, na odvolání plné moci nebo na její výpovědi musí být úředně ověřeny, jen stanoví-li to zákon nebo rozhodl-li tak předseda senátu.
+>
+> (5) Ztratí-li zastoupený způsobilost být účastníkem řízení, popřípadě zemře-li nebo zanikne-li zástupce, plná moc zaniká.
+>
+> (6) Nevyplývá-li z plné moci něco jiného, plná moc zaniká dnem právní moci rozhodnutí, kterým bylo skončeno řízení, pro něž byla udělena.
 
 ### Výklad
 
@@ -401,6 +487,10 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 
 ## § 28a — Procesní plná moc vs. plná moc pro určité úkony
 
+> (1) Procesní plnou moc nelze omezit. Zástupce, jemuž byla tato plná moc udělena, je oprávněn ke všem úkonům, které může v řízení učinit účastník.
+>
+> (2) Plná moc pro určité úkony opravňuje k zastupování jen při těch úkonech, které byly v plné moci výslovně uvedeny.
+
 ### Výklad
 
 **Odst. 1 — procesní plná moc:** **Nelze omezit**. Zástupce s procesní PM je oprávněn ke všem úkonům, které může v řízení činit účastník. Pokus o omezení (např. „bez práva přiznat nárok") je vůči soudu **bez účinků**.
@@ -415,6 +505,14 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 ---
 
 ## § 29 — Opatrovník ustanovený soudem
+
+> (1) Není-li zastoupena fyzická osoba, která jako účastník řízení nemůže před soudem samostatně jednat, ustanoví jí předseda senátu opatrovníka, je-li tu nebezpečí z prodlení. Stejně se postupuje, stanoví-li tak zvláštní předpis.
+>
+> (2) Opatrovníka ustanoví předseda senátu též právnické osobě, která jako účastník řízení nemůže před soudem vystupovat proto, že tu není osoba oprávněná za ni jednat nebo že je sporné, kdo je osobou oprávněnou za ni jednat (§ 21), je-li tu nebezpečí z prodlení.
+>
+> (3) Pokud neučiní jiná opatření, může předseda senátu ustanovit opatrovníka také neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, účastníku, jehož pobyt není znám, jemuž se nepodařilo doručit na známou adresu v cizině, který byl stižen duševní poruchou nebo z jiných zdravotních důvodů se nemůže nikoliv jen po přechodnou dobu účastnit řízení nebo který není schopen srozumitelně se vyjadřovat.
+>
+> (4) Opatrovníkem podle odstavců 1 až 3 soud jmenuje zpravidla osobu blízkou, případně jinou vhodnou osobu, nebrání-li tomu zvláštní důvody. Advokáta lze jmenovat opatrovníkem, jen jestliže jím nemůže být jmenován někdo jiný. Jinou osobu než advokáta lze jmenovat opatrovníkem, jen jestliže s tím souhlasí. Nerozhodl-li soud jinak, opatrovník ustanovený podle odstavců 1 až 3 vystupuje v řízení před soudem prvního stupně, v odvolacím a v dovolacím řízení.
 
 ### Výklad / smysl ustanovení
 
@@ -458,6 +556,8 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 
 ## § 29a — Opatrovník podle předběžného prohlášení
 
+> Účastníku, který pořídil předběžné prohlášení v očekávání vlastní nezpůsobilosti právně jednat, ustanoví soud opatrovníkem s jejím souhlasem osobu za opatrovníka označenou v předběžném prohlášení.
+
 ### Výklad
 
 Účastník mohl pořídit **předběžné prohlášení** podle § 38 a násl. OZ (= deklarace, koho si přeje jako opatrovníka pro případ své budoucí nezpůsobilosti právně jednat). Soud takovou osobu **přednostně jmenuje** opatrovníkem, jestliže s tím souhlasí.
@@ -469,6 +569,10 @@ Vyjadřuje **respekt k autonomii vůle** osoby ohrožené budoucí nesvéprávno
 ---
 
 ## § 30 — Ustanovený zástupce (advokát „ex offo")
+
+> (1) Účastníku, u něhož jsou předpoklady, aby byl soudem osvobozen od soudních poplatků (§ 138), předseda senátu ustanoví na jeho žádost zástupce, jestliže je to nezbytně třeba k ochraně jeho zájmů. O tom, že může tuto žádost podat, je předseda senátu povinen účastníka poučit.
+>
+> (2) Vyžaduje-li to ochrana zájmů účastníka nebo jde-li o ustanovení zástupce pro řízení, v němž je povinné zastoupení advokátem (notářem), ustanoví mu předseda senátu v případě uvedeném v odstavci 1 zástupce z řad advokátů.
 
 ### Výklad / smysl ustanovení
 
@@ -520,6 +624,12 @@ Ustanovený advokát má nárok na odměnu z rozpočtu soudu podle advokátního
 ---
 
 ## § 32 — Společné ustanovení o zástupcích
+
+> (1) Každý, kdo v řízení vystupuje jako zástupce účastníka, popřípadě jako jeho další zástupce, musí své oprávnění doložit již při prvním úkonu, který ve věci učinil.
+>
+> (2) Zástupcem účastníka nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného.
+>
+> (3) Povinnost soudu poskytnout účastníku potřebná poučení, výzvy nebo upozornění lze splnit i tím, že budou poskytnuty jeho zástupci; to neplatí, udělil-li účastník svému zástupci plnou moc jen pro určité úkony.
 
 ### Výklad
 
@@ -576,6 +686,10 @@ V praxi SZ vstupuje typicky do **nesporných řízení s veřejným zájmem** (o
 
 ## § 35a — Vstup Úřadu pro zastupování státu ve věcech majetkových (ÚZSVM)
 
+> (1) Zvláštní právní předpis stanoví, ve kterých případech a za jakých podmínek může podat návrh na zahájení řízení anebo do řízení vstoupit Úřad pro zastupování státu ve věcech majetkových.
+>
+> (2) Pokud Úřad pro zastupování státu ve věcech majetkových vstoupí do řízení podle odstavce 1, je oprávněn ke všem úkonům, které může vykonat účastník řízení, pokud nejde o úkony, které může vykonat jen účastník právního poměru.
+
 ### Výklad
 
 ÚZSVM může (podle zvláštního zákona č. 201/2002 Sb.):
@@ -589,6 +703,10 @@ Typicky: spory o nárok státu na majetek (např. odúmrť, neoprávněný drži
 ---
 
 ## § 35b — Vstup ochránce práv dětí
+
+> (1) V zákonem stanovených případech může ochránce práv dětí podat návrh na zahájení řízení nebo do občanského soudního řízení vstoupit. Ochránce práv dětí může jednáním před soudem pověřit zaměstnance Kanceláře veřejného ochránce práv a ochránce práv dětí.
+>
+> (2) Ochránce práv dětí je v řízení podle odstavce 1 oprávněn ke všem úkonům, které může vykonat účastník řízení, pokud nejde o úkony, které může vykonat jen účastník právního poměru.
 
 ### Výklad
 
