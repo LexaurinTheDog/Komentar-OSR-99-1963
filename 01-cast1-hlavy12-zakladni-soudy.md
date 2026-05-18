@@ -176,6 +176,14 @@ Paragraf 6 obsahuje **pět norem**, z nichž každá má samostatný význam:
 
 ## § 7 — Pravomoc soudu v civilních věcech
 
+> (1) V občanském soudním řízení projednávají a rozhodují soudy spory a jiné právní věci, které vyplývají z poměrů soukromého práva, pokud je podle zákona neprojednávají a nerozhodují o nich jiné orgány.
+>
+> (2) Spory a jiné právní věci uvedené v odstavci 1, o nichž podle zákona rozhodly jiné orgány než soudy, soudy v občanském soudním řízení projednávají a rozhodují za podmínek uvedených v části páté tohoto zákona.
+>
+> (3) Jiné věci projednávají a rozhodují soudy v občanském soudním řízení, jen stanoví-li to zákon.
+>
+> (4) Pravomoc soudů ve věcech správního soudnictví upravuje zvláštní zákon.
+
 ### Výklad / smysl ustanovení
 
 Paragraf 7 vymezuje **pravomoc soudu** (jurisdikci) — *zda* věc náleží před civilní soud. Pravomoc je nutno odlišit od:
@@ -412,6 +420,10 @@ Paragraf 14 stanoví **materiální důvody vyloučení soudce** (čl. 36 odst. 
 
 ## § 15 — Postup při zjištění důvodu vyloučení (soudcem)
 
+> (1) Jakmile se soudce dozví o skutečnosti, pro kterou je vyloučen, oznámí ji neprodleně předsedovi soudu. V řízení lze zatím učinit jen takové úkony, které nesnesou odkladu.
+>
+> (2) Předseda soudu určí podle rozvrhu práce místo soudce uvedeného v odstavci 1 jiného soudce nebo, týká-li se oznámení všech členů senátu, přikáže věc jinému senátu; není-li to možné, předloží věc k rozhodnutí podle § 12 odst. 1. Jde-li o vyloučení podle § 14 odst. 1 a předseda soudu má za to, že tu není důvod pochybovat o nepodjatosti soudce, předloží věc k rozhodnutí soudu uvedenému v § 16 odst. 1.
+
 ### Výklad
 
 Pokud se **soudce dozví o důvodu vlastního vyloučení**, musí to *neprodleně* oznámit předsedovi soudu. V mezidobí lze činit jen úkony, které nesnesou odkladu (např. rozhodnutí o předběžném opatření).
@@ -427,6 +439,12 @@ Tento postup je interní procedurou; vně se navenek typicky nedozvíme. Smyslem
 ---
 
 ## § 15a — Námitka podjatosti účastníka
+
+> (1) Účastníci mají právo vyjádřit se k osobám soudců, kteří mají podle rozvrhu práce věc projednat a rozhodnout. O tom musí být soudem poučeni.
+>
+> (2) Účastník je povinen námitku podjatosti soudce uplatnit nejpozději při prvním jednání, kterého se zúčastnil soudce, o jehož vyloučení jde; nevěděl-li v této době o důvodu vyloučení nebo vznikl-li tento důvod později, může námitku uplatnit do 15 dnů po té, co se o něm dozvěděl. Později může námitku podjatosti účastník uplatnit jen tehdy, jestliže nebyl soudem poučen o svém právu vyjádřit se k osobám soudců.
+>
+> (3) V námitce podjatosti musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému soudci směřuje, v čem je spatřován důvod pochybnosti o jeho nepodjatosti, popřípadě kdy se o něm účastník podávající námitku dozvěděl, a jakými důkazy může být prokázán.
 
 ### Výklad / smysl ustanovení
 
@@ -455,6 +473,12 @@ Paragraf 15a upravuje **právo účastníka vznést námitku podjatosti** soudce
 
 ## § 15b — Postup soudu po vznesení námitky
 
+> (1) K rozhodnutí o námitce podjatosti soud věc předloží s vyjádřením dotčených soudců svému nadřízenému soudu. V řízení lze zatím učinit jen takové úkony, které nesnesou odkladu.
+>
+> (2) Ustanovení odstavce 1 neplatí, byla-li námitka uplatněna před nebo v průběhu jednání, při němž byla věc rozhodnuta, a má-li soud za to, že námitka není důvodná.
+>
+> (3) Ustanovení odstavce 1 neplatí také tehdy, uplatnil-li účastník v námitce stejné okolnosti, o nichž bylo nadřízeným soudem (jiným senátem Nejvyššího soudu) již rozhodnuto, nebo je-li námitka zjevně opožděná.
+
 ### Výklad
 
 **Odst. 1 — pravidlo:** Soud věc s vyjádřením soudců předloží **nadřízenému soudu**, který rozhodne. V mezidobí jen úkony, které nesnesou odkladu.
@@ -474,6 +498,12 @@ Paragraf 15a upravuje **právo účastníka vznést námitku podjatosti** soudce
 
 ## § 16 — Kdo rozhoduje o vyloučení
 
+> (1) O tom, zda je soudce vyloučen, rozhodne nadřízený soud v senátě. O vyloučení soudců Nejvyššího soudu rozhodne jiný senát téhož soudu.
+>
+> (2) Opožděně podanou námitku (§ 15a odst. 2) soud uvedený v odstavci 1 odmítne.
+>
+> (3) Dokazování k prokázání důvodu vyloučení soudce provede soud uvedený v odstavci 1 buď sám nebo prostřednictvím dožádaného soudu. Neprovádí-li se dokazování, není třeba k rozhodnutí podle odstavců 1 a 2 nařizovat jednání.
+
 ### Výklad
 
 **Odst. 1:** O vyloučení soudce rozhoduje:
@@ -492,6 +522,10 @@ Paragraf 15a upravuje **právo účastníka vznést námitku podjatosti** soudce
 
 ## § 16a — Důsledky vyloučení (přiřazení nového soudce)
 
+> (1) Jestliže bylo rozhodnuto, že soudce je vyloučen, předseda soudu podle rozvrhu práce určí místo něho jiného soudce nebo, jestliže byli vyloučeni všichni členové senátu, přikáže věc jinému senátu; není-li to možné, předloží věc k rozhodnutí podle § 12 odst. 1.
+>
+> (2) Bylo-li rozhodnutí odvolacím nebo dovolacím soudem anebo na základě žaloby pro zmatečnost zrušeno proto, že ve věci rozhodoval vyloučený soudce, nebo nařídil-li odvolací nebo dovolací soud, aby věc v dalším řízení projednal a rozhodl jiný senát (samosoudce), postupuje se obdobně podle odstavce 1.
+
 ### Výklad
 
 Pokud bylo o vyloučení rozhodnuto kladně:
@@ -509,6 +543,8 @@ Pokud bylo o vyloučení rozhodnuto kladně:
 
 ## § 16b — Závaznost rozhodnutí o námitce
 
+> Usnesení nadřízeného soudu podle § 16 odst. 1 a 2 je závazné pro soud a pro účastníky řízení; ustanovení § 205 odst. 2 písm. a), § 219a odst. 1 písm. a), § 229 odst. 1 písm. e) a § 242 odst. 3 věta druhá tím nejsou dotčena.
+
 ### Výklad
 
 Usnesení nadřízeného soudu o (ne)vyloučení soudce je **závazné** pro soud i účastníky. Avšak **nebrání**:
@@ -524,6 +560,8 @@ To znamená, že rozhodnutí nadřízeného soudu, že soudce **není vyloučen*
 ---
 
 ## § 17 — Vyloučení dalších osob (zapisovatel, znalec, tlumočník)
+
+> O tom, zda je vyloučen zapisovatel nebo jiný zaměstnanec soudu, jakož i znalec nebo tlumočník, rozhoduje předseda senátu; ustanovení § 14 odst. 1, § 15, § 15a odst. 1 a 3 a § 16 odst. 3 platí přiměřeně. Proti jeho usnesení není přípustný opravný prostředek.
 
 ### Výklad
 
