@@ -170,6 +170,24 @@ Videokonference se po pandemii COVID-19 rozšířila i pro **jednání ve věci 
 
 ## § 40 — Záznam a protokol z úkonů soudu
 
+> (1) Úkony, při nichž soud jedná s účastníky, provádí dokazování nebo vyhlašuje rozhodnutí, se zaznamenávají ve formě zvukového nebo zvukově obrazového záznamu (dále jen „záznam"). Záznam je součástí spisu.
+>
+> (2) Není-li pořízení záznamu možné nebo stanoví-li tak zákon, sepisuje se o úkonech, při nichž soud jedná s účastníky, provádí dokazování nebo vyhlašuje rozhodnutí, protokol. Soud může rozhodnout, že bude současně s pořízením záznamu sepsán o úkonu protokol. Nejsou-li při úkonu přítomni účastníci, zástupci ani veřejnost a soud provádí pouze listinné důkazy nebo vyhlašuje rozhodnutí, postačí pořízení protokolu. V případě rozporu protokolu a záznamu má přednost záznam. Protokol se sepisuje vždy o úkonu, kterým
+> a) byl uzavřen smír, nebo
+> b) došlo k uznání nároku podle § 153a odst. 1.
+>
+> (3) Přepis záznamu nebo jeho části se pořídí, pokud tak ze závažných důvodů určí soud. Přepis záznamu nebo jeho části se pořídí vždy, je-li podán řádný nebo mimořádný opravný prostředek ve věci samé. Věta druhá se nepoužije, pokud soud prvního stupně rozhoduje o odmítnutí odvolání podle § 208 odst. 1 nebo byl-li pořízen protokol.
+>
+> (4) Úkony prováděné soudním exekutorem se zaznamenávají ve formě záznamu nebo protokolu.
+>
+> (5) V přepisu záznamu nebo jeho části se označí projednávaná věc, uvedou se přítomní, datum pořízení záznamu, datum vyhotovení přepisu a doslovný strukturovaný přepis záznamu. Přepis podepisuje osoba, která jej vyhotovila.
+>
+> (6) V protokolu se označí projednávaná věc, uvedou se přítomní, vylíčí se průběh dokazování a uvede se obsah přednesů, poučení poskytnutá účastníkům, výroky rozhodnutí a vyjádření účastníků o tom, zda se vzdávají odvolání proti vyhlášenému rozhodnutí; nahrazuje-li protokol podání, musí mít též jeho náležitosti.
+>
+> (7) Protokol podepisuje předseda senátu a zapisovatel; nemůže-li předseda senátu protokol podepsat, podepíše jej za něho jiný člen senátu nebo jiný soudce, kterého určil předseda soudu. Byl-li uzavřen smír nebo došlo-li k uznání nároku (§ 153a odst. 1), podepisují protokol také účastníci smíru nebo žalovaný; nemohou-li číst a psát nebo z jiných důvodů protokol podepsat, uvede předseda senátu do protokolu kromě důvodu též, že úkon odpovídá jejich vůli, a příslušný záznam podepíše. Protokol o hlasování podepisují všichni členové senátu a zapisovatel.
+>
+> (8) Předseda senátu opraví v protokolu chyby v psaní a jiné zřejmé nesprávnosti. Předseda senátu také rozhoduje o návrzích na doplnění protokolu a o námitkách proti jeho znění.
+
 ### Výklad / smysl ustanovení
 
 Paragraf 40 stanoví, jak se **dokumentují úkony soudu** (zejména jednání):
@@ -219,6 +237,10 @@ Výjimka: osoby s **bezpečnostním osvědčením** poučení nepotřebují.
 
 ## § 40b — Spis soudu (listinný / elektronický)
 
+> (1) O každém sporu nebo jiné právní věci se vede spis v listinné nebo v elektronické podobě. Podmínky vedení spisu stanoví prováděcí právní předpis.
+>
+> (2) Nestanoví-li zákon jinak, v listinné nebo v elektronické podobě vyhotovený úkon soudu podepisuje předseda senátu nebo ten, kdo ho z pověření předsedy senátu nebo podle zákona učinil. Jeho stejnopis se vyhotoví, jestliže je to třeba; podrobnosti stanoví prováděcí právní předpis.
+
 ### Výklad
 
 **Odst. 1 — duální podoba spisu:** O každém sporu se vede **spis** v **listinné nebo elektronické** podobě. Soud vyhotovuje úkony ve stejné podobě, jako je veden spis. Výjimka: u listinného spisu může předseda senátu rozhodnout o elektronickém vyhotovení konkrétního úkonu.
@@ -266,6 +288,14 @@ Výjimka: osoby s **bezpečnostním osvědčením** poučení nepotřebují.
 
 ## § 41a — Výslovnost a podmínky úkonů
 
+> (1) Nestanoví-li zákon jinak, může účastník učinit úkon jen výslovně.
+>
+> (2) K úkonu účastníka, který je vázán na splnění podmínky nebo doložení času, se nepřihlíží.
+>
+> (3) K úkonu účastníka, který není za řízení přípustný, se nepřihlíží.
+>
+> (4) Úkon může být odvolán, jen jestliže jeho odvolání dojde soudu nejpozději současně s tímto úkonem.
+
 ### Výklad
 
 **Odst. 1 — výslovnost:** Účastník může činit úkony **jen výslovně** (= explicitně, ne mlčky / per facta concludentia), pokud zákon nestanoví jinak.
@@ -297,6 +327,14 @@ Po dohodnutí smíru u jednání soud **přečte protokol** o smíru a vyzve ú�
 ---
 
 ## § 42 — Forma podání
+
+> (1) Podání je možno učinit písemně. Písemné podání se činí v listinné nebo elektronické podobě prostřednictvím veřejné datové sítě nebo telefaxem.
+>
+> (2) Písemné podání obsahující návrh ve věci samé učiněné telefaxem nebo v elektronické podobě je třeba nejpozději do 3 dnů doplnit předložením jeho originálu, případně písemným podáním shodného znění. K těmto podáním, pokud nebyla ve stanovené lhůtě doplněna, soud nepřihlíží. Stanoví-li to předseda senátu, je účastník povinen soudu předložit originál (písemné podání shodného znění) i jiných podání učiněných telefaxem.
+>
+> (3) V případě podání v elektronické podobě podepsaného způsobem, se kterým zvláštní právní předpis spojuje účinky vlastnoručního podpisu, se nevyžaduje doplnění podání předložením jeho originálu podle odstavce 2.
+>
+> (4) Pokud zákon pro podání určitého druhu nevyžaduje další náležitosti, musí být z podání patrno, kterému soudu je určeno, kdo je činí, které věci se týká a co sleduje, a musí být podepsáno a datováno. Povinnost podpisu a datování se nevztahuje na podání v elektronické podobě podle zvláštního právního předpisu. Je-li účastník zastoupen advokátem, může být podpis advokáta nahrazen otiskem podpisového razítka, jehož vzor byl uložen u soudu, kterému je podání určeno. Podání v listinné podobě je třeba předložit s potřebným počtem stejnopisů a s přílohami tak, aby jeden stejnopis zůstal u soudu a aby každý účastník dostal jeden stejnopis, jestliže je to třeba. Podání v jiných formách se činí pouze jedním stejnopisem. K podání učiněnému elektronicky lze připojit také všechny jeho přílohy v elektronické podobě.
 
 ### Výklad / smysl ustanovení
 
@@ -371,6 +409,14 @@ Paragraf 43 stanoví **mechanismus opravy vadných podání** — = klíčový i
 
 ## § 44 — Nahlížení do spisu
 
+> (1) Účastníci a jejich zástupci mají právo nahlížet do soudního spisu, s výjimkou protokolu o hlasování, a činit si z něho výpisy a opisy.
+>
+> (2) Každému, kdo na tom má právní zájem nebo kdo pro to má vážné důvody, předseda senátu na žádost povolí, aby nahlédl do spisu a aby si z něho učinil výpisy nebo opisy, ledaže jde o spis, o němž právní předpisy stanoví, že jeho obsah musí zůstat utajen.
+>
+> (3) Při povolování nahlížet do spisů je nutno učinit takové opatření, aby byla zachována tajnost utajovaných informací chráněných zvláštním zákonem.
+>
+> (4) Odstavce 1 až 3 se použijí obdobně pro přehrávání záznamů, poskytování jejich kopií nebo pro jiné způsoby zachycení obsahu listiny.
+
 ### Výklad
 
 **Odst. 1 — účastník + zástupce:** Mají **právo nahlížet do spisu** (s výjimkou **protokolu o hlasování** — § 40 odst. 7), činit si výpisy a opisy. To je **základní informační právo účastníka**.
@@ -412,6 +458,14 @@ Doručování je v praxi **nejčastější zdroj procesních vad** — kvůli sp
 
 ## § 45 — Způsoby doručování (kaskáda)
 
+> (1) Písemnost doručuje soud při jednání nebo jiném soudním úkonu.
+>
+> (2) Nedošlo-li k doručení písemnosti podle odstavce 1, doručí ji soud prostřednictvím veřejné datové sítě do datové schránky. Není-li možné doručit písemnost prostřednictvím veřejné datové sítě do datové schránky, soud ji doručí na žádost adresáta na jinou adresu nebo na elektronickou adresu.
+>
+> (3) Není-li možné doručit písemnost podle odstavce 2, předseda senátu nařídí doručit ji prostřednictvím
+> a) doručujícího orgánu, nebo
+> b) účastníka řízení či jeho zástupce.
+
 ### Výklad
 
 Paragraf 45 zakotvuje **kaskádový postup doručování**:
@@ -438,6 +492,10 @@ Paragraf 45 zakotvuje **kaskádový postup doručování**:
 
 ## § 46 — Adresa pro elektronické doručování
 
+> (1) Adresou pro doručování prostřednictvím veřejné datové sítě je adresa datové schránky evidovaná podle zvláštního právního předpisu.
+>
+> (2) Prostřednictvím veřejné datové sítě soud doručuje na elektronickou adresu, kterou adresát sdělil soudu, jestliže soud o doručení písemnosti tímto způsobem požádal nebo s ním vyslovil souhlas.
+
 ### Výklad
 
 **Odst. 1:** Adresa pro doručování přes veřejnou datovou síť = **adresa datové schránky** (ID DS dle zákona č. 300/2008 Sb.).
@@ -447,6 +505,12 @@ Paragraf 45 zakotvuje **kaskádový postup doručování**:
 ---
 
 ## § 46a — Adresa pro doručování (obecná)
+
+> (1) Adresátu se doručuje na adresu pro doručování, lze mu rovněž doručit na kterémkoliv jiném místě, na němž bude zastižen.
+>
+> (2) Jestliže o to adresát požádá, soud doručuje na jinou adresu nebo elektronickou adresu, kterou mu sdělil, nevylučuje-li to zákon nebo povaha věci, zejména může-li to přispět k urychlení řízení. Tato adresa je pro dané řízení adresou pro doručování.
+>
+> (3) Adresát je v řízení povinen bez zbytečného odkladu soudu sdělit změny veškerých skutečností významných pro doručování podle odstavce 2, tyto změny jsou vůči soudu účinné, jakmile mu byly adresátem oznámeny.
 
 ### Výklad
 
@@ -468,6 +532,22 @@ Tato sdělená adresa **je v daném řízení adresou pro doručování**.
 ---
 
 ## § 46b — Adresa „z úřední povinnosti" (default adresa)
+
+> Neuvedl-li adresát ve svém podání nebo jiném úkonu učiněném vůči soudu adresu místa v České republice, na kterou mu mají nebo mohou být doručovány písemnosti, je adresou pro doručování u písemnosti doručované prostřednictvím doručujícího orgánu, účastníka řízení nebo jeho zástupce
+> a) u fyzické osoby adresa evidovaná v informačním systému evidence obyvatel, na kterou jí mají být doručovány písemnosti; není-li taková adresa evidována, adresa místa trvalého pobytu vedená podle zvláštního právního předpisu nebo adresa místa pobytu cizince na území České republiky podle druhu pobytu cizince,
+> b) u podnikající fyzické osoby adresa sídla nebo adresa zástupce pro doručování uvedená ve smlouvě, ve sporu z této smlouvy; má-li obchodní závod (dále jen „závod") fyzické osoby organizační složku, i adresa sídla organizační složky,
+> c) u fyzické osoby ve výkonu trestu odnětí svobody nebo ve vazbě adresa věznice, v níž vykonává trest nebo vazbu,
+> d) u fyzické osoby v zařízení pro výkon ochranného opatření zabezpečovací detence, ústavní nebo ochranné výchovy adresa tohoto zařízení,
+> e) u právnické osoby adresa sídla zapsaná v příslušném rejstříku nebo adresa zástupce pro doručování uvedená ve smlouvě, ve sporu z této smlouvy; má-li právnická osoba organizační složku, i adresa sídla organizační složky,
+> f) u advokátů adresa jejich sídla,
+> g) u notářů adresa jejich notářské kanceláře,
+> h) u soudních exekutorů adresa jejich kanceláře,
+> i) u patentových zástupců adresa jejich sídla nebo bydliště zapsaná u Komory patentových zástupců,
+> j) u insolvenčních správců adresa jejich sídla zapsaná v seznamu insolvenčních správců,
+> k) u státu adresa sídla příslušné organizační složky státu, v případě Úřadu pro zastupování státu ve věcech majetkových adresa jeho příslušného územního pracoviště,
+> l) u státního zastupitelství adresa jeho sídla,
+> m) u správních úřadů adresa jejich sídla,
+> n) u obcí a vyšších územních samosprávných celků adresa sídla obecního úřadu a adresa sídla krajského úřadu nebo Magistrátu hlavního města Prahy.
 
 ### Výklad
 
@@ -498,6 +578,14 @@ Pokud adresát **neuvedl** adresu pro doručování, soud doručuje na **„defa
 
 ## § 46c — Zástupce pro doručování
 
+> (1) Není-li možné účastníku nebo jeho zástupci doručovat písemnosti bez obtíží nebo průtahů, předseda senátu ho bez prodlení vyzve, aby si zvolil pro doručování písemností zástupce; to neplatí v případech, kdy účastník řízení nebo zástupce je ve výkonu trestu odnětí svobody, ve vazbě nebo v zařízení pro výkon ochranného opatření zabezpečovací detence, ústavní nebo ochranné výchovy, kdy účastník řízení nebo zástupce požívá diplomatické výsady a imunity, je v bytě toho, kdo požívá diplomatické výsady a imunity, nebo mu má být doručeno v budově nebo místnosti chráněné diplomatickou imunitou, nebo kdy účastník řízení nebo zástupce je vojákem v činné službě, příslušníkem Policie České republiky, příslušníkem Hasičského záchranného sboru České republiky nebo příslušníkem Vězeňské služby a justiční stráže, kterému nelze doručit jinak než prostřednictvím krajského vojenského velitelství, Ministerstva vnitra nebo Ministerstva spravedlnosti.
+>
+> (2) Nezvolí-li si účastník nebo jeho zástupce ve stanovené lhůtě zástupce pro doručování písemností nebo není-li možné ani tomuto zástupci bez obtíží a průtahů doručovat, doručují se jim písemnosti uložením u doručujícího soudu. Účastník nebo jeho zástupce o tom musí být ve výzvě podle odstavce 1 poučeni.
+>
+> (3) Toho, komu bylo v opatření na ochranu před domácím násilím zakázáno, aby se zdržoval v bytě nebo jinde, kam by mu mohlo být doručováno (§ 46a odst. 1 a 2), soud při provedení výkonu rozhodnutí vyzve, aby, není-li možné mu doručovat prostřednictvím veřejné datové sítě do datové schránky, soudu sdělil adresu, na kterou mu bude možné po dobu trvání opatření doručovat písemnosti (§ 46 a § 46a odst. 1), nebo aby si zvolil zástupce pro doručování písemnosti. Nevyhoví-li výzvě, doručují se mu písemnosti uložením u soudu; o tomto následku musí být ve výzvě poučen.
+>
+> (4) Písemnost, která byla uložena u soudu podle odstavců 2 a 3, se považuje za doručenou dnem uložení.
+
 ### Výklad
 
 Pokud nelze adresátovi doručovat „bez obtíží nebo průtahů" (typicky se nezdržuje na adrese, vrací se zásilky), předseda senátu jej vyzve, aby si **zvolil zástupce pro doručování**.
@@ -520,6 +608,12 @@ Tento institut umožňuje **soudu pokračovat v řízení** i tam, kde se adres�
 ---
 
 ## § 47 — Doručování datovou schránkou
+
+> (1) Při doručování prostřednictvím veřejné datové sítě do datové schránky se postupuje podle zvláštního právního předpisu.
+>
+> (2) Při doručování písemnosti podle § 46 odst. 2 soud adresáta vyzve, aby doručení potvrdil soudu do 3 dnů od odeslání písemnosti datovou zprávou podepsanou adresátem.
+>
+> (3) Doručení prostřednictvím veřejné datové sítě na elektronickou adresu je neúčinné, jestliže se písemnost zaslaná na elektronickou adresu vrátila soudu jako nedoručitelná nebo jestliže adresát do 3 dnů od odeslání písemnosti nepotvrdil soudu její přijetí datovou zprávou podle odstavce 2.
 
 ### Výklad
 
@@ -545,6 +639,24 @@ Tento institut umožňuje **soudu pokračovat v řízení** i tam, kde se adres�
 
 ## § 48 — Doručující orgány
 
+> (1) Doručujícími orgány jsou
+> a) soudní doručovatelé,
+> b) orgány Justiční stráže,
+> c) soudní exekutoři,
+> d) provozovatelé poštovních služeb.
+>
+> (2) Doručujícími orgány jsou též
+> a) Vězeňská služba České republiky, jde-li o doručování fyzickým osobám ve výkonu trestu odnětí svobody nebo ve vazbě,
+> b) zařízení pro výkon ústavní nebo ochranné výchovy, jde-li o doručování fyzickým osobám umístěným v těchto zařízeních,
+> c) ústav pro výkon zabezpečovací detence, jde-li o doručování fyzickým osobám umístěným v tomto zařízení,
+> d) krajská vojenská velitelství, jde-li o doručování vojákům v činné službě a písemnost není možno doručit jinak,
+> e) Ministerstvo vnitra, jde-li o doručování příslušníkům Policie České republiky a písemnost není možno doručit jinak,
+> f) Ministerstvo spravedlnosti (dále jen „ministerstvo"), jde-li o doručování fyzickým osobám požívajícím diplomatické výsady a imunity, nebo osobám, které jsou v bytě toho, kdo požívá diplomatické výsady a imunity, anebo osobám, jimž má být písemnost doručena v budově nebo v místnosti chráněné diplomatickou imunitou.
+>
+> (3) Prostřednictvím provozovatelů poštovních služeb lze písemnost doručovat, jen jestliže podle uzavřené poštovní smlouvy vznikne provozovateli poštovních služeb povinnost dodat zásilku obsahující písemnost způsobem, který je předepsán pro doručování písemnosti tímto zákonem.
+>
+> (4) Doručuje-li se prostřednictvím provozovatele poštovních služeb, stejnopisy rozhodnutí a jiné písemnosti soudu v listinné podobě mohou být vyhotovovány za součinnosti tohoto provozovatele; podrobnosti takového postupu stanoví prováděcí právní předpis.
+
 ### Výklad
 
 Doručujícími orgány jsou (taxativně):
@@ -568,6 +680,23 @@ V praxi **99 %** doručování listinných písemností probíhá přes **Česko
 ---
 
 ## § 49 — Doručování do vlastních rukou (s fikcí)
+
+> (1) Do vlastních rukou se doručují písemnosti, u nichž tak stanoví zákon nebo nařídí-li tak soud.
+>
+> (2) Nezastihl-li doručující orgán adresáta písemnosti, písemnost uloží a adresátu zanechá vhodným způsobem písemnou výzvu, aby si písemnost vyzvedl. Nelze-li zanechat výzvu v místě doručování, vrátí doručující orgán písemnost odesílajícímu soudu a uvede, ve který den nebyl adresát zastižen. Odesílající soud vyvěsí na úřední desce výzvu k vyzvednutí písemnosti u soudu.
+>
+> (3) Písemnost se ukládá
+> a) v provozovně provozovatele poštovních služeb, jestliže se písemnost doručuje jeho prostřednictvím,
+> b) u soudu, jemuž byla písemnost vrácena z důvodu nemožnosti zanechat výzvu,
+> c) v ostatních případech u okresního soudu, v jehož obvodu je místo doručení.
+>
+> (4) Nevyzvedne-li si adresát písemnost ve lhůtě 10 dnů ode dne, kdy byla připravena k vyzvednutí, považuje se písemnost posledním dnem této lhůty za doručenou, i když se adresát o uložení nedozvěděl. Doručující orgán po marném uplynutí této lhůty vhodí písemnost do domovní nebo jiné adresátem užívané schránky, ledaže soud i bez návrhu vyloučí vhození písemnosti do schránky. Není-li takové schránky, písemnost se vrátí odesílajícímu soudu a vyvěsí se o tom sdělení na úřední desce soudu.
+>
+> (5) U písemností, u nichž to stanoví zákon, nebo u nichž to nařídil předseda senátu, je vyloučeno doručení podle odstavce 4. Doručující orgán v takovém případě vrátí písemnost odesílajícímu soudu po marném uplynutí lhůty 10 dnů ode dne, kdy byla připravena k vyzvednutí.
+>
+> (6) Doručení písemnosti prostřednictvím veřejné datové sítě se považuje za doručení do vlastních rukou adresáta.
+>
+> (7) Zjistí-li doručující orgán, že adresát zemřel, písemnost vrátí se zprávou odesílajícímu soudu.
 
 ### Výklad / smysl ustanovení
 
@@ -617,6 +746,10 @@ Po marném uplynutí 10 dnů doručující orgán písemnost **vhodí do schrán
 
 ## § 50 — Doručování jiných (= nikoli do vlastních rukou) písemností
 
+> (1) Nezastihl-li doručující orgán adresáta písemnosti, vhodí písemnost do domovní nebo jiné adresátem užívané schránky; písemnost se považuje za doručenou vhozením do schránky, datum vhození vyznačí doručující orgán na doručence a na písemnosti.
+>
+> (2) Nelze-li doručit podle odstavce 1, doručující orgán písemnost vrátí odesílajícímu soudu a v místě doručení o této skutečnosti zanechá písemné oznámení. Odesílající soud doručí písemnost vyvěšením na úřední desce soudu; písemnost se považuje za doručenou desátým dnem po vyvěšení. Stejně se postupuje, nelze-li v místě doručení zanechat oznámení; § 49 odst. 7 se použije obdobně.
+
 ### Výklad
 
 Pro **běžné písemnosti** (= nevyhrazené pro doručení do vlastních rukou) platí **zjednodušený režim**:
@@ -636,6 +769,16 @@ Tento režim je **rychlejší a méně formální** než § 49. Hodí se pro mez
 
 ## § 50a — Příjemci písemností
 
+> (1) Za fyzické osoby jsou oprávněny písemnost přijmout osoby, které k tomu byly adresátem zmocněny na základě písemné plné moci udělené před provozovatelem poštovních služeb.
+>
+> (2) Za osoby uvedené v § 46b písm. e), k), m) a n) jsou oprávněny písemnost přijmout osoby uvedené v § 21 až 21b, případně jiné osoby, které tím byly pověřeny, které k tomu byly zmocněny nebo u nichž je to vzhledem k jejich pracovnímu nebo jinému obdobnému vztahu k adresátu obvyklé.
+>
+> (3) Za podnikající fyzickou osobu jsou oprávněny písemnost přijmout osoby, které k tomu byly zmocněny nebo u nichž je to vzhledem k jejich pracovnímu nebo jinému obdobnému vztahu k adresátu obvyklé.
+>
+> (4) Písemnost určenou advokátu, notáři, soudnímu exekutorovi a patentovému zástupci za ně mohou přijímat osoby, které k tomu byly zmocněny, nebo jejich zaměstnanci. Vykonávají-li tyto osoby svou činnost společně s jinými osobami, mohou ji přijmout i tyto jiné osoby a jejich zaměstnanci.
+>
+> (5) Písemnost určenou advokátu, který vykonává advokacii jako společník obchodní společnosti, mohou za něj přijmout statutární orgán, ostatní společníci této společnosti nebo její zaměstnanci a osoby, které k tomu byly zmocněny. Vykonává-li advokát advokacii v pracovním poměru k jinému advokátovi nebo ke společnosti, může za něj písemnost přijmout jeho zaměstnavatel, jeho zaměstnanci a osoby k tomu zmocněné.
+
 ### Výklad
 
 Specifikuje, **kdo může za adresáta přijmout** písemnost (vedle adresáta samého):
@@ -654,6 +797,19 @@ Specifikuje, **kdo může za adresáta přijmout** písemnost (vedle adresáta s
 ---
 
 ## § 50b — Doručování zástupci
+
+> (1) Má-li účastník zástupce, doručuje se pouze zástupci, nestanoví-li zákon jinak.
+>
+> (2) Má-li účastník zástupce s procesní plnou mocí, nařídí předseda senátu doručení písemnosti (elektronického dokumentu) jen tomuto zástupci, nestanoví-li zákon jinak.
+>
+> (3) Udělil-li účastník plnou moc pouze pro určité úkony, nařídí předseda senátu doručení písemnosti (elektronického dokumentu) pouze jeho zástupci, jen jestliže ho k tomu plná moc výslovně opravňuje, nestanoví-li zákon jinak.
+>
+> (4) Písemnost se doručuje rovněž účastníku,
+> a) má-li se účastník osobně dostavit k výslechu nebo jinému úkonu soudu nebo má-li něco jiného v řízení osobně vykonat,
+> b) je-li účastník zastoupen zákonným zástupcem podle § 23; nezletilému účastníku, který dovršil patnácti let, se doručuje také tehdy, je-li zastoupen zákonným zástupcem podle § 22,
+> c) jde-li o doručení usnesení o ustanovení opatrovníka podle § 29; usnesení o ustanovení opatrovníka účastníku, jehož pobyt není znám, účastníku, jemuž se nepodařilo doručit na známou adresu v cizině, neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, a právnické osobě, která jako účastník řízení nemůže před soudem vystupovat proto, že tu není osoba oprávněná za ni jednat, nebo že je sporné, kdo je osobou oprávněnou za ni jednat, se však doručuje jen ostatním účastníkům řízení a ustanovenému opatrovníku a vyvěsí se na úřední desce soudu,
+> d) byl-li účastníku ustanoven opatrovník proto, že se nemůže z jiných zdravotních důvodů než pro postižení duševní poruchou nikoliv jen po přechodnou dobu účastnit řízení, nebo že není schopen se srozumitelně vyjadřovat,
+> e) rozhodne-li tak soud.
 
 ### Výklad
 
@@ -679,6 +835,12 @@ Specifikuje, **kdo může za adresáta přijmout** písemnost (vedle adresáta s
 
 ## § 50c — Odepření přijetí písemnosti
 
+> (1) Odepře-li adresát nebo příjemce písemnosti přijmout doručovanou písemnost, považuje se písemnost za doručenou dnem, kdy přijetí písemnosti bylo odepřeno; o tom musí být adresát nebo příjemce písemnosti poučen.
+>
+> (2) Adresát nebo příjemce písemnosti je povinen na výzvu doručujícího orgánu prokázat svou totožnost nebo poskytnout jinou součinnost nezbytnou k řádnému doručení písemnosti. Odmítne-li adresát nebo příjemce písemnosti postup podle věty prvé, považuje se písemnost za doručenou dnem, kdy prokázání totožnosti nebo poskytnutí součinnosti bylo odmítnuto; o tom musí být adresát nebo příjemce písemnosti poučen.
+>
+> (3) Poučení podle odstavců 1 a 2 se poskytne ústně při doručování nebo písemně; písemné poučení se předá příjemci. Není-li možné písemné poučení příjemci předat, lze je zanechat v adresátově domovní nebo jiné jím užívané schránce nebo na jiném vhodném místě.
+
 ### Výklad
 
 Pokud adresát **odepře** převzít písemnost, **považuje se za doručenou** dnem odepření. Adresát musí být o tomto **poučen** (ústně nebo písemně).
@@ -692,6 +854,12 @@ Pokud adresát **odepře** převzít písemnost, **považuje se za doručenou** 
 ---
 
 ## § 50d — Neúčinnost doručení
+
+> (1) Na návrh účastníka rozhodne odesílající soud, že doručení je neúčinné, pokud se účastník nebo jeho zástupce nemohl z omluvitelného důvodu s písemností seznámit. Návrh je třeba podat do 15 dnů ode dne, kdy se s doručovanou písemností seznámil nebo mohl seznámit. V návrhu musí být vedle obecných náležitostí (§ 42 odst. 4) uveden den, kdy se účastník s doručovanou písemností seznámil nebo mohl seznámit, a označení důkazů, jimiž má být včasnost a důvodnost návrhu prokázána.
+>
+> (2) Omluvitelným důvodem podle odstavce 1 nemůže být skutečnost, že se fyzická osoba na adrese pro doručování trvale nezdržuje, skutečnost, že v případě podnikající fyzické osoby a právnické osoby se na adrese pro doručování nikdo nezdržuje.
+>
+> (3) Rozhodl-li soud o tom, že doručení písemnosti je neúčinné, považuje se písemnost za doručenou dnem právní moci rozhodnutí o neúčinnosti.
 
 ### Výklad / smysl ustanovení
 
@@ -727,6 +895,12 @@ Pokud adresát **odepře** převzít písemnost, **považuje se za doručenou** 
 
 ## § 50e — Doručování účastníkem nebo zástupcem
 
+> (1) Na žádost účastníka řízení nebo jeho zástupce je soud může pověřit doručením písemnosti určené do vlastních rukou nebo jiné písemnosti. Pověření není soudním rozhodnutím.
+>
+> (2) Osoba pověřená podle odstavce 1 předá písemnost adresátovi na adrese pro doručování nebo kdekoliv jej zastihne. Adresát je povinen přijetí písemnosti potvrdit; potvrzení musí obsahovat označení doručované písemnosti, která byla vložena do obálky, den doručení a podpis adresáta. Písemnost se považuje za doručenou dnem uvedeným v potvrzení o doručení.
+>
+> (3) Pokud adresát odepře přijmout písemnost nebo se účastníkovi nebo jeho zástupci nepodaří písemnost doručit, vrátí účastník nebo jeho zástupce neprodleně písemnost soudu.
+
 ### Výklad
 
 Soud může **pověřit účastníka nebo jeho zástupce** doručením písemnosti. Pověření **není soudním rozhodnutím** (= bez odvolání).
@@ -743,6 +917,16 @@ V praxi vzácné — typicky používáno u **vysoce urgentních** věcí (před
 ---
 
 ## § 50f — Průkaz doručení
+
+> (1) Doručuje-li soud písemnost při jednání nebo při jiném soudním úkonu, o němž se pořizuje protokol, uvede to v protokolu o jednání nebo v protokolu, který byl sepsán o jiném soudním úkonu. V protokolu se kromě ostatních náležitostí (§ 40 odst. 6) uvede, jaká písemnost byla doručena. Protokol podepíše také ten, kdo doručení provedl, a příjemce.
+>
+> (2) Byla-li písemnost doručována prostřednictvím veřejné datové sítě na elektronickou adresu, je doručení prokázáno datovou zprávou adresáta, podepsanou adresátem, kterou potvrdil přijetí písemnosti.
+>
+> (3) Doručuje-li soud písemnost při úkonu, o němž se nepořizuje protokol, nebo prostřednictvím doručujícího orgánu, vyznačí se doručení písemnosti na doručence. Doručenka je veřejnou listinou. Není-li prokázán opak, považují se údaje uvedené na doručence za pravdivé.
+>
+> (4) V případě doručování účastníkem nebo jeho zástupcem je průkazem doručení potvrzení o přijetí opatřené datem a podpisem příjemce.
+>
+> (5) Nelze-li doručení prokázat žádným ze způsobů uvedených v odstavcích 1 až 4, lze je prokázat též jiným způsobem.
 
 ### Výklad
 
@@ -762,6 +946,34 @@ Doručení se prokazuje:
 
 ## § 50g — Doručenka (náležitosti)
 
+> (1) Doručenka musí obsahovat
+> a) označení soudu, který písemnost předal k doručení,
+> b) označení doručujícího orgánu,
+> c) označení doručované písemnosti,
+> d) označení adresáta a adresy, na niž má být písemnost doručena,
+> e) prohlášení doručujícího orgánu o tom, v který den nebyl adresát zastižen, v který den byla písemnost odevzdána adresátu či příjemci, v který den byla písemnost připravena k vyzvednutí, v který den bylo přijetí písemnosti odepřeno nebo nebyla poskytnuta součinnost nezbytná k řádnému doručení písemnosti,
+> f) hodinu a minutu doručení, byla-li vyznačena poznámka „přesný čas doručení",
+> g) jméno a příjmení doručovatele, jeho podpis a otisk úředního razítka doručujícího orgánu,
+> h) jméno a příjmení osoby, která písemnost převzala nebo která převzetí písemnosti odepřela nebo která neposkytla součinnost potřebnou k řádnému doručení písemnosti, jsou-li tyto údaje doručujícímu orgánu známy, údaj o jejím vztahu k adresátu, jestliže písemnost přijala za adresáta, a její podpis,
+> i) údaj, zda je vyloučeno vhození písemnosti do schránky.
+>
+> (2) Byla-li písemnost uložena, musí doručenka obsahovat také údaj o tom, zda byla adresátu zanechána výzva, aby si písemnost vyzvedl.
+>
+> (3) Vyzvedne-li adresát, popřípadě příjemce, uloženou písemnost, musí doručenka obsahovat také
+> a) jméno a příjmení toho, kdo písemnost předal, jeho podpis a otisk úředního razítka doručujícího orgánu,
+> b) prohlášení doručujícího orgánu, v který den byla písemnost vyzvednuta,
+> c) hodinu a minutu doručení, byla-li vyznačena poznámka „přesný čas doručení",
+> d) jméno a příjmení osoby, která uloženou písemnost vyzvedla, a její podpis.
+>
+> (4) Odepřel-li adresát, popřípadě příjemce, písemnost přijmout, nebo neposkytl-li součinnost nezbytnou k řádnému doručení písemnosti, musí doručenka obsahovat také údaj o tom, zda bylo poskytnuto ústní nebo písemné poučení o následcích odepření přijetí písemnosti nebo neposkytnutí součinnosti, a zda, popřípadě čím bylo odepření přijetí písemnosti odůvodněno nebo v čem neposkytnutí součinnosti spočívalo.
+>
+> (5) Byla-li doručována písemnost podle § 50 a nebyla-li písemnost doručena adresátu, popřípadě příjemci, musí doručenka kromě náležitostí uvedených v odstavci 1 obsahovat
+> a) prohlášení doručujícího orgánu o tom, v který den byla písemnost vhozena do domovní nebo jiné adresátem užívané schránky,
+> b) hodinu a minutu doručení, byla-li vyznačena poznámka „přesný čas doručení",
+> c) jméno a příjmení doručovatele, jeho podpis a otisk úředního razítka doručujícího orgánu.
+>
+> (6) Nemůže-li příjemce svým podpisem potvrdit doručení písemnosti, potvrdí doručení příjemci na doručence svým podpisem kromě doručovatele také jiná vhodná fyzická osoba.
+
 ### Výklad
 
 Doručenka musí obsahovat (přehledně):
@@ -778,6 +990,17 @@ Pokud bylo **odepřeno přijetí** nebo neposkytnuta součinnost — doplňují 
 ---
 
 ## § 50h — Výzva (k vyzvednutí uložené písemnosti)
+
+> (1) Výzva podle § 49 odst. 2 musí obsahovat označení
+> a) soudu, který písemnost předal k doručení,
+> b) doručované písemnosti, která byla vložena do obálky,
+> c) adresáta a adresy, na niž má být obálka s písemností doručena,
+> d) doručujícího orgánu,
+> e) jméno a příjmení doručovatele a jeho podpis.
+>
+> (2) Není-li vyloučeno náhradní doručení písemnosti, musí v ní být též obsaženo poučení o následcích, jestliže písemnost nebude vyzvednuta.
+>
+> (3) Doručující orgán ve výzvě uvede, u koho, kde a v který den byla písemnost připravena k vyzvednutí a do kdy a v jaké době si příjemce může písemnost vyzvednout.
 
 ### Výklad
 
@@ -799,6 +1022,10 @@ Oznámení podle § 50 odst. 2 (po vrácení nedoručitelné písemnosti zaslan�
 ---
 
 ## § 50j — Doručování do ciziny
+
+> (1) Při doručování do ciziny se postupuje podle mezinárodní smlouvy nebo podle přímo použitelného předpisu Evropských společenství upravujícího doručování soudních a mimosoudních písemností anebo podle zvláštního právního předpisu.
+>
+> (2) Je-li doručováno do ciziny, a nelze-li zjistit datum doručení písemnosti, avšak z obsahu listiny nebo jiného úkonu adresáta jednoznačně vyplývá, že mu písemnost byla doručena, platí, že písemnost byla doručena dnem, kdy byla odesílajícímu soudu předložena taková listina nebo kdy byl u soudu učiněn takový úkon.
 
 ### Výklad
 
@@ -823,6 +1050,12 @@ Pokud zákon ukládá zveřejnit vyhláškou, splní soud povinnost **uveřejně
 
 ## § 50l — Vyvěšení na úřední desce
 
+> (1) Stanoví-li zákon, že rozhodnutí nebo jiná písemnost mají být vyvěšeny na úřední desce soudu, platí, že desátým dnem po dni vyvěšení byly doručeny účastníkům, kteří nejsou soudu známi, jejichž pobyt není znám, kterým se nepodařilo doručit na známou adresu v cizině, nebo neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, anebo právnické osobě, která jako účastník řízení nemůže před soudem vystupovat proto, že tu není osoba oprávněná za ni jednat nebo že je sporné, kdo je osobou oprávněnou za ni jednat, a zástupcům nebo opatrovníkům účastníků, jejichž pobyt není znám nebo kterým se nepodařilo doručit na známou adresu v cizině, popřípadě též dalším osobám, o nichž to stanoví zákon.
+>
+> (2) Stanoví-li zákon, že na úřední desce soudu má být vyvěšena výzva nebo sdělení, sejme se výzva nebo sdělení po uplynutí 30 dnů ode dne vyvěšení.
+>
+> (3) Obsah úřední desky soud zveřejňuje i způsobem umožňujícím dálkový přístup.
+
 ### Výklad
 
 **Odst. 1 — fikce doručení 10 dnů od vyvěšení:** Pokud zákon stanoví vyvěšení na úřední desce, **desátý den po vyvěšení** se písemnost považuje za doručenou:
@@ -845,6 +1078,22 @@ Pokud zákon ukládá zveřejnit vyhláškou, splní soud povinnost **uveřejně
 ---
 
 ## § 50m — Doručování na ohlašovnu
+
+> (1) Doručuje-li se adresátovi písemnost prostřednictvím provozovatele poštovních služeb na adresu místa trvalého pobytu, kterým je sídlo ohlašovny označené v informačním systému evidence obyvatel jako adresa úřadu podle zákona o evidenci obyvatel, odesílající soud uloží doručovanou písemnost u sebe a vyvěsí na úřední desce výzvu, aby si adresát písemnost vyzvedl nebo požádal o její zaslání na jinou adresu.
+>
+> (2) Výzva podle odstavce 1 musí obsahovat
+> a) označení soudu, který písemnost vyhotovil,
+> b) označení doručované písemnosti včetně informace, zda jde o písemnost doručovanou do vlastních rukou či nikoliv,
+> c) označení adresáta a adresy trvalého pobytu adresáta,
+> d) uvedení místa uložení písemnosti a konkrétního dne, do kterého si adresát může písemnost vyzvednout nebo požádat o doručení na jinou adresu,
+> e) poučení o následcích, jestliže písemnost nebude vyzvednuta.
+>
+> (3) Nevyzvedne-li si adresát písemnost ve lhůtě 10 dnů ode dne zveřejnění výzvy podle odstavce 1 nebo nepodá-li ve stejné lhůtě žádost o zaslání písemnosti na jinou adresu, považuje se písemnost posledním dnem této lhůty za doručenou, i když se adresát o uložení nedozvěděl. Adresa, kterou adresát uvedl v žádosti, se považuje za adresu pro doručování podle § 46a odst. 2.
+>
+> (4) Odstavce 1 až 3 se nepoužijí
+> a) pro doručování první písemnosti, která je adresátovi doručována v řízení,
+> b) pro doručování písemností, u kterých je náhradní doručení vyloučeno,
+> c) pro doručování písemností adresátovi v daném řízení, pokud si adresát ve lhůtě podle § 49 odst. 4 nebo § 50 odst. 2 vyzvedl písemnost podle písmene a).
 
 ### Výklad
 
