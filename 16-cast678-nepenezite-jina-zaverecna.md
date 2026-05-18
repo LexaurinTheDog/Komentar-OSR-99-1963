@@ -79,6 +79,16 @@
 
 ## § 341 — Vlastní provedení vyklizení
 
+> **(1)** Výkon rozhodnutí se provede tak, že soud učiní opatření, aby z vyklizovaného objektu
+> a) byly odstraněny věci patřící povinnému a příslušníkům jeho domácnosti, jakož i věci, které sice patří někomu jinému, ale jsou se souhlasem povinného umístěny ve vyklizovaném nebo na vyklizovaném objektu,
+> b) byli vykázáni povinný a všichni, kdo se tam zdržují na základě práva povinného.
+>
+> **(2)** Věci odstraněné z vyklizovaného objektu odevzdají se povinnému nebo některému ze zletilých příslušníků jeho domácnosti.
+>
+> **(3)** Není-li přítomen vyklizení nikdo, kdo by mohl věci převzít, nebo je-li převzetí věcí odmítnuto, sepíší se věci a dají se na náklady povinného do úschovy obci nebo jinému vhodnému schovateli; není-li možné věci dát do úschovy, výkon rozhodnutí nelze provést. Soud vyrozumí povinného o tom, komu jeho věci byly dány do úschovy.
+>
+> **(4)** Postup podle odstavce 3 se nepoužije, jde-li o věc zjevně bezcennou. V takovém případě soud věc zdokumentuje a nařídí její zničení. O zničení věci vyrozumí povinného nejméně pět dnů předem, než k němu dojde. (…)
+
 ### Výklad
 
 **Soud provede vyklizení tím, že:**
@@ -105,6 +115,20 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 ---
 
 ## § 343, § 344 — Vyklizení S NÁHRADOU (klíčové sociální právo)
+
+> **§ 343 (1)** Ukládá-li rozhodnutí, jehož výkon se navrhuje, aby povinný vyklidil dům nebo byt, za které je nutno zajistit určený způsob náhrady za ztrátu práva, soud nařídí výkon rozhodnutí jen tehdy, jestliže je prokázáno, že povinnému je zajištěn takový způsob náhrady, jaký byl určen ve vykonávaném rozhodnutí. Soud provede výkon rozhodnutí po právní moci rozhodnutí o nařízení výkonu rozhodnutí.
+>
+> **§ 343 (2)** Zajištění určeného způsobu náhrady pro povinného je povinen prokázat oprávněný.
+>
+> **§ 343 (3)** Není-li veřejnou listinou prokázáno, že náhrada je pro povinného zajištěna a že odpovídá vykonávanému rozhodnutí, nařídí soud před rozhodnutím o nařízení výkonu rozhodnutí jednání. Při zjišťování, zda náhrada je pro povinného zajištěna a zda odpovídá vykonávanému rozhodnutí, soud provede i jiné důkazy potřebné ke zjištění skutkového stavu, než jsou účastníky navrhovány.
+>
+> **§ 344 (1)** Soud doručí vyrozumění povinnému nejméně 15 dnů přede dnem, kdy má být vyklizení provedeno. Vyrozumí o tom rovněž oprávněného a příslušný orgán obce. (…)
+>
+> **§ 344 (2)** Bylo-li soudem přiznáno povinnému náhradní bydlení, provede se výkon rozhodnutí způsobem uvedeným v § 341 odst. 1 s tím, že odstraněné věci se přestěhují do zajištěného náhradního obydlí. (…)
+>
+> **§ 344 (3)** Zjistí-li soud po nařízení výkonu rozhodnutí, popřípadě až při jeho provádění, že pro povinného ve skutečnosti nebylo náhradní obydlí zajištěno, výkon rozhodnutí zastaví.
+>
+> **§ 344 (4)** Po přestěhování vykonavatel předá náhradní obydlí povinnému nebo zletilému příslušníkovi jeho domácnosti, je-li takový; odmítnou-li náhradní obydlí převzít, uloží klíče u soudu nebo orgánu obce a povinného o tom vyrozumí. Nezačne-li povinný náhradní obydlí bez vážného důvodu do 6 měsíců od uložení užívat, práva povinného k náhradnímu obydlí uplynutím této lhůty zanikají.
 
 ### Výklad / smysl ustanovení
 
@@ -136,6 +160,14 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 
 ## § 345 — ODEBRÁNÍ VĚCI
 
+> **(1)** Ukládá-li rozhodnutí, jehož výkon se navrhuje, aby povinný vydal nebo dodal oprávněnému věc, postará se soud o výkon rozhodnutí tím, že dá odebrat věc se vším, co k ní patří, povinnému a odevzdá ji oprávněnému.
+>
+> **(2)** Jestliže je k užívání odebírané věci třeba listiny, odebere se i tato listina povinnému a odevzdá se oprávněnému spolu s věcí, která byla povinnému odebrána.
+>
+> **(3)** Nařízení výkonu rozhodnutí doručí povinnému vykonavatel při odebrání věci. Soud vyrozumí oprávněného o době výkonu předem. Odebrání věci nebude provedeno, nebude-li mu přítomen oprávněný nebo jeho zástupce. Ukazuje-li se to potřebné, vykonavatel provádějící odebrání věci přibere k tomu vhodnou osobu, podle možnosti zástupce orgánu obce.
+>
+> **(4)** Vyžaduje-li to účel výkonu rozhodnutí, je ten, kdo provádí výkon, oprávněn učinit osobní prohlídku povinného a prohlídku bytu (sídla) a jiných místností povinného (…), kde je podle důvodného předpokladu věc, kterou má povinný vydat nebo dodat oprávněnému; za tím účelem je oprávněn zjednat si do bytu povinného nebo do jiné místnosti povinného přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+
 ### Výklad
 
 **Pokud rozhodnutí ukládá vydat / dodat oprávněnému věc:**
@@ -148,6 +180,10 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 
 ## § 346, § 347 — Věc u třetí osoby + nemožnost odebrání
 
+> **§ 346** Má-li věc, kterou je třeba povinnému odebrat, u sebe někdo jiný, vyzve jej soud, aby ji oprávněnému vydal. Nebude-li věc vydána dobrovolně, použije se na návrh oprávněného přiměřeně ustanovení o výkonu rozhodnutí přikázáním pohledávky.
+>
+> **§ 347 (1)** Nepodaří-li se odebrat věc určenou v nařízení výkonu rozhodnutí a lze-li si věc stejného druhu a stejné jakosti opatřit jinak, vyzve soud oprávněného, aby si ji opatřil na náklad a nebezpečí povinného. **(2)** Povinnému může soud uložit, aby potřebný náklad zaplatil oprávněnému předem. Výkon tohoto rozhodnutí provede se pak na návrh oprávněného některým ze způsobů uvedených v § 258 odst. 1.
+
 **§ 346 — věc u třetí osoby:** Soud vyzve k vydání. Pokud nevydá dobrovolně → analogicky **přikázání pohledávky**.
 
 **§ 347 — náhradní pořízení:** Pokud se věc **nepodaří** odebrat + lze získat **jinak (= stejný druh, stejná jakost)** → soud vyzve oprávněného, aby si ji pořídil **na náklady povinného**.
@@ -159,6 +195,10 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 ---
 
 ## § 348, § 349 — Rozdělení společné věci
+
+> **§ 348 (1)** Ukládá-li vykonávané rozhodnutí, aby byla společná movitá věc nebo nemovitá věc prodána a její výtěžek rozdělen mezi spoluvlastníky, provede se výkon rozhodnutí přiměřeně podle ustanovení o prodeji movitých věcí nebo nemovitých věcí. **(2)** Spoluvlastníci mají pro účely rozvrhu výtěžku prodeje postavení oprávněných; výše pohledávek se stanoví podle výše jejich podílů na společné věci. **(3)** Nepodaří-li se společnou movitou věc nebo nemovitou věc prodat, zastaví soud výkon rozhodnutí.
+>
+> **§ 349 (1)** Ukládá-li vykonávané rozhodnutí, aby byla společná movitá věc nebo nemovitá věc rozdělena jinak než prodejem, určí soud při nařízení výkonu rozhodnutí, jak výkon bude proveden. Ukazuje-li se to potřebné, přibere se k provedení výkonu rozhodnutí vhodná osoba, podle možnosti zástupce orgánu obce. **(2)** Jestliže je to třeba, zejména je-li nutno přesně stanovit, popřípadě vytyčit hranice pozemků, přibere soud k rozdělení znalce.
 
 ### Výklad
 
@@ -173,6 +213,12 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 ---
 
 ## § 350 — Provedení prací a výkonů (náhradní výkon)
+
+> **(1)** Ukládá-li vykonávané rozhodnutí, aby povinný podle něho provedl pro oprávněného nějakou práci, kterou může vykonat i někdo jiný než povinný, povolí soud oprávněnému, aby si dal práci, o kterou jde, provést někým jiným nebo si ji provedl sám, a to na náklad povinného.
+>
+> **(2)** Oprávněný nebo ten, kým si oprávněný nechal práci provést, je při výkonu rozhodnutí oprávněn ke všemu, co je potřebné k provedení práce, o kterou jde.
+>
+> **(3)** Povinnému může soud uložit, aby potřebný náklad zaplatil oprávněnému předem. Výkon tohoto rozhodnutí provede se pak na návrh oprávněného některým ze způsobů určených k uspokojení peněžitých pohledávek.
 
 ### Výklad
 
@@ -232,6 +278,12 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 
 ## § 351a — Obnovení předešlého stavu
 
+> **(1)** Bylo-li vykonávané rozhodnutí splněno, avšak povinný následně způsobil porušením uložené mu povinnosti změnu stavu, který toto rozhodnutí předpokládá, (předešlého stavu), soud oprávněnému povolí, aby se na náklady povinného postaral o obnovení stavu předpokládaného tímto rozhodnutím. Způsob obnovení předešlého stavu soud uvede v usnesení o nařízení výkonu rozhodnutí.
+>
+> **(2)** Na žádost oprávněného soud pověří vykonavatele provedením jednotlivých úkonů při výkonu rozhodnutí nebo učiní jiná vhodná opatření, aby oprávněnému dopomohl k obnovení předešlého stavu.
+>
+> **(3)** Povinnému může soud uložit, aby potřebné náklady zaplatil oprávněnému předem. Výkon tohoto rozhodnutí, jakož i rozhodnutí, kterým bylo povinnému uloženo zaplatit náklady uvedené v odstavci 1, se provede na návrh oprávněného některým ze způsobů určených k uspokojení peněžitých pohledávek.
+
 ### Výklad
 
 **Pokud rozhodnutí již bylo splněno**, ale povinný **následně způsobil změnu stavu** (= porušil již splněnou povinnost):
@@ -246,6 +298,10 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 # ČÁST SEDMÁ — JINÁ ČINNOST SOUDU (§ 352 — § 354a)
 
 ## § 352 — Soudní úschovy
+
+> **(1)** Soud přijímá do úschovy peníze, listiny a jiné movité věci v souvislosti s trestním nebo jiným soudním řízením. U soudu se rovněž skládají peníze a jiné hodnoty náležející osobám, u kterých soud dohlíží na správu majetku, zálohy, jistoty a jiné platby, které bezprostředně souvisí se soudním řízením.
+>
+> **(2)** O přijetí do úschovy a o složení peněz a jiných hodnot, zálohy, jistoty nebo jiných plateb podle odstavce 1 vydá soud tomu, kdo hodnoty skládá, potvrzení.
 
 ### Výklad
 
@@ -264,6 +320,14 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 ---
 
 ## § 353 — EVROPSKÝ EXEKUČNÍ TITUL
+
+> **(1)** Na žádost oprávněného ze soudního rozhodnutí, soudního smíru nebo veřejné listiny, které splňují podmínky podle přímo použitelného předpisu Evropské unie k potvrzení jako evropský exekuční titul nebo částečný evropský exekuční titul, soud toto rozhodnutí, smír nebo veřejnou listinu jako evropský exekuční titul nebo částečný evropský exekuční titul potvrdí za podmínek stanovených přímo použitelným předpisem Evropské unie. Nejsou-li splněny podmínky pro vydání potvrzení, soud jej nevydá a o důvodech písemně vyrozumí oprávněného.
+>
+> **(2)** K vydání potvrzení evropského exekučního titulu a částečného evropského exekučního titulu je v případě rozhodnutí a soudního smíru příslušný soud, který rozhodnutí vydal nebo soudní smír schválil. K vydání potvrzení evropského exekučního titulu a částečného evropského exekučního titulu je v případě veřejné listiny příslušný soud, v jehož obvodu má sídlo ten, kdo veřejnou listinu sepsal.
+>
+> **(3)** Za podmínek stanovených přímo použitelným právním předpisem Evropské unie soud na žádost provede opravu nebo zruší potvrzení evropského exekučního titulu nebo částečného evropského exekučního titulu vydaného podle odstavce 1. (…)
+>
+> **(4)** K opravě nebo zrušení potvrzení evropského exekučního titulu nebo částečného evropského exekučního titulu je příslušný soud, který potvrzení vydal.
 
 ### Výklad / smysl ustanovení
 
@@ -284,6 +348,10 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 ---
 
 ## § 354 — Oznámení výhrady neúčinnosti
+
+> **(1)** Každý může požádat okresní soud, aby doručil jeho oznámení o výhradě práva dovolat se neúčinnosti právního jednání podle občanského zákoníku tomu, proti kterému se neúčinnosti právního jednání může dovolat.
+>
+> **(2)** Soud o žádosti sepíše protokol a oznámení o výhradě doručí. Nepředá-li žadatel soudu spolu se žádostí oznámení o výhradě, může ho učinit do protokolu u soudu. V takovém případě soud doručí protokol.
 
 ### Výklad
 
