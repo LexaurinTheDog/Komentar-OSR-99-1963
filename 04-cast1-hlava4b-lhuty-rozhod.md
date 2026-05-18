@@ -185,6 +185,10 @@ Klíčový systematický blok. **Typy lhůt v civilním procesu:**
 
 ## § 56 — Neběh lhůty (ztráta procesní způsobilosti)
 
+> (1) Lhůta neběží tomu, kdo ztratil způsobilost být účastníkem řízení nebo způsobilost jednat před soudem nebo u něhož bylo rozhodnuto, že musí být zastoupen svým zákonným zástupcem (§ 23).
+>
+> (2) Jakmile v takovém případě do řízení vstoupí jiný účastník, zákonný zástupce nebo opatrovník účastníka, začíná jim běžet nová lhůta od té doby, kdy do řízení vstoupili.
+
 ### Výklad
 
 **Odst. 1 — pozastavení běhu lhůty:** Lhůta **neběží** tomu:
@@ -310,6 +314,10 @@ V praxi se smírčí řízení používá zejména pro **schválení mediační 
 
 ## § 68 — Vedení smírčího řízení
 
+> (1) Smírčí řízení ve věcech, v nichž jedná a rozhoduje senát, provádí předseda senátu.
+>
+> (2) Součinnost nebo přítomnost účastníků nelze žádným způsobem vynucovat.
+
 ### Výklad
 
 Smírčí řízení provádí **předseda senátu** (i u věcí senátních). **Účast účastníků nelze vynucovat** — institut je čistě **konsensuální**.
@@ -363,6 +371,12 @@ Smírčí řízení provádí **předseda senátu** (i u věcí senátních). **
 
 ## § 75 — Návrh na PO
 
+> (1) Předběžné opatření nařídí předseda senátu na návrh.
+>
+> (2) Návrh na nařízení předběžného opatření podle § 76 musí kromě obecných náležitostí (§ 42 odst. 4) obsahovat jméno, příjmení a bydliště účastníků (obchodní firmu nebo název a sídlo právnické osoby, označení státu a příslušné organizační složky státu, která za stát před soudem vystupuje), popřípadě též jejich zástupců, vylíčení skutečností o tom, že je třeba, aby byly zatímně upraveny poměry účastníků, nebo že je tu obava, že by výkon soudního rozhodnutí byl ohrožen, vylíčení skutečností, které odůvodňují předběžné opatření, a musí být z něj patrno, jakého předběžného opatření se navrhovatel domáhá; ve věcech týkajících se vztahů mezi podnikateli vyplývajících z podnikatelské činnosti musí návrh dále obsahovat identifikační číslo osoby (dále jen „identifikační číslo") právnické osoby, identifikační číslo fyzické osoby, která je podnikatelem, popřípadě další údaje potřebné k identifikaci účastníků řízení.
+>
+> (3) Navrhovatel je povinen připojit k návrhu listiny, jichž se dovolává.
+
 ### Výklad
 
 **Odst. 2 — náležitosti návrhu na PO podle § 76:**
@@ -396,6 +410,19 @@ To je drakonické pravidlo — **navrhovatel musí dodat dokonalé podání hned
 ---
 
 ## § 75b — Jistota
+
+> (1) K zajištění náhrady škody nebo jiné újmy, která by vznikla předběžným opatřením, je navrhovatel povinen složit nejpozději ve stejný den, kdy podal u soudu návrh na nařízení předběžného opatření, jistotu ve výši 10 000 Kč a ve věcech týkajících se vztahů mezi podnikateli vyplývajících z podnikatelské činnosti ve výši 50 000 Kč. Dospěje-li předseda senátu k závěru, že složená jistota zjevně nepostačuje k zajištění náhrady škody nebo jiné újmy, která by vznikla předběžným opatřením, anebo že jde o opětovný návrh na nařízení předběžného opatření, který ve věci týchž účastníků požaduje z obdobných důvodů stejnou nebo obdobnou zatímní úpravu poměrů, vyzve navrhovatele bezodkladně, aby do 3 dnů složil doplatek jistoty ve výši, kterou stanoví s přihlédnutím k okolnostem případu. Podalo-li návrh na předběžné opatření více navrhovatelů, jsou povinni jistotu a doplatek jistoty složit společně a nerozdílně.
+>
+> (2) Nebude-li jistota podle odstavce 1 složena, předseda senátu návrh na předběžné opatření odmítne.
+>
+> (3) Odstavce 1 a 2 neplatí,
+> a) jde-li o předběžné opatření ve věci výživného;
+> b) jde-li o předběžné opatření ve věci pracovní nebo ve věci ochrany oznamovatele podle zákona o ochraně oznamovatelů;
+> c) jde-li o předběžné opatření ve věci náhrady újmy na zdraví;
+> d) osvědčí-li navrhovatel spolu s návrhem na nařízení předběžného opatření, že jsou u něj splněny podmínky pro osvobození od soudních poplatků (§ 138);
+> e) je-li tu nebezpečí z prodlení, v jehož důsledku by mohla navrhovateli vzniknout újma, a navrhovatel spolu s návrhem na nařízení předběžného opatření osvědčí, že jistotu bez své viny nemohl složit.
+>
+> (4) Byl-li návrh na nařízení předběžného opatření pravomocným usnesením soudu prvního stupně zamítnut, byl-li tento návrh pravomocně odmítnut nebo bylo-li řízení o tomto návrhu pravomocně zastaveno, soud složenou jistotu vrátí. V případě, že soud nařídil předběžné opatření, bude jistota vrácena, jestliže marně uplynula lhůta k žalobě podle § 77a odst. 2 nebo jestliže nabylo právní moci rozhodnutí soudu o žalobě podané podle § 77a odst. 2 a z tohoto rozhodnutí vyplývá, že jistota nebude použita k uspokojení práva na náhradu škody nebo jiné újmy.
 
 ### Výklad / smysl ustanovení
 
@@ -433,6 +460,14 @@ To je drakonické pravidlo — **navrhovatel musí dodat dokonalé podání hned
 
 ## § 75c — Rozhodnutí o PO (lhůty, bezodkladnost, bez slyšení)
 
+> (1) Nepostupoval-li podle § 75a nebo podle § 75b odst. 2, předseda senátu nařídí usnesením předběžné opatření, jestliže bude prokázáno, že je třeba, aby byly zatímně upraveny poměry účastníků, nebo že je tu obava, že by výkon soudního rozhodnutí byl ohrožen, a jestliže budou alespoň osvědčeny skutečnosti, které jsou rozhodující pro uložení povinnosti předběžným opatřením.
+>
+> (2) O návrhu na předběžné opatření rozhodne předseda senátu bezodkladně. Není-li tu nebezpečí z prodlení, může předseda senátu o návrhu na předběžné opatření rozhodnout až do uplynutí 7 dnů poté, co byl podán.
+>
+> (3) O návrhu na nařízení předběžného opatření rozhodne předseda senátu bez slyšení účastníků.
+>
+> (4) Pro předběžné opatření je rozhodující stav v době vyhlášení (vydání) usnesení soudu prvního stupně.
+
 ### Výklad
 
 **Odst. 1 — předpoklady nařízení PO:**
@@ -455,6 +490,17 @@ To je drakonické pravidlo — **navrhovatel musí dodat dokonalé podání hned
 ---
 
 ## § 76 — Typy předběžných opatření
+
+> (1) Předběžným opatřením může být účastníku uloženo zejména, aby
+> a) platil výživné v nezbytné míře;
+> b) poskytl alespoň část pracovní odměny, jde-li o trvání pracovního poměru a navrhovatel ze závažných důvodů nepracuje;
+> c) složil peněžitou částku nebo věc do úschovy u soudu;
+> d) nenakládal s určitými věcmi nebo právy;
+> e) něco vykonal, něčeho se zdržel nebo něco snášel.
+>
+> (2) Předběžným opatřením lze uložit povinnost někomu jinému než účastníku jen tehdy, lze-li to na něm spravedlivě žádat.
+>
+> (3) Předseda senátu při nařízení předběžného opatření uloží navrhovateli, aby ve lhůtě, kterou mu určí, podal u soudu návrh na zahájení řízení. Může také stanovit, že předběžné opatření bude trvat jen po určenou dobu.
 
 ### Výklad
 
@@ -519,6 +565,10 @@ PO je **vykonatelné okamžitě**:
 
 ## § 76e — Závaznost PO
 
+> (1) Výrok vykonatelného usnesení o nařízení předběžného opatření je závazný jen pro účastníky řízení a pro ty, kterým byla předběžným opatřením uložena povinnost, nestanoví-li zákon jinak.
+>
+> (2) V rozsahu, v jakém je výrok vykonatelného usnesení o nařízení předběžného opatření závazný pro účastníky řízení a popřípadě pro jiné osoby, je závazný též pro všechny orgány.
+
 ### Výklad
 
 Výrok vykonatelného usnesení o PO je závazný:
@@ -529,6 +579,10 @@ Výrok vykonatelného usnesení o PO je závazný:
 ---
 
 ## § 76f — Neplatnost úkonů v rozporu s PO
+
+> (1) Právní jednání, které bylo učiněno tím, pro něhož je výrok vykonatelného usnesení o nařízení předběžného opatření závazný, je neplatné, jestliže jím byla porušena povinnost uložená vykonatelným usnesením o nařízení předběžného opatření. Soud k neplatnosti přihlédne i bez návrhu.
+>
+> (2) Bylo-li účastníku předběžným opatřením uloženo, aby nenakládal s určitou nemovitou věcí, pozbývá návrh na vklad práva týkajícího se této nemovité věci, o němž dosud nebylo příslušným orgánem pravomocně rozhodnuto, své právní účinky; to platí i tehdy, jestliže účastník učinil právní jednání týkající se nemovité věci dříve, než se usnesení o nařízení předběžného opatření stalo vykonatelným.
 
 ### Výklad / smysl ustanovení
 
@@ -564,6 +618,14 @@ Předseda senátu může vyzvat navrhovatele ke **složení doplatku jistoty** (
 
 ## § 77 — Zánik / zrušení PO
 
+> (1) Předběžné opatření zanikne, jestliže
+> a) navrhovatel nepodal v zákonné lhůtě nebo ve lhůtě soudem určené návrh na zahájení řízení;
+> b) nebylo návrhu ve věci samé vyhověno;
+> c) bylo návrhu ve věci samé vyhověno a uplynulo patnáct dní od vykonatelnosti rozhodnutí o věci;
+> d) uplynula určená doba, po kterou mělo trvat.
+>
+> (2) Předběžné opatření předseda senátu zruší, jestliže pominou důvody, pro které bylo nařízeno. Předběžné opatření předseda senátu zruší také tehdy, jestliže navrhovatel ve stanovené lhůtě nesložil doplatek jistoty.
+
 ### Výklad
 
 **Odst. 1 — automatický zánik PO:**
@@ -579,6 +641,14 @@ Předseda senátu může vyzvat navrhovatele ke **složení doplatku jistoty** (
 ---
 
 ## § 77a — Odpovědnost navrhovatele za škodu (klíčový institut)
+
+> (1) Zaniklo-li nebo bylo-li zrušeno nařízené předběžné opatření z jiného důvodu než proto, že návrhu ve věci samé bylo vyhověno, nebo proto, že právo navrhovatele bylo uspokojeno, je navrhovatel povinen nahradit škodu a jinou újmu každému, komu předběžným opatřením vznikla. Této odpovědnosti se navrhovatel nemůže zprostit, ledaže by ke škodě nebo k jiné újmě došlo i jinak.
+>
+> (2) Žalobu na náhradu škody nebo jiné újmy podle odstavce 1 je třeba podat nejpozději do 6 měsíců ode dne, kdy předběžné opatření zaniklo nebo kdy bylo pravomocně zrušeno, jinak právo zanikne. Zmeškání této lhůty nelze prominout.
+>
+> (3) Příslušným k projednání žaloby podle odstavce 2 a k rozhodnutí o ní je soud, který v prvním stupni rozhodoval o předběžném opatření.
+>
+> (4) Pravomocně přiznaná náhrada škody nebo jiné újmy se uspokojí z navrhovatelem složené jistoty; nepostačuje-li jistota k uspokojení všech poškozených, rozdělí soud jistotu mezi ně poměrně. Povinnost navrhovatele nahradit škodu nebo jinou újmu, která nebyla zajištěna složenou jistotou, tím není dotčena.
 
 ### Výklad / smysl ustanovení
 
