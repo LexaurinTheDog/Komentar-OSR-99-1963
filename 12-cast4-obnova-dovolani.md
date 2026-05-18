@@ -40,6 +40,12 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 
 ## § 228 — Žaloba na obnovu řízení
 
+> **(1)** Žalobou na obnovu řízení účastník může napadnout pravomocný rozsudek nebo pravomocné usnesení, kterým bylo rozhodnuto ve věci samé:
+> a) jsou-li tu skutečnosti, rozhodnutí nebo důkazy, které bez své viny nemohl použít v původním řízení před soudem prvního stupně nebo za podmínek uvedených v ustanovení § 205a a 211a též před odvolacím soudem, pokud mohou přivodit pro něho příznivější rozhodnutí ve věci;
+> b) lze-li provést důkazy, které nemohly být provedeny v původním řízení před soudem prvního stupně nebo za podmínek uvedených v ustanovení § 205a a 211a též před odvolacím soudem, pokud mohou přivodit pro něho příznivější rozhodnutí ve věci.
+>
+> **(2)** Žalobou na obnovu řízení účastník může napadnout také pravomocné usnesení, kterým byl schválen smír, lze-li důvody obnovy podle odstavce 1 vztahovat i na předpoklady, za nichž byl smír schvalován; to platí obdobně pro pravomocný platební rozkaz, pravomocný rozsudek pro uznání a pravomocný rozsudek pro zmeškání.
+
 ### Výklad / smysl ustanovení
 
 **Žaloba na obnovu řízení** = mimořádný opravný prostředek **proti pravomocnému** rozsudku / usnesení ve věci samé na základě **„nova"** (= nově zjištěných skutečností / důkazů).
@@ -76,6 +82,25 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 ---
 
 ## § 229 — Žaloba pro ZMATEČNOST (klíčové!)
+
+> **(1)** Žalobou pro zmatečnost účastník může napadnout pravomocné rozhodnutí soudu prvního stupně nebo odvolacího soudu, kterým bylo řízení skončeno, jestliže
+> a) bylo rozhodnuto ve věci, která nenáleží do pravomoci soudů,
+> b) ten, kdo v řízení vystupoval jako účastník, neměl způsobilost být účastníkem řízení,
+> c) účastník řízení neměl procesní způsobilost nebo nemohl před soudem vystupovat (§ 29 odst. 2) a nebyl řádně zastoupen,
+> d) nebyl podán návrh na zahájení řízení, ačkoliv podle zákona ho bylo třeba,
+> e) rozhodoval vyloučený soudce,
+> f) soud byl nesprávně obsazen, ledaže místo samosoudce rozhodoval senát,
+> g) bylo rozhodnuto v neprospěch účastníka v důsledku trestného činu soudce,
+> h) účastníku řízení byl ustanoven opatrovník z důvodu neznámého pobytu nebo proto, že se mu nepodařilo doručit na známou adresu v cizině, ačkoliv k takovému opatření nebyly splněny předpoklady.
+>
+> **(2)** Žalobou pro zmatečnost účastník může napadnout také pravomocný rozsudek soudu prvního stupně nebo odvolacího soudu nebo pravomocné usnesení těchto soudů, kterým bylo rozhodnuto ve věci samé, anebo pravomocný platební rozkaz (směnečný a šekový platební rozkaz) nebo elektronický platební rozkaz, jestliže
+> a) v téže věci bylo již dříve zahájeno řízení,
+> b) v téže věci bylo dříve pravomocně rozhodnuto,
+> c) odvolacím soudem byl pravomocně zamítnut návrh na nařízení výkonu těchto rozhodnutí nebo pravomocně zastaven výkon rozhodnutí z důvodu, že povinnosti rozsudkem, usnesením nebo platebním rozkazem uložené nelze vykonat (§ 261a).
+>
+> **(3)** Žalobou pro zmatečnost účastník může napadnout též pravomocný rozsudek odvolacího soudu nebo jeho pravomocné usnesení, kterým bylo rozhodnuto ve věci samé, jestliže mu byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem. Totéž platí, jde-li o pravomocný rozsudek soudu prvního stupně, proti němuž není odvolání přípustné podle § 202 odst. 2.
+>
+> **(4)** Žalobou pro zmatečnost účastník může napadnout rovněž pravomocné usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, jakož i pravomocné usnesení odvolacího soudu, kterým bylo potvrzeno nebo změněno usnesení soudu prvního stupně o odmítnutí odvolání nebo dovolání pro opožděnost.
 
 ### Výklad / smysl ustanovení
 
@@ -121,6 +146,15 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 
 ## § 230 — Vyloučení žaloby
 
+> **(1)** Žaloba není přípustná proti
+> a) usnesení, jímž bylo rozhodnuto o žalobě z rušené držby;
+> b) jen proti výrokům rozhodnutí o nákladech řízení, o lhůtě k plnění a o předběžné vykonatelnosti;
+> c) jen proti důvodům rozhodnutí.
+>
+> **(2)** Žaloba na obnovu řízení není přípustná též proti rozsudkům a usnesením, jejichž zrušení nebo změny lze dosáhnout jinak, nepočítaje v to dovolání.
+>
+> **(3)** Žaloba pro zmatečnost není přípustná také proti usnesení, jímž bylo rozhodnuto o žalobě pro zmatečnost.
+
 ### Výklad
 
 **Odst. 1 — vyloučeno proti:**
@@ -156,6 +190,10 @@ Vedle obecných (§ 42 odst. 4):
 
 ## § 233 — Lhůta pro ŽALOBU NA OBNOVU
 
+> **(1)** Žaloba na obnovu řízení musí být podána ve lhůtě tří měsíců od té doby, kdy ten, kdo obnovu navrhuje, se dozvěděl o důvodu obnovy, nebo od té doby, kdy jej mohl uplatnit; běh této lhůty však neskončí před uplynutím tří měsíců od právní moci napadeného rozhodnutí.
+>
+> **(2)** Po třech letech od právní moci napadeného rozhodnutí může být žaloba na obnovu řízení podána jen tehdy, jestliže trestní rozsudek nebo rozhodnutí o přestupku nebo jiném správním deliktu, na jejichž podkladě bylo v občanském soudním řízení přiznáno právo, byly později podle příslušných právních předpisů zrušeny.
+
 ### Výklad
 
 **Odst. 1 — primární lhůta: 3 MĚSÍCE** od:
@@ -174,6 +212,18 @@ Vedle obecných (§ 42 odst. 4):
 ---
 
 ## § 234 — Lhůta pro ŽALOBU PRO ZMATEČNOST
+
+> **(1)** Není-li dále stanoveno jinak, musí být žaloba pro zmatečnost podána ve lhůtě tří měsíců od doručení napadeného rozhodnutí.
+>
+> **(2)** Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. c) lze žalobu podat ve lhůtě tří měsíců, která počíná běžet dnem, kdy účastníku byl ustanoven zástupce nebo kdy odpadla překážka, pro kterou nemohl před soudem samostatně jednat nebo pro kterou nemohl před soudem vystupovat, nejpozději však do tří let od právní moci napadeného rozhodnutí.
+>
+> **(3)** Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. e) lze žalobu podat ve lhůtě tří měsíců od té doby, kdy se ten, kdo žalobu podává, o důvodu zmatečnosti dozvěděl, nejpozději však do tří let od právní moci napadeného rozhodnutí.
+>
+> **(4)** Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. g) lze žalobu podat ve lhůtě tří měsíců od té doby, kdy se ten, kdo žalobu podává, o důvodu zmatečnosti dozvěděl.
+>
+> **(5)** Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. h) lze žalobu podat ve lhůtě 3 měsíců od té doby, kdy se ten, kdo žalobu podává, dozvěděl o napadeném rozhodnutí.
+>
+> **(6)** Z důvodu zmatečnosti uvedeného v § 229 odst. 2 písm. c) lze žalobu podat ve lhůtě tří měsíců od právní moci usnesení odvolacího soudu o zamítnutí návrhu na nařízení výkonu rozhodnutí nebo o zastavení výkonu rozhodnutí.
 
 ### Výklad
 
@@ -197,6 +247,10 @@ Vedle obecných (§ 42 odst. 4):
 ---
 
 ## § 235a — Příslušnost + procesní pravidla
+
+> **(1)** Žalobu projedná a rozhodne o ní soud, který o věci rozhodoval v prvním stupni. Žalobu pro zmatečnost podanou z důvodů uvedených v § 229 odst. 3 a 4 však projedná a rozhodne o ní soud, jehož rozhodnutí bylo napadeno; to neplatí ve věcech, v nichž je k řízení v prvním stupni příslušný krajský soud (§ 9 odst. 2).
+>
+> **(2)** Pro řízení o žalobě platí přiměřeně ustanovení o řízení v prvním stupni, není-li dále stanoveno něco jiného.
 
 ### Výklad
 
@@ -260,6 +314,10 @@ Vedle obecných (§ 42 odst. 4):
 
 ## § 236 — Obecné pravidlo dovolání
 
+> **(1)** Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+>
+> **(2)** Dovolání jen proti důvodům rozhodnutí není přípustné.
+
 ### Výklad
 
 **Odst. 1:** Dovoláním lze napadnout **pravomocná rozhodnutí odvolacího soudu**, **pokud to zákon připouští** (= zákonné přípustnostní filtry).
@@ -313,6 +371,24 @@ Vedle obecných (§ 42 odst. 4):
 
 ## § 238 — Vyloučení dovolání (taxativně)
 
+> **(1)** Dovolání podle § 237 není přípustné
+> a) ve věcech upravených v části druhé občanského zákoníku, je-li řízení o nich vedeno podle tohoto zákona a nejedná-li se o manželské majetkové právo,
+> b) ve věcech upravených zákonem o registrovaném partnerství, je-li řízení o nich vedeno podle tohoto zákona,
+> c) proti rozsudkům a usnesením vydaným v řízeních, jejichž předmětem bylo v době vydání rozhodnutí obsahujícího napadený výrok peněžité plnění nepřevyšující 50000 Kč, včetně řízení o výkon rozhodnutí a exekučního řízení, ledaže jde o vztahy ze spotřebitelských smluv a o pracovněprávní vztahy; k příslušenství pohledávky se přitom nepřihlíží,
+> d) ve věcech odkladu provedení výkonu rozhodnutí nebo exekuce,
+> e) proti usnesením, proti nimž je přípustná žaloba pro zmatečnost podle § 229 odst. 4,
+> f) proti usnesením, kterými bylo rozhodnuto o předběžném opatření, pořádkovém opatření, znalečném nebo tlumočném,
+> g) proti usnesení, jímž bylo rozhodnuto o žalobě z rušené držby,
+> h) proti rozhodnutím v části týkající se výroku o nákladech řízení,
+> i) proti usnesením, kterými bylo rozhodnuto o návrhu na osvobození od soudního poplatku nebo o povinnosti zaplatit soudní poplatek,
+> j) proti usnesením, kterými bylo rozhodnuto o žádosti účastníka o ustanovení zástupce,
+> k) proti rozhodnutím, kterými odvolací soud zrušil rozhodnutí soudu prvního stupně a věc vrátil soudu prvního stupně k dalšímu řízení,
+> l) proti usnesením, kterými bylo rozhodnuto o zproštění od složení zálohy nebo odejmutí zproštění od složení zálohy podle exekučního řádu.
+>
+> **(2)** U opětujícího se peněžitého plnění je pro závěr, zda rozhodnutí obsahující dovoláním napadený výrok bylo vydáno v řízení, jehož předmětem bylo v době vydání rozhodnutí peněžité plnění nepřevyšující 50000 Kč [odstavec 1 písm. c)], rozhodný součet všech opětujících se plnění; jde-li však o peněžité plnění na dobu života, na dobu neurčitou nebo na dobu určitou delší než 5 let, je rozhodný pouze pětinásobek výše ročního plnění.
+>
+> **(3)** Za rozhodnutí podle odstavce 1 písm. c) se považuje i rozhodnutí vydané v řízení o určení pravosti nebo výše pohledávky nepřevyšující 50000 Kč.
+
 ### Výklad
 
 **Odst. 1 — 12 vyloučení:**
@@ -362,6 +438,12 @@ Vedle obecných (§ 42 odst. 4):
 
 ## § 240 — LHŮTA DOVOLÁNÍ + místo podání
 
+> **(1)** Účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení.
+>
+> **(2)** Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+>
+> **(3)** Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do tří měsíců od doručení.
+
 ### Výklad
 
 **Odst. 1 — lhůta: 2 MĚSÍCE** od doručení rozhodnutí odvolacího soudu. **Místo: soud 1. stupně**.
@@ -386,6 +468,16 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 ---
 
 ## § 241 — POVINNÉ ZASTOUPENÍ ADVOKÁTEM (klíčový!)
+
+> **(1)** Není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy.
+>
+> **(2)** Odstavec 1 neplatí,
+> a) je-li dovolatelem fyzická osoba, která má právnické vzdělání,
+> b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání.
+>
+> **(3)** Odstavec 1 neplatí také tehdy, je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3, která má právnické vzdělání.
+>
+> **(4)** Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
 
 ### Výklad / smysl ustanovení
 
@@ -413,6 +505,18 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 ---
 
 ## § 241a — DOVOLACÍ DŮVOD (jen nesprávné právní posouzení!)
+
+> **(1)** Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Dovolání nelze podat z důvodu vad podle § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3.
+>
+> **(2)** V dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+>
+> **(3)** Důvod dovolání se vymezí tak, že dovolatel uvede právní posouzení věci, které pokládá za nesprávné, a že vyloží, v čem spočívá nesprávnost tohoto právního posouzení.
+>
+> **(4)** V dovolání nelze poukazovat na podání, která dovolatel učinil za řízení před soudem prvního stupně nebo v odvolacím řízení.
+>
+> **(5)** K obsahu podání, v němž dovolatel uvedl, v jakém rozsahu napadá rozhodnutí odvolacího soudu, nebo v němž vymezil důvody dovolání, aniž by byla splněna podmínka stanovená v § 241, se nepřihlíží.
+>
+> **(6)** V dovolání nelze uplatnit nové skutečnosti nebo důkazy.
 
 ### Výklad / smysl ustanovení
 
@@ -457,6 +561,12 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 
 ## § 241b — Postup soudu 1. stupně
 
+> **(1)** Ustanovení § 208 odst. 1, § 209 a 210 platí obdobně.
+>
+> **(2)** Není-li splněna podmínka uvedená v § 241, postupuje se obdobně podle § 104 odst. 2; to neplatí, bylo-li dovolání podáno opožděně, někým, kdo k dovolání není oprávněn, nebo směřuje-li proti rozhodnutí, proti němuž není dovolání podle § 238 přípustné.
+>
+> **(3)** Dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen v průběhu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241, běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto. Nebyl-li nedostatek podmínky uvedené v § 241 ani ve lhůtě určené ke splnění této podmínky odstraněn, předseda senátu soudu prvního stupně dovolací řízení zastaví.
+
 ### Výklad
 
 **Odst. 1:** Analogie § 208 (odmítnutí pro opožděnost), § 209 (odstranění vad), § 210 (předložení).
@@ -475,6 +585,17 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 ## ŘÍZENÍ U NEJVYŠŠÍHO SOUDU (§ 242 — § 243g)
 
 ## § 242 — Rozsah přezkumu
+
+> **(1)** Dovolací soud přezkoumá rozhodnutí odvolacího soudu v rozsahu, ve kterém byl jeho výrok napaden.
+>
+> **(2)** Dovolací soud není vázán rozsahem dovolacích návrhů
+> a) v případech, kdy na rozhodnutí o napadeném výroku je závislý výrok, který dovoláním nebyl dotčen,
+> b) v případech, kde jde o taková společná práva nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří vystupují na jedné straně, a kde platí úkony jednoho z nich i pro ostatní (§ 91 odst. 2), třebaže dovolání podal jen některý z účastníků,
+> c) jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+>
+> **(3)** Rozhodnutí odvolacího soudu lze přezkoumat jen z důvodu vymezeného v dovolání. Je-li dovolání přípustné, dovolací soud přihlédne též k vadám uvedeným v § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3, jakož i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci.
+>
+> **(4)** Účastníci mohou po dobu trvání lhůty k podání dovolání měnit vymezení důvodu dovolání a rozsah, ve kterém rozhodnutí odvolacího soudu napadají; ke změně není třeba souhlasu soudu.
 
 ### Výklad
 
@@ -498,6 +619,10 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 
 ## § 243 — Odklad vykonatelnosti / právní moci
 
+> Před rozhodnutím o dovolání může dovolací soud i bez návrhu odložit
+> a) vykonatelnost napadeného rozhodnutí, kdyby neprodleným výkonem rozhodnutí nebo exekucí hrozila dovolateli závažná újma, nebo
+> b) právní moc napadeného rozhodnutí, je-li dovolatel závažně ohrožen ve svých právech a nedotkne-li se odklad právních poměrů jiné osoby než účastníka řízení.
+
 NS může i bez návrhu **odložit**:
 - a) **vykonatelnost**, hrozí-li dovolateli závažná újma,
 - b) **právní moc**, je-li dovolatel závažně ohrožen.
@@ -509,6 +634,12 @@ NS může i bez návrhu **odložit**:
 ---
 
 ## § 243a, § 243b — Bez jednání zpravidla
+
+> **§ 243a (1)** Dovolací soud rozhodne o dovolání zpravidla bez jednání. Považuje-li to za potřebné, nařídí k projednání dovolání jednání.
+>
+> **§ 243a (2)** Nařídí-li dovolací soud jednání, postupuje obdobně podle § 215 a § 216 odst. 3.
+>
+> **§ 243b** Pro dovolací řízení platí přiměřeně ustanovení o řízení před soudem prvního stupně, není-li stanoveno jinak; ustanovení § 43, 92, 95 až 99 a 107a však pro dovolací řízení neplatí.
 
 **§ 243a:** NS rozhoduje **zpravidla bez jednání**. Pokud považuje za potřebné → nařídí jednání.
 
@@ -522,6 +653,12 @@ NS může i bez návrhu **odložit**:
 
 ## § 243c — Odmítnutí dovolání
 
+> **(1)** Dovolání podané proti rozhodnutí odvolacího soudu, které není přípustné nebo které trpí vadami, jež nebyly ve lhůtě (§ 241b odst. 3) odstraněny a pro něž nelze v dovolacím řízení pokračovat, anebo které je zjevně bezdůvodné, dovolací soud odmítne.
+>
+> **(2)** K přijetí usnesení o odmítnutí dovolání z důvodu, že dovolání není podle § 237 přípustné, je třeba souhlasu všech členů senátu.
+>
+> **(3)** Ustanovení § 218 písm. b), § 218a, § 224 odst. 1 a 2 a § 225 platí pro řízení u dovolacího soudu obdobně. Vezme-li dovolatel dovolání zcela zpět, dovolací soud řízení zastaví. Nerozhodl-li předseda senátu soudu prvního stupně podle § 241b odst. 3 věty třetí, ačkoliv se nezdařilo odstranit nedostatek podmínky uvedené v § 241, rozhodne o zastavení dovolacího řízení pro nesplnění této podmínky dovolací soud.
+
 ### Výklad
 
 **NS odmítne dovolání:**
@@ -534,6 +671,12 @@ NS může i bez návrhu **odložit**:
 ---
 
 ## § 243d — Zamítnutí / ZMĚNA dovolacím soudem
+
+> **(1)** Nepostupoval-li podle § 243c, dovolací soud
+> a) dovolání zamítne, dojde-li k závěru, že rozhodnutí odvolacího soudu je správné, nebo
+> b) může rozhodnutí odvolacího soudu změnit, jestliže odvolací soud rozhodl nesprávně a jestliže dosavadní výsledky řízení ukazují, že je možné o věci rozhodnout.
+>
+> **(2)** Změní-li dovolací soud rozhodnutí odvolacího soudu, zruší rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, která jsou na změněném rozhodnutí odvolacího soudu závislá. Dozví-li se dovolací soud až dodatečně o tom, že na změněném rozhodnutí odvolacího soudu jsou závislá rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, rozhodne o jejich zrušení samostatným usnesením.
 
 ### Výklad
 
@@ -551,6 +694,14 @@ NS může i bez návrhu **odložit**:
 ---
 
 ## § 243e — ZRUŠENÍ A VRÁCENÍ (nejčastější)
+
+> **(1)** Nejsou-li podmínky pro zastavení dovolacího řízení, pro odmítnutí dovolání, pro zamítnutí dovolání nebo pro změnu rozhodnutí odvolacího soudu, dovolací soud je zruší.
+>
+> **(2)** Zruší-li dovolací soud rozhodnutí odvolacího soudu, vrátí mu věc k dalšímu řízení. Platí-li důvody, pro které bylo zrušeno rozhodnutí odvolacího soudu, také na rozhodnutí soudu prvního stupně, zruší dovolací soud i toto rozhodnutí a vrátí věc soudu prvního stupně k dalšímu řízení, popřípadě věc postoupí k dalšímu řízení věcně příslušnému soudu. Dovolací soud zruší též další rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, která jsou na zrušovaném rozhodnutí odvolacího soudu závislá. Dozví-li se dovolací soud až dodatečně o tom, že na zrušeném rozhodnutí odvolacího soudu jsou závislá rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, rozhodne o jejich zrušení samostatným usnesením.
+>
+> **(3)** Zruší-li dovolací soud rozhodnutí odvolacího soudu proto, že nebyl dodržen závazný právní názor (§ 243g odst. 1) nebo že v řízení došlo k závažným vadám, může nařídit, aby věc v dalším řízení projednal jiný senát nebo přikázat věc k dalšímu řízení jinému odvolacímu soudu. V případě, že dovolací soud zruší rovněž rozhodnutí soudu prvního stupně, může také nařídit, aby věc v dalším řízení projednal u soudu prvního stupně jiný senát (samosoudce) nebo přikázat věc k dalšímu řízení jinému soudu prvního stupně.
+>
+> **(4)** Zruší-li dovolací soud rozhodnutí odvolacího soudu a soudu prvního stupně pro vady uvedené v § 229 odst. 1 písm. a), b) nebo d) a v § 229 odst. 2 písm. a) nebo b), rozhodne též o zastavení řízení, popřípadě o postoupení věci orgánu, do jehož pravomoci náleží.
 
 ### Výklad
 
