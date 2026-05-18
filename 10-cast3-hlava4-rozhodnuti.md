@@ -63,6 +63,10 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 ## § 153 — Soud rozhoduje na základě skutkového stavu + ZÁKAZ ULTRA PETITUM
 
+> (1) Soud rozhoduje na základě zjištěného skutkového stavu věci.
+>
+> (2) Soud může překročit návrhy účastníků a přisoudit něco jiného nebo více, než čeho se domáhají, jen tehdy, jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — vázanost zjištěným skutkem:** Soud rozhoduje **na základě zjištěného skutkového stavu** (= ne na základě tvrzení).
@@ -83,6 +87,14 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 ---
 
 ## § 153a — Rozsudek pro UZNÁNÍ (klíčový institut)
+
+> (1) Uzná-li žalovaný v průběhu soudního řízení nárok nebo základ nároku, který je proti němu žalobou uplatňován, rozhodne soud rozsudkem podle tohoto uznání. Uzná-li žalovaný nárok proti němu žalobou uplatněný jen zčásti, rozhodne soud rozsudkem podle tohoto uznání, jen navrhne-li to žalobce.
+>
+> (2) Rozsudek pro uznání, nelze vydat ve věcech, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a 2).
+>
+> (3) Rozsudkem pro uznání rozhodne soud také tehdy, má-li se za to, že žalovaný nárok, který je proti němu žalobou uplatňován, uznal (§ 114b odst. 5 a § 114c odst. 6).
+>
+> (4) Jen pro vydání rozsudku pro uznání nemusí být nařízeno jednání.
 
 ### Výklad / smysl ustanovení
 
@@ -124,6 +136,16 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 ---
 
 ## § 153b — Rozsudek pro ZMEŠKÁNÍ (kontumační)
+
+> (1) Zmešká-li žalovaný, kterému byly řádně doručeny do jeho vlastních rukou (§ 49) žaloba a předvolání k jednání nejméně deset dnů přede dnem, kdy se jednání má konat, a který byl o následcích nedostavení se poučen, bez důvodné a včasné omluvy první jednání, které se ve věci konalo, a navrhne-li to žalobce, který se dostavil k jednání, pokládají se tvrzení žalobce obsažená v žalobě o skutkových okolnostech, týkající se sporu, za nesporná a na tomto základě může soud rozhodnout o žalobě rozsudkem pro zmeškání.
+>
+> (2) Je-li v jedné věci několik žalovaných, kteří mají takové společné povinnosti, že se rozsudek musí vztahovat na všechny (§ 91 odst. 2), lze rozhodnout rozsudkem pro zmeškání jen tehdy, nedostaví-li se k jednání všichni řádně obeslaní žalovaní.
+>
+> (3) Rozsudek pro zmeškání nelze vydat ve věcech, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a 2), došlo-li by takovým rozsudkem ke vzniku, změně nebo zrušení právního poměru mezi účastníky nebo je-li žalovaným ke dni zahájení řízení nebo ke dni vstupu do řízení nezletilý, který nenabyl plné svéprávnosti.
+>
+> (4) Zmešká-li žalovaný z omluvitelných důvodů první jednání ve věci, při němž byl vynesen rozsudek pro zmeškání, soud na návrh žalovaného tento rozsudek usnesením zruší a nařídí jednání. Takový návrh může účastník podat nejpozději do dne právní moci rozsudku pro zmeškání.
+>
+> (5) Pokud žalovaný kromě návrhu na zrušení rozsudku soudu prvního stupně z důvodů podle odstavce 4 podal proti rozsudku i odvolání a návrhu na zrušení rozsudku bylo pravomocným usnesením vyhověno, k odvolání se nepřihlíží.
 
 ### Výklad / smysl ustanovení
 
@@ -189,6 +211,16 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 ## § 155 — Výrok rozsudku + cizí měna + zveřejnění rozsudku
 
+> (1) Obsah rozhodnutí ve věci samé vysloví soud ve výroku rozsudku. Ve výroku také rozhodne o povinnosti k náhradě nákladů řízení; rozhodne-li jen o základu náhrady nákladů řízení, určí její výši v samostatném usnesení.
+>
+> (2) Výrok rozsudku o plnění v penězích může být vyjádřen v cizí měně, neodporuje-li to okolnostem případu a jestliže
+> a) plnění vychází z právního jednání, v němž je vyjádřeno v cizí měně, žalobce (navrhovatel) požaduje plnění v cizí měně a devizové předpisy umožňují tuzemci, který má plnit, plnění v navrhované cizí měně poskytnout bez zvláštního povolení, nebo
+> b) některý z účastníků je cizozemcem.
+>
+> (3) Nejsou-li splněny předpoklady pro přiznání plnění v cizí měně uvedené v odstavci 2, soud stanoví i bez návrhu plnění v měně České republiky.
+>
+> (4) Ve věcech ochrany práv porušených nebo ohrožených nekalým soutěžním jednáním, ochrany práv z duševního vlastnictví a ve věcech ochrany práv spotřebitelů může soud účastníkovi, jehož žalobě vyhověl, přiznat na jeho návrh ve výroku rozsudku právo rozsudek uveřejnit na náklady neúspěšného účastníka; podle okolností případu soud stanoví též rozsah, formu a způsob uveřejnění.
+
 ### Výklad
 
 **Odst. 1 — výrok:** Obsah meritorního rozhodnutí + povinnost k náhradě nákladů.
@@ -208,6 +240,12 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 ---
 
 ## § 156 — Vyhlášení rozsudku
+
+> (1) Rozsudek se vyhlašuje vždy veřejně; vyhlašuje jej předseda senátu jménem republiky. Uvede přitom výrok rozsudku spolu s odůvodněním a poučením o odvolání a o možnosti výkonu rozhodnutí. Není-li přítomen vyhlášení rozsudku žádný z účastníků, uvede pouze výrok. Po vyhlášení předseda senátu zpravidla účastníky vyzve, aby se vyjádřili, zda se vzdávají odvolání proti vyhlášenému rozsudku.
+>
+> (2) Rozsudek se vyhlašuje zpravidla hned po skončení jednání, které rozsudku předcházelo; není-li to možné, soud k vyhlášení rozsudku odročí jednání nejdéle na dobu deseti kalendářních dnů. Ustanovení § 119 odst. 2 a 3 se v tomto případě nepoužijí.
+>
+> (3) Jakmile soud vyhlásí rozsudek, je jím vázán.
 
 ### Výklad
 
@@ -232,6 +270,14 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 ---
 
 ## § 157 — ODŮVODNĚNÍ ROZSUDKU (klíčové procesní pravidlo!)
+
+> (1) Není-li stanoveno jinak, v písemném vyhotovení rozsudku se po slovech „Jménem republiky" uvede označení soudu, jména a příjmení soudců, přesné označení účastníků a jejich zástupců, účast státního zastupitelství, Úřadu pro zastupování státu ve věcech majetkových a ochránce práv dětí, označení projednávané věci, znění výroku, odůvodnění, poučení o tom, zda je přípustný opravný prostředek nepočítaje v to žalobu na obnovu řízení a pro zmatečnost, a o lhůtě a místu k jeho podání, poučení o možnosti výkonu rozhodnutí a den a místo vyhlášení. Je-li to možné, uvede se v označení účastníků též jejich datum narození (identifikační číslo).
+>
+> (2) Není-li dále stanoveno jinak, soud v odůvodnění rozsudku uvede, čeho se žalobce (navrhovatel) domáhal a z jakých důvodů a jak se ve věci vyjádřil žalovaný (jiný účastník řízení), stručně a jasně vyloží, které skutečnosti má prokázány a které nikoliv, o které důkazy opřel svá skutková zjištění a jakými úvahami se při hodnocení důkazů řídil, proč neprovedl i další důkazy, jaký učinil závěr o skutkovém stavu a jak věc posoudil po právní stránce; není přípustné ze spisu opisovat skutkové přednesy účastníků a provedené důkazy. Soud dbá o to, aby odůvodnění rozsudku bylo přesvědčivé. Odůvodnění uvedené v písemném vyhotovení rozsudku musí být v souladu s vyhlášeným odůvodněním.
+>
+> (3) V odůvodnění rozsudku pro uznání nebo rozsudku pro zmeškání uvede soud pouze předmět řízení a stručně vyloží důvody, pro které rozhodl rozsudkem pro uznání nebo rozsudkem pro zmeškání.
+>
+> (4) V odůvodnění rozsudku, proti němuž není odvolání přípustné nebo proti němuž se účastníci odvolání vzdali (§ 207 odst. 1), soud uvede pouze předmět řízení, závěr o skutkovém stavu a stručné právní posouzení věci.
 
 ### Výklad / smysl ustanovení
 
@@ -286,6 +332,14 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 ## § 158 — Vyhotovení + doručení rozsudku
 
+> (1) Písemné nebo elektronické vyhotovení rozsudku podepisuje předseda senátu. Nemůže-li je podepsat, podepíše je jiný člen senátu, a rozhodl-li samosoudce, jiný předsedou soudu pověřený soudce; důvod se na písemném vyhotovení poznamená. Rozsudek se vyhotovuje v té podobě, v jaké je veden spis.
+>
+> (2) Stejnopis rozsudku vyhotoveného v listinné podobě a rozsudek vyhotovený v elektronické podobě se doručuje účastníkům, popřípadě jejich zástupcům do vlastních rukou.
+>
+> (3) Jestliže se účastníci vzdali odvolání po skončení jednání, které rozsudku předcházelo, doručí se stejnopis vyhotovení rozsudku zpravidla při skončení jednání.
+>
+> (4) Jestliže stejnopis vyhotovení rozsudku nebyl doručen podle odstavce 3, je třeba jej účastníkům, popřípadě jejich zástupcům odeslat ve lhůtě třiceti dnů ode dne vyhlášení rozsudku. Předseda soudu je oprávněn tuto lhůtu prodloužit až o dalších šedesát dnů.
+
 ### Výklad
 
 **Odst. 1:** Podepisuje **předseda senátu** (případně jiný člen / pověřený soudce s poznámkou).
@@ -323,6 +377,14 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 ## § 159a — Závaznost rozsudku (RES IUDICATA)
 
+> (1) Nestanoví-li zákon jinak, je výrok pravomocného rozsudku závazný jen pro účastníky řízení.
+>
+> (2) Výrok pravomocného rozsudku, kterým bylo rozhodnuto ve věcech uvedených v § 83 odst. 2, je závazný nejen pro účastníky řízení, ale i pro další osoby oprávněné proti žalovanému pro tytéž nároky z téhož jednání nebo stavu. Zvláštní právní předpisy stanoví, v kterých dalších případech a v jakém rozsahu je výrok pravomocného rozsudku závazný pro jiné osoby než účastníky řízení.
+>
+> (3) V rozsahu, v jakém je výrok pravomocného rozsudku závazný pro účastníky řízení a popřípadě jiné osoby, je závazný též pro všechny orgány.
+>
+> (4) Jakmile bylo o věci pravomocně rozhodnuto, nemůže být v rozsahu závaznosti výroku rozsudku pro účastníky a popřípadě jiné osoby věc projednávána znovu.
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — inter partes:** Výrok pravomocného rozsudku je závazný **jen pro účastníky řízení** (nestanoví-li zákon jinak).
@@ -348,6 +410,14 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 ---
 
 ## § 160 — Lhůta plnění
+
+> (1) Uložil-li soud v rozsudku povinnost, je třeba ji splnit do tří dnů od právní moci rozsudku nebo, jde-li o vyklizení bytu, do patnácti dnů od právní moci rozsudku; soud může určit lhůtu delší nebo stanovit, že peněžité plnění se může stát ve splátkách, jejichž výši a podmínky splatnosti určí.
+>
+> (2) Odsoudil-li soud k opětujícímu se plnění v budoucnu splatných dávek, je třeba je plnit, jakmile se podle rozsudku stanou splatnými.
+>
+> (3) Uložil-li soud pravomocným rozsudkem povinnost vyklidit obydlí až po zajištění náhradního bydlení, běží lhůta k vyklizení až ode dne zajištění náhradního bydlení.
+>
+> (4) U rozsudků předběžně vykonatelných soud určí lhůtu k plnění od jejich doručení tomu, kdo má plnit.
 
 ### Výklad
 
@@ -389,6 +459,10 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 ## § 167 — Usnesení (procesní rozhodnutí)
 
+> (1) Nestanoví-li zákon jinak, rozhoduje soud usnesením. Usnesením se rozhoduje zejména o podmínkách řízení, o zastavení nebo přerušení řízení, o odmítnutí návrhu, o změně návrhu, o vzetí návrhu zpět, o smíru, o nákladech řízení, jakož i o věcech, které se týkají vedení řízení.
+>
+> (2) Není-li dále stanoveno jinak, užije se na usnesení přiměřeně ustanovení o rozsudku.
+
 ### Výklad
 
 Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
@@ -421,6 +495,15 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 
 ## § 172 — Klasický platební rozkaz (PR)
 
+> (1) Soud může i bez výslovné žádosti žalobce a bez slyšení žalovaného vydat platební rozkaz, je-li v žalobě uplatněno právo na zaplacení peněžité částky a vyplývá-li uplatněné právo ze skutečností uvedených žalobcem. V platebním rozkazu žalovanému uloží, aby do 15 dnů od doručení platebního rozkazu žalobci zaplatil uplatněnou pohledávku a náklady řízení nebo aby v téže lhůtě podal odpor u soudu, který platební rozkaz vydal.
+>
+> (2) Platební rozkaz nelze vydat,
+> a) není-li znám pobyt žalovaného;
+> b) má-li být platební rozkaz doručen žalovanému do ciziny;
+> c) je-li žalovaným ke dni zahájení řízení nebo ke dni vstupu do řízení nezletilý, který nenabyl plné svéprávnosti.
+>
+> (3) Nevydá-li soud platební rozkaz, nařídí jednání.
+
 ### Výklad / smysl ustanovení
 
 **Platební rozkaz** = **zkrácené řízení bez jednání**, nejčastější způsob vymáhání peněžitých pohledávek.
@@ -450,6 +533,10 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 
 ## § 173 — Doručení PR do vlastních rukou (BEZ FIKCE!)
 
+> (1) Platební rozkaz je třeba doručit žalovanému do vlastních rukou. Náhradní doručení je vyloučeno; to neplatí, doručuje-li se prostřednictvím veřejné datové sítě do datové schránky.
+>
+> (2) Nelze-li platební rozkaz doručit i jen jednomu ze žalovaných, soud jej usnesením zruší v plném rozsahu.
+
 ### Výklad
 
 **Odst. 1 — výlučně do vlastních rukou:**
@@ -467,6 +554,14 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 ---
 
 ## § 174 — Účinky PR + odpor
+
+> (1) Platební rozkaz, proti němuž nebyl podán odpor, má účinky pravomocného rozsudku.
+>
+> (2) Podá-li i jen jeden ze žalovaných včas odpor, ruší se tím platební rozkaz v plném rozsahu a soud nařídí jednání. Opravným prostředkem jen proti výroku o nákladech řízení je však i zde odvolání.
+>
+> (3) Pozdě podaný odpor soud usnesením odmítne; pro nedostatek odůvodnění nelze odpor odmítnout. Podaný odpor soud odmítne též tehdy, podal-li jej ten, kdo k podání odporu není oprávněn.
+>
+> (4) Při opravě chyb v psaní a v počtech, jakož i jiných zjevných nesprávností v platebním rozkazu se postupuje podle § 164.
 
 ### Výklad
 
@@ -492,6 +587,20 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 ---
 
 ## § 174a — ELEKTRONICKÝ PLATEBNÍ ROZKAZ (EPR)
+
+> (1) Je-li návrh podán na elektronickém formuláři podepsaném žalobcem, soud může vydat na návrh žalobce elektronický platební rozkaz. Tento formulář zveřejní ministerstvo způsobem umožňujícím dálkový přístup.
+>
+> (2) Návrh na vydání elektronického platebního rozkazu musí kromě obecných náležitostí (§ 42 odst. 4) a náležitostí podle § 79 odst. 1 obsahovat datum narození fyzické osoby, identifikační číslo právnické osoby nebo identifikační číslo fyzické osoby, která je podnikatelem.
+>
+> (3) Ustanovení § 172 až 174 platí obdobně.
+>
+> (4) Návrh na vydání elektronického platebního rozkazu, který neobsahuje všechny zákonem stanovené náležitosti, nebo který je nesrozumitelný anebo neurčitý, předseda senátu usnesením odmítne, jestliže pro tyto nedostatky nelze pokračovat v řízení; ustanovení § 43 se nepoužije.
+>
+> (5) Elektronický platební rozkaz nelze vydat,
+> a) pokračuje-li soud v řízení po jeho přerušení, nebo
+> b) nebyl-li zaplacen poplatek za řízení o vydání elektronického platebního rozkazu splatný podáním návrhu na zahájení řízení ani ve lhůtě soudem k tomu určené.
+>
+> (6) Odpor proti elektronickému platebnímu rozkazu lze podat také na elektronickém formuláři podepsaném žalovaným. Tento formulář zveřejní ministerstvo způsobem umožňujícím dálkový přístup.
 
 ### Výklad / smysl ustanovení
 
@@ -526,6 +635,12 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 
 ## § 174b — EVROPSKÝ PLATEBNÍ ROZKAZ
 
+> (1) Evropský platební rozkaz je třeba doručit žalovanému do vlastních rukou, náhradní doručení je vyloučeno.
+>
+> (2) K řízení o návrhu na přezkum evropského platebního rozkazu je příslušný soud, který evropský platební rozkaz vydal.
+>
+> (3) Usnesení soudu, jímž bylo vyhověno návrhu na přezkum evropského platebního rozkazu, se doručí účastníkům řízení o evropském platebním rozkazu.
+
 ### Výklad
 
 **Evropský platební rozkaz (EuPR)** = institut podle **Nařízení (ES) 1896/2006** o evropském řízení o platebním rozkazu. Slouží pro **přeshraniční vymáhání** v EU.
@@ -541,6 +656,18 @@ EuPR je užitečný pro **české podnikatele s pohledávkami v EU** — typicky
 ---
 
 ## § 175 — SMĚNEČNÝ / ŠEKOVÝ PR
+
+> (1) Předloží-li žalobce v prvopisu směnku nebo šek, o jejichž pravosti není důvodu pochybovat, a další listiny nutné k uplatnění práva, vydá na jeho návrh soud směnečný (šekový) platební rozkaz, v němž žalovanému uloží, aby do 15 dnů zaplatil požadovanou částku a náklady řízení nebo aby v téže lhůtě podal námitky, v nichž musí uvést vše, co proti platebnímu rozkazu namítá. Směnečný (šekový) platební rozkaz musí být doručen do vlastních rukou žalovaného, náhradní doručení je vyloučeno. Nelze-li návrhu na vydání platebního rozkazu vyhovět, nařídí soud jednání.
+>
+> (2) Ustanovení § 174 odst. 4 se použijí obdobně.
+>
+> (3) Nepodá-li žalovaný včas námitky nebo vezme-li je zpět, má směnečný (šekový) platební rozkaz účinky pravomocného rozsudku. Pozdě podané námitky nebo námitky, které neobsahují odůvodnění, soud odmítne. Podané námitky soud odmítne též tehdy, podal-li je ten, kdo k podání námitek není oprávněn.
+>
+> (4) Podá-li žalovaný včas námitky, nařídí soud k jejich projednání jednání; k námitkám později vzneseným však již nelze přihlížet. V rozsudku soud vysloví, zda směnečný (šekový) platební rozkaz ponechává v platnosti nebo zda ho zrušuje a v jakém rozsahu.
+>
+> (5) Vezme-li žalovaný námitky zpět, soud usnesením řízení o námitkách zastaví; jednání není třeba nařizovat.
+>
+> (6) Opravným prostředkem jen proti výroku o nákladech řízení je odvolání.
 
 ### Výklad / smysl ustanovení
 
@@ -570,28 +697,21 @@ EuPR je užitečný pro **české podnikatele s pohledávkami v EU** — typicky
 
 ---
 
-## § 175a — Rozkaz k vyklizení (novela 2014+)
+## § 175a — § 175z — zrušeno
 
-### Výklad
+> *Tyto paragrafy byly **zrušeny** novelou č. 293/2013 Sb. s účinností od 1. 1. 2014.*
+>
+> *Původně upravovaly **řízení o dědictví** a **činnost notářů v řízení o dědictví**. Celá tato agenda byla převedena do zákona č. 292/2013 Sb. o zvláštních řízeních soudních (ZŘS) — viz § 98 a násl. ZŘS (řízení o pozůstalosti).*
 
-**Nová úprava** — analogie PR pro **vyklizení bytu / domu** po skončení nájmu.
+### Korekce předchozí verze komentáře
 
-**Podmínky:**
-- žalobce uplatňuje právo na **vyklizení** po skončení nájmu,
-- právo vyplývá ze skutečností + listinných důkazů,
-- soud vydá rozkaz bez jednání + bez slyšení.
+Předchozí verze komentáře zde popisovala fiktivní institut „Rozkaz k vyklizení" — **takový institut v OSŘ neexistuje**. Zákon č. 99/1963 Sb. žádný „rozkaz k vyklizení" jako zvláštní typ rozhodnutí neupravuje; vyklizení nemovitosti se domáhá obecnou žalobou podle § 79 a násl. a soud o ní rozhoduje rozsudkem podle obecných pravidel.
 
-**Žalovaný má 15 dnů** na vyklizení nebo na **odpor**.
-
-**Odst. 2 — kdy NELZE:**
-- a) **nebyla předžalobní výzva** k vyklizení **14 dnů předem**,
-- b) probíhá řízení o **přezkumu výpovědi z nájmu**.
-
-**Odst. 3 — propojení s § 114b:** K rozkazu se připojí **kvalifikovaná výzva** k vyjádření (= fikce uznání nároku).
-
-### Praktický dopad
-
-Rozkaz k vyklizení je **vlastníkovi nemovitosti** efektivní nástroj k rychlému vyklizení nájemce po skončení nájmu (pokud nájemce nereaguje).
+Z platebních rozkazů OSŘ zná pouze:
+- **§ 172** — klasický platební rozkaz (pouze peněžitá pohledávka),
+- **§ 174a** — elektronický platební rozkaz,
+- **§ 174b** — evropský platební rozkaz,
+- **§ 175** — směnečný / šekový platební rozkaz.
 
 ---
 
