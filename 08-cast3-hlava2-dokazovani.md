@@ -47,6 +47,12 @@ V hlavě II OSŘ rozlišuje:
 
 ## § 120 — Projednací zásada
 
+> (1) Účastníci jsou povinni označit důkazy k prokázání svých tvrzení. Soud rozhoduje, které z navrhovaných důkazů provede.
+>
+> (2) Soud může provést jiné než účastníky navržené důkazy v případech, kdy jsou potřebné ke zjištění skutkového stavu a vyplývají-li z obsahu spisu. Neoznačí-li účastníci důkazy potřebné k prokázání svých tvrzení, vychází soud při zjišťování skutkového stavu z důkazů, které byly provedeny.
+>
+> (3) Soud může též vzít za svá skutková zjištění shodná tvrzení účastníků.
+
 ### Výklad / smysl ustanovení
 
 **Paragraf 120 je nosníkem civilního procesu** — vymezuje, **kdo navrhuje důkazy** a **kdo rozhoduje o jejich provedení**.
@@ -122,6 +128,12 @@ Pokud účastník neoznačí žádné důkazy, soud vychází z těch, **které 
 
 ## § 122 — Princip přímosti a ústnosti
 
+> (1) Dokazování provádí soud při jednání.
+>
+> (2) Je-li to účelné, může být o provedení důkazu dožádán jiný soud nebo předseda senátu může důkaz z pověření senátu provést mimo jednání, anebo lze důkaz provést s využitím videokonferenčního zařízení. Účastníci mají právo být přítomni u takto prováděného dokazování. Jeho výsledky je třeba vždy při jednání sdělit.
+>
+> (3) Senát může vždy rozhodnout, aby provedené důkazy byly doplněny nebo před ním opakovány.
+
 ### Výklad
 
 **Odst. 1:** Dokazování **provádí soud při jednání** = **přímost** (důkaz se provádí před tím soudem, který rozhoduje).
@@ -159,6 +171,8 @@ Pokud účastník neoznačí žádné důkazy, soud vychází z těch, **které 
 ---
 
 ## § 124 — Mlčenlivost při dokazování
+
+> Dokazování je třeba provádět tak, aby byla šetřena povinnost zachovávat mlčenlivost o utajovaných informacích chráněných zvláštním zákonem a jiná zákonem stanovená nebo státem uznávaná povinnost mlčenlivosti. V těchto případech lze provést výslech jen tehdy, jestliže vyslýchaného zprostil povinnosti mlčenlivosti příslušný orgán nebo ten, v jehož zájmu má tuto povinnost; přiměřeně to platí i tam, kde se provádí důkaz jinak než výslechem.
 
 ### Výklad
 
@@ -211,6 +225,14 @@ Dokazování **musí šetřit povinnost mlčenlivosti** (utajované informace + 
 
 ## § 126 — Výslech svědka
 
+> (1) Každá fyzická osoba, která není účastníkem řízení, je povinna dostavit se na předvolání k soudu a vypovídat jako svědek. Musí vypovědět pravdu a nic nezamlčovat. Výpověď může odepřít jen tehdy, kdyby jí způsobila nebezpečí trestního stíhání sobě nebo osobám blízkým; o důvodnosti odepření výpovědi rozhoduje soud.
+>
+> (2) Na počátku výslechu je třeba zjistit totožnost svědka a okolnosti, které mohou mít vliv na jeho věrohodnost. Dále je třeba poučit svědka o významu svědecké výpovědi, o jeho právech a povinnostech a o trestních následcích křivé výpovědi.
+>
+> (3) Předseda senátu vyzve svědka, aby souvisle vylíčil vše, co ví o předmětu výslechu. Klást otázky mají právo postupně předseda senátu, členové senátu, účastníci a znalci. Otázku položenou účastníkem nebo znalcem předseda senátu nepřipustí, jen jestliže nesouvisí s předmětem výslechu nebo naznačuje-li odpověď anebo je-li zejména předstíráním neprokázaných nebo nepravdivých skutečností klamavá; nepořizuje-li se o výpovědi záznam, uvede předseda senátu vždy v protokolu důvody, pro které otázka nebyla připuštěna.
+>
+> (4) Fyzická osoba, která je statutárním orgánem právnické osoby (členem tohoto orgánu), může být vyslechnuta v řízení, jehož účastníkem je tato právnická osoba, jen podle § 131.
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — povinnost svědčit:**
@@ -251,6 +273,10 @@ Dokazování **musí šetřit povinnost mlčenlivosti** (utajované informace + 
 
 ## § 126a — Výslech bývalého statutárního orgánu
 
+> (1) Fyzická osoba, která má vypovídat o okolnostech, týkajících se právnické osoby a nastalých v době, kdy byla jejím statutárním orgánem nebo členem tohoto orgánu, je povinna dostavit se na předvolání k soudu v řízení, jehož účastníkem je tato právnická osoba.
+>
+> (2) Výslech fyzické osoby uvedené v odstavci 1 se provede podle § 131 odst. 2 věty druhé a § 131 odst. 3.
+
 ### Výklad
 
 FO, která **byla** v minulosti statutárním orgánem PO, je povinna se k soudu **dostavit** a vypovídat o událostech doby výkonu funkce — v řízení, jehož účastníkem je PO. Vyslouchá se podle § 131 (= jako účastník).
@@ -262,6 +288,16 @@ Důležité v **korporátních sporech** — bývalý jednatel může být vysle
 ---
 
 ## § 127 — Znalec / odborné vyjádření
+
+> (1) Závisí-li rozhodnutí na posouzení skutečností, k nimž je třeba odborných znalostí, vyžádá soud u orgánu veřejné moci odborné vyjádření. Jestliže pro složitost posuzované otázky takový postup není postačující nebo je-li pochybnost o správnosti podaného odborného vyjádření, ustanoví soud znalce. Soud znalce vyslechne; znalci může také uložit, aby posudek vypracoval písemně. Je-li ustanoveno několik znalců, mohou podat společný posudek. Místo výslechu znalce může se soud v odůvodněných případech spokojit s písemným posudkem znalce.
+>
+> (2) Je-li pochybnost o správnosti posudku nebo je-li posudek nejasný nebo neúplný, je nutno požádat znalce o vysvětlení. Kdyby to nevedlo k výsledku, soud nechá znalecký posudek přezkoumat jiným znalcem.
+>
+> (3) Ve výjimečných, zvlášť obtížných případech, vyžadujících zvláštního vědeckého posouzení, může soud ustanovit k podání znaleckého posudku nebo přezkoumání posudku podaného znalcem státní orgán, vědecký ústav, vysokou školu nebo instituci specializovanou na znaleckou činnost.
+>
+> (4) Účastníkovi, popřípadě i někomu jinému, může předseda senátu uložit, aby se dostavil ke znalci, předložil mu potřebné předměty, podal mu nutná vysvětlení, podrobil se lékařskému vyšetření, popřípadě zkoušce krve, anebo aby něco vykonal nebo snášel, jestliže to je k podání znaleckého posudku třeba.
+>
+> (5) Za vydání odborného vyjádření podle odstavce 1 náleží finanční úhrada, stanoví-li tak zvláštní předpis.
 
 ### Výklad / smysl ustanovení
 
@@ -302,6 +338,8 @@ Důležité v **korporátních sporech** — bývalý jednatel může být vysle
 ---
 
 ## § 127a — Soukromý znalecký posudek (kvalifikovaný)
+
+> Jestliže znalecký posudek předložený účastníkem řízení má všechny zákonem požadované náležitosti a obsahuje doložku znalce o tom, že si je vědom následků vědomě nepravdivého znaleckého posudku, postupuje se při provádění tohoto důkazu stejně, jako by se jednalo o znalecký posudek vyžádaný soudem. Soud umožní znalci, kterého některá ze stran požádala o znalecký posudek, nahlédnout do spisu nebo mu jinak umožní seznámit se s informacemi potřebnými pro vypracování znaleckého posudku.
 
 ### Výklad / smysl ustanovení
 
@@ -353,6 +391,10 @@ V praxi typicky:
 
 ## § 129 — Důkaz listinou
 
+> (1) Důkaz listinou se provede tak, že ji nebo její část při jednání předseda senátu přečte nebo sdělí její obsah, případně předloží účastníkům k nahlédnutí, je-li to postačující.
+>
+> (2) Předseda senátu může uložit tomu, kdo má listinu potřebnou k důkazu, aby ji předložil, nebo ji opatří sám od jiného soudu, orgánu nebo právnické osoby.
+
 ### Výklad
 
 **Listinný důkaz** = klasický nejčastější důkaz. Provedení:
@@ -371,6 +413,10 @@ V praxi typicky:
 
 ## § 130 — Ohledání
 
+> (1) Ohledání předmětu, který je možno dopravit k soudu, provede se při jednání. Za tím účelem může předseda senátu uložit tomu, kdo má potřebný předmět, aby jej předložil.
+>
+> (2) Jinak se ohledání provádí na místě. Je k němu třeba předvolat ty, kteří se předvolávají k jednání.
+
 ### Výklad
 
 **Ohledání předmětu:**
@@ -385,6 +431,12 @@ V praxi typicky:
 ---
 
 ## § 131 — Výslech účastníka
+
+> (1) Důkaz výslechem účastníků může soud nařídit, jestliže dokazovanou skutečnost nelze prokázat jinak a jestliže s tím souhlasí účastník, který má být vyslechnut.
+>
+> (2) Nařídí-li soud jako důkaz výslech účastníků, jsou účastníci povinni dostavit se k výslechu. Při svém výslechu mají vypovědět pravdu a nic nezamlčovat; o tom musí být poučeni.
+>
+> (3) Ustanovení § 126 odst. 3 se zde použije obdobně.
 
 ### Výklad
 
@@ -462,6 +514,26 @@ V praxi typicky:
 ---
 
 ## § 133a — Antidiskriminační přesun důkazního břemene
+
+> (1) Pokud žalobce uvede před soudem skutečnosti, ze kterých lze dovodit, že ze strany žalovaného došlo k přímé nebo nepřímé diskriminaci
+> a) na základě pohlaví, rasového nebo etnického původu, náboženství, víry, světového názoru, zdravotního postižení, věku anebo sexuální orientace v oblasti pracovní nebo jiné závislé činnosti včetně přístupu k nim, povolání, podnikání nebo jiné samostatné výdělečné činnosti včetně přístupu k nim, členství v organizacích zaměstnanců nebo zaměstnavatelů a členství a činnosti v profesních komorách,
+> b) na základě rasového nebo etnického původu při poskytování zdravotní a sociální péče, v přístupu ke vzdělání a odborné přípravě, přístupu k veřejným zakázkám, přístupu k bydlení, členství ve spolcích a jiných zájmových sdruženích a při prodeji zboží v obchodě nebo poskytování služeb, nebo
+> c) na základě pohlaví při přístupu ke zboží a službám,
+>
+> je žalovaný povinen dokázat, že nedošlo k porušení zásady rovného zacházení.
+>
+> (2) Pokud žalobce uvede před soudem skutečnosti, ze kterých lze dovodit, že byl ze strany žalovaného vystaven odvetnému opatření proto, že je oznamovatelem podle zákona o ochraně oznamovatelů, je žalovaný povinen dokázat, že přijetí tvrzeného opatření bylo objektivně odůvodněno legitimním cílem a představovalo k tomuto cíli přiměřený a nezbytný prostředek.
+>
+> (3) Pokud žalobce uvede před soudem skutečnosti, ze kterých lze dovodit, že mu žalovaný dal výpověď z pracovního poměru nebo okamžitě zrušil pracovní poměr nebo zrušil právní vztah založený dohodou o provedení práce nebo dohodou o pracovní činnosti výpovědí nebo okamžitým zrušením proto, že
+> a) se žalobce zákonným způsobem domáhal
+>   1. práva na informace při vzniku nebo změně pracovněprávního vztahu podle § 37 nebo § 77a zákoníku práce,
+>   2. práva na informace při vysílání zaměstnance na území jiného státu podle § 37a nebo 77b zákoníku práce,
+>   3. práva na rozvržení pracovní doby předem podle § 74 odst. 2 nebo § 84 zákoníku práce,
+>   4. práva na odborný rozvoj podle § 227 až 230 zákoníku práce,
+> b) žalobce zaměstnavatele požádal o zaměstnání v pracovním poměru podle § 77 odst. 4 zákoníku práce, o čerpání mateřské, otcovské nebo rodičovské dovolené nebo tuto dovolenou čerpal, nebo
+> c) žalobce zaměstnavatele požádal o možnost pečovat o jinou fyzickou osobu nebo ji ošetřovat podle § 191 zákoníku práce nebo o takovou fyzickou osobu podle § 191 zákoníku práce pečoval nebo ji ošetřoval,
+>
+> je žalovaný povinen dokázat, že k výpovědi nebo okamžitému zrušení došlo z jiného důvodu.
 
 ### Výklad / smysl ustanovení
 
@@ -548,6 +620,10 @@ Praktické u **velkých zásilek** padělaného zboží (kontejnery) — ohledá
 ---
 
 ## § 135 — Vázanost trestním (a jinými) rozhodnutími
+
+> (1) Soud je vázán rozhodnutím příslušných orgánů o tom, že byl spáchán trestný čin, přestupek nebo jiný správní delikt postižitelný podle zvláštních předpisů, a kdo je spáchal, jakož i rozhodnutím o osobním stavu; soud však není vázán rozhodnutím v blokovém řízení.
+>
+> (2) Jinak otázky, o nichž přísluší rozhodnout jinému orgánu, může soud posoudit sám. Bylo-li však o takové otázce vydáno příslušným orgánem rozhodnutí, soud z něho vychází.
 
 ### Výklad / smysl ustanovení
 
