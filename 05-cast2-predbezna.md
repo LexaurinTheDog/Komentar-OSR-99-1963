@@ -113,6 +113,13 @@ Navrhovatel **má volbu** — typicky podává návrh u soudu **blíže k důkaz
 
 ## § 78b — Předmět zajištění v IP věcech
 
+> (1) Ve věcech týkajících se práv z duševního vlastnictví lze před zahájením řízení o věci samé na návrh toho, kdo osvědčil porušení práva z duševního vlastnictví, za účelem provedení důkazu (§ 130 odst. 1) zajistit
+> a) zboží, popřípadě přiměřený vzorek zboží, jehož výrobou mohlo být porušeno právo z duševního vlastnictví,
+> b) materiál a nástroje, které byly použity k výrobě nebo rozšiřování zboží uvedeného v písmenu a),
+> c) dokumenty týkající se zboží uvedeného v písmenu a).
+>
+> (2) Zajištění podle odstavce 1 je přípustné jen tehdy, nebylo-li zboží, materiál, nástroje nebo dokumenty předmětem zajištění důkazu podle § 78 nebo 78a, popřípadě jestliže pomocí takovéhoto zajištění důkazu nebylo možné postihnout všechny okolnosti významné pro rozhodnutí věci samé.
+
 ### Výklad
 
 **Odst. 1 — co lze zajistit:**
@@ -144,6 +151,10 @@ V praxi nejčastěji:
 
 ## § 78c — Příslušnost a účastníci
 
+> (1) K zajištění předmětu důkazního prostředku je příslušný krajský soud, v jehož obvodu je zajišťovaný předmět důkazního prostředku.
+>
+> (2) Účastníky řízení jsou navrhovatel, ti, kteří by jimi byli, kdyby šlo o věc samu, a ten, kdo má zajišťovaný předmět důkazního prostředku u sebe.
+
 ### Výklad
 
 **Odst. 1 — výlučně krajský soud:** Příslušný je **krajský soud**, v jehož obvodu je **zajišťovaný předmět**. To odpovídá obecné věcné příslušnosti krajských soudů ve věcech DV (§ 9 odst. 2 písm. g).
@@ -158,6 +169,12 @@ Tato třetí kategorie účastníka je důležitá — držitel **nemusí být t
 ---
 
 ## § 78d — Jistota v IP věcech
+
+> (1) Předseda senátu může, vyžadují-li to okolnosti, uložit navrhovateli povinnost složit jistotu k zajištění náhrady škody nebo jiné újmy, která by vznikla zajištěním předmětu důkazního prostředku. Výši jistoty stanoví předseda senátu s přihlédnutím k okolnostem případu, maximálně však ve výši 100 000 Kč. Takto stanovená jistota je splatná do 8 dnů od doručení rozhodnutí o stanovení jistoty navrhovateli. Podalo-li návrh více navrhovatelů, jsou povinni jistotu složit společně a nerozdílně.
+>
+> (2) Nebude-li jistota podle odstavce 1 včas složena, předseda senátu návrh na zajištění předmětu důkazního prostředku odmítne; zmeškání lhůty uvedené v odstavci 1 nelze prominout.
+>
+> (3) Byl-li návrh na zajištění předmětu důkazního prostředku pravomocně zamítnut nebo odmítnut, popřípadě bylo-li řízení o tomto návrhu pravomocně zastaveno, soud složenou jistotu vrátí. V případě, že soud nařídil zajištění předmětu důkazního prostředku, bude jistota vrácena, jestliže zajištění předmětu důkazního prostředku zaniklo podle § 78f odst. 1 písm. a), jestliže marně uplynula lhůta k žalobě podle § 78g odst. 2, nebo jestliže nabylo právní moci rozhodnutí o žalobě podané podle § 78g odst. 2 a z tohoto rozhodnutí vyplývá, že jistota nebude použita k uspokojení práva na náhradu škody nebo jiné újmy.
 
 ### Výklad
 
@@ -182,6 +199,14 @@ Soud uloží jistotu **typicky tehdy**, hrozí-li, že zajištění způsobí v�
 
 ## § 78e — Rozhodnutí o zajištění (lhůta, bez slyšení, fyzické odebrání)
 
+> (1) Nepostupoval-li předseda senátu podle § 78d odst. 2 a jsou-li splněny předpoklady uvedené v § 78b, předseda senátu usnesením nařídí zajištění předmětu důkazního prostředku.
+>
+> (2) O návrhu na zajištění předmětu důkazního prostředku soud rozhodne bez slyšení účastníků. Pro zajištění předmětu důkazního prostředku je rozhodující stav v době vyhlášení (vydání) rozhodnutí soudu prvního stupně.
+>
+> (3) V usnesení o nařízení zajištění předmětu důkazního prostředku předseda senátu navrhovateli uloží, aby ve lhůtě, kterou mu určí, podal u soudu žalobu.
+>
+> (4) Předmět důkazního prostředku, o jehož zajištění bylo rozhodnuto podle odstavce 1, se složí u soudu nebo u vhodného schovatele; tomu, kdo má předmět u sebe a odmítne jej předat dobrovolně, bude soudem odebrán, a to ihned poté, co mu bude doručen stejnopis vyhotovení usnesení o nařízení zajištění předmětu důkazního prostředku.
+
 ### Výklad
 
 **Odst. 1 — vlastní rozhodnutí:** Pokud byly splněny předpoklady § 78b a navrhovatel složil případnou jistotu, předseda senátu **usnesením nařídí zajištění**.
@@ -205,6 +230,15 @@ Soud uloží jistotu **typicky tehdy**, hrozí-li, že zajištění způsobí v�
 
 ## § 78f — Zánik / zrušení zajištění
 
+> (1) Zajištění předmětu důkazního prostředku zanikne, jestliže
+> a) navrhovatel nepodal ve lhůtě určené soudem žalobu,
+> b) v řízení o věci samé byl proveden důkaz ohledáním zajištěného předmětu důkazního prostředku,
+> c) řízení o věci samé bylo pravomocně skončeno, aniž by v něm byl proveden důkaz ohledáním zajištěného předmětu důkazního prostředku.
+>
+> (2) Předseda senátu zajištění předmětu důkazního prostředku usnesením zruší, jestliže pominuly důvody, pro které bylo nařízeno.
+>
+> (3) Poté, co zajištění zanikne nebo co bude pravomocně zrušeno, vrátí se předmět důkazního prostředku tomu, kdo jej předložil soudu nebo komu byl soudem odebrán.
+
 ### Výklad
 
 **Odst. 1 — automatický zánik:**
@@ -223,6 +257,14 @@ Soud uloží jistotu **typicky tehdy**, hrozí-li, že zajištění způsobí v�
 ---
 
 ## § 78g — Odpovědnost navrhovatele za škodu (paralelní úprava k § 77a)
+
+> (1) Zaniklo-li zajištění předmětu důkazního prostředku podle § 78f odst. 1 písm. a) nebo nebylo-li žalobě ve věci samé pravomocným rozhodnutím ani zčásti vyhověno, aniž by právo navrhovatele bylo byť jen zčásti uspokojeno, je navrhovatel povinen nahradit škodu a jinou újmu každému, komu zajištěním předmětu důkazního prostředku vznikla. Této odpovědnosti se navrhovatel nemůže zprostit, ledaže by ke škodě nebo jiné újmě došlo i jinak.
+>
+> (2) Žalobu o náhradu škody nebo jiné újmy podle odstavce 1 je třeba podat nejpozději do 6 měsíců ode dne, kdy zajištění předmětu důkazního prostředku zaniklo podle § 78f odst. 1 písm. a) nebo kdy bylo o žalobě ve věci samé pravomocně rozhodnuto, jinak právo zanikne. Zmeškání této lhůty nelze prominout.
+>
+> (3) Příslušným k projednání žaloby podle odstavce 2 a k rozhodnutí o ní je příslušný soud uvedený v § 78c odst. 1.
+>
+> (4) Pravomocně přiznaná náhrada škody nebo jiné újmy se uspokojí z navrhovatelem složené jistoty; nepostačuje-li k uspokojení všech poškozených, rozdělí soud jistotu mezi ně poměrně. Povinnost navrhovatele nahradit škodu nebo jinou újmu, která nebyla zajištěna složenou jistotou, tím není dotčena.
 
 ### Výklad / smysl ustanovení
 
