@@ -33,6 +33,16 @@
 
 ## § 137 — Co se počítá za náklady řízení
 
+> (1) Náklady řízení jsou zejména hotové výdaje účastníků a jejich zástupců, včetně soudního poplatku, ušlý výdělek účastníků a jejich zákonných zástupců, náklady důkazů, tlumočné, náhrada za daň z přidané hodnoty, odměna za zastupování a odměna pro mediátora podle zákona o mediaci za první setkání s mediátorem nařízené soudem podle § 100 odst. 2.
+>
+> (2) Odměna za zastupování patří k nákladům řízení, jen je-li zástupcem advokát nebo notář v rozsahu svého oprávnění stanoveného zvláštními právními předpisy anebo patentový zástupce v rozsahu oprávnění stanoveného zvláštními právními předpisy.
+>
+> (3) Náhrada za daň z přidané hodnoty patří k nákladům řízení, jen je-li zástupcem
+> a) advokát, notář v rozsahu svého oprávnění stanoveného zvláštními právními předpisy nebo patentový zástupce v rozsahu svého oprávnění stanoveného zvláštními právními předpisy, který je plátcem daně z přidané hodnoty podle zvláštního právního předpisu,
+> b) advokát, který je společníkem právnické osoby zřízené za účelem výkonu advokacie podle zvláštního právního předpisu, a plátcem daně z přidané hodnoty podle zvláštního právního předpisu je tato právnická osoba,
+> c) patentový zástupce v rozsahu svého oprávnění stanoveného zvláštními právními předpisy, který je společníkem, akcionářem, zaměstnancem nebo členem statutárního nebo dozorčího orgánu společnosti patentových zástupců, a plátcem daně z přidané hodnoty podle zvláštního právního předpisu je tato právnická osoba,
+> d) advokát, který je zaměstnancem jiného advokáta nebo právnické osoby zřízené za účelem výkonu advokacie podle zvláštního právního předpisu, a plátcem daně z přidané hodnoty podle zvláštního právního předpisu je tento zaměstnavatel advokáta.
+
 ### Výklad / smysl ustanovení
 
 **Demonstrativní výčet nákladů řízení** (odst. 1):
@@ -70,6 +80,12 @@
 
 ## § 138 — Osvobození od soudních poplatků
 
+> (1) Na návrh může předseda senátu přiznat účastníkovi zčásti osvobození od soudních poplatků, odůvodňují-li to poměry účastníka a nejde-li o svévolné nebo zřejmě bezúspěšné uplatňování nebo bránění práva; přiznat účastníkovi osvobození od soudních poplatků zcela lze pouze výjimečně, jsou-li proto zvlášť závažné důvody, a toto rozhodnutí musí být odůvodněno. Nerozhodne-li předseda senátu jinak, vztahuje se osvobození na celé řízení a má i zpětnou účinnost; poplatky zaplacené před rozhodnutím o osvobození se však nevracejí.
+>
+> (2) Přiznané osvobození předseda senátu kdykoli za řízení odejme, popřípadě i se zpětnou účinností, jestliže se do pravomocného skončení řízení ukáže, že poměry účastníka osvobození neodůvodňují, popřípadě neodůvodňovaly.
+>
+> (3) Byl-li účastníku osvobozenému od soudních poplatků ustanoven zástupce, vztahuje se osvobození v rozsahu, v jakém bylo přiznáno, i na hotové výdaje zástupce a na odměnu za zastupování.
+
 ### Výklad
 
 **Odst. 1 — předpoklady:**
@@ -103,6 +119,14 @@
 
 ## § 139 — Náhrady svědků, znalců, edicí
 
+> (1) Svědci a fyzické osoby uvedené v § 126a mají právo na náhradu hotových výdajů a ušlého výdělku (svědečné). Toto právo zaniká, není-li uplatněno do tří dnů od výslechu nebo ode dne, kdy bylo svědku oznámeno, že k výslechu nedojde. O tom musí soud svědka a fyzické osoby uvedené v § 126a poučit.
+>
+> (2) Byl-li podán znalecký posudek nebo proveden tlumočnický úkon, vzniká právo na náhradu hotových výdajů a na odměnu (znalečné a tlumočné). Zvláštní předpisy stanoví, komu a v jaké výši se znalečné a tlumočné vyplácí.
+>
+> (3) Ten, komu soud uložil při dokazování nějakou povinnost, zejména aby předložil listinu, má tatáž práva jako svědek, není-li účastníkem. Musí je uplatnit za týchž podmínek jako svědek.
+>
+> (4) O právech podle odstavců 1 až 3 rozhoduje předseda senátu.
+
 ### Výklad
 
 **Odst. 1 — svědečné:** Svědci (a osoby podle § 126a — bývalí stat. orgány) mají právo na:
@@ -123,6 +147,12 @@
 
 ## § 140 — Kdo platí v průběhu
 
+> (1) Každý účastník platí náklady řízení, které vznikají jemu osobně, a náklady svého zástupce. Společné náklady platí účastníci podle poměru účastenství na věci a na řízení; nelze-li poměr účastenství určit, platí je rovným dílem. Účastníci uvedení v § 91 odst. 2 platí společné náklady společně a nerozdílně.
+>
+> (2) Byl-li ustanoven účastníku zástupcem nebo opatrovníkem advokát, platí jeho hotové výdaje a odměnu za zastupování, popřípadě též náhradu za daň z přidané hodnoty, stát; při určení náhrady hotových výdajů a odměny za zastupování se postupuje podle ustanovení zvláštního právního předpisu o mimosmluvní odměně a náhradu za daň z přidané hodnoty soud určí z odměny za zastupování a z náhrady hotových výdajů podle sazby daně z přidané hodnoty stanovené zvláštním právním předpisem. V odůvodněných případech stát poskytne advokátovi přiměřenou zálohu.
+>
+> (3) Bylo-li nařízeno první setkání s mediátorem podle § 100 odst. 2 nebo § 114c odst. 3 písm. d), platí odměnu za účastníka osvobozeného od soudních poplatků stát; při určení odměny za zastupování se postupuje podle ustanovení zvláštního právního předpisu a náhradu za daň z přidané hodnoty soud určí z odměny podle sazby daně z přidané hodnoty stanovené zvláštním právním předpisem.
+
 ### Výklad
 
 **Odst. 1 — princip:** **Každý platí své** náklady. Společné náklady **podle poměru účastenství**, jinak **rovným dílem**. Při nerozlučném společenství (§ 91 odst. 2) **společně a nerozdílně**.
@@ -138,6 +168,10 @@ V průběhu sporu **každá strana hradí své náklady**. Až po skončení (§
 ---
 
 ## § 141 — Záloha na náklady důkazů
+
+> (1) Lze-li očekávat náklady důkazu, který účastník navrhl nebo který nařídil soud o skutečnostech jím uvedených anebo v jeho zájmu, uloží předseda senátu tomuto účastníku, není-li osvobozen od soudních poplatků, aby před jeho provedením složil zálohu podle předpokládané výše nákladů, jinak nelze důkaz navrhovaný účastníkem provést, o tom musí být účastník poučen.
+>
+> (2) Náklady důkazů, které nejsou kryty zálohou, jakož i hotové výdaje ustanoveného zástupce, který není advokátem, a náklady spojené s tím, že účastník jedná ve své mateřštině nebo se dorozumívá některým z komunikačních systémů neslyšících a hluchoslepých osob, platí stát.
 
 ### Výklad
 
@@ -160,6 +194,14 @@ V průběhu sporu **každá strana hradí své náklady**. Až po skončení (§
 ## NÁHRADA NÁKLADŮ PO SKONČENÍ (§ 142 — § 150)
 
 ## § 142 — Úspěch ve věci ("Loser pays")
+
+> (1) Účastníku, který měl ve věci plný úspěch, přizná soud náhradu nákladů potřebných k účelnému uplatňování nebo bránění práva proti účastníku, který ve věci úspěch neměl.
+>
+> (2) Měl-li účastník ve věci úspěch jen částečný, soud náhradu nákladů poměrně rozdělí, popřípadě vysloví, že žádný z účastníků nemá na náhradu nákladů právo.
+>
+> (3) I když měl účastník ve věci úspěch jen částečný, může mu soud přiznat plnou náhradu nákladů řízení, měl-li neúspěch v poměrně nepatrné části nebo záviselo-li rozhodnutí o výši plnění na znaleckém posudku nebo na úvaze soudu.
+>
+> (4) V řízení zahájeném na návrh nejvyššího státního zástupce nebo státního zastupitelství podle zvláštních předpisů přizná soud žalovanému za podmínek uvedených v odstavcích 1 až 3 náhradu těchto nákladů proti státu. To platí obdobně, bylo-li řízení zahájeno na návrh Úřadu pro zastupování státu ve věcech majetkových v případech a za podmínek uvedených v § 35a nebo na návrh ochránce práv dětí v případech a za podmínek uvedených v § 35b.
 
 ### Výklad / smysl ustanovení
 
@@ -196,6 +238,10 @@ V průběhu sporu **každá strana hradí své náklady**. Až po skončení (§
 ---
 
 ## § 142a — Předžalobní výzva k plnění (klíčová podmínka pro náhradu nákladů!)
+
+> (1) Žalobce, který měl úspěch v řízení o splnění povinnosti, má právo na náhradu nákladů řízení proti žalovanému, jen jestliže žalovanému ve lhůtě nejméně 7 dnů před podáním návrhu na zahájení řízení zaslal na adresu pro doručování, případně na poslední známou adresu výzvu k plnění.
+>
+> (2) Jsou-li tu důvody hodné zvláštního zřetele, může soud výjimečně náhradu nákladů řízení zcela nebo zčásti žalobci přiznat i v případě, že žalobce žalovanému výzvu k plnění za podmínek uvedených v odstavci 1 nezaslal.
 
 ### Výklad / smysl ustanovení
 
@@ -262,6 +308,14 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 
 ## § 146 — Zpětvzetí, smír, zastavení
 
+> (1) Žádný z účastníků nemá právo na náhradu nákladů řízení podle jeho výsledku, jestliže řízení
+> a) skončilo smírem, pokud v něm nebylo o náhradě nákladů ujednáno něco jiného;
+> b) bylo zastaveno.
+>
+> (2) Jestliže některý z účastníků zavinil, že řízení muselo být zastaveno, je povinen hradit jeho náklady. Byl-li však pro chování žalovaného (jiného účastníka řízení) vzat zpět návrh, který byl podán důvodně, je povinen hradit náklady řízení žalovaný (jiný účastník řízení).
+>
+> (3) Odmítne-li soud žalobu nebo jiný návrh na zahájení řízení, je žalobce (navrhovatel) povinen nahradit ostatním účastníkům jejich náklady.
+
 ### Výklad
 
 **Odst. 1 — žádný náklad:**
@@ -285,6 +339,10 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 
 ## § 147 — Procesní zavinění
 
+> (1) Účastníku nebo jeho zástupci může soud uložit, aby hradili náklady řízení, které by jinak nebyly vznikly, jestliže je způsobili svým zaviněním nebo jestliže tyto náklady vznikly náhodou, která se jim přihodila.
+>
+> (2) Soud může uložit svědkům, fyzickým osobám uvedeným v § 126a, znalcům, tlumočníkům nebo těm, kteří při dokazování měli nějakou povinnost, jestliže zavinili náklady řízení, které by jinak nebyly vznikly, aby je nahradili účastníkům.
+
 ### Výklad
 
 **Odst. 1 — zaviněné náklady účastníka / zástupce:** Soud může uložit hradit náklady, **které by jinak nebyly vznikly**, pokud byly způsobeny:
@@ -306,6 +364,12 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 
 ## § 148 — Stát vs. účastník
 
+> (1) Stát má podle výsledků řízení proti účastníkům právo na náhradu nákladů řízení, které platil, pokud u nich nejsou předpoklady pro osvobození od soudních poplatků.
+>
+> (2) Soud může uložit svědkům, fyzickým osobám uvedeným v § 126a, znalcům, tlumočníkům nebo těm, kteří při dokazování měli nějakou povinnost, aby nahradili státu náklady řízení, které by jinak nebyly vznikly, jestliže je zavinili.
+>
+> (3) Při správě placení pohledávek uvedených v odstavcích 1 a 2 se postupuje podle daňového řádu. Tyto pohledávky vymáhá celní úřad.
+
 ### Výklad
 
 **Odst. 1:** Stát má proti **prohravším** účastníkům právo na **náhradu nákladů, které stát platil** (typicky odměna ex offo advokáta, tlumočníka, znalce hrazeného státem). Pokud účastník splňuje předpoklady osvobození od poplatků — stát nepožaduje.
@@ -317,6 +381,14 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 ---
 
 ## § 149 — Komu se náhrada nákladů zaplatí
+
+> (1) Zastupoval-li advokát účastníka, jemuž byla přisouzena náhrada nákladů řízení, je ten, jemuž byla uložena náhrada těchto nákladů, povinen zaplatit ji advokátu.
+>
+> (2) Zastupoval-li ustanovený advokát účastníka, jemuž byla přisouzena náhrada nákladů řízení, je ten, jemuž byla uložena náhrada těchto nákladů, povinen zaplatit státu náhradu hotových výdajů advokáta a odměnu za zastupování.
+>
+> (3) Zastupoval-li účastníka, jemuž byla přisouzena náhrada nákladů řízení, jiný zástupce než podle § 137 odst. 2, je ten, jemuž byla uložena náhrada těchto nákladů, povinen zaplatit ji účastníkovi.
+>
+> (4) Ustanovení odstavce 1 platí obdobně, zastupoval-li účastníka notář v rozsahu svého oprávnění stanoveného zvláštními předpisy nebo patentový zástupce v rozsahu oprávnění stanoveného zvláštními právními předpisy.
 
 ### Výklad
 
@@ -375,6 +447,18 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 ## ROZHODOVÁNÍ O NÁKLADECH (§ 151)
 
 ## § 151 — Postup soudu při rozhodování
+
+> (1) O povinnosti k náhradě nákladů řízení rozhodne soud bez návrhu v rozhodnutí, jímž se řízení u něho končí; u náhrady nákladů řízení podle § 147 a § 148 odst. 2 tak může učinit již v průběhu řízení, a to zpravidla tehdy, jakmile tyto náklady vzniknou.
+>
+> (2) Při rozhodování o náhradě nákladů řízení soud určí výši odměny za zastupování advokátem nebo notářem v rámci jeho oprávnění stanoveného zvláštním právním předpisem anebo patentovým zástupcem v rozsahu jeho oprávnění stanoveného zvláštními právními předpisy podle ustanovení zvláštního právního předpisu o mimosmluvní odměně. Náhradu za daň z přidané hodnoty soud určí z odměny za zastupování a z náhrad podle sazby daně z přidané hodnoty stanovené zvláštním právním předpisem. Náhradu mzdy (platu) a náhradu hotových výdajů soud stanoví podle zvláštních právních předpisů. Náhradu za odměnu znalce, který podal posudek podle § 127a, soud určí podle sazby odměny stanovené zvláštním právním předpisem. Jinak soud vychází z nákladů, které účastníku prokazatelně vznikly.
+>
+> (3) Účastníku, který nebyl v řízení zastoupen zástupcem podle § 137 odst. 2 a který nedoložil výši hotových výdajů svých nebo svého jiného zástupce, přizná soud náhradu v paušální výši určené zvláštním právním předpisem. Paušální náhrada zahrnuje hotové výdaje účastníka a jeho zástupce; nezahrnuje však náhradu soudního poplatku.
+>
+> (4) Náklady řízení, které by jinak nebyly vznikly, protože je způsobili účastníci řízení, jejich zástupci svým zaviněním nebo jestliže tyto náklady vznikly náhodou, která se jim přihodila, nebo protože je způsobili svědci, osoby uvedené v § 126a, znalci, tlumočníci nebo ti, kteří při dokazování měli nějakou povinnost, nemohou být nahrazeny z jiného důvodu než podle § 147.
+>
+> (5) Určit výši nákladů může předseda senátu až v písemném vyhotovení rozhodnutí.
+>
+> (6) I když bylo o náhradě nákladů řízení rozhodnuto samostatným usnesením, běží lhůta k plnění vždy až od právní moci rozhodnutí, jímž byla náhrada nákladů řízení přiznána.
 
 ### Výklad
 
