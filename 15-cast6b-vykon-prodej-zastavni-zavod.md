@@ -71,6 +71,12 @@ Tato kapitola pokrývá **„materiální" způsoby výkonu** — nucené posti�
 
 ## § 323 — Prodej movitých věcí — obecně
 
+> **(1)** Výkonem rozhodnutí prodejem movitých věcí mohou být postiženy movité věci s výjimkou věcí postihovaných podle části šesté hlav druhé až čtvrté. Výkon rozhodnutí prodejem movité věci, k jejímuž využití slouží věc v přídatném spoluvlastnictví, se vztahuje i na podíl na této věci v přídatném spoluvlastnictví.
+>
+> **(2)** Výkon rozhodnutí může být nařízen podle návrhu oprávněného s výslovným určením věcí, které mají být prodány, nebo bez tohoto určení.
+>
+> **(3)** Je-li oprávněnému známo, že má povinný některou movitou věc umístěnou mimo svůj byt (sídlo), anebo že povinný je vlastníkem zaknihovaného cenného papíru, uvede oprávněný takovou skutečnost již v návrhu na výkon rozhodnutí; oprávněný rovněž uvede podle možností, kde se movitá věc nachází nebo kde je zaknihovaný cenný papír evidován.
+
 ### Výklad
 
 **Odst. 1:** Výkon prodejem **movitých věcí** s výjimkou věcí postihovaných jinými způsoby (srážky, přikázání pohledávek atd.).
@@ -90,6 +96,12 @@ Soud:
 ---
 
 ## § 325, § 325a, § 325b — Soupis na místě samém + prohlídka bytu
+
+> **§ 325 (1)** Usnesení o nařízení výkonu rozhodnutí prodejem movitých věcí doručí se povinnému až při provádění výkonu. Není-li při provádění výkonu povinný přítomen, doručí se mu usnesení spolu s vyrozuměním o tom, že byl proveden soupis a které věci byly sepsány. **(2)** Vyrozumění o tom, že byl proveden soupis a které věci byly sepsány, doručí se také oprávněnému a manželu povinného.
+>
+> **§ 325a** Vyžaduje-li to účel výkonu rozhodnutí, je ten, kdo provádí výkon, oprávněn učinit osobní prohlídku povinného a prohlídku bytu (sídla) a jiných místností povinného, jakož i jeho skříní nebo jiných schránek v nich umístěných, kde má povinný svůj majetek; za tím účelem je oprávněn zjednat si do bytu nebo do jiné místnosti povinného přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+>
+> **§ 325b (1)** Povinný umožní tomu, kdo provádí výkon rozhodnutí, přístup na všechna místa, kde má své movité věci umístěny. **(2)** Každý, v jehož objektu má povinný svůj byt (sídlo) nebo jiné své místnosti, je povinen strpět, aby ten, kdo provádí výkon rozhodnutí, provedl prohlídku bytu a jiných místností povinného. Nesplní-li tuto povinnost, je ten, kdo provádí výkon, oprávněn zjednat si k bytu nebo jiné místnosti povinného přístup. **(3)** O průběhu prohlídky bytu a jiných místností ten, kdo provádí výkon rozhodnutí, pořídí zvukově obrazový záznam. O tom musí být přítomné osoby poučeny při zahájení prohlídky.
 
 ### Výklad
 
@@ -152,6 +164,12 @@ Speciální procesy pro:
 
 ## § 335 — Postup u prodeje nemovité věci
 
+> **(1)** Výkon rozhodnutí prodejem nemovitých věcí může být nařízen, jen když oprávněný označí nemovitou věc, jejíž prodej navrhuje, a jestliže listinami vydanými nebo ověřenými státními orgány, popřípadě též veřejnými listinami notáře doloží, že nemovitá věc je ve vlastnictví povinného. O tom, že byl podán návrh na nařízení výkonu rozhodnutí prodejem nemovitých věcí, soud vyrozumí příslušný katastrální úřad.
+>
+> **(2)** Návrh dalšího oprávněného na nařízení výkonu rozhodnutí prodejem téže nemovité věci podaný u příslušného soudu dříve, než soud pravomocně rozhodl o nařízení výkonu rozhodnutí, se považuje za přistoupení k řízení, a to ode dne podání návrhu. (…) Další oprávněný musí přijmout stav řízení, v němž je při jeho přistoupení.
+>
+> **(3)** Oprávněný může vzít zpět svůj návrh až do právní moci usnesení o nařízení výkonu rozhodnutí. Soud však řízení zastaví jen tehdy, souhlasí-li s tím všichni oprávnění, kteří přistoupili do řízení.
+
 ### Výklad
 
 Klíčový institut. Postup ve **3 fázích**:
@@ -170,6 +188,18 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 ---
 
 ## § 336a — Cena pro dražbu (klíčový institut!)
+
+> **(1)** Podle výsledků ocenění a ohledání provedeného podle § 336 určí soud
+> a) nemovitou věc, které se výkon týká,
+> b) příslušenství nemovité věci, kterého se výkon týká,
+> c) výslednou cenu nemovité věci a jejího příslušenství, kterého se výkon týká,
+> d) soudu oznámená nebo jinak známá věcná břemena, výměnky a nájemní, pachtovní či předkupní práva, která prodejem v dražbě nezaniknou.
+>
+> **(2)** Soud zároveň může rozhodnout o zániku nájemního či pachtovního práva, výměnku nebo práva odpovídajícího věcnému břemeni, jestliže a) je nájemné či pachtovné (…) zcela nepřiměřené nájemnému či pachtovnému (…) v místě a čase obvyklé nebo je-li věcné břemeno či výměnek zcela nepřiměřený výhodě oprávněného, a b) toto právo výrazně omezuje možnost prodat nemovitou věc v dražbě.
+>
+> **(3)** Usnesení soud doručí oprávněnému, těm, kdo do řízení přistoupili jako další oprávnění, povinnému a osobám, o jejichž právech a povinnostech soud rozhodl podle odstavce 2. Jednání není třeba nařizovat.
+>
+> **(4)** Soud změní usnesení o ceně, nebyla-li vydána dražební vyhláška, pokud se výrazně změnily okolnosti rozhodné pro ocenění nemovité věci a jejího příslušenství.
 
 ### Výklad / smysl ustanovení
 
@@ -201,6 +231,24 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 
 ## § 337 — Rozvrh výtěžku (klíčové!)
 
+> **§ 337 (1)** Není-li nařízeno jednání o rozvrhu podle § 336q odst. 1, soud rozvrhne rozdělovanou podstatu podle § 337c.
+>
+> **§ 337a** Rozdělovanou podstatu tvoří nejvyšší podání a úroky z něho, popřípadě náhrady, které do podstaty připadají podle § 336n odst. 4 (…).
+>
+> **§ 337c (1)** Z rozdělované podstaty se uspokojují postupně podle těchto skupin:
+> a) pohledávky nákladů vzniklých státu v tomto řízení,
+> b) pohledávky související se správou domu a pozemku vůči vlastníku jednotky, a to do výše jedné desetiny výtěžku z prodeje jednotky,
+> c) pohledávky z hypotečních úvěrů sloužící ke krytí dluhů z hypotečních zástavních listů v oběhu,
+> d) pohledávka oprávněného, pohledávka toho, kdo do řízení přistoupil jako další oprávněný, a pohledávky zajištěné zástavním právem nebo zajišťovacím převodem práva,
+> e) pohledávky nedoplatků výživného,
+> f) pohledávky daní a poplatků, pojistného na veřejné zdravotní pojištění a pojistného na sociální zabezpečení, pohledávky za náhradní výživné podle jiného zákona,
+> g) pohledávky náhrady újmy na zdraví způsobené trestným činem,
+> h) ostatní pohledávky.
+>
+> **§ 337c (2)** Nelze-li plně uspokojit všechny pohledávky patřící do téže skupiny, uspokojí se podle pořadí; pohledávky patřící do téže skupiny, které mají stejné pořadí, se uspokojí poměrně.
+>
+> **§ 337c (5)** Pro pořadí je rozhodující a) u pohledávky oprávněného den, kdy k soudu výkonu došel jeho návrh na nařízení výkonu rozhodnutí, b) u pohledávky toho, jenž do řízení přistoupil jako další oprávněný, den, který se považuje za přistoupení k řízení, c) u přihlášené pohledávky den, kdy k soudu došla přihláška, d) u pohledávky zajištěné zástavním právem den vzniku zástavního práva (…).
+
 ### Výklad
 
 **Rozvrh** = rozdělení dosaženého výtěžku mezi věřitele podle:
@@ -229,6 +277,12 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 # HLAVA VI — SOUDCOVSKÉ ZÁSTAVNÍ PRÁVO NA NEMOVITÝCH VĚCECH (§ 338b — § 338e)
 
 ## § 338b — Soudcovské zástavní právo (klíčový alternativní institut!)
+
+> **(1)** Výkon rozhodnutí zřízením soudcovského zástavního práva na nemovité věci může být nařízen, jen když oprávněný přesně označí nemovitou věc, k níž má být zástavní právo zřízeno, a jestliže listinami vydanými nebo ověřenými státními orgány nebo notářem doloží, že nemovitá věc je ve vlastnictví povinného. O tom, že byl podán návrh na nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva na nemovité věci, soud vyrozumí příslušný katastrální úřad.
+>
+> **(2)** Pro nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva je rozhodující stav v době zahájení řízení.
+>
+> **(3)** V usnesení o nařízení výkonu rozhodnutí soud uloží povinnému, aby soudu do 15 dnů od doručení usnesení oznámil, zda nemovitou věc nabyl jako substituční jmění (…). Doloží-li povinný, že nemovitou věc nabyl jako substituční jmění, a nedoloží-li další skutečnosti podle věty první nebo nevyjdou-li tyto skutečnosti najevo jinak, soud výkon rozhodnutí zastaví.
 
 ### Výklad / smysl ustanovení
 
@@ -267,6 +321,12 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 
 ## § 338f — Předpoklady postižení závodu
 
+> **(1)** Výkon rozhodnutí postižením závodu může být nařízen, jen když oprávněný označí závod, jehož postižení navrhuje, a jestliže doloží, že závod je ve vlastnictví povinného.
+>
+> **(2)** Návrh dalšího oprávněného na nařízení výkonu rozhodnutí postižením téhož závodu podaný u příslušného soudu dříve, než soud pravomocně rozhodl o nařízení výkonu rozhodnutí, se považuje za přistoupení k řízení, a to ode dne podání návrhu. (…) Další oprávněný musí přijmout stav řízení, v němž je při jeho přistoupení.
+>
+> **(3)** Oprávněný může vzít zpět svůj návrh až do právní moci usnesení o nařízení výkonu rozhodnutí. Soud však řízení zastaví jen tehdy, souhlasí-li s tím všichni oprávnění, kteří přistoupili do řízení.
+
 ### Výklad / smysl ustanovení
 
 **Postižení závodu** = výkon pro peněžitou pohledávku **postižením celého obchodního závodu** (= „**going concern**" = živý funkční podnik) povinného.
@@ -285,6 +345,12 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 ---
 
 ## § 338g—338zh — Komplexní procesní pravidla
+
+> **§ 338g (2)** Nařízení výkonu rozhodnutí se vztahuje na jmění, které slouží k provozování závodu nebo vzhledem ke své povaze má tomuto účelu sloužit, a to podle stavu, jaký tu je v době příklepu. (…) **(3)** Výkonem rozhodnutí nemůže být postižen závod, jedná-li se o banku.
+>
+> **§ 338h (1)** V usnesení o nařízení výkonu rozhodnutí soud ustanoví správce závodu (dále jen „správce") a povinnému (…) a) zakáže, aby po doručení usnesení závod nebo část závodu převedl na někoho jiného; (…) d) zakáže, aby po doručení usnesení majetek, který slouží k provozování závodu (…) převedl na jiného, zatížil jej nebo s ním jinak nakládal bez souhlasu správce; e) přikáže, aby správci umožnil kdykoliv nahlížet do účetní evidence a dalších písemností týkajících se závodu a bez omezení vstupovat do všech prostor závodu.
+>
+> **§ 338i (1)** Správcem soud ustanoví osobu zapsanou podle zvláštních předpisů v seznamu insolvenčních správců. Výjimečně může soud správcem ustanovit i osobu do tohoto seznamu nezapsanou, splňuje-li podmínky pro zapsání do seznamu, jestliže s ustanovením správcem souhlasí.
 
 Hlava VII obsahuje **rozsáhlou úpravu**:
 - **§ 338g—338i:** Nařízení postižení + správa závodu.
