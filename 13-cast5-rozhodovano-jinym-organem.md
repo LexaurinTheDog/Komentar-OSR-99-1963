@@ -35,6 +35,13 @@
 
 ## § 244 — Předmět Části V
 
+> **(1)** Rozhodl-li orgán moci výkonné, orgán územního samosprávného celku, orgán zájmové nebo profesní samosprávy, popřípadě smírčí orgán zřízený podle zvláštního právního předpisu (dále jen „správní orgán") podle zvláštního zákona o sporu nebo o jiné právní věci, která vyplývá ze vztahů soukromého práva (§ 7 odst. 1), a nabylo-li rozhodnutí správního orgánu právní moci, může být tatáž věc projednána na návrh v občanském soudním řízení.
+>
+> **(2)** Ustanovení odstavce 1 neplatí,
+> a) rozhodl-li o sporu nebo o jiné právní věci rozhodce nebo stálý rozhodčí soud nebo rozhodčí komise spolku,
+> b) jestliže se rozhodnutí správního orgánu v důsledku námitek nebo jiného obdobného úkonu účastníka právního poměru učiněného před správním orgánem podle zvláštního zákona zrušuje nebo pozbývá účinnosti,
+> c) odkázal-li podle zvláštního právního předpisu správní orgán účastníky právního poměru s jejich nároky na řízení před soudem.
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — generální klauzule:** Pokud **správní orgán** (orgán moci výkonné, ÚSC, zájmové/profesní samosprávy, smírčí orgán zřízený zvláštním předpisem) rozhodl podle **zvláštního zákona** o:
@@ -90,6 +97,12 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 
 ## § 246 — Žaloba (oprávnění + náležitosti)
 
+> **(1)** K návrhu je oprávněn ten, kdo tvrdí, že byl dotčen na svých právech rozhodnutím správního orgánu, kterým byla jeho práva nebo povinnosti založena, změněna, zrušena, určena nebo zamítnuta. Tento návrh se nazývá žalobou.
+>
+> **(2)** Žaloba musí kromě obecných náležitostí podání (§ 42 odst. 4) obsahovat označení účastníků řízení, sporu nebo jiné právní věci, o které správní orgán rozhodl, a rozhodnutí správního orgánu, vylíčení skutečností, které svědčí o tom, že žaloba je podána včas, údaje o tom, v čem žalobce spatřuje, že byl rozhodnutím správního orgánu dotčen na svých právech, označení důkazů, které by měly být v řízení před soudem provedeny, jakož i to, v jakém rozsahu má být spor nebo jiná právní věc soudem projednána a rozhodnuta a jak má být spor nebo jiná právní věc soudem rozhodnuta.
+>
+> **(3)** K žalobě je žalobce povinen připojit stejnopis rozhodnutí správního orgánu a listinné důkazy, jichž se dovolává.
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — aktivní legitimace:** Žalobce = ten, kdo tvrdí, že byl **dotčen na svých právech** rozhodnutím správního orgánu.
@@ -120,6 +133,10 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 
 ## § 247 — LHŮTA 2 MĚSÍCE (nelze prominout!)
 
+> **(1)** Žaloba musí být podána ve lhůtě dvou měsíců od doručení rozhodnutí správního orgánu. Zmeškání této lhůty nelze prominout.
+>
+> **(2)** Žaloba je nepřípustná, jestliže žalobce nevyužil v řízení před správním orgánem řádné opravné prostředky nebo jestliže jím uplatněné řádné opravné prostředky nebyly správním orgánem pro opožděnost projednány.
+
 ### Výklad
 
 **Odst. 1 — lhůta:** **2 měsíce** od doručení rozhodnutí správního orgánu. **NELZE PROMINOUT** (= striktní).
@@ -135,6 +152,14 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 ---
 
 ## § 248 — Bez odkladného účinku (kromě usnesení)
+
+> **(1)** Podání žaloby nemá odkladný účinek na právní moc ani na vykonatelnost rozhodnutí správního orgánu.
+>
+> **(2)** Soud na žádost žalobce odloží
+> a) vykonatelnost rozhodnutí správního orgánu až do právní moci rozhodnutí o žalobě, jestliže by neprodleným výkonem rozhodnutí správního orgánu hrozila žalobci závažná újma,
+> b) právní moc rozhodnutí správního orgánu až do právní moci rozhodnutí o žalobě, jestliže je žalobce závažně ohrožen ve svých právech a odklad se nedotkne nepřiměřeným způsobem práv nabytých třetími osobami.
+>
+> **(3)** Odklad právní moci nebo vykonatelnosti rozhodnutí správního orgánu soud i bez návrhu zruší, jakmile se ukáže, že pominuly důvody, pro které byl povolen.
 
 ### Výklad
 
@@ -156,6 +181,10 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 
 ## § 249 — Věcná příslušnost
 
+> **(1)** Není-li dále stanoveno jinak, jsou k řízení v prvním stupni příslušné okresní soudy.
+>
+> **(2)** Krajské soudy rozhodují jako soudy prvního stupně ve věcech vkladu práva k nemovitým věcem.
+
 ### Výklad
 
 **Odst. 1:** **Okresní soudy** (standard).
@@ -170,6 +199,13 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 
 ## § 250 — Místní příslušnost
 
+> **(1)** Není-li dále stanoveno jinak, je k řízení místně příslušný
+> a) obecný soud účastníka, jemuž byla nebo podle návrhu podaného u správního orgánu měla být uložena povinnost k plnění,
+> b) obecný soud účastníka, na jehož návrh bylo řízení před správním orgánem zahájeno, není-li dána příslušnost podle písmena a),
+> c) soud, v jehož obvodu je sídlo správního orgánu, který o sporu nebo o jiné právní věci rozhodl, není-li dána příslušnost podle písmena a) nebo b).
+>
+> **(2)** Týkalo-li se řízení před správním orgánem práva k nemovité věci, je k řízení místně příslušný vždy soud, v jehož obvodu je nemovitá věc.
+
 ### Výklad
 
 **Kaskáda:**
@@ -183,6 +219,10 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 
 ## § 250a — Účastníci
 
+> **(1)** Účastníky řízení jsou žalobce a ti, kdo byli účastníky v řízení před správním orgánem.
+>
+> **(2)** Jakmile soud zjistí, že se řízení neúčastní někdo, kdo je podle odstavce 1 jeho účastníkem, přibere jej usnesením do řízení. Proti tomuto usnesení není odvolání přípustné.
+
 ### Výklad
 
 **Odst. 1 — účastníci v civilním řízení:**
@@ -194,6 +234,12 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 ---
 
 ## § 250b — Spojení žalob + zákaz změny
+
+> **(1)** S žalobou jsou spojeny ke společnému řízení další žaloby, které byly podány ve věci, o níž správní orgán rozhodl stejným rozhodnutím dříve, než o ní soud prvního stupně rozhodl.
+>
+> **(2)** V průběhu řízení před soudem nesmí být změněn okruh účastníků, jaký tu byl v době rozhodnutí správního orgánu; to neplatí, došlo-li za řízení před soudem k procesnímu nástupnictví (§ 107 a 107a).
+>
+> **(3)** Návrh, o němž rozhodl správní orgán, nesmí být v průběhu řízení před soudem změněn.
 
 ### Výklad
 
@@ -211,6 +257,12 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 ---
 
 ## § 250c — Přípravné úkony soudu + práva správního orgánu
+
+> **(1)** V rámci přípravy jednání předseda senátu rovněž vyžádá od správního orgánu potřebné spisy.
+>
+> **(2)** Stejnopis žaloby soud doručí též správnímu orgánu, který o sporu nebo o jiné právní věci rozhodl, a vyzve ho, aby soudu v určené lhůtě oznámil, zda v řízení bude uplatňovat práva podle věty druhé; jinak práva v řízení uplatňovat nelze. Správní orgán může v řízení předkládat písemná vyjádření, nahlížet do spisu, být vyrozuměn o nařízeném jednání a žádat, aby mu bylo při jednání uděleno slovo. Vždy se mu však doručuje rozhodnutí ve věci samé nebo jiné rozhodnutí, kterým se řízení před soudem končí. Pro řízení o opravném prostředku se věty první až třetí použijí obdobně.
+>
+> **(3)** Ustanovení § 114b se nepoužije.
 
 ### Výklad
 
@@ -235,6 +287,10 @@ Správní orgán je **„podpůrnou stranou"** — ne plnoprávným účastníke
 
 ## § 250d — KONCENTRACE v Části V
 
+> **(1)** Účastníci řízení mohou uvést rozhodné skutečnosti o věci samé a označit důkazy k jejich prokázání nejpozději do skončení přípravného jednání, popřípadě do uplynutí lhůty, která jim byla poskytnuta k doplnění tvrzení o skutečnostech významných pro věc, k podání návrhů na provedení důkazů nebo ke splnění dalších procesních povinností (§ 114c) nebo, nebyla-li nařízena a provedena tato příprava jednání, do skončení prvního jednání, které se v řízení před soudem konalo; k později uvedeným skutečnostem a důkazům se nepřihlíží. To neplatí, jde-li o skutečnosti nebo důkazy, jimiž má být zpochybněna věrohodnost provedených důkazních prostředků, které nastaly po prvním jednání nebo které účastník nemohl bez své viny včas uvést, jakož i o skutečnosti a důkazy, které účastníci uvedli poté, co byl některý z nich vyzván k doplnění rozhodujících skutečností podle § 118a odst. 2.
+>
+> **(2)** Omezení podle odstavce 1 neplatí v případě, že účastníci nebyli řádně poučeni podle § 114c odst. 5 nebo že, nebyla-li nařízena a provedena příprava jednání, soud jim neposkytl poučení o povinnostech podle odstavce 1 a o následcích nesplnění těchto povinností nejpozději v předvolání k prvnímu jednání ve věci.
+
 ### Výklad
 
 Podobně jako § 118b — účastníci uvádějí skutečnosti a důkazy **do skončení přípravného / 1. jednání**. Pozdější se nepřihlíží, **s výjimkami** (analogie § 118b odst. 1):
@@ -254,6 +310,10 @@ Podobně jako § 118b — účastníci uvádějí skutečnosti a důkazy **do sk
 
 ## § 250e — Soud NENÍ VÁZÁN skutkovým stavem správního orgánu
 
+> **(1)** Soud není vázán skutkovým stavem, jak byl zjištěn správním orgánem.
+>
+> **(2)** Soud může vzít za svá též skutková zjištění správního orgánu. Možnost zopakovat důkazy provedené před správním orgánem není dotčena.
+
 ### Výklad / smysl ustanovení
 
 **KLÍČOVÉ:** Soud **NENÍ VÁZÁN** skutkovým stavem zjištěným správním orgánem. Soud:
@@ -271,6 +331,11 @@ Podobně jako § 118b — účastníci uvádějí skutečnosti a důkazy **do sk
 
 ## § 250f — Rozsah projednání
 
+> Soud projedná věc v mezích, ve kterých se žalobce domáhal projednání sporu nebo jiné právní věci v řízení před soudem. Tímto rozsahem není vázán,
+> a) jestliže správní orgán řízení zahájil bez návrhu,
+> b) jde-li o taková společná oprávnění nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří jsou jejich nositeli,
+> c) vyplývá-li z právního předpisu určitý způsob vypořádání právního poměru mezi účastníky.
+
 ### Výklad
 
 Soud projedná věc **v mezích žaloby**. **Nevázán** v případech:
@@ -284,6 +349,13 @@ Soud projedná věc **v mezích žaloby**. **Nevázán** v případech:
 
 ## § 250g — Odmítnutí žaloby
 
+> **(1)** Soud žalobu odmítne,
+> a) byla-li podána opožděně,
+> b) byla-li podána někým, kdo k žalobě není oprávněn,
+> c) je-li nepřípustná.
+>
+> **(2)** K rozhodnutí podle odstavce 1 nemusí být nařízeno jednání.
+
 ### Výklad
 
 **Soud žalobu ODMÍTNE:**
@@ -296,6 +368,12 @@ Soud projedná věc **v mezích žaloby**. **Nevázán** v případech:
 ---
 
 ## § 250h — Zpětvzetí návrhu zakládajícího správní řízení
+
+> **(1)** Účastník, na jehož návrh bylo zahájeno řízení před správním orgánem, může vzít v průběhu řízení před soudem tento návrh zpět, a to zcela nebo zčásti.
+>
+> **(2)** Byl-li vzat zpět návrh, kterým bylo zahájeno řízení před správním orgánem, a souhlasí-li s tímto zpětvzetím návrhu ostatní účastníci řízení, soud řízení zcela, popřípadě v rozsahu zpětvzetí návrhu zastaví. Jednání nemusí nařizovat.
+>
+> **(3)** Zastaví-li soud řízení podle odstavce 2, pozbývá rozhodnutí správního orgánu účinnost v rozsahu, v němž je usnesením soudu dotčeno. Uvedený následek musí být uveden ve výroku usnesení o zastavení řízení.
 
 ### Výklad / smysl ustanovení
 
@@ -323,6 +401,10 @@ Pokud soud usoudí, že **správní orgán rozhodl správně** → žalobu **zam
 ---
 
 ## § 250j — Změna rozhodnutí soudem (rozsudek NAHRAZUJE akt)
+
+> **(1)** Dospěje-li soud k závěru, že o sporu nebo o jiné právní věci má být rozhodnuto jinak, než rozhodl správní orgán, rozhodne ve věci samé rozsudkem. S rozhodnutím správního orgánu se soud vypořádá v odůvodnění rozsudku.
+>
+> **(2)** Rozsudek soudu podle odstavce 1 nahrazuje rozhodnutí správního orgánu v takovém rozsahu, v jakém je rozsudkem soudu dotčeno. Tento následek musí být uveden ve výroku rozsudku.
 
 ### Výklad / smysl ustanovení
 
@@ -356,6 +438,8 @@ Pokud soud:
 ---
 
 ## § 250l — Náklady řízení před správním orgánem
+
+> Nahrazuje-li rozsudek soudu alespoň zčásti rozhodnutí správního orgánu (§ 250j odst. 2) nebo pozbylo-li rozhodnutí správního orgánu alespoň zčásti svou účinnost (§ 250h odst. 3), rozhodne soud znovu o náhradě nákladů řízení, které vznikly v řízení před správním orgánem, pokud bylo v tomto řízení o náhradě rozhodnuto.
 
 ### Výklad
 
