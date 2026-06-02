@@ -43,7 +43,7 @@ Paragraf 1 plní **trojí roli**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Nd 201/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Nd_201_2008.txt) — 15. 7. 2008, kat. A
+- *NS* [29 Nd 201/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D4B5D66B14C03EEC1257A4E0066A501?openDocument) — 15. 7. 2008, kat. A
   > „Jestliže dosavadní výsledky řízení dokládají, že institut návrhu na delegaci vhodnou (§ 12 odst. 2 o. s. ř.) je účastníkem řízení zneužíván k obstrukci a cílenému protahování občanského soudního řízení, soud nepředkládá věc k rozhodnutí o takovém návrhu nejblíže společně nadřízenému soudu. Pro výsledek řízení o opravných prostředcích může mít skutečnost, že soud návrh na delegaci vhodnou nepředložil soudu, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána, a o věci meritorně rozhodl, význam jen tehdy, dospěje-li soud, který o opravném prostředku rozhoduje, k závěru, že o jednání, jež je zneužitím procesních práv účastníka (§ 2 o. s. ř.), nešlo"
 
 ### Výklad / smysl ustanovení
@@ -261,7 +261,7 @@ Hranice „soukromé právo" vs. „veřejné právo" je klasické dělení (Ulp
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 3309/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_3309_2015.txt) — 27. 10. 2015, kat. A
+- *NS* [29 Cdo 3309/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01EA19F606325387C1257F3500204109?openDocument) — 27. 10. 2015, kat. A
   > „Žalobce, na kterého byla směnka indosována po protestu pro neplacení nebo po uplynutí lhůty k protestu, je jakožto právní nástupce původního věřitele vázán rozhodčí smlouvou uzavřenou tímto věřitelem. Věcně příslušnými k projednání žaloby o zrušení rozhodčího nálezu, jímž bylo rozhodnuto o zaplacení směnky, jsou krajské soudy"
 - *NS* [29 Cdo 2225/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D6C0D4E4362D350C1257A4E0068E673?openDocument) — 25. 9. 2008, kat. A
   > „Na základě exekučního titulu získaného proti příslušné osobě ve sporu, v němž vystupovala jako správce konkursní podstaty konkrétního úpadce (z titulu výkonu této funkce), nemůže být výkonem rozhodnutí nebo exekucí nikdy postižen osobní majetek této osoby (majetek správce konkursní podstaty). Pohledávka spočívající v požadavku na vrácení zálohy, kterou zájemce o koupi majetku konkursní podstaty prodejem mimo dražbu složil na účet určený správcem konkursní podstaty za účelem splnění podmínky účasti na výběrovém řízení, je pohledávkou za podstatou (§ 31 odst. 2 písm. e/ zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007)"
@@ -406,7 +406,7 @@ V praxi je § 11 odst. 3 (určovací role NS) využíván zejména u **přeshran
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Nd 201/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Nd_201_2008.txt) — 15. 7. 2008, kat. A
+- *NS* [29 Nd 201/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D4B5D66B14C03EEC1257A4E0066A501?openDocument) — 15. 7. 2008, kat. A
   > „Jestliže dosavadní výsledky řízení dokládají, že institut návrhu na delegaci vhodnou (§ 12 odst. 2 o. s. ř.) je účastníkem řízení zneužíván k obstrukci a cílenému protahování občanského soudního řízení, soud nepředkládá věc k rozhodnutí o takovém návrhu nejblíže společně nadřízenému soudu. Pro výsledek řízení o opravných prostředcích může mít skutečnost, že soud návrh na delegaci vhodnou nepředložil soudu, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána, a o věci meritorně rozhodl, význam jen tehdy, dospěje-li soud, který o opravném prostředku rozhoduje, k závěru, že o jednání, jež je zneužitím procesních práv účastníka (§ 2 o. s. ř.), nešlo"
 
 ### Výklad / smysl ustanovení

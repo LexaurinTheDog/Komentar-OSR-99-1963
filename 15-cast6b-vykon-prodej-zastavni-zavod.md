@@ -249,7 +249,7 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 
 - *NS* [29 Cdo 46/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3679DD1AA140AEA3C1257A4E0067AAA4?openDocument) — 26. 2. 2009, kat. A
   > „Přihláška nevykonatelné pohledávky zajištěné zástavním právem do řízení o výkon rozhodnutí prodejem nemovitosti je ve vztahu k povinnému dlužníku ve smyslu § 402 obch. zák. právním úkonem uplatněným věřitelem v již zahájeném vykonávacím řízení za účelem uspokojení věřitelova práva (uspokojení pohledávky). V konkursní věci podle zákona č. 328/1991 Sb., ve které se konalo jednání o návrhu na prohlášení konkursu na majetek dlužníka, nemůže vydat rozhodnutí o zamítnutí takového návrhu asistent soudce nebo vyšší soudní úředník"
-- *NS* [29 Odo 332/2004](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Odo_332_2004.txt) — 31. 5. 2006, kat. A
+- *NS* [29 Odo 332/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06FC784CC3F54E1BC1257A4E006709F7?openDocument) — 31. 5. 2006, kat. A
   > „Úkonem, kterým se v rozporu s ustanovením § 14 odst. 1 písm. e) zákona č. 328/1991 Sb. ve znění pozdějších předpisů provádí výkon rozhodnutí, je po prohlášení konkursu na majetek povinného i pokyn soudu výkonu rozhodnutí k tomu, aby usnesení o udělení příklepu, vydané podle § 336j o. s. ř. před prohlášením konkursu, bylo doručeno osobám uvedeným v § 336k odst. 1 o. s. ř. Jestliže soud výkonu rozhodnutí doručoval usnesení o udělení příklepu osobám uvedeným v § 336k odst. 1 o. s. ř. až po prohlášení konkursu na majetek povinného, nebylo takové doručení účinné. Je-li konkurs na majetek povinného prohlášen po doručení usnesení o příklepu vydaného podle § 336j o. s. ř., avšak před jeho právní mocí, nenabývá usnesení o příklepu právní moci"
 
 ---
@@ -289,7 +289,7 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1293_2003.txt) — 27. 10. 2004, kat. A
+- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E6A7B9F882CEDDC1257A4E0064C3E7?openDocument) — 27. 10. 2004, kat. A
   > „Smlouva o převodu vlastnictví k nemovitosti, uzavřená po zahájení řízení o zřízení soudcovského zástavního práva k této nemovitosti, nezakládá důvod k vyloučení této nemovitosti z výkonu rozhodnutí ve smyslu ustanovení § 267 odst. 1 o. s. ř. Je-li okresní správa sociálního zabezpečení způsobilá být účastníkem řízení o výkon rozhodnutí, má tuto způsobilost i ve sporu o vylučovací žalobě podle § 267 odst. 1 o. s. ř"
 
 ---
@@ -306,7 +306,7 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1293_2003.txt) — 27. 10. 2004, kat. A
+- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E6A7B9F882CEDDC1257A4E0064C3E7?openDocument) — 27. 10. 2004, kat. A
   > „Smlouva o převodu vlastnictví k nemovitosti, uzavřená po zahájení řízení o zřízení soudcovského zástavního práva k této nemovitosti, nezakládá důvod k vyloučení této nemovitosti z výkonu rozhodnutí ve smyslu ustanovení § 267 odst. 1 o. s. ř. Je-li okresní správa sociálního zabezpečení způsobilá být účastníkem řízení o výkon rozhodnutí, má tuto způsobilost i ve sporu o vylučovací žalobě podle § 267 odst. 1 o. s. ř"
 
 ### Výklad / smysl ustanovení
@@ -342,7 +342,7 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 1905/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1905_2001.txt) — 24. 10. 2002, kat. A
+- *NS* [20 Cdo 1905/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0485DCA603C21C82C1257A4E0064C37D?openDocument) — 24. 10. 2002, kat. A
   > „Výkon rozhodnutí prodejem nemovitostí pro pohledávku, pro niž bylo zřízeno soudcovské zástavní právo, lze vést přímo nejen proti každému pozdějšímu vlastníku nemovitostí, který ji nabyl smluvně (§ 338d odst. 2 o. s. ř.), nýbrž i proti osobě, která se stala výlučným vlastníkem nemovitosti dohodou o vypořádání společného jmění s povinným"
 
 ---

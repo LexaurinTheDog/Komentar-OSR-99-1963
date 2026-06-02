@@ -97,7 +97,7 @@
 
 - *NS* [29 Odo 532/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0698DBC8035BF07BC1257A4E00689D84?openDocument) — 19. 9. 2001, kat. A
   > „Spor, v němž se správce konkursní podstaty úpadce domáhá po správci daně toho, aby do konkursní podstaty vrátil (zaplatil) nadměrný odpočet daně z přidané hodnoty, není sporem vyvolaným konkursem. Pravomoc k rozhodnutí takového sporu nemají soudy, ale správci daně. Počínaje dnem prohlášení konkursu na majetek dlužníka již nelze provést započtení na majetek patřící do konkursní podstaty (§ 14 odst. 1 písm. i/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) není přitom rozhodné, zda se započítávané pohledávky střetly již v době před prohlášením konkursu. Vznikne-li úpadci nárok na vrácení nadměrného odpočtu daně z přidané hodnoty, nesmí být za trvání konkursu použit k úhradě jiných daňových nedoplatků úpadce, které správce daně přihlásil nebo měl přihlásit do konkursu. Postup podle § 64 zákona č. 337/1992 Sb. ve znění pozdějších předpisů, by za trvání konkursu byl nepřípustným…"
-- *NS* [11 Zp 24/99](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2011%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-11_Zp_24_99.txt) — 18. 5. 2001, kat. A
+- *NS* [11 Zp 24/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/507046F7DCEB8AB3C1257A4E0064CA41?openDocument) — 18. 5. 2001, kat. A
   > „Návrhu účastníka řízení na přiznání osvobození od placení soudních poplatků (§ 138 o. s. ř.) pro řízení v prvním a druhém stupni lze vyhovět, jen požádá-li o osvobození před pravomocným skončením řízení"
 
 ### Výklad
@@ -364,7 +364,7 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 733/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_733_2001.txt) — 29. 8. 2002, kat. A
+- *NS* [29 Odo 733/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D544B29502E11F50C1257A4E0066B16B?openDocument) — 29. 8. 2002, kat. A
   > „Je-li dovolání podepsáno pouze zástupcem dovolatele na základě plné moci, který ani přes opatření soudu dle § 104 odst. 2, věty první, o. s. ř., vůči němu učiněné, toto zastoupení nedoložil, Nejvyšší soud dovolací řízení dle § 104 odst. 2, věty třetí, o. s. ř. zastaví. Obdobně to platí i pro jiný návrh na zahájení řízení. Jestliže soud z uvedeného důvodu řízení zastaví, je osobou, která z procesního hlediska zavinila zastavení řízení, zástupce účastníka, jemuž lze ve smyslu § 147 odst. 1 o. s. ř. uložit, aby hradil náklady řízení, jež by bez jeho zavinění nevznikly"
 
 ### Výklad
