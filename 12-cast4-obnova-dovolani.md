@@ -46,6 +46,19 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 >
 > **(2)** Žalobou na obnovu řízení účastník může napadnout také pravomocné usnesení, kterým byl schválen smír, lze-li důvody obnovy podle odstavce 1 vztahovat i na předpoklady, za nichž byl smír schvalován; to platí obdobně pro pravomocný platební rozkaz, pravomocný rozsudek pro uznání a pravomocný rozsudek pro zmeškání.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3090/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B7C6D14B847AA9BC1257A4E00655877?openDocument) — 26. 4. 2006, kat. A
+  > „Dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení ohledně peněžitého plnění, jež nepřevyšuje 20 000 Kč a v obchodních věcech 50 000 Kč, není přípustné"
+- *NS* [29 Odo 558/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AFAC331191C91099C1257A4E00679DB5?openDocument) — 23. 10. 2003, kat. A
+  > „Návrh na obnovu řízení nemusí obsahovat označení účastníků řízení. Byl-li konkurs na majetek účastníka řízení o nárocích, které se týkají majetku patřícího do konkursní podstaty, prohlášen po pravomocném skončení tohoto řízení, lze návrh na obnovu tohoto řízení projednat a rozhodnout o něm, jen byl-li podán návrh na pokračování v řízení a jde-li o řízení, v němž lze za trvání konkursu pokračovat (§ 14 odst. 1 písm. c/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) dnem, kdy některý z ostatních účastníků řízení nebo správce konkursní podstaty podal přípustný návrh na pokračování v řízení, se správce konkursní podstaty stává účastníkem řízení o obnově namísto úpadce. Spor o určení neplatnosti smlouvy, kterou pozdější úpadce prodal svůj majetek jinému subjektu, a spor o určení neplatnosti nájemní smlouvy, podle které získal pozdější úpadce tytéž věci do nájmu, je sporem o nárocích,…"
+- *NS* [25 Cdo 511/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B5D2A6966882F92C1257A4E0065A3CB?openDocument) — 29. 5. 2003, kat. A
+  > „Domáhá-li se účastník povolení obnovy řízení proti rozhodnutí vydanému před 1. lednem 2001, postupuje soud podle občanského soudního řádu ve znění účinném před tímto datem (bod 16. hlava první, část dvanáctá, zákona č. 30/2000 Sb.) soud vychází i z ustanovení § 43 o. s. ř. ve znění účinném před 1. lednem 2001"
+- *NS* [20 Cdo 1170/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08082A3F7ADC38B1C1257A4E006506F5?openDocument) — 26. 9. 2002, kat. A
+  > „Důvodem obnovy řízení ve smyslu ustanovení § 228 odst. 1 písm. a) o. s. ř. není důkaz, o němž účastník v původním řízení věděl a jehož provedení nenavrhl proto, že tvrzení o skutečnosti, která by jím mohla být prokázána, nebyla druhým účastníkem popřena. To platí přesto, že účastník nebyl soudem o své důkazní povinnosti prokázat tuto skutečnost v rozporu se zákonem poučen.*)"
+- *NS* [20 Cdo 322/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CD1D5C057C91FEC1257BD6003A2C60?openDocument) — 28. 1. 1999, kat. A
+  > „Okolnost, že odůvodnění nálezu Ústavního soudu zahrnuje posouzení právní otázky, kterou odvolací soud posoudil v jiné věci dříve jinak, nečiní z nálezu rozhodnutí, jež by bylo důvodem obnovy řízení podle ustanovení § 228 odst. 1 písm. a) o.s.ř"
+
 ### Výklad / smysl ustanovení
 
 **Žaloba na obnovu řízení** = mimořádný opravný prostředek **proti pravomocnému** rozsudku / usnesení ve věci samé na základě **„nova"** (= nově zjištěných skutečností / důkazů).
@@ -101,6 +114,25 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 > **(3)** Žalobou pro zmatečnost účastník může napadnout též pravomocný rozsudek odvolacího soudu nebo jeho pravomocné usnesení, kterým bylo rozhodnuto ve věci samé, jestliže mu byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem. Totéž platí, jde-li o pravomocný rozsudek soudu prvního stupně, proti němuž není odvolání přípustné podle § 202 odst. 2.
 >
 > **(4)** Žalobou pro zmatečnost účastník může napadnout rovněž pravomocné usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, jakož i pravomocné usnesení odvolacího soudu, kterým bylo potvrzeno nebo změněno usnesení soudu prvního stupně o odmítnutí odvolání nebo dovolání pro opožděnost.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 46/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3679DD1AA140AEA3C1257A4E0067AAA4?openDocument) — 26. 2. 2009, kat. A
+  > „Přihláška nevykonatelné pohledávky zajištěné zástavním právem do řízení o výkon rozhodnutí prodejem nemovitosti je ve vztahu k povinnému dlužníku ve smyslu § 402 obch. zák. právním úkonem uplatněným věřitelem v již zahájeném vykonávacím řízení za účelem uspokojení věřitelova práva (uspokojení pohledávky). V konkursní věci podle zákona č. 328/1991 Sb., ve které se konalo jednání o návrhu na prohlášení konkursu na majetek dlužníka, nemůže vydat rozhodnutí o zamítnutí takového návrhu asistent soudce nebo vyšší soudní úředník"
+- *NS* [21 Cdo 2748/2006](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_2748_2006.txt) — 30. 10. 2007, kat. A
+  > „Došlo-li ke zřízení zástavního práva předáním akcie zástavnímu věřiteli, je k návrhu na umoření ztracené nebo zničené akcie oprávněn (věcně legitimován) zástavní věřitel, ledaže by ji po zániku zástavního práva vrátil zástavnímu dlužníku nebo ji prodal za účelem uspokojení zajištěné pohledávky prostřednictvím obchodníka s cennými papíry. Přihlášku listiny navržené k umoření podává ten, kdo má listinu u sebe (ve své držbě) nebo kdo to alespoň tvrdí a kdo tedy listinu předložil soudu nebo je alespoň připraven tak na výzvu soudu učinit. Námitky proti umoření listiny podává ten, kdo sice nemá listinu ve své držbě, avšak popírá správnost údajů o ztrátě nebo zničení listiny nebo tvrdí-li, že jsou tu jiné (další) okolnosti, které brání tomu, aby listina byla soudem prohlášena za umořenou. Soud zamítne návrh na umoření listiny podle ustanovení § 185q, věty druhé, o. s. ř. nejen tehdy, byla-li…"
+- *NS* [21 Cdo 1269/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/994EB3D60EC82939C1257A4E0066D170?openDocument) — 15. 2. 2007, kat. A
+  > „Žaloba pro zmatečnost je přípustná proti každému pravomocnému usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, bez ohledu na to, zda odvolání směřovalo proti rozhodnutí o věci samé, proti rozhodnutí, kterým bylo řízení jinak skončeno, nebo proti rozhodnutí vydanému v průběhu řízení"
+- *NS* [21 Cdo 972/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C89B7022A57EAA4C1257A4E0067BBBB?openDocument) — 9. 3. 2006, kat. A
+  > „Proti usnesení, kterým odvolací soud potvrdil usnesení soudu prvního stupně o zastavení odvolacího řízení, není žaloba pro zmatečnost podaná podle ustanovení § 229 odst. 4 o. s. ř. přípustná"
+- *NS* [29 Odo 208/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDDEAF86B730EB0EC1257A4E0066B0E5?openDocument) — 31. 1. 2006, kat. A
+  > „Posuzuje-li soud, zda jsou splněny předpoklady pro zrušení konkursu podle ustanovení § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů před přezkumným jednáním, přihlíží ke všem řádně a včas přihlášeným pohledávkám, bez zřetele k tomu, zda je úpadce pokládá za sporné nebo zda je podle seznamu přihlášených pohledávek hodlá popřít správce konkursní podstaty (§ 20 odst. 5, věta první, zákona č. 328/1991 Sb. ve znění pozdějších předpisů). Byl-li konkurs na majetek dlužníka prohlášen pro úpadek formou platební neschopnosti (§ 1 odst. 2, věty první, zákona č. 328/1991 Sb. ve znění pozdějších předpisů), nezakládá důvod ke zrušení konkursu podle § 44 odst. 1 písm. a) uvedeného zákona sám o sobě rozsah zjištěného majetku konkursní podstaty, je-li uspokojení pohledávek konkursních věřitelů vázáno na nutnost zpeněžení tohoto majetku. Takovým důvodem není ani skutečnost,…"
+- *NS* [29 Odo 963/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/35BDBA475673BB2AC1257A4E0065701A?openDocument) — 10. 3. 2005, kat. A
+  > „Při zkoumání důvodů pro zrušení konkursu podle ustanovení § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů se konkursní soud nezabývá správností procesního postupu soudu předcházejícího vydání usnesení o prohlášení konkursu, ani správností rozhodnutí o prohlášení konkursu, případně rozhodnutí je potvrzujícího. Okolnost, že nebyl podán návrh na prohlášení konkursu na majetek dlužníka nebo že tento návrh podala jménem navrhovatele osoba, která k tomu nebyla řádně zmocněna, není důvodem pro zrušení konkursu postupem podle § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů. Nejde o zmatečnostní vadu ve smyslu ustanovení § 229 odst. 1 písm. d) o. s. ř., jestliže soud nepřihlédl k tomu, že návrh na prohlášení konkursu na majetek dlužníka podala jménem navrhovatele osoba, která k tomu nebyla řádně zmocněna. Jednal-li navrhovatel při podání…"
+- *NS* [29 Odo 184/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FB8D90CBF109B52C1257A4E006894A1?openDocument) — 31. 7. 2003, kat. A
+  > „Osobám uvedeným v ustanovení § 12a odst. 5, věty druhé, zákona č. 328/1991 Sb., ve znění pozdějších předpisů, začíná běžet lhůta k podání odvolání proti usnesení o zamítnutí návrhu na prohlášení konkursu pro nedostatek majetku od doručení rozhodnutí poslednímu z těch dosavadních účastníků řízení, kteří jsou legitimováni k podání odvolání podle § 12a odst. 5, věty první, uvedeného zákona to platí bez zřetele k tomu, zda se takový dosavadní účastník řízení sám práva odvolání vzdal. Podáním včasného odvolání se taková osoba stává dalším navrhovatelem ve smyslu ustanovení § 4 označeného zákona a platí pro ni stav řízení v době, kdy její odvolání došlo soudu"
+- *NS* [21 Cdo 58/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13D2A0B63D681BF1C1257A4E0064E6EF?openDocument) — 29. 4. 2003, kat. A
+  > „Na určení, že je neplatná zástavní smlouva, podle níž bylo vloženo do katastru nemovitostí zástavní právo, není naléhavý právní zájem (§ 80 písm. c/ o. s. ř.). K odstranění nejistoty v právním postavení žalobce nebo k zamezení ohrožení jeho práva může v tomto případě vést pouze určení toho, zda tu zástavní právo je či není"
 
 ### Výklad / smysl ustanovení
 
@@ -252,6 +284,11 @@ Vedle obecných (§ 42 odst. 4):
 >
 > **(2)** Pro řízení o žalobě platí přiměřeně ustanovení o řízení v prvním stupni, není-li dále stanoveno něco jiného.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 289/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98E547AEAAC0D7F4C1257BD6003A2D82?openDocument) — 28. 3. 2002, kat. A
+  > „K projednání žaloby o zmatečnost proti usnesení, jímž dovolací soud učinil opatření k odstranění nedostatku podmínky dovolacího řízení, není založena věcná příslušnost žádného soudu a řízení o ní musí být podle § 104 odst. 1 o. s. ř. zastaveno. Učiní tak Nejvyšší soud, jestliže u něho byla tato žaloba podána"
+
 ### Výklad
 
 **Odst. 1 — kdo projedná:**
@@ -318,6 +355,13 @@ Vedle obecných (§ 42 odst. 4):
 >
 > **(2)** Dovolání jen proti důvodům rozhodnutí není přípustné.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 839/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2030%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-30_Cdo_839_2003.txt) — 4. 5. 2004, kat. A
+  > „Zjistí-li se v průběhu řízení o dodatečném projednání dědictví (§ 175x o. s. ř.), že zde není nově najevo vyšlý majetek zůstavitele, soud řízení zastaví (bylo-li řízení zahájeno bez návrhu) nebo zamítne návrh na zahájení řízení o dodatečném projednání dědictví (bylo-li řízení zahájeno na návrh) v obou případech nejde o usnesení ve věci samé. Zastavení řízení za popsaných okolností není důsledkem závěru, že projednání věci brání nedostatek podmínek řízení (§ 103 o. s. ř.), tedy zastavením řízení podle ustanovení § 104 odst. 1 o. s. ř"
+- *NS* [29 Odo 265/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6153202EC0A4F5E0C1257A4E00676F2C?openDocument) — 4. 9. 2003, kat. A
+  > „Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zamítnutí návrhu na ustanovení zástupce z řad advokátů (§ 30 o. s. ř.), není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné. Funkční příslušnost soudu k projednání dovolání proti rozhodnutí soudu prvního stupně není dána řízení o takovém podání Nejvyšší soud zastaví (§ 104 odst. 1 o. s. ř.)"
+
 ### Výklad
 
 **Odst. 1:** Dovoláním lze napadnout **pravomocná rozhodnutí odvolacího soudu**, **pokud to zákon připouští** (= zákonné přípustnostní filtry).
@@ -334,6 +378,25 @@ Vedle obecných (§ 42 odst. 4):
 ## § 237 — PŘÍPUSTNOST DOVOLÁNÍ (kritický institut!)
 
 > Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2679/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C66DA72ECACCE28C1258684001E0EB3?openDocument) — 25. 11. 2020, kat. A
+  > „Ve sporu o náhradu škody při určení obvyklé ceny vozidla pořízeného v zahraničí, které je v místě a čase dopravní nehody svým typem či konstrukcí neobvyklé a v České republice se neobchoduje, je třeba zohlednit též možnosti přilehlého zahraničního trhu, funguje-li reálně přeshraniční obchod tohoto typu a je-li pro poškozeného dostupný či obvyklý, není-li nákup tímto způsobem spojen se zjevně neúčelnými či účelově nadhodnocenými náklady"
+- *NS* [21 Cdo 658/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/541F34C3D76C3E54C1257A4E0068CC4F?openDocument) — 28. 1. 2009, kat. A
+  > „Doručenka byla podle právní úpravy účinné do 30. 6. 2009 listinou, která má povahu veřejné listiny to platilo i tehdy, neměla-li doručenka všechny náležitosti, které podle zákona musí obsahovat. Každý údaj, který byl (ve skutečnosti) na doručence uveden, se považuje za pravdivý, nebyl-li dokázán opak. „Opak“ ve smyslu ustanovení § 50f odst. 9 o. s. ř. ve znění účinném do 30. 6. 2009 prokazoval (pomocí důkazních prostředků) ten, kdo ho za řízení tvrdil, a nesl procesní odpovědnost (důkazní břemeno) za to, že nebyl zjištěn. Rozhodl-li soud prvního stupně o věci rozsudkem pro uznání (§ 153a o. s. ř.) a dospěje-li odvolací soud k závěru, že pro vydání rozsudku pro uznání nebyly splněny předpoklady stanovené zákonem, odvolací soud změní rozsudek soudu prvního stupně tak, že se rozsudek pro uznání nevydává (§ 220 odst. 1 písm. a/ o. s. ř.) zrušení rozsudku soudu prvního stupně by bylo v…"
+- *NS* [21 Cdo 2062/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/469C1279A655EABAC1257A4E00699CFC?openDocument) — 2. 7. 2008, kat. A
+  > „Příklep udělený licitátorem ve veřejné dražbě, provedené podle zákona č. 26/2000 Sb. ve znění pozdějších předpisů, soud nemůže zrušit, a to ani při analogickém použití Občanského soudního řádu"
+- *NS* [21 Cdo 4333/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D7719B7568E28EBC1257A4E00659843?openDocument) — 12. 6. 2008, kat. A
+  > „O zkracující právní úkon ve smyslu ustanovení § 42a obč. zák. se nejedná tehdy, obdržel-li dlužník za převedené věci, práva nebo jiné majetkové hodnoty od nabyvatele skutečně (reálně) jejich obvyklou cenu nebo mu za ně byla jinak poskytnuta přiměřená (rovnocenná) náhrada"
+- *NS* [21 Cdo 1397/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/606DB63AB98EA1F6C1257A4E00650B08?openDocument) — 11. 4. 2007, kat. A
+  > „Osobu, která vykonávala funkci statutárního orgánu právnické osoby, soud v řízení, jehož účastníkem je tato právnická osoba, vyslechne o okolnostech, které se týkají této právnické osoby a které nastaly v době, kdy vykonávala funkci statutárního orgánu, jako účastníka řízení (§ 131 o. s. ř.)"
+- *NS* [21 Cdo 694/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4C802866BBCEBE7C1257A4E0068E72D?openDocument) — 11. 4. 2007, kat. A
+  > „Technický průkaz je součástí silničního motorového vozidla, k němuž byl vystaven (vydán). Technický průkaz silničního motorového vozidla není způsobilým předmětem zadržovacího práva (§ 175 a násl. obč. zák.)"
+- *NS* [21 Cdo 1269/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/994EB3D60EC82939C1257A4E0066D170?openDocument) — 15. 2. 2007, kat. A
+  > „Žaloba pro zmatečnost je přípustná proti každému pravomocnému usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, bez ohledu na to, zda odvolání směřovalo proti rozhodnutí o věci samé, proti rozhodnutí, kterým bylo řízení jinak skončeno, nebo proti rozhodnutí vydanému v průběhu řízení"
+- *NS* [21 Cdo 182/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E278217622ECF46BC1257A4E00652E3B?openDocument) — 26. 10. 2006, kat. A
+  > „Zaměstnavatel je ve smyslu ustanovení § 141a zák. práce ve znění účinném do 31. 12. 2006*) oprávněn uložit zaměstnanci povinnost zúčastnit se školení k prohloubení kvalifikace, jehož součástí může být závěrečné ověření získaných znalostí z tohoto ustanovení však nelze dovodit oprávnění zaměstnavatele uložit zaměstnanci povinnost podrobit se pouhému přezkoušení úrovně kvalifikace k výkonu práce sjednané v pracovní smlouvě"
 
 ### Výklad / smysl ustanovení
 
@@ -389,6 +452,15 @@ Vedle obecných (§ 42 odst. 4):
 >
 > **(3)** Za rozhodnutí podle odstavce 1 písm. c) se považuje i rozhodnutí vydané v řízení o určení pravosti nebo výše pohledávky nepřevyšující 50000 Kč.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — 28. 1. 2021, kat. A
+  > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku)"
+- *NS* [29 Cdo 3632/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9A14E626D0B11102C1257CE8004DE4A9?openDocument) — 29. 4. 2014, kat. A
+  > „Při posouzení přípustnosti dovolání proti usnesení, jímž odvolací soud potvrdil usnesení, kterým soud prvního stupně nepřiznal účastníku osvobození od soudního poplatku, se neuplatní hodnotové omezení podle ustanovení § 238 odst. 1 písm. d) o. s. ř"
+- *NS* [29 Odo 75/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/111F5A09AB49DBEDC1257A4E00687C8B?openDocument) — 20. 2. 2002, kat. A
+  > „Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zastavení řízení pro neuhrazení zálohy na náklady konkursu dle § 5 zákona č. 328/1991 Sb. ve znění pozdějších předpisů, není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné. Usnesení o zastavení řízení pro nezaplacení zálohy na náklady konkursu je usnesením, jímž se řízení končí, není však usnesením "ve věci samé". Podle ustanovení § 238a odst. 1 písm. a) o. s. ř. ve znění účinném od 1. ledna 2001 je dovolání ve věci konkursu a vyrovnání přípustné jen proti těm rozhodnutím odvolacího soudu, jimiž se mění nebo potvrzují konkursní či vyrovnací rozhodnutí soudu prvního stupně "ve věci samé""
+
 ### Výklad
 
 **Odst. 1 — 12 vyloučení:**
@@ -428,11 +500,31 @@ Vedle obecných (§ 42 odst. 4):
 - přistoupení dalšího účastníka (§ 92 odst. 1),
 - záměně účastníka (§ 92 odst. 2).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1269/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/994EB3D60EC82939C1257A4E0066D170?openDocument) — 15. 2. 2007, kat. A
+  > „Žaloba pro zmatečnost je přípustná proti každému pravomocnému usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, bez ohledu na to, zda odvolání směřovalo proti rozhodnutí o věci samé, proti rozhodnutí, kterým bylo řízení jinak skončeno, nebo proti rozhodnutí vydanému v průběhu řízení"
+- *NS* [29 Odo 478/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_478_2002.txt) — 31. 7. 2002, kat. A
+  > „Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o ustanovení předběžného správce, není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné"
+- *NS* [29 Odo 425/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26758251658D744BC1257A4E006A7ED8?openDocument) — 27. 6. 2002, kat. A
+  > „I. V konkursním řízení patří k usnesením ve věci samé (§ 237 odst. 1 o. s. ř.) především usnesení o schválení konečné zprávy, rozvrhové usnesení, usnesení o zamítnutí návrhu na nucené vyrovnání, usnesení o potvrzení nuceného vyrovnání, usnesení o zamítnutí návrhu na potvrzení nuceného vyrovnání, usnesení o zrušení konkursu, usnesení, jímž soud zamítá návrh na prohlášení konkursu a usnesení o prohlášení konkursu. II. Může-li být dovolání proti rozhodnutí odvolacího soudu ve věci samé přípustné pouze podle § 237 odst. 1 písm. c) o. s. ř., je odvolací soud povinen v písemném vyhotovení rozhodnutí účastníky poučit v tom směru, že dovolání není přípustné, ledaže na základě dovolání podaného do dvou měsíců od doručení rozhodnutí k Nejvyššímu soudu prostřednictvím v poučení označeného soudu prvního stupně, dospěje dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní…"
+
 ---
 
 ## § 239 — Přípustnost zkoumá jen dovolací soud
 
 **Přípustnost dovolání (§ 237—238a) zkoumá VÝLUČNĚ NS.** Soud 1. stupně ani odvolací nemohou rozhodnout, že dovolání není přípustné — to je vyhrazeno **dovolacímu soudu**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5145/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/905AF2EAB5C1280AC1257A4E006888F5?openDocument) — 10. 12. 2008, kat. A
+  > „Věřitel může uplatnit svou pohledávku žalobou u soudu podanou proti "neznámým dědicům" zemřelého dlužníka, jestliže za řízení o dědictví nebo jinak dosud nebylo objasněno, zda zůstavitel zanechal dědice, popřípadě o kom lze mít důvodně (zejména podle poznatků z probíhajícího dědického řízení) za to, že je zůstavitelovým dědicem. Soud v tomto případě posoudí, zda je možné v řízení ihned pokračovat nebo zda řízení musí být přerušeno až do skončení řízení o zůstavitelově dědictví. V řízení lze ihned pokračovat jen tehdy, bylo-li nepochybně zjištěno, že zůstavitel zanechal takový majetek, že zůstavitelovi dědici (stát, má-li mu dědictví připadnout podle ustanovení § 462 obč. zák.) budou zcela jistě odpovídat ve smyslu ustanovení § 470 a § 472 obč. zák. za všechny zůstavitelovy dluhy (a za přiměřené náklady spojené s pohřbem zůstavitele) v plném rozsahu v takovém případě soud v řízení…"
+- *NS* [21 Cdo 1912/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44534D7A5814FEE1C1257A4E0066864B?openDocument) — 8. 1. 2003, kat. A
+  > „Pracovní poměr zaměstnanců uvedených v ustanovení § 27 odst. 4 a 5 zák. práce může vzniknout jen na základě jmenování do funkce. Ke jmenování do funkce může dojít písemným právním úkonem nebo ústně a může se tak stát výslovně nebo jiným způsobem nevzbuzujícím pochybnost, že zaměstnanec byl skutečně do funkce jmenován. Zaměstnanec může být jmenován do funkce, jen jestliže s tím souhlasí"
+- *NS* [21 Cdo 1124/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_1124_2001.txt) — 20. 11. 2001, kat. A
+  > „Proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost, není dovolání přípustné"
+- *NS* [21 Cdo 775/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6541B91A69BC667C1257A4E006970D8?openDocument) — 12. 4. 2001, kat. A
+  > „Rozhodnutí vydané v blokovém řízení (pokuta uložená v blokovém řízení) musí, aby se jednalo o vykonatelné správní rozhodnutí (rozhodnutí orgánu státní správy nebo samosprávy), obsahovat náležitosti, které jsou uvedeny v ustanovení § 85 odst. 4, větě druhé, zákona č. 200/1990 Sb., o přestupcích (ve znění pozdějších předpisů), a další údaje, jak vyplývají z použití bloku k ukládání pokut, vydaného podle ustanovení § 85 odst. 1 tohoto zákona. Nemůže-li pachatel přestupku zaplatit pokutu na místě, musí rozhodnutí v blokovém řízení (blok na pokutu na místě nezaplacenou) obsahovat též poučení o způsobu zaplacení pokuty, o lhůtě její splatnosti a o následcích nezaplacení pokuty (§ 85 odst. 3 tohoto zákona)"
 
 ---
 
@@ -443,6 +535,21 @@ Vedle obecných (§ 42 odst. 4):
 > **(2)** Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
 >
 > **(3)** Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do tří měsíců od doručení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 699/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC0D54C32DDA84B8C1257A4E006AC9B8?openDocument) — 22. 5. 2008, kat. A
+  > „V konkursním řízení vedeném na majetek dlužníka podle zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007, není správce podniku dlužníka (povinného) oprávněn zastupovat dlužníka na základě ustanovení § 338k odst. 6 o. s. ř. to platí i pro tu část konkursního řízení, která začíná podáním návrhu na prohlášení konkursu na majetek dlužníka a končí rozhodnutím konkursního soudu o tomto návrhu. Návrh na prohlášení konkursu na majetek dlužníka podle ustanovení § 4b zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007 podává správce podniku dlužníka (povinného) svým jménem a nikoliv jménem dlužníka jde o "navrhovatele konkursu", který nedokládá svou pohledávku za dlužníkem ve smyslu ustanovení § 4 odst. 2 uvedeného zákona"
+- *NS* [29 Odo 108/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_108_2002.txt) — 18. 6. 2003, kat. A
+  > „Tzv. blanketní dovolání může být doplněno o údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, jen do uplynutí dovolací lhůty. Dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o. s. ř., Nejvyšší soud odmítne podle § 43 odst. 2 o. s. ř"
+- *NS* [25 Cdo 162/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A67EFCE39D3BF7B2C1257A4E00657B71?openDocument) — 27. 5. 2003, kat. A
+  > „Vedlejší účastník není podle občanského soudního řádu ve znění účinném od 1. 1. 2001 osobou oprávněnou k podání dovolání"
+- *NS* [29 Odo 358/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E91B44F4D56E6A40C1257A4E0068BA55?openDocument) — 31. 7. 2002, kat. A
+  > „Jde-li o nepeněžité plnění z titulu ochrany proti nekalosoutěžnímu jednání, činí paušální sazba odměny advokáta za řízení v prvním stupni 6200 Kč (§ 8 písm. b/ vyhlášky č. 484/2000 Sb.)"
+- *NS* [29 Odo 425/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26758251658D744BC1257A4E006A7ED8?openDocument) — 27. 6. 2002, kat. A
+  > „I. V konkursním řízení patří k usnesením ve věci samé (§ 237 odst. 1 o. s. ř.) především usnesení o schválení konečné zprávy, rozvrhové usnesení, usnesení o zamítnutí návrhu na nucené vyrovnání, usnesení o potvrzení nuceného vyrovnání, usnesení o zamítnutí návrhu na potvrzení nuceného vyrovnání, usnesení o zrušení konkursu, usnesení, jímž soud zamítá návrh na prohlášení konkursu a usnesení o prohlášení konkursu. II. Může-li být dovolání proti rozhodnutí odvolacího soudu ve věci samé přípustné pouze podle § 237 odst. 1 písm. c) o. s. ř., je odvolací soud povinen v písemném vyhotovení rozhodnutí účastníky poučit v tom směru, že dovolání není přípustné, ledaže na základě dovolání podaného do dvou měsíců od doručení rozhodnutí k Nejvyššímu soudu prostřednictvím v poučení označeného soudu prvního stupně, dospěje dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní…"
+- *NS* [21 Cdo 2023/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9ADBA8D53B6A4B19C1257BD6003A2CE6?openDocument) — 25. 2. 1999, kat. A
+  > „K dovolání není legitimován ten účastník řízení, jemuž sice byla rozhodnutím odvolacího soudu způsobena újma na jeho právech, avšak nelze ji odstranit zrušením napadeného rozhodnutí. Dovolání proto nemůže podat účastník, jehož odvolání bylo v rozporu se zákonem odmítnuto, jestliže odvolací soud postupem podle ustanovení § 206 odst. 2 a § 212 odst. 1 o.s.ř. rozhodnutí soudu prvního stupně i ve vztahu k tomuto účastníku řízení přezkoumal a o věci i vůči tomuto účastníku rozhodl"
 
 ### Výklad
 
@@ -478,6 +585,13 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 > **(3)** Odstavec 1 neplatí také tehdy, je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3, která má právnické vzdělání.
 >
 > **(4)** Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 813/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ED7FBB004465AFAC1257A4E0069327A?openDocument) — 27. 8. 2003, kat. A
+  > „Vztah z bezdůvodného obohacení získaného přijetím plnění z neplatné smlouvy o úvěru (§ 497 a násl. obch. zák.), je obchodním závazkovým vztahem právo na vydání tohoto bezdůvodného obohacení se promlčuje ve čtyřleté promlčecí době podle ustanovení § 397 obch. zák. Smlouvu o úvěru (§ 497 obch. zák.) může jako věřitel uzavřít kterýkoli subjekt.*)"
+- *NS* [29 Odo 733/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_733_2001.txt) — 29. 8. 2002, kat. A
+  > „Je-li dovolání podepsáno pouze zástupcem dovolatele na základě plné moci, který ani přes opatření soudu dle § 104 odst. 2, věty první, o. s. ř., vůči němu učiněné, toto zastoupení nedoložil, Nejvyšší soud dovolací řízení dle § 104 odst. 2, věty třetí, o. s. ř. zastaví. Obdobně to platí i pro jiný návrh na zahájení řízení. Jestliže soud z uvedeného důvodu řízení zastaví, je osobou, která z procesního hlediska zavinila zastavení řízení, zástupce účastníka, jemuž lze ve smyslu § 147 odst. 1 o. s. ř. uložit, aby hradil náklady řízení, jež by bez jeho zavinění nevznikly"
 
 ### Výklad / smysl ustanovení
 
@@ -517,6 +631,25 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 > **(5)** K obsahu podání, v němž dovolatel uvedl, v jakém rozsahu napadá rozhodnutí odvolacího soudu, nebo v němž vymezil důvody dovolání, aniž by byla splněna podmínka stanovená v § 241, se nepřihlíží.
 >
 > **(6)** V dovolání nelze uplatnit nové skutečnosti nebo důkazy.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 658/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/541F34C3D76C3E54C1257A4E0068CC4F?openDocument) — 28. 1. 2009, kat. A
+  > „Doručenka byla podle právní úpravy účinné do 30. 6. 2009 listinou, která má povahu veřejné listiny to platilo i tehdy, neměla-li doručenka všechny náležitosti, které podle zákona musí obsahovat. Každý údaj, který byl (ve skutečnosti) na doručence uveden, se považuje za pravdivý, nebyl-li dokázán opak. „Opak“ ve smyslu ustanovení § 50f odst. 9 o. s. ř. ve znění účinném do 30. 6. 2009 prokazoval (pomocí důkazních prostředků) ten, kdo ho za řízení tvrdil, a nesl procesní odpovědnost (důkazní břemeno) za to, že nebyl zjištěn. Rozhodl-li soud prvního stupně o věci rozsudkem pro uznání (§ 153a o. s. ř.) a dospěje-li odvolací soud k závěru, že pro vydání rozsudku pro uznání nebyly splněny předpoklady stanovené zákonem, odvolací soud změní rozsudek soudu prvního stupně tak, že se rozsudek pro uznání nevydává (§ 220 odst. 1 písm. a/ o. s. ř.) zrušení rozsudku soudu prvního stupně by bylo v…"
+- *NS* [21 Cdo 4333/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D7719B7568E28EBC1257A4E00659843?openDocument) — 12. 6. 2008, kat. A
+  > „O zkracující právní úkon ve smyslu ustanovení § 42a obč. zák. se nejedná tehdy, obdržel-li dlužník za převedené věci, práva nebo jiné majetkové hodnoty od nabyvatele skutečně (reálně) jejich obvyklou cenu nebo mu za ně byla jinak poskytnuta přiměřená (rovnocenná) náhrada"
+- *NS* [21 Cdo 688/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0EB6618CCD09058C1257A4E00654228?openDocument) — 15. 5. 2007, kat. A
+  > „Skutečnosti odůvodňující závěr, že potomek o zůstavitele trvale neprojevuje opravdový zájem, který by jako potomek projevovat měl, mohou spočívat jak v pasivitě (nezájmu) potomka ve vztahu k zůstaviteli, tak také v chování, kterým potomek sice o zůstavitele zájem projevuje, ovšem způsobem neodpovídajícím řádnému chování potomka k rodiči (prarodiči atd.), tj. například způsobem trvale překračujícím zásady společenské slušnosti"
+- *NS* [21 Cdo 1397/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/606DB63AB98EA1F6C1257A4E00650B08?openDocument) — 11. 4. 2007, kat. A
+  > „Osobu, která vykonávala funkci statutárního orgánu právnické osoby, soud v řízení, jehož účastníkem je tato právnická osoba, vyslechne o okolnostech, které se týkají této právnické osoby a které nastaly v době, kdy vykonávala funkci statutárního orgánu, jako účastníka řízení (§ 131 o. s. ř.)"
+- *NS* [29 Odo 760/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94CA9D8B65588F22C1257A4E0069672A?openDocument) — 30. 11. 2005, kat. A
+  > „Jestliže trvá zástavní právo k nemovitosti, nemůže být znovu zřízeno zástavní právo k zajištění téže pohledávky stejnou zástavou"
+- *NS* [21 Cdo 2152/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89EABA3E03F25FF7C1257A4E00688315?openDocument) — 17. 5. 2005, kat. A
+  > „Posudek o pracovní činnosti může obsahovat kromě hodnocení práce zaměstnance, jeho kvalifikace a schopností rovněž jakékoliv další skutečnosti, jestliže mají vztah k výkonu práce. Pracovní posudek tedy může obsahovat i hodnocení celkového vztahu zaměstnance ke spolupracovníkům a k práci, jakož i hodnocení těch jeho osobních vlastností, které mají bezprostřední vztah k výkonu jeho práce, jako je svědomitost, iniciativnost, dodržování pracovní kázně, schopnost k řízení a organizování pracovního procesu, schopnost zapojit se do týmové práce s ostatními zaměstnanci apod. Pracovní posudek se současně musí omezit na konkrétní hodnocení činnosti zaměstnance u bývalého zaměstnavatele a nemůže vyjadřovat v obecné rovině jeho subjektivní hodnotící názor (doporučení) na vhodnost budoucího působení zaměstnance v určitém okruhu pracovních činností"
+- *NS* [21 Cdo 1392/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7DF340E07F7E2CEC1257A4E006891D5?openDocument) — 6. 1. 2005, kat. A
+  > „Občanský soudní řád ve znění účinném od 1. 1. 2001 neukládá předsedovi senátu dbát o "to, aby svědci, kteří dosud nebyli vyslechnuti, nebyli přítomni jednání," ale ponechává na předsedovi senátu, aby v souvislosti s provedením důkazu výslechem svědků v každé jednotlivé věci posoudil, jaké opatření ve vztahu k přítomnosti dosud nevyslechnutých svědků při jednání zvolí a zda učiní opatření, aby nebyli (nemohli být) až do svého výslechu při jednání přítomni, nebo zda jim v přítomnosti při jednání nezabrání"
+- *NS* [21 Cdo 1467/2004](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_1467_2004.txt) — 2. 12. 2004, kat. A
+  > „Pro rozhodnutí o nařízení prodeje zástavy (§ 200z odst. 1 o. s. ř.) není významné, zda zajištěná pohledávka splněním, započtením nebo z jiného důvodu zanikla k obraně zástavního dlužníka v tomto směru proto soud nepřihlédne. V případě, že zajištěná pohledávka zanikla, soud zastaví výkon rozhodnutí prodejem zástavy podle ustanovení § 268 odst. 3 o. s. ř. Právem, které nepřipouští výkon rozhodnutí prodejem zástavy (§ 267 odst. 1 o. s. ř.), se rozumí jakékoliv právo, v důsledku kterého k prodávané zástavě nevzniklo (nemohlo platně vzniknout) zástavní právo. Takovým právem je i společné jmění manželů, je-li zástavní smlouva neplatná podle ustanovení § 145 odst. 2 věty druhé občanského zákoníku"
 
 ### Výklad / smysl ustanovení
 
@@ -567,6 +700,11 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 >
 > **(3)** Dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen v průběhu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241, běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto. Nebyl-li nedostatek podmínky uvedené v § 241 ani ve lhůtě určené ke splnění této podmínky odstraněn, předseda senátu soudu prvního stupně dovolací řízení zastaví.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 108/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_108_2002.txt) — 18. 6. 2003, kat. A
+  > „Tzv. blanketní dovolání může být doplněno o údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, jen do uplynutí dovolací lhůty. Dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o. s. ř., Nejvyšší soud odmítne podle § 43 odst. 2 o. s. ř"
+
 ### Výklad
 
 **Odst. 1:** Analogie § 208 (odmítnutí pro opožděnost), § 209 (odstranění vad), § 210 (předložení).
@@ -596,6 +734,23 @@ Pokud bylo vydáno **opravné usnesení** → lhůta od doručení opravného us
 > **(3)** Rozhodnutí odvolacího soudu lze přezkoumat jen z důvodu vymezeného v dovolání. Je-li dovolání přípustné, dovolací soud přihlédne též k vadám uvedeným v § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3, jakož i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci.
 >
 > **(4)** Účastníci mohou po dobu trvání lhůty k podání dovolání měnit vymezení důvodu dovolání a rozsah, ve kterém rozhodnutí odvolacího soudu napadají; ke změně není třeba souhlasu soudu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
+  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
+- *NS* [21 Cdo 2748/2006](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_2748_2006.txt) — 30. 10. 2007, kat. A
+  > „Došlo-li ke zřízení zástavního práva předáním akcie zástavnímu věřiteli, je k návrhu na umoření ztracené nebo zničené akcie oprávněn (věcně legitimován) zástavní věřitel, ledaže by ji po zániku zástavního práva vrátil zástavnímu dlužníku nebo ji prodal za účelem uspokojení zajištěné pohledávky prostřednictvím obchodníka s cennými papíry. Přihlášku listiny navržené k umoření podává ten, kdo má listinu u sebe (ve své držbě) nebo kdo to alespoň tvrdí a kdo tedy listinu předložil soudu nebo je alespoň připraven tak na výzvu soudu učinit. Námitky proti umoření listiny podává ten, kdo sice nemá listinu ve své držbě, avšak popírá správnost údajů o ztrátě nebo zničení listiny nebo tvrdí-li, že jsou tu jiné (další) okolnosti, které brání tomu, aby listina byla soudem prohlášena za umořenou. Soud zamítne návrh na umoření listiny podle ustanovení § 185q, věty druhé, o. s. ř. nejen tehdy, byla-li…"
+- *NS* [29 Odo 707/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38A053636C91037AC1257A4E0067B5E4?openDocument) — 31. 5. 2006, kat. A
+  > „Majetkem sloužícím k uspokojení pohledávek dlužníkových věřitelů, jehož existence brání vydání rozhodnutí o zamítnutí návrhu na prohlášení konkursu pro nedostatek majetku dlužníka (§ 12a odst. 4 zákona č. 328/1991 Sb. ve znění pozdějších předpisů), může být jako majetek patřící do konkursní podstaty i majetek ve vlastnictví jiných osob (§ 6 odst. 3 uvedeného zákona), včetně majetku, jímž tyto osoby zajišťují pohledávky vůči dlužníku (§ 27 odst. 5 uvedeného zákona). Jestliže konkursní soud zamítl dlužníkův návrh na prohlášení konkursu pro nedostatek majetku dlužníka, aniž před vydáním takového rozhodnutí poskytl věřitelům dlužníka možnost vyjádřit se k majetkovým poměrům dlužníka, pak zatížil konkursní řízení vadou, která mohla mít za následek nesprávné rozhodnutí ve věci"
+- *NS* [29 Odo 523/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DB2890EB1DCBD5F8C1257A4E00675D8F?openDocument) — 29. 8. 2002, kat. A
+  > „Námitka, že řízení před soudy nižších stupňů je postiženo některou z vad řízení vypočtených v ustanoveních § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3 o. s. ř., není od 1. ledna 2001 způsobilým dovolacím důvodem k posouzení její důvodnosti slouží od uvedeného data žaloba pro zmatečnost"
+- *NS* [29 Cdo 2494/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1DC7D06B4F070E85C1257A4E00678EAB?openDocument) — 30. 10. 2001, kat. A
+  > „Jestliže věřitel, jehož nevykonatelná pohledávka byla při přezkumném jednání v konkursu popřena, podá žalobu o určení pravosti pohledávky přímo proti úpadci, soud žalobu zamítne pro nedostatek pasívní věcné legitimace žalovaného ve sporu. Proti tomu, kdo se má stát účastníkem řízení na základě usnesení, jímž soud připustí jeho přistoupení do řízení (§ 92 odst. 1 o. s. ř.), se běh hmotněprávních lhůt (včetně třicetidenní lhůty určené v ustanovení § 24 odst. 1 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) staví dnem, kdy návrh na jeho přistoupení dojde soudu. Poučení žalobce o tom, že ve věci má či může být žalován další žalovaný, není součástí poučovací povinnosti soudu dle § 5 o. s. ř"
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+- *NS* [20 Cdo 840/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9A7A8AE9F62B0B2C1257BD6003A2C9F?openDocument) — 27. 1. 2000, kat. A
+  > „K vadě řízení spočívající v tom, že ve věci v prvním stupni rozhodl věcně nepříslušný soud, může dovolací soud přihlédnout jen tehdy, je-li dovolání přípustné o vadu ve smyslu § 237 odst. 1 písm. f) o.s.ř. tu nejde"
 
 ### Výklad
 
@@ -627,6 +782,11 @@ NS může i bez návrhu **odložit**:
 - a) **vykonatelnost**, hrozí-li dovolateli závažná újma,
 - b) **právní moc**, je-li dovolatel závažně ohrožen.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 905/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD4D6F5754FCA78AC1257A4E0064EB79?openDocument) — 19. 10. 2006, kat. A
+  > „Konkursem vedeným na majetek příspěvkové organizace kraje lze postihnout i majetek svěřený příspěvkové organizaci kraje do správy krajem jako jejím zřizovatelem a vlastníkem tohoto majetku. Při soupisu takového majetku do konkursní podstaty příspěvkové organizace nemá kraj postavení osoby, jejíž majetek zajišťuje ve smyslu § 27 odst. 5 zákona č. 328/1991 Sb. ve znění pozdějších předpisů pohledávky vůči příspěvkové organizaci kraje. Vykonatelnost rozsudku, jímž byla zamítnuta vylučovací žaloba podle § 19 odst. 2 zákona č. 328/1991 Sb. ve znění pozdějších předpisů, nelze odložit podle § 243 o. s. ř"
+
 ### Praktický dopad
 
 **Bez odkladu vykonatelnosti** rozhodnutí odvolacího soudu (pravomocné) je **vykonatelné** po celou dobu dovolacího řízení (= cca 1—2 roky u NS). Klient by měl při podání dovolání **vždy navrhnout odklad**.
@@ -644,6 +804,25 @@ NS může i bez návrhu **odložit**:
 **§ 243a:** NS rozhoduje **zpravidla bez jednání**. Pokud považuje za potřebné → nařídí jednání.
 
 **§ 243b:** Pro dovolací řízení platí přiměřeně pravidla 1. stupně, s výjimkou: § 43 (vady podání), § 92 (přistoupení/záměna), § 95—99 (změna, zpětvzetí, vzájemný návrh, započtení, smír), § 107a (singulární sukcese).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 658/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/541F34C3D76C3E54C1257A4E0068CC4F?openDocument) — 28. 1. 2009, kat. A
+  > „Doručenka byla podle právní úpravy účinné do 30. 6. 2009 listinou, která má povahu veřejné listiny to platilo i tehdy, neměla-li doručenka všechny náležitosti, které podle zákona musí obsahovat. Každý údaj, který byl (ve skutečnosti) na doručence uveden, se považuje za pravdivý, nebyl-li dokázán opak. „Opak“ ve smyslu ustanovení § 50f odst. 9 o. s. ř. ve znění účinném do 30. 6. 2009 prokazoval (pomocí důkazních prostředků) ten, kdo ho za řízení tvrdil, a nesl procesní odpovědnost (důkazní břemeno) za to, že nebyl zjištěn. Rozhodl-li soud prvního stupně o věci rozsudkem pro uznání (§ 153a o. s. ř.) a dospěje-li odvolací soud k závěru, že pro vydání rozsudku pro uznání nebyly splněny předpoklady stanovené zákonem, odvolací soud změní rozsudek soudu prvního stupně tak, že se rozsudek pro uznání nevydává (§ 220 odst. 1 písm. a/ o. s. ř.) zrušení rozsudku soudu prvního stupně by bylo v…"
+- *NS* [21 Cdo 5145/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/905AF2EAB5C1280AC1257A4E006888F5?openDocument) — 10. 12. 2008, kat. A
+  > „Věřitel může uplatnit svou pohledávku žalobou u soudu podanou proti "neznámým dědicům" zemřelého dlužníka, jestliže za řízení o dědictví nebo jinak dosud nebylo objasněno, zda zůstavitel zanechal dědice, popřípadě o kom lze mít důvodně (zejména podle poznatků z probíhajícího dědického řízení) za to, že je zůstavitelovým dědicem. Soud v tomto případě posoudí, zda je možné v řízení ihned pokračovat nebo zda řízení musí být přerušeno až do skončení řízení o zůstavitelově dědictví. V řízení lze ihned pokračovat jen tehdy, bylo-li nepochybně zjištěno, že zůstavitel zanechal takový majetek, že zůstavitelovi dědici (stát, má-li mu dědictví připadnout podle ustanovení § 462 obč. zák.) budou zcela jistě odpovídat ve smyslu ustanovení § 470 a § 472 obč. zák. za všechny zůstavitelovy dluhy (a za přiměřené náklady spojené s pohřbem zůstavitele) v plném rozsahu v takovém případě soud v řízení…"
+- *NS* [21 Cdo 4196/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A54DA87D90E8D16DC1257A4E0065614E?openDocument) — 8. 12. 2008, kat. A
+  > „Imperativní ustanovení ve smyslu Článku 7 Úmluvy o právu rozhodném pro smluvní závazkové vztahy (Římská úmluva) nelze ztotožňovat s kogentními ustanoveními českého právního řádu ustanovení § 44 odst. 2 a § 46 odst. 1 písm. a) až f) zákona č. 65/1965 Sb., zákoníku práce, samy o sobě imperativními ustanoveními podle Článku 7 Římské úmluvy nejsou. Bylo-li v důsledku volby práva aplikováno právo cizího státu, které na rozdíl od českého práva neobsahuje ochranu pracovního poměru v podobě právní úpravy skutkových podstat pro jednostranné rozvázání pracovního poměru zaměstnavatelem a v podobě požadavku, aby zrušovací písemný projev zaměstnavatele obsahoval skutkové vymezení důvodu skončení pracovního poměru, nepůsobí tato okolnost v poměrech České republiky účinky, které by ve smyslu § 36 zákona č. 97/1963 Sb. představovaly rozpor s veřejným pořádkem takového stupně, který by porušoval…"
+- *NS* [22 Cdo 3602/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C82473EF57006297C1257A4E00656E27?openDocument) — 5. 11. 2008, kat. A
+  > „Nenapadá-li dovolatel nesprávnost právního názoru odvolacího soudu vyjádřeného v jeho předchozím rozhodnutí, jímž bylo prvé rozhodnutí soudu prvního stupně zrušeno a věc byla tomuto soudu vrácena k dalšímu řízení, přičemž tento právní názor vedl soud prvního stupně k tomu, aby v novém rozhodnutí rozhodl jinak než v předchozím zrušeném rozhodnutí, může být o přípustnosti dovolání proti tentokrát potvrzujícímu rozhodnutí odvolacího soudu ve věci samé uvažováno jen z hlediska § 237 odst. 1 písm. c) o. s. ř"
+- *NS* [21 Cdo 3233/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26B97F3EB99804CAC1257A4E00651EF1?openDocument) — 29. 10. 2008, kat. A
+  > „Dědické právo (nárok na dědictví) nemůže být ani předmětem dohody o přenechání předluženého dědictví věřitelům (srov. § 175p o. s. ř.), ani nemůže být zpeněženo při likvidaci dědictví (srov. § 175u o. s. ř.). Ztratí-li po zahájení řízení o dědictví způsobilost být účastníkem řízení fyzická osoba, která přichází v úvahu jako dědic zůstavitele, jež nezanechala žádné dědice, jejíž dědici jsou nezpůsobilí dědit nebo jejíž dědictví nenabude (nemůže nabýt) z jiných důvodů žádný dědic, rozhodne soud (§ 107 o. s. ř.) o tom, že v řízení bude na jejím místě pokračováno se státem, aniž by čekal na to, až státu bude pravomocným usnesením o dědictví potvrzeno, že mu dědictví připadlo podle ustanovení § 462 obč. zák"
+- *NS* [21 Cdo 2062/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/469C1279A655EABAC1257A4E00699CFC?openDocument) — 2. 7. 2008, kat. A
+  > „Příklep udělený licitátorem ve veřejné dražbě, provedené podle zákona č. 26/2000 Sb. ve znění pozdějších předpisů, soud nemůže zrušit, a to ani při analogickém použití Občanského soudního řádu"
+- *NS* [21 Cdo 4333/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D7719B7568E28EBC1257A4E00659843?openDocument) — 12. 6. 2008, kat. A
+  > „O zkracující právní úkon ve smyslu ustanovení § 42a obč. zák. se nejedná tehdy, obdržel-li dlužník za převedené věci, práva nebo jiné majetkové hodnoty od nabyvatele skutečně (reálně) jejich obvyklou cenu nebo mu za ně byla jinak poskytnuta přiměřená (rovnocenná) náhrada"
+- *NS* [21 Cdo 599/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2EBAA23437F91E9C1257A4E006A521B?openDocument) — 26. 3. 2008, kat. A
+  > „Byla-li žaloba o neplatnost veřejné dobrovolné dražby podána u soudu do 3 měsíců ode dne jejího konání (§ 24 odst. 3 zákona č. 26/2000 Sb. ve znění pozdějších předpisů), právo na vyslovení neplatnosti veřejné dobrovolné dražby nezaniklo, i když žaloba nesměřovala proti všem osobám, které se z hlediska věcné legitimace musí řízení zúčastnit, a i když se staly účastníky řízení (postupem podle ustanovení § 92 o. s. ř.) až na návrh podaný po uplynutí této lhůty"
 
 ### Praktický dopad
 
@@ -677,6 +856,13 @@ NS může i bez návrhu **odložit**:
 > b) může rozhodnutí odvolacího soudu změnit, jestliže odvolací soud rozhodl nesprávně a jestliže dosavadní výsledky řízení ukazují, že je možné o věci rozhodnout.
 >
 > **(2)** Změní-li dovolací soud rozhodnutí odvolacího soudu, zruší rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, která jsou na změněném rozhodnutí odvolacího soudu závislá. Dozví-li se dovolací soud až dodatečně o tom, že na změněném rozhodnutí odvolacího soudu jsou závislá rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, rozhodne o jejich zrušení samostatným usnesením.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1776/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056323D1EF396DF9C12585F60014BFAB?openDocument) — 7. 7. 2020, kat. A
+  > „Předběžné projednání nároku podle § 14 odst. 1 a 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů) není řízením před orgánem veřejné moci ve smyslu § 648 o. z. pravidlo o prodloužení promlčecí lhůty podle § 652 o. z. se proto v takovém případě nepoužije"
+- *NS* [22 Cdo 778/2005](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_778_2005.txt) — 10. 10. 2006, kat. A
+  > „Smlouva o převodu vlastnictví není neplatná jen proto, že převodce vlastnické právo odvozoval z rozhodnutí, které bylo po uzavření této smlouvy zrušeno dovolacím soudem a novým rozhodnutím bylo ve věci rozhodnuto jinak"
 
 ### Výklad
 

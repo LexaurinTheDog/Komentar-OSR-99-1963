@@ -138,6 +138,11 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 >
 > (3) Kdo ve věcech příslušejících senátu nesouhlasí s opatřením předsedy senátu, které učinil při jednání, může žádat, aby rozhodl senát.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1392/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7DF340E07F7E2CEC1257A4E006891D5?openDocument) — 6. 1. 2005, kat. A
+  > „Občanský soudní řád ve znění účinném od 1. 1. 2001 neukládá předsedovi senátu dbát o "to, aby svědci, kteří dosud nebyli vyslechnuti, nebyli přítomni jednání," ale ponechává na předsedovi senátu, aby v souvislosti s provedením důkazu výslechem svědků v každé jednotlivé věci posoudil, jaké opatření ve vztahu k přítomnosti dosud nevyslechnutých svědků při jednání zvolí a zda učiní opatření, aby nebyli (nemohli být) až do svého výslechu při jednání přítomni, nebo zda jim v přítomnosti při jednání nezabrání"
+
 ### Výklad
 
 **Odst. 1 — kompetence předsedy:**
@@ -164,6 +169,11 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 > (2) Po provedení úkonů podle odstavce 1 předseda senátu sdělí výsledky přípravy jednání a podle dosavadních výsledků řízení uvede, která právně významná skutková tvrzení účastníků lze považovat za shodná, která právně významná skutková tvrzení zůstala sporná a které z dosud navržených důkazů budou provedeny, popřípadě které důkazy soud provede, i když je účastníci nenavrhli.
 >
 > (3) Nestanoví-li zákon jinak, určuje další průběh jednání předseda senátu podle okolností případu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1392/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7DF340E07F7E2CEC1257A4E006891D5?openDocument) — 6. 1. 2005, kat. A
+  > „Občanský soudní řád ve znění účinném od 1. 1. 2001 neukládá předsedovi senátu dbát o "to, aby svědci, kteří dosud nebyli vyslechnuti, nebyli přítomni jednání," ale ponechává na předsedovi senátu, aby v souvislosti s provedením důkazu výslechem svědků v každé jednotlivé věci posoudil, jaké opatření ve vztahu k přítomnosti dosud nevyslechnutých svědků při jednání zvolí a zda učiní opatření, aby nebyli (nemohli být) až do svého výslechu při jednání přítomni, nebo zda jim v přítomnosti při jednání nezabrání"
 
 ### Výklad
 
@@ -195,6 +205,19 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 > (3) Zjistí-li předseda senátu v průběhu jednání, že účastník dosud nenavrhl důkazy potřebné k prokázání všech svých sporných tvrzení, vyzve jej, aby tyto důkazy označil bez zbytečného odkladu, a poučí jej o následcích nesplnění této výzvy.
 >
 > (4) Při jednání předseda senátu poskytuje účastníkům poučení též o jiných jejich procesních právech a povinnostech; to neplatí, je-li účastník zastoupen advokátem nebo notářem v rozsahu jeho oprávnění stanoveného zvláštními předpisy.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 2593/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDD734F1793FD70DC125891C001E1FD1?openDocument) — 27. 9. 2022, kat. A
+  > „Institut přestavku lze u staveb zřízených před 1. 1. 2014 aplikovat jen tehdy, byla-li dobrá víra stavebníka, že stavbu zřídil na vlastním pozemku, dána k 1. 1. 2014"
+- *NS* [29 Odo 784/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1692A424971E5EBBC1257A4E00653FC8?openDocument) — 31. 5. 2007, kat. A
+  > „Zástavní věřitel se i po prohlášení konkursu na majetek osobního dlužníka a po soupisu zástavy do konkursní podstaty může platně vzdát zástavního práva"
+- *NS* [21 Cdo 2203/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43B82A8030C8AB9CC1257A4E00694B19?openDocument) — 24. 10. 2006, kat. A
+  > „Jen takový zůstavitel, jemuž zdravotní nebo jiná překážka objektivně znemožňuje číst nebo psát, může platně pořídit závěť ve smyslu ustanovení § 476c obč. zák. (§ 40 odst. 1 obč. zák.)"
+- *NS* [21 Cdo 1392/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7DF340E07F7E2CEC1257A4E006891D5?openDocument) — 6. 1. 2005, kat. A
+  > „Občanský soudní řád ve znění účinném od 1. 1. 2001 neukládá předsedovi senátu dbát o "to, aby svědci, kteří dosud nebyli vyslechnuti, nebyli přítomni jednání," ale ponechává na předsedovi senátu, aby v souvislosti s provedením důkazu výslechem svědků v každé jednotlivé věci posoudil, jaké opatření ve vztahu k přítomnosti dosud nevyslechnutých svědků při jednání zvolí a zda učiní opatření, aby nebyli (nemohli být) až do svého výslechu při jednání přítomni, nebo zda jim v přítomnosti při jednání nezabrání"
+- *NS* [21 Cdo 1769/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4520E6DED38FC36C1257A4E006795F3?openDocument) — 5. 2. 2004, kat. A
+  > „Jestliže zaměstnanec jednající jménem zaměstnavatele v úmyslu, aby jiného zaměstnance přiměl k uzavření dohody o rozvázání pracovního poměru, tohoto zaměstnance ujistí, že může bez obav, že přijde o výplatu náhrady za ztrátu na výdělku, požádat o přiznání starobního důchodu (mimořádného starobního důchodu), ačkoliv musel vědět (při vynaložení náležité péče, kterou lze po něm rozumně požadovat, musel zjistit), že přiznáním starobního důchodu nárok na náhradu za ztrátu na výdělku zaniká a že jeho ujištění je nepravdivé, porušil tím svou právní povinnost v rámci plnění úkolů zaměstnavatele. Zaměstnavatel odpovídá za škodu, která tím zaměstnanci vznikla"
 
 ### Výklad / smysl ustanovení
 
@@ -239,6 +262,13 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 > (2) Byla-li připuštěna změna žaloby (§ 95), nejsou tím účinky podle odstavce 1 dotčeny. Došlo-li k přistoupení dalšího účastníka (§ 92 odst. 1) nebo záměně účastníka (§ 92 odst. 2), nastávají ve vztahu s novými účastníky účinky podle odstavce 1 skončením prvního jednání, které bylo nařízeno po přistoupení nebo záměně účastníka a které se ve věci konalo; o tom musí být účastníci poučeni v předvolání k tomuto jednání.
 >
 > (3) Omezení podle odstavců 1 a 2 neplatí v případě, že účastníci nebyli řádně poučeni podle odstavce 2 části druhé věty za středníkem nebo podle § 114c odst. 5.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3314/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/922265BF8A863D45C1258C4200529C4C?openDocument) — 29. 1. 2025, kat. A
+  > „Jestliže poté, kdy účastníkům na základě řádně poskytnutého poučení podle § 118b odst. 1 o. s. ř. uplynula koncentrační lhůta, byl některý z nich soudem vyzván podle § 118a odst. 1 až 3 o. s. ř. k doplnění rozhodných tvrzení o věci samé a označení důkazů k jejich prokázání (§ 118b odst. 1 poslední věta o. s. ř.), pak v rozsahu takto poskytnutého poučení mohou účastníci doplňovat tvrzení a označovat důkazy i po uplynutí lhůty soudem k tomu ve výzvě určené"
+- *NS* [29 Odo 1538/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12DA050CF9DE0715C1257A4E0066AEA6?openDocument) — 27. 3. 2008, kat. A
+  > „I v režimu zákonné koncentrace řízení podle § 118b odst. 1 o. s. ř. není soud zbaven povinnosti provést i jiné než účastníky navržené důkazy, jestliže potřeba jejich provedení vyšla v řízení najevo (§ 120 odst. 3 o. s. ř.). Zákonná koncentrace řízení omezuje soud v rozsahu těchto aktivit potud, že může brát v úvahu jen takové důkazy, jejichž potřeba provedení vyšla najevo do skončení prvního jednání, které se ve věci konalo"
 
 ### Výklad / smysl ustanovení
 

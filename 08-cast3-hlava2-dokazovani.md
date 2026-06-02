@@ -53,6 +53,17 @@ V hlavě II OSŘ rozlišuje:
 >
 > (3) Soud může též vzít za svá skutková zjištění shodná tvrzení účastníků.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4841/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9B4163A5C3DA5B0C1257A4E006522CF?openDocument) — 29. 10. 2008, kat. A
+  > „Vyplyne-li ve sporném řízení potřeba provedení nenavrženého důkazu z tvrzení, které účastník uplatňuje v odvolacím řízení v rozporu s ustanovením § 205a odst. 1 o. s. ř., nesmí odvolací soud takový důkaz (ani z vlastní iniciativy) provést, a to bez ohledu na to, zda má být tímto novým důkazem prokázána skutečnost, jež by mohla způsobit absolutní neplatnost právního úkonu"
+- *NS* [29 Odo 1538/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12DA050CF9DE0715C1257A4E0066AEA6?openDocument) — 27. 3. 2008, kat. A
+  > „I v režimu zákonné koncentrace řízení podle § 118b odst. 1 o. s. ř. není soud zbaven povinnosti provést i jiné než účastníky navržené důkazy, jestliže potřeba jejich provedení vyšla v řízení najevo (§ 120 odst. 3 o. s. ř.). Zákonná koncentrace řízení omezuje soud v rozsahu těchto aktivit potud, že může brát v úvahu jen takové důkazy, jejichž potřeba provedení vyšla najevo do skončení prvního jednání, které se ve věci konalo"
+- *NS* [29 Odo 813/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ED7FBB004465AFAC1257A4E0069327A?openDocument) — 27. 8. 2003, kat. A
+  > „Vztah z bezdůvodného obohacení získaného přijetím plnění z neplatné smlouvy o úvěru (§ 497 a násl. obch. zák.), je obchodním závazkovým vztahem právo na vydání tohoto bezdůvodného obohacení se promlčuje ve čtyřleté promlčecí době podle ustanovení § 397 obch. zák. Smlouvu o úvěru (§ 497 obch. zák.) může jako věřitel uzavřít kterýkoli subjekt.*)"
+- *NS* [29 Odo 799/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C624BB5BFC7EDAA8C1257A4E0065E5FC?openDocument) — 23. 10. 2002, kat. A
+  > „Je-li sporné, zda odesílatelem zásilky je jiná osoba, než která je jako odesílatel označena v nákladním listě, nese o tom břemeno tvrzení a důkazní břemeno dopravce"
+
 ### Výklad / smysl ustanovení
 
 **Paragraf 120 je nosníkem civilního procesu** — vymezuje, **kdo navrhuje důkazy** a **kdo rozhoduje o jejich provedení**.
@@ -134,6 +145,11 @@ Pokud účastník neoznačí žádné důkazy, soud vychází z těch, **které 
 >
 > (3) Senát může vždy rozhodnout, aby provedené důkazy byly doplněny nebo před ním opakovány.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+
 ### Výklad
 
 **Odst. 1:** Dokazování **provádí soud při jednání** = **přímost** (důkaz se provádí před tím soudem, který rozhoduje).
@@ -157,6 +173,11 @@ Pokud účastník neoznačí žádné důkazy, soud vychází z těch, **které 
 ## § 123 — Právo účastníka na vyjádření
 
 > Účastníci mají právo vyjádřit se k návrhům na důkazy a ke všem důkazům, které byly provedeny.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
 
 ### Výklad
 
@@ -232,6 +253,11 @@ Dokazování **musí šetřit povinnost mlčenlivosti** (utajované informace + 
 > (3) Předseda senátu vyzve svědka, aby souvisle vylíčil vše, co ví o předmětu výslechu. Klást otázky mají právo postupně předseda senátu, členové senátu, účastníci a znalci. Otázku položenou účastníkem nebo znalcem předseda senátu nepřipustí, jen jestliže nesouvisí s předmětem výslechu nebo naznačuje-li odpověď anebo je-li zejména předstíráním neprokázaných nebo nepravdivých skutečností klamavá; nepořizuje-li se o výpovědi záznam, uvede předseda senátu vždy v protokolu důvody, pro které otázka nebyla připuštěna.
 >
 > (4) Fyzická osoba, která je statutárním orgánem právnické osoby (členem tohoto orgánu), může být vyslechnuta v řízení, jehož účastníkem je tato právnická osoba, jen podle § 131.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
 
 ### Výklad / smysl ustanovení
 
@@ -395,6 +421,11 @@ V praxi typicky:
 >
 > (2) Předseda senátu může uložit tomu, kdo má listinu potřebnou k důkazu, aby ji předložil, nebo ji opatří sám od jiného soudu, orgánu nebo právnické osoby.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+
 ### Výklad
 
 **Listinný důkaz** = klasický nejčastější důkaz. Provedení:
@@ -438,6 +469,11 @@ V praxi typicky:
 >
 > (3) Ustanovení § 126 odst. 3 se zde použije obdobně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+
 ### Výklad
 
 **Důkaz výslechem účastníka:**
@@ -460,6 +496,15 @@ V praxi typicky:
 ## § 132 — Volné hodnocení důkazů
 
 > Důkazy hodnotí soud podle své úvahy, a to každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom pečlivě přihlíží ke všemu, co vyšlo za řízení najevo, včetně toho, co uvedli účastníci.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 688/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0EB6618CCD09058C1257A4E00654228?openDocument) — 15. 5. 2007, kat. A
+  > „Skutečnosti odůvodňující závěr, že potomek o zůstavitele trvale neprojevuje opravdový zájem, který by jako potomek projevovat měl, mohou spočívat jak v pasivitě (nezájmu) potomka ve vztahu k zůstaviteli, tak také v chování, kterým potomek sice o zůstavitele zájem projevuje, ovšem způsobem neodpovídajícím řádnému chování potomka k rodiči (prarodiči atd.), tj. například způsobem trvale překračujícím zásady společenské slušnosti"
+- *NS* [21 Cdo 1397/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/606DB63AB98EA1F6C1257A4E00650B08?openDocument) — 11. 4. 2007, kat. A
+  > „Osobu, která vykonávala funkci statutárního orgánu právnické osoby, soud v řízení, jehož účastníkem je tato právnická osoba, vyslechne o okolnostech, které se týkají této právnické osoby a které nastaly v době, kdy vykonávala funkci statutárního orgánu, jako účastníka řízení (§ 131 o. s. ř.)"
+- *NS* [21 Cdo 2152/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89EABA3E03F25FF7C1257A4E00688315?openDocument) — 17. 5. 2005, kat. A
+  > „Posudek o pracovní činnosti může obsahovat kromě hodnocení práce zaměstnance, jeho kvalifikace a schopností rovněž jakékoliv další skutečnosti, jestliže mají vztah k výkonu práce. Pracovní posudek tedy může obsahovat i hodnocení celkového vztahu zaměstnance ke spolupracovníkům a k práci, jakož i hodnocení těch jeho osobních vlastností, které mají bezprostřední vztah k výkonu jeho práce, jako je svědomitost, iniciativnost, dodržování pracovní kázně, schopnost k řízení a organizování pracovního procesu, schopnost zapojit se do týmové práce s ostatními zaměstnanci apod. Pracovní posudek se současně musí omezit na konkrétní hodnocení činnosti zaměstnance u bývalého zaměstnavatele a nemůže vyjadřovat v obecné rovině jeho subjektivní hodnotící názor (doporučení) na vhodnost budoucího působení zaměstnance v určitém okruhu pracovních činností"
 
 ### Výklad / smysl ustanovení
 
@@ -588,6 +633,11 @@ Praktické u **velkých zásilek** padělaného zboží (kontejnery) — ohledá
 
 > Listiny vydané soudy České republiky nebo jinými státními orgány v mezích jejich pravomoci, jakož i listiny, které jsou zvláštními předpisy prohlášeny za veřejné, potvrzují, že jde o nařízení nebo prohlášení orgánu, který listinu vydal, a není-li dokázán opak, i pravdivost toho, co je v nich osvědčeno nebo potvrzeno.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 315/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B72255526EF70D5C1257A4E006A91EE?openDocument) — 22. 1. 2002, kat. A
+  > „Uvede-li obchodní společnost nebo jiný podnikatel v písemném právním úkonu své obchodní jméno (nyní svou obchodní firmu) nepřesně nebo neúplně, nelze z toho důvodně dovozovat, že by právní úkon učinil někdo jiný (od něj odlišná osoba). Jde o vadu projevu vůle, která způsobuje, nelze-li ji odstranit pomocí výkladu, neplatnost právního úkonu"
+
 ### Výklad / smysl ustanovení
 
 **Veřejná listina** = listina vydaná **orgánem veřejné moci v jeho kompetenci** + listiny prohlášené za veřejné zvláštními předpisy.
@@ -624,6 +674,15 @@ Praktické u **velkých zásilek** padělaného zboží (kontejnery) — ohledá
 > (1) Soud je vázán rozhodnutím příslušných orgánů o tom, že byl spáchán trestný čin, přestupek nebo jiný správní delikt postižitelný podle zvláštních předpisů, a kdo je spáchal, jakož i rozhodnutím o osobním stavu; soud však není vázán rozhodnutím v blokovém řízení.
 >
 > (2) Jinak otázky, o nichž přísluší rozhodnout jinému orgánu, může soud posoudit sám. Bylo-li však o takové otázce vydáno příslušným orgánem rozhodnutí, soud z něho vychází.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 826/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7414C1EB94183DA2C1257A4E00686FE2?openDocument) — 18. 4. 2006, kat. A
+  > „Smlouva, při jejímž uzavření jeden z účastníků úmyslně předstíral určitou vůli se záměrem, aby tím vyvolal u druhého účastníka omyl nebo aby tím využil jeho omylu, není neplatná podle ustanovení § 37 odst. 1 obč. zák. pro nedostatek vážné vůle nebo podle ustanovení § 39 obč. zák. pro rozpor se zákonem. Podvodné jednání jednoho z účastníků smlouvy při jejím uzavření je důvodem neplatnosti smlouvy podle ustanovení § 49a obč. zák., jehož se může úspěšně dovolat jen druhý účastník smlouvy (§ 40a obč. zák.)"
+- *NS* [21 Cdo 2989/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F637EBCB3A8025D9C1257A4E006574DE?openDocument) — 9. 2. 2006, kat. A
+  > „Bylo-li ke společnému řízení spojeno více věcí, u kterých se sazba odměny určuje podle § 17 odst. 1 písm. a) vyhlášky č. 484/2000 Sb. ve znění pozdějších předpisů, a rozhodl-li dovolací soud v jedné z těchto věcí o odmítnutí dovolání, projeví se snížení sazby odměny podle ustanovení § 14 odst. 1 uvedené vyhlášky tak, že z celkové odměny se na polovinu krátí část, která odpovídá poměru předmětu řízení ve věci, v níž bylo dovolání odmítnuto, k celkovému součtu předmětů řízení.*)"
+- *NS* [29 Odo 560/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BC64181753DB4C6C1257A4E0064D0A2?openDocument) — 25. 3. 2003, kat. A
+  > „I. Smlouva o převodu vlastnictví bytové jednotky z vlastnictví družstva, jejíž součástí není vzájemné vypořádání prostředků určených na financování oprav a údržby budovy, popřípadě domu a jednotky a dále prostředků tvořených ze zisku bytového hospodářství, připadajících na převáděnou jednotku (§ 24 odst. 7 zákona č. 72/1994 Sb. ve znění pozdějších předpisů), je neplatná (§ 39 obč. zák.). II. Dům ve vlastnictví bytového družstva, v němž se nacházejí družstevní byty, není vyloučen z výkonu rozhodnutí jen proto, že člen družstva uplatnil podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů právo na bezplatný převod bytové jednotky v tomto domě. III. Za trvání konkursu na majetek bytového družstva mají členové družstva, kteří podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů uplatnili právo na bezplatný převod bytové jednotky v domě ve vlastnictví bytového družstva, k této…"
 
 ### Výklad / smysl ustanovení
 

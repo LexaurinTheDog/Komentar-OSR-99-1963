@@ -52,6 +52,17 @@ Tlumočníka soud **ustanoví sám** (z úřední povinnosti, jakmile potřeba v
 
 > Způsobilost být účastníkem řízení má ten, kdo má právní osobnost; jinak jen ten, komu ji zákon přiznává.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1293_2003.txt) — 27. 10. 2004, kat. A
+  > „Smlouva o převodu vlastnictví k nemovitosti, uzavřená po zahájení řízení o zřízení soudcovského zástavního práva k této nemovitosti, nezakládá důvod k vyloučení této nemovitosti z výkonu rozhodnutí ve smyslu ustanovení § 267 odst. 1 o. s. ř. Je-li okresní správa sociálního zabezpečení způsobilá být účastníkem řízení o výkon rozhodnutí, má tuto způsobilost i ve sporu o vylučovací žalobě podle § 267 odst. 1 o. s. ř"
+- *NS* [25 Cdo 2489/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB6965D15E79C36CC1257A4E0067A63F?openDocument) — 29. 6. 2004, kat. A
+  > „Žalovaný finanční úřad, jemuž se podle tzv. žaloby z lepšího práva mělo dostat v souvislosti s vymáháním daňového nedoplatku z výtěžku exekuce na úkor žalobce více, než mu podle hmotného práva náleželo, má ve smyslu ustanovení § 19, části věty za středníkem, o. s. ř. způsobilost být účastníkem řízení o této žalobě. Základem takové žaloby je nárok na vydání bezdůvodného obohacení"
+- *NS* [29 Odo 1154/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/076C5D5A9C07082BC1257A4E0066B280?openDocument) — 25. 2. 2004, kat. A
+  > „Řízení o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace a jmenování likvidátora (§ 75b obch. zák.), je ve smyslu § 200e o. s. ř. a § 9 odst. 3 písm. b) o. s. ř. řízením ve statusové věci obchodní společnosti. Likvidátor jmenovaný soudem v řízení o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace a jmenování likvidátora (§ 75b obch. zák.), se stává účastníkem takového řízení až dnem, kdy soud rozhodl o jeho jmenování není rovněž osobou oprávněnou k podání odvolání proti rozhodnutí soudu o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace. Účastníkem řízení o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace a jmenování likvidátora, je ve smyslu § 75b odst. 2 obch. zák., § 19 o. s. ř., části…"
+- *NS* [21 Cdo 270/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C5B14C73A88166F9C1257A4E00671D2D?openDocument) — 23. 5. 2003, kat. A
+  > „Má-li žalobce za to, že věc se týká dvou odštěpných závodů, které jsou organizační složkou téže právnické osoby, a vyjádří-li tento svůj názor v žalobě tím, že za více žalovaných označí tutéž právnickou osobu, přičemž jednotlivé žalované rozliší podle toho, jak k označení téže právnické osoby připojí údaje o jejích odštěpných závodech, je z obsahu žaloby nepochybné, že byla podána pouze proti této právnické osobě a že údaje o odštěpných závodech pouze vyjadřují jeho názor, že spor se týká obou těchto organizačních složek právnické osoby"
+
 ### Výklad / smysl ustanovení
 
 Paragraf 19 stanoví **procesní subjektivitu** = obecnou způsobilost být nositelem procesních práv a povinností.
@@ -132,6 +143,15 @@ Paragraf 19 stanoví **procesní subjektivitu** = obecnou způsobilost být nosi
 > (4) Za právnickou osobu nemůže jednat ten, jehož zájmy jsou v rozporu se zájmy právnické osoby.
 >
 > (5) Každý, kdo jedná za právnickou osobu, musí své oprávnění prokázat. V téže věci může za právnickou osobu současně jednat jen jediná osoba.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 4747/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_4747_2014.txt) — 25. 11. 2015, kat. A
+  > „V občanském soudním řízení jedná za společnost v likvidaci podle § 21 odst. 2 o. s. ř. , § 70 odst. 3 a § 72 obch. zák. likvidátor to neplatí, nemá-li společnost likvidátora nebo jde-li o řízení, v němž je zastoupení společnosti likvidátorem vyloučeno (§ 32 odst. 2 o. s. ř.)"
+- *NS* [29 Odo 963/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/35BDBA475673BB2AC1257A4E0065701A?openDocument) — 10. 3. 2005, kat. A
+  > „Při zkoumání důvodů pro zrušení konkursu podle ustanovení § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů se konkursní soud nezabývá správností procesního postupu soudu předcházejícího vydání usnesení o prohlášení konkursu, ani správností rozhodnutí o prohlášení konkursu, případně rozhodnutí je potvrzujícího. Okolnost, že nebyl podán návrh na prohlášení konkursu na majetek dlužníka nebo že tento návrh podala jménem navrhovatele osoba, která k tomu nebyla řádně zmocněna, není důvodem pro zrušení konkursu postupem podle § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů. Nejde o zmatečnostní vadu ve smyslu ustanovení § 229 odst. 1 písm. d) o. s. ř., jestliže soud nepřihlédl k tomu, že návrh na prohlášení konkursu na majetek dlužníka podala jménem navrhovatele osoba, která k tomu nebyla řádně zmocněna. Jednal-li navrhovatel při podání…"
+- *NS* [29 Odo 223/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E0CF76B21ED13B68C1257A4E0069564E?openDocument) — 24. 9. 2003, kat. A
+  > „Spor o určení pravosti nevykonatelné pohledávky je sporem vyvolaným konkursem, v jehož rámci soud usnesení podle § 107a o. s. ř. nevydává. S osobou, které žalující konkursní věřitel v průběhu takového sporu postoupil pohledávku, o jejíž pravost jde, soud bez dalšího jedná jako s novým žalobcem ode dne, kdy nabude právní moci usnesení, jímž soud v konkursním řízení ve smyslu § 107a o. s. ř. připustil, aby se tato osoba stala účastníkem konkursního řízení namísto žalujícího konkursního věřitele. To, že ve sporu o určení pravosti nevykonatelné pohledávky tímto způsobem došlo ke změně v osobě žalobce, může soud vzít na vědomí usnesením, jímž se upravuje vedení řízení. Je-li jediným členem představenstva právnické osoby rovněž právnická osoba, pak jí přísluší i právo prostřednictvím vlastního statutárního orgánu zvolit právnické osobě, jejíž představenstvo tvoří, zástupce s procesní plnou…"
 
 ### Výklad / smysl ustanovení
 
@@ -246,6 +266,11 @@ Hlava III rozlišuje **tři typy zastoupení**:
 
 > Fyzická osoba, která nemůže před soudem jednat samostatně, musí být zastoupena svým zákonným zástupcem nebo opatrovníkem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 890/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/945CC065A797284CC1257A4E0065FCA5?openDocument) — 9. 10. 2003, kat. A
+  > „Uplatňují-li nárok na výživu pozůstalých manžel zemřelého zaměstnance a nezletilé děti, které se manželům narodily, může mezi nimi dojít ke střetu zájmů ve smyslu ustanovení § 37 odst. 1 zák. o rod. také proto, že přiznání vyšší náhrady jednomu z nich musí mít za následek poskytnutí nižší náhrady ostatním, neboť celková náhrada poskytnutá všem pozůstalým nesmí převýšit částku, do které by příslušela zemřelému zaměstnanci náhrada za ztrátu na výdělku podle ustanovení § 195 zák. práce. V řízení o náhradu nákladů na výživu pozůstalých proto pozůstalý manžel nemůže nezletilé děti zastupovat a nezletilým dětem soud ustanoví pro řízení opatrovníka (§ 37 odst. 2 zák. o rod.). Rozhodnutím soudu o schválení právního úkonu učiněného za nezletilého (§ 179 o. s. ř.) nelze řešit nebezpečí střetu zájmů mezi rodiči a nezletilými dětmi nebo mezi nezletilými dětmi týchž rodičů. Soud může schválit jen…"
+
 ### Výklad
 
 FO, která nemůže před soudem jednat samostatně (= nemá plnou procesní způsobilost — typicky **nezletilý**, **osoba s omezenou svéprávností**, **osoba pod opatrovnictvím**), **musí být zastoupena**:
@@ -276,6 +301,13 @@ Typicky: pokud je 16letý nezletilý dostatečně zralý a má svéprávnost pro
 >
 > (2) Jsou-li v řízení projednávány utajované informace, mohou účastníky zastupovat pouze fyzické osoby, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení těchto utajovaných informací vydaným podle zvláštního právního předpisu, nebo které byly poučeny způsobem uvedeným v § 40a odst. 1.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 223/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E0CF76B21ED13B68C1257A4E0069564E?openDocument) — 24. 9. 2003, kat. A
+  > „Spor o určení pravosti nevykonatelné pohledávky je sporem vyvolaným konkursem, v jehož rámci soud usnesení podle § 107a o. s. ř. nevydává. S osobou, které žalující konkursní věřitel v průběhu takového sporu postoupil pohledávku, o jejíž pravost jde, soud bez dalšího jedná jako s novým žalobcem ode dne, kdy nabude právní moci usnesení, jímž soud v konkursním řízení ve smyslu § 107a o. s. ř. připustil, aby se tato osoba stala účastníkem konkursního řízení namísto žalujícího konkursního věřitele. To, že ve sporu o určení pravosti nevykonatelné pohledávky tímto způsobem došlo ke změně v osobě žalobce, může soud vzít na vědomí usnesením, jímž se upravuje vedení řízení. Je-li jediným členem představenstva právnické osoby rovněž právnická osoba, pak jí přísluší i právo prostřednictvím vlastního statutárního orgánu zvolit právnické osobě, jejíž představenstvo tvoří, zástupce s procesní plnou…"
+- *NS* [29 Odo 331/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D4FFF09A6F4470FC1257A4E0068E229?openDocument) — 28. 11. 2001, kat. A
+  > „Jestliže soud před novým rozhodnutím o věci nedoručil účastníku řízení rozhodnutí, kterým dovolací soud zrušil usnesení odvolacího soudu o odmítnutí odvolání pro opožděnost, a ten proto nereagoval na vzniklou procesní situaci (např. tím, že by soudu předestřel nová tvrzení ke včasnosti odvolání), pak mu ve smyslu ustanovení § 237 odst. 1 písm. f) o. s. ř. ve znění účinném před 1. lednem 2001 v průběhu řízení nesprávným postupem odňal možnost před soudem jednat.*)"
+
 ### Výklad
 
 **Odst. 1** — Každý účastník se může nechat zastoupit zástupcem, kterého si zvolí. **Zvoleným zástupcem** může být:
@@ -296,6 +328,11 @@ Typicky: pokud je 16letý nezletilý dostatečně zralý a má svéprávnost pro
 > (1) Zástupcem si účastník může vždy zvolit advokáta. Advokátu lze udělit pouze plnou moc pro celé řízení (dále jen „procesní plná moc").
 >
 > (2) Advokát je oprávněn dát se zastupovat jiným advokátem nebo, s výjimkou případů, v nichž je zastoupení advokátem podle tohoto zákona povinné, advokátním koncipientem nebo svým zaměstnancem jako dalším zástupcem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 678/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC3702EB580A9184C1257A4E006AD3BF?openDocument) — 23. 2. 2006, kat. A
+  > „Občanský soudní řád neukládá zastoupenému, ani zástupci, jímž je advokát, a ani dalšímu zástupci advokáta (§ 25 odst. 2 o. s. ř.) povinnost doložit další zastoupení advokáta pouze písemnou plnou mocí jen pro určité úkony. Jestliže další zástupce advokáta nedoložil oprávnění k zastupování již při prvním úkonu, který ve věci učinil (§ 32 odst. 1 o. s. ř.), může mít následný průkaz dalšího zastoupení i podobu písemného sdělení takto zastoupeného advokáta, že dalšího zástupce k provedení příslušného jednotlivého úkonu nebo jednotlivých úkonů zmocnil"
 
 ### Výklad
 
@@ -457,6 +494,15 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 >
 > (6) Nevyplývá-li z plné moci něco jiného, plná moc zaniká dnem právní moci rozhodnutí, kterým bylo skončeno řízení, pro něž byla udělena.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 678/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC3702EB580A9184C1257A4E006AD3BF?openDocument) — 23. 2. 2006, kat. A
+  > „Občanský soudní řád neukládá zastoupenému, ani zástupci, jímž je advokát, a ani dalšímu zástupci advokáta (§ 25 odst. 2 o. s. ř.) povinnost doložit další zastoupení advokáta pouze písemnou plnou mocí jen pro určité úkony. Jestliže další zástupce advokáta nedoložil oprávnění k zastupování již při prvním úkonu, který ve věci učinil (§ 32 odst. 1 o. s. ř.), může mít následný průkaz dalšího zastoupení i podobu písemného sdělení takto zastoupeného advokáta, že dalšího zástupce k provedení příslušného jednotlivého úkonu nebo jednotlivých úkonů zmocnil"
+- *NS* [29 Odo 733/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_733_2001.txt) — 29. 8. 2002, kat. A
+  > „Je-li dovolání podepsáno pouze zástupcem dovolatele na základě plné moci, který ani přes opatření soudu dle § 104 odst. 2, věty první, o. s. ř., vůči němu učiněné, toto zastoupení nedoložil, Nejvyšší soud dovolací řízení dle § 104 odst. 2, věty třetí, o. s. ř. zastaví. Obdobně to platí i pro jiný návrh na zahájení řízení. Jestliže soud z uvedeného důvodu řízení zastaví, je osobou, která z procesního hlediska zavinila zastavení řízení, zástupce účastníka, jemuž lze ve smyslu § 147 odst. 1 o. s. ř. uložit, aby hradil náklady řízení, jež by bez jeho zavinění nevznikly"
+- *NS* [21 Cdo 1094/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E26BDF5BAA089D68C1257A4E0065AC68?openDocument) — 15. 3. 2001, kat. A
+  > „Jestliže účastník řízení oznámil soudu vypovězení procesní plné moci svému zástupci poté, co tento zástupce byl řádně a včas vyrozuměn o termínu soudního jednání, při kterém nebylo zapotřebí osobní účasti zastoupeného (§ 49 odst. 1 o.s.ř.), neměl soud povinnost vyrozumět účastníka znovu o termínu jednání"
+
 ### Výklad
 
 **Odst. 1 — udělení plné moci:** **písemně nebo ústně do protokolu**. Lze udělit:
@@ -491,6 +537,11 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 >
 > (2) Plná moc pro určité úkony opravňuje k zastupování jen při těch úkonech, které byly v plné moci výslovně uvedeny.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 699/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC0D54C32DDA84B8C1257A4E006AC9B8?openDocument) — 22. 5. 2008, kat. A
+  > „V konkursním řízení vedeném na majetek dlužníka podle zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007, není správce podniku dlužníka (povinného) oprávněn zastupovat dlužníka na základě ustanovení § 338k odst. 6 o. s. ř. to platí i pro tu část konkursního řízení, která začíná podáním návrhu na prohlášení konkursu na majetek dlužníka a končí rozhodnutím konkursního soudu o tomto návrhu. Návrh na prohlášení konkursu na majetek dlužníka podle ustanovení § 4b zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007 podává správce podniku dlužníka (povinného) svým jménem a nikoliv jménem dlužníka jde o "navrhovatele konkursu", který nedokládá svou pohledávku za dlužníkem ve smyslu ustanovení § 4 odst. 2 uvedeného zákona"
+
 ### Výklad
 
 **Odst. 1 — procesní plná moc:** **Nelze omezit**. Zástupce s procesní PM je oprávněn ke všem úkonům, které může v řízení činit účastník. Pokus o omezení (např. „bez práva přiznat nárok") je vůči soudu **bez účinků**.
@@ -513,6 +564,13 @@ V případech podle zákona o ÚZSVM (č. 201/2002 Sb.) může být **obec** zas
 > (3) Pokud neučiní jiná opatření, může předseda senátu ustanovit opatrovníka také neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, účastníku, jehož pobyt není znám, jemuž se nepodařilo doručit na známou adresu v cizině, který byl stižen duševní poruchou nebo z jiných zdravotních důvodů se nemůže nikoliv jen po přechodnou dobu účastnit řízení nebo který není schopen srozumitelně se vyjadřovat.
 >
 > (4) Opatrovníkem podle odstavců 1 až 3 soud jmenuje zpravidla osobu blízkou, případně jinou vhodnou osobu, nebrání-li tomu zvláštní důvody. Advokáta lze jmenovat opatrovníkem, jen jestliže jím nemůže být jmenován někdo jiný. Jinou osobu než advokáta lze jmenovat opatrovníkem, jen jestliže s tím souhlasí. Nerozhodl-li soud jinak, opatrovník ustanovený podle odstavců 1 až 3 vystupuje v řízení před soudem prvního stupně, v odvolacím a v dovolacím řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5145/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/905AF2EAB5C1280AC1257A4E006888F5?openDocument) — 10. 12. 2008, kat. A
+  > „Věřitel může uplatnit svou pohledávku žalobou u soudu podanou proti "neznámým dědicům" zemřelého dlužníka, jestliže za řízení o dědictví nebo jinak dosud nebylo objasněno, zda zůstavitel zanechal dědice, popřípadě o kom lze mít důvodně (zejména podle poznatků z probíhajícího dědického řízení) za to, že je zůstavitelovým dědicem. Soud v tomto případě posoudí, zda je možné v řízení ihned pokračovat nebo zda řízení musí být přerušeno až do skončení řízení o zůstavitelově dědictví. V řízení lze ihned pokračovat jen tehdy, bylo-li nepochybně zjištěno, že zůstavitel zanechal takový majetek, že zůstavitelovi dědici (stát, má-li mu dědictví připadnout podle ustanovení § 462 obč. zák.) budou zcela jistě odpovídat ve smyslu ustanovení § 470 a § 472 obč. zák. za všechny zůstavitelovy dluhy (a za přiměřené náklady spojené s pohřbem zůstavitele) v plném rozsahu v takovém případě soud v řízení…"
+- *NS* [20 Cdo 554/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCD18F8CCCF07E4FC1257A4E006762A5?openDocument) — 25. 10. 2002, kat. A
+  > „Námitkou, že v soudním řízení, ve kterém bylo vydáno vykonávané rozhodnutí, ustanovil soud účastníku, jehož pobyt nebyl do skončení řízení znám, opatrovníka podle § 29 odst. 3 o. s. ř., ač šetření o pobytu účastníka bylo neúplné, se soud v řízení o výkon rozhodnutí zabývat nemůže"
 
 ### Výklad / smysl ustanovení
 
@@ -574,6 +632,11 @@ Vyjadřuje **respekt k autonomii vůle** osoby ohrožené budoucí nesvéprávno
 >
 > (2) Vyžaduje-li to ochrana zájmů účastníka nebo jde-li o ustanovení zástupce pro řízení, v němž je povinné zastoupení advokátem (notářem), ustanoví mu předseda senátu v případě uvedeném v odstavci 1 zástupce z řad advokátů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 265/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6153202EC0A4F5E0C1257A4E00676F2C?openDocument) — 4. 9. 2003, kat. A
+  > „Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zamítnutí návrhu na ustanovení zástupce z řad advokátů (§ 30 o. s. ř.), není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné. Funkční příslušnost soudu k projednání dovolání proti rozhodnutí soudu prvního stupně není dána řízení o takovém podání Nejvyšší soud zastaví (§ 104 odst. 1 o. s. ř.)"
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1:** Účastníku splňujícímu podmínky pro **osvobození od soudních poplatků** (§ 138 — nemajetnost) předseda senátu na **žádost** ustanoví zástupce, **je-li to nezbytně třeba k ochraně jeho zájmů**.
@@ -630,6 +693,13 @@ Ustanovený advokát má nárok na odměnu z rozpočtu soudu podle advokátního
 > (2) Zástupcem účastníka nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného.
 >
 > (3) Povinnost soudu poskytnout účastníku potřebná poučení, výzvy nebo upozornění lze splnit i tím, že budou poskytnuty jeho zástupci; to neplatí, udělil-li účastník svému zástupci plnou moc jen pro určité úkony.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 4747/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_4747_2014.txt) — 25. 11. 2015, kat. A
+  > „V občanském soudním řízení jedná za společnost v likvidaci podle § 21 odst. 2 o. s. ř. , § 70 odst. 3 a § 72 obch. zák. likvidátor to neplatí, nemá-li společnost likvidátora nebo jde-li o řízení, v němž je zastoupení společnosti likvidátorem vyloučeno (§ 32 odst. 2 o. s. ř.)"
+- *NS* [29 Odo 678/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC3702EB580A9184C1257A4E006AD3BF?openDocument) — 23. 2. 2006, kat. A
+  > „Občanský soudní řád neukládá zastoupenému, ani zástupci, jímž je advokát, a ani dalšímu zástupci advokáta (§ 25 odst. 2 o. s. ř.) povinnost doložit další zastoupení advokáta pouze písemnou plnou mocí jen pro určité úkony. Jestliže další zástupce advokáta nedoložil oprávnění k zastupování již při prvním úkonu, který ve věci učinil (§ 32 odst. 1 o. s. ř.), může mít následný průkaz dalšího zastoupení i podobu písemného sdělení takto zastoupeného advokáta, že dalšího zástupce k provedení příslušného jednotlivého úkonu nebo jednotlivých úkonů zmocnil"
 
 ### Výklad
 

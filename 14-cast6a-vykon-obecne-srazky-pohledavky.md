@@ -54,6 +54,23 @@
 >
 > **(2)** Je-li k soudu podán návrh na výkon titulu, který se vykonává ve správním nebo daňovém řízení, soud návrh odmítne.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 269/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8BD334D51BBB2BACC1257A4E00668FB9?openDocument) — 29. 1. 2009, kat. A
+  > „Ručitel může exekučně vymáhat po dlužníku to, co splnil místo něho věřiteli, jen na základě exekučního titulu vydaného ve prospěch tohoto ručitele proti dlužníku rozhodnutí, jímž byli zavázáni k plnění věřiteli oba, takovým titulem není"
+- *NS* [20 Cdo 796/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8CEF1F35089809A6C1257A4E0068A6BE?openDocument) — 31. 3. 2005, kat. A
+  > „Jestliže byla pachateli přestupku podle zákona č. 200/1990 Sb. ve znění pozdějších předpisů uložena povinnost nahradit poškozenému přestupkem způsobenou škodu, je poškozený nositelem práva z vydaného rozhodnutí a svědčí mu aktivní věcná legitimace v řízení o soudní výkon tohoto titulu tuto legitimaci naopak nemá vymáhající správní orgán"
+- *NS* [21 Cdo 1720/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C8AD8B22493EBEBC1257A4E00654145?openDocument) — 11. 1. 2005, kat. A
+  > „Absence údaje o intervalu, v jakém se vypočítává poplatek z prodlení, ve výroku vykonávaného rozhodnutí nečiní rozhodnutí materiálně nevykonatelným, je-li z rozhodnutí zřejmé, že jde o poplatek z prodlení podle občanského zákoníka. Povinný je proto povinen zaplatit poplatek z prodlení za každý den prodlení"
+- *NS* [20 Cdo 554/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCD18F8CCCF07E4FC1257A4E006762A5?openDocument) — 25. 10. 2002, kat. A
+  > „Námitkou, že v soudním řízení, ve kterém bylo vydáno vykonávané rozhodnutí, ustanovil soud účastníku, jehož pobyt nebyl do skončení řízení znám, opatrovníka podle § 29 odst. 3 o. s. ř., ač šetření o pobytu účastníka bylo neúplné, se soud v řízení o výkon rozhodnutí zabývat nemůže"
+- *NS* [20 Cdo 708/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5AE9727AA9B1F204C1257A4E006981F0?openDocument) — 26. 9. 2001, kat. A
+  > „Účastníkem řízení o návrhu na zpeněžení věci podle ustanovení o výkonu rozhodnutí (§ 27 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) je správce konkursní podstaty úpadce, který návrh podal a který má postavení oprávněného povinný v tomto řízení nevystupuje. To platí bez zřetele k tomu, zda majetek, který má být takto zpeněžen, je ve vlastnictví úpadce nebo jiné osoby. Je-li věc, jíž se návrh na zpeněžení podle ustanovení o výkonu rozhodnutí týká, ve vlastnictví jiné osoby než úpadce, může se tato osoba ubránit zpeněžení majetku sepsaného do konkursní podstaty jen prostřednictvím vylučovací žaloby dle § 19 odst. 2 tohoto zákona. Ke zpeněžení majetku podle § 27 uvedeného zákona je věcně příslušný soud výkonu rozhodnutí (§ 252 o. s. ř.). Tento soud přistoupí ke zpeněžení majetku označeného správcem konkursní podstaty, aniž by vydával usnesení o nařízení zpeněžení nebo usnesení o…"
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+- *NS* [21 Cdo 775/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6541B91A69BC667C1257A4E006970D8?openDocument) — 12. 4. 2001, kat. A
+  > „Rozhodnutí vydané v blokovém řízení (pokuta uložená v blokovém řízení) musí, aby se jednalo o vykonatelné správní rozhodnutí (rozhodnutí orgánu státní správy nebo samosprávy), obsahovat náležitosti, které jsou uvedeny v ustanovení § 85 odst. 4, větě druhé, zákona č. 200/1990 Sb., o přestupcích (ve znění pozdějších předpisů), a další údaje, jak vyplývají z použití bloku k ukládání pokut, vydaného podle ustanovení § 85 odst. 1 tohoto zákona. Nemůže-li pachatel přestupku zaplatit pokutu na místě, musí rozhodnutí v blokovém řízení (blok na pokutu na místě nezaplacenou) obsahovat též poučení o způsobu zaplacení pokuty, o lhůtě její splatnosti a o následcích nezaplacení pokuty (§ 85 odst. 3 tohoto zákona)"
+
 ### Výklad
 
 **Odst. 1 — kdy lze:**
@@ -75,6 +92,11 @@
 > **(3)** Namísto obecného soudu povinného a soudu uvedeného v § 511 zákona o zvláštních řízeních soudních je k nařízení a provedení výkonu rozhodnutí příslušný soud,
 > a) v jehož obvodu je závod (část závodu), jde-li o výkon rozhodnutí postižením závodu;
 > b) v jehož obvodu je nemovitá věc, týká-li se výkon rozhodnutí nemovité věci, není-li dána příslušnost podle písmena a).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 708/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5AE9727AA9B1F204C1257A4E006981F0?openDocument) — 26. 9. 2001, kat. A
+  > „Účastníkem řízení o návrhu na zpeněžení věci podle ustanovení o výkonu rozhodnutí (§ 27 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) je správce konkursní podstaty úpadce, který návrh podal a který má postavení oprávněného povinný v tomto řízení nevystupuje. To platí bez zřetele k tomu, zda majetek, který má být takto zpeněžen, je ve vlastnictví úpadce nebo jiné osoby. Je-li věc, jíž se návrh na zpeněžení podle ustanovení o výkonu rozhodnutí týká, ve vlastnictví jiné osoby než úpadce, může se tato osoba ubránit zpeněžení majetku sepsaného do konkursní podstaty jen prostřednictvím vylučovací žaloby dle § 19 odst. 2 tohoto zákona. Ke zpeněžení majetku podle § 27 uvedeného zákona je věcně příslušný soud výkonu rozhodnutí (§ 252 o. s. ř.). Tento soud přistoupí ke zpeněžení majetku označeného správcem konkursní podstaty, aniž by vydával usnesení o nařízení zpeněžení nebo usnesení o…"
 
 ### Výklad
 
@@ -116,6 +138,13 @@
 >
 > **(5)** V odvolání lze uvádět nové skutečnosti a důkazy. Proti usnesení o nařízení výkonu rozhodnutí lze namítat jen ty skutečnosti, jež jsou pro nařízení výkonu rozhodnutí rozhodné; k ostatním odvolací soud nepřihlédne a odvolání obsahující jen takové důvody odmítne.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 912/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5B1CD915DD1E301C1257A4E0067CB4C?openDocument) — 7. 2. 2006, kat. A
+  > „Oprávněný splní povinnost připojit stejnopis rozhodnutí vydaného v blokovém řízení tím, že předloží tu část bloku na pokutu na místě nezaplacenou, která obsahuje povinným podepsané prohlášení, že byl poučen o způsobu zaplacení pokuty, o lhůtě její splatnosti a o následcích nezaplacení pokuty, a doloží typ užitého pokutového bloku"
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+
 ### Výklad
 
 **Odst. 1:** Pro výkon platí ostatní části OSŘ, **rozhoduje se vždy USNESENÍM**.
@@ -136,6 +165,11 @@
 >
 > **(2)** Účastníkem řízení je také manžel povinného, je-li výkonem rozhodnutí postihován jeho majetek nebo majetek ve společném jmění manželů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 708/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5AE9727AA9B1F204C1257A4E006981F0?openDocument) — 26. 9. 2001, kat. A
+  > „Účastníkem řízení o návrhu na zpeněžení věci podle ustanovení o výkonu rozhodnutí (§ 27 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) je správce konkursní podstaty úpadce, který návrh podal a který má postavení oprávněného povinný v tomto řízení nevystupuje. To platí bez zřetele k tomu, zda majetek, který má být takto zpeněžen, je ve vlastnictví úpadce nebo jiné osoby. Je-li věc, jíž se návrh na zpeněžení podle ustanovení o výkonu rozhodnutí týká, ve vlastnictví jiné osoby než úpadce, může se tato osoba ubránit zpeněžení majetku sepsaného do konkursní podstaty jen prostřednictvím vylučovací žaloby dle § 19 odst. 2 tohoto zákona. Ke zpeněžení majetku podle § 27 uvedeného zákona je věcně příslušný soud výkonu rozhodnutí (§ 252 o. s. ř.). Tento soud přistoupí ke zpeněžení majetku označeného správcem konkursní podstaty, aniž by vydával usnesení o nařízení zpeněžení nebo usnesení o…"
+
 ### Výklad
 
 **Odst. 1:** Oprávněný + povinný.
@@ -151,6 +185,11 @@
 ## § 256 — Přechod práv / povinností
 
 Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve prospěch jiného než oprávněného**, jen pokud je **prokázán přechod**. **Důkaz** jen **veřejnou listinou** (notářským zápisem) nebo přímo ze **zákona**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 269/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8BD334D51BBB2BACC1257A4E00668FB9?openDocument) — 29. 1. 2009, kat. A
+  > „Ručitel může exekučně vymáhat po dlužníku to, co splnil místo něho věřiteli, jen na základě exekučního titulu vydaného ve prospěch tohoto ručitele proti dlužníku rozhodnutí, jímž byli zavázáni k plnění věřiteli oba, takovým titulem není"
 
 ---
 
@@ -201,6 +240,11 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 **§ 259:** Před návrhem na výkon může oprávněný požádat, aby soud **předvolal povinného** a vyzval k dobrovolnému splnění.
 
 **§ 260 — dotaz na příjem:** Na žádost oprávněného soud **dotazuje** zaměstnavatele / banky atd. na **mzdu / účty** povinného. **Dotázaný odpoví do 1 týdne** pod sankcí pořádkové pokuty (§ 53).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 884/2005](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2020%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-20_Cdo_884_2005.txt) — 20. 10. 2005, kat. A
+  > „Tím, že oprávněný podal žádost podle § 259 nebo § 260 odst. 2 o. s. ř., nedochází ke stavení běhu promlčecí doby práva přiznaného exekučním titulem"
 
 ---
 
@@ -267,6 +311,17 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 > **(2)** K návrhu na výkon rozhodnutí je třeba připojit stejnopis rozhodnutí, opatřený potvrzením o jeho vykonatelnosti. Potvrzením o vykonatelnosti opatří rozhodnutí soud, který o věci rozhodoval jako soud prvního stupně. Stejnopis rozhodnutí není třeba připojit, jestliže se návrh na výkon rozhodnutí podává u soudu, který o věci rozhodoval jako soud prvního stupně.
 >
 > **(3)** Podá-li oprávněný návrh na výkon rozhodnutí u soudu, který o věci rozhodoval jako soud prvního stupně, potvrdí tento soud vykonatelnost rozhodnutí přímo na návrhu, a není-li sám příslušný k výkonu rozhodnutí, postoupí návrh příslušnému soudu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 785/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A40D7F1988A371BFC1257A4E0066879C?openDocument) — 20. 3. 2003, kat. A
+  > „Povinnost předložit stejnopis rozhodnutí opatřený potvrzením o jeho vykonatelnosti (§ 261 odst. 2 věta první o. s. ř.) lze splnit i předložením jeho opisu (kopie), na němž je vyznačena ověřovací doložka podle § 73 odst. 2 zákona č. 358/1992 Sb. nebo § 3 odst. 2 zákona č. 41/1993 Sb"
+- *NS* [20 Cdo 708/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5AE9727AA9B1F204C1257A4E006981F0?openDocument) — 26. 9. 2001, kat. A
+  > „Účastníkem řízení o návrhu na zpeněžení věci podle ustanovení o výkonu rozhodnutí (§ 27 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) je správce konkursní podstaty úpadce, který návrh podal a který má postavení oprávněného povinný v tomto řízení nevystupuje. To platí bez zřetele k tomu, zda majetek, který má být takto zpeněžen, je ve vlastnictví úpadce nebo jiné osoby. Je-li věc, jíž se návrh na zpeněžení podle ustanovení o výkonu rozhodnutí týká, ve vlastnictví jiné osoby než úpadce, může se tato osoba ubránit zpeněžení majetku sepsaného do konkursní podstaty jen prostřednictvím vylučovací žaloby dle § 19 odst. 2 tohoto zákona. Ke zpeněžení majetku podle § 27 uvedeného zákona je věcně příslušný soud výkonu rozhodnutí (§ 252 o. s. ř.). Tento soud přistoupí ke zpeněžení majetku označeného správcem konkursní podstaty, aniž by vydával usnesení o nařízení zpeněžení nebo usnesení o…"
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+- *NS* [21 Cdo 2020/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B5F947857E603ECC1257BD6003A2CE5?openDocument) — 14. 4. 1999, kat. A
+  > „Notářský zápis je podle ustanovení § 274 písm. e) o.s.ř. titulem pro soudní výkon rozhodnutí, jestliže splňuje formální náležitosti stanovené pro sepisování notářských zápisů o právních úkonech uvedené zejména v § 62 a násl. zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění zákona č. 82/1998 Sb., jestliže obsahuje dohodu osoby oprávněné ze závazkového právního vztahu s osobou ze závazkového právního vztahu povinnou, v níž jsou přesně individualizovány oprávněná a povinná osoba a vyznačeny právní důvod plnění, předmět plnění (přesný obsah a rozsah plnění) a doba plnění (přesně a určitě určena doba, do které se povinná osoba zavazuje předmět plnění poskytnout oprávněné osobě), a jestliže osoba povinná v něm svolila k vykonatelnosti. Požadavku, aby v notářském zápisu se svolením k vykonatelnosti (§ 274 písm. e/ o.s.ř.) byla obsažena dohoda osoby oprávněné s…"
 
 ### Výklad
 
@@ -337,6 +392,11 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 **§ 262b — ochrana manžela:** Manžel se může domáhat **zastavení výkonu** v rozsahu, v němž je postižen jeho **výlučný majetek** nebo majetek SJM **nad zákonný rozsah**. **Účet manžela:** výkon **bude zastaven**, pokud na něm nejsou peníze, které by patřily do SJM (s domněnkou opaku).
 
 **§ 262c — ochrana nezletilého:** Pro pohledávku ze závazku vzniklého **před nabytím plné svéprávnosti** lze postihnout **JEN majetek nabytý před** + nabytý **právním jednáním k němu vztahujícím se**. Výjimka — provoz obchodního závodu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 238/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86C552E52F385C32C1257A4E006719C8?openDocument) — 26. 11. 2003, kat. A
+  > „K vydobytí závazku, který vznikl za trvání manželství jen jednomu z manželů, lze nařídit výkon rozhodnutí i na majetek patřící do zaniklého společného jmění, které v době zahájení řízení o výkon nebylo vypořádáno"
 
 ### Praktický dopad
 
@@ -420,6 +480,15 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 
 **§ 267a — popření pohledávek v rozvrhu:** Před věřitelem lze popřít pravost, výši, skupinu, pořadí pohledávky. Účinné erga omnes (vůči všem věřitelům).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 5160/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A1F04DEBCBA07B8C1258267003C4281?openDocument) — 23. 1. 2018, kat. A
+  > „Podá-li po 30. 6. 2015 (od účinnosti zákona č. 139/2015 Sb.) manžel povinného návrh na částečné zastavení exekuce prodejem věcí s odůvodněním, že exekucí je postižen majetek ve společném jmění manželů nebo majetek manžela povinného ve větším rozsahu, než připouští zvláštní právní předpis (srov. § 262b odst. 1 o. s. ř. ve znění od 1. 7. 2015), přestože již dříve byl pravomocně zamítnut jeho návrh na vyloučení týchž věcí z exekuce podle § 267 odst. 2 o. s. ř. ve znění do 30. 6. 2015 podaný z téhož důvodu, brání věcnému projednání návrhu na částečné zastavení exekuce překážka věci pravomocně rozhodnuté (§ 159a odst. 4 o. s. ř.)"
+- *NS* [21 Cdo 1467/2004](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_1467_2004.txt) — 2. 12. 2004, kat. A
+  > „Pro rozhodnutí o nařízení prodeje zástavy (§ 200z odst. 1 o. s. ř.) není významné, zda zajištěná pohledávka splněním, započtením nebo z jiného důvodu zanikla k obraně zástavního dlužníka v tomto směru proto soud nepřihlédne. V případě, že zajištěná pohledávka zanikla, soud zastaví výkon rozhodnutí prodejem zástavy podle ustanovení § 268 odst. 3 o. s. ř. Právem, které nepřipouští výkon rozhodnutí prodejem zástavy (§ 267 odst. 1 o. s. ř.), se rozumí jakékoliv právo, v důsledku kterého k prodávané zástavě nevzniklo (nemohlo platně vzniknout) zástavní právo. Takovým právem je i společné jmění manželů, je-li zástavní smlouva neplatná podle ustanovení § 145 odst. 2 věty druhé občanského zákoníku"
+- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1293_2003.txt) — 27. 10. 2004, kat. A
+  > „Smlouva o převodu vlastnictví k nemovitosti, uzavřená po zahájení řízení o zřízení soudcovského zástavního práva k této nemovitosti, nezakládá důvod k vyloučení této nemovitosti z výkonu rozhodnutí ve smyslu ustanovení § 267 odst. 1 o. s. ř. Je-li okresní správa sociálního zabezpečení způsobilá být účastníkem řízení o výkon rozhodnutí, má tuto způsobilost i ve sporu o vylučovací žalobě podle § 267 odst. 1 o. s. ř"
+
 ---
 
 ## § 268 — Zastavení výkonu (8 důvodů)
@@ -439,6 +508,21 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 > **(3)** Výkon rozhodnutí prodejem zástavy bude zastaven také tehdy, jestliže zaniklo zástavní právo.
 >
 > **(4)** Týká-li se nařízeného výkonu rozhodnutí některý z důvodů zastavení jen zčásti nebo byl-li výkon rozhodnutí nařízen v rozsahu širším, než jaký stačí k uspokojení oprávněného, bude výkon rozhodnutí zastaven částečně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
+  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
+- *NS* [20 Cdo 2775/2018](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_2775_2018.txt) — 5. 12. 2018, kat. A
+  > „Dojde-li po zahájení exekuce k zahájení insolvenčního řízení a oprávněný je do insolvenčního řízení řádně přihlášen a má-li z toho důvodu dojít k částečnému uspokojení pohledávky povinného v insolvenčním řízení v rámci oddlužení ve formě splátkového kalendáře, zásadně není dán důvod pro zastavení exekuce podle § 268 odst. 1 písm. h) o. s. ř., a to ani tehdy, když byl exekučně postižen podíl povinného ve společnosti s ručením omezeným"
+- *NS* [29 Cdo 339/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE268ED50C073B4EC1257A4E0068F922?openDocument) — 19. 8. 2008, kat. A
+  > „Nebude-li exekuce zastavena podle § 52 odst. 1 exekučního řádu a § 268 odst. 1 písm. g) o. s. ř., účast povinného ve společnosti s ručením omezeným, jež zanikla podle § 148 odst. 2 obch. zák., se pouhým zaplacením vymáhané pohledávky povinným neobnoví"
+- *NS* [20 Cdo 420/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1FED966D09713FA9C1257A4E00687E29?openDocument) — 26. 4. 2006, kat. A
+  > „Náklady výkonu rozhodnutí představují - spolu s vymáhaným nárokem plynoucím z exekučního titulu - jeho rovněž vymáhanou součást a nebyly-li povinným mimo exekuční rámec oprávněnému uhrazeny, není to samo o sobě důvodem k zastavení výkonu rozhodnutí (exekuce)"
+- *NS* [21 Cdo 1467/2004](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_1467_2004.txt) — 2. 12. 2004, kat. A
+  > „Pro rozhodnutí o nařízení prodeje zástavy (§ 200z odst. 1 o. s. ř.) není významné, zda zajištěná pohledávka splněním, započtením nebo z jiného důvodu zanikla k obraně zástavního dlužníka v tomto směru proto soud nepřihlédne. V případě, že zajištěná pohledávka zanikla, soud zastaví výkon rozhodnutí prodejem zástavy podle ustanovení § 268 odst. 3 o. s. ř. Právem, které nepřipouští výkon rozhodnutí prodejem zástavy (§ 267 odst. 1 o. s. ř.), se rozumí jakékoliv právo, v důsledku kterého k prodávané zástavě nevzniklo (nemohlo platně vzniknout) zástavní právo. Takovým právem je i společné jmění manželů, je-li zástavní smlouva neplatná podle ustanovení § 145 odst. 2 věty druhé občanského zákoníku"
+- *NS* [20 Cdo 689/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/33B6D3BAC3EBBD97C1257A4E00688D8C?openDocument) — 25. 3. 2004, kat. A
+  > „Není důvodem k zastavení výkonu rozhodnutí podle § 268 odst. 1 písm. h) o. s. ř., jestliže oprávněný neoznačí účet pro případ, že se povinný rozhodne zaplatit vymáhanou pohledávku v průběhu výkonu rozhodnutí"
 
 ### Výklad / smysl ustanovení
 
@@ -485,6 +569,11 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 
 **§ 271:** Po zastavení soud rozhodne **o nákladech** podle důvodu zastavení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 420/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1FED966D09713FA9C1257A4E00687E29?openDocument) — 26. 4. 2006, kat. A
+  > „Náklady výkonu rozhodnutí představují - spolu s vymáhaným nárokem plynoucím z exekučního titulu - jeho rovněž vymáhanou součást a nebyly-li povinným mimo exekuční rámec oprávněnému uhrazeny, není to samo o sobě důvodem k zastavení výkonu rozhodnutí (exekuce)"
+
 ---
 
 ## § 274 — Exekuční tituly (taxativní výčet 8 typů)
@@ -501,6 +590,15 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 > s výjimkou titulu, který se vykonává ve správním nebo daňovém řízení.
 >
 > **(2)** Ustanovení § 337 až 337h se použijí i pro potřeby rozvrhového řízení o výtěžku z daňové exekuce prováděného na základě návrhu správce daně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 12/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C135409942CE8EFC1257A4E0067A370?openDocument) — 18. 3. 2004, kat. A
+  > „Je-li notářský zápis se svolením k vykonatelnosti obsažen v téže listině jako notářský zápis o právním úkonu, případně představují-li formálně zápis jediný, je takový zápis titulem pro soudní výkon rozhodnutí podle § 274 písm. e) o. s. ř. i v případě, že v projevu vůle, jímž dlužník k vykonatelnosti svoluje, jsou závazek, oprávněná a povinná osoba a právní důvod, předmět a doba plnění označeny odkazem na právní úkon. Předpokladem toho, aby takovýto zápis bylo možno soudně vykonat, je, aby samotný právní úkon náležitosti požadované ustanovením § 274 písm. e) o. s. ř. obsahoval, a aby se svolení k vykonatelnosti vztahovalo právě k povinnostem z tohoto právního úkonu vyplývajícím"
+- *NS* [21 Cdo 1162/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_1162_2001.txt) — 17. 5. 2002, kat. A
+  > „Právní úpravou zástavního práva, účinnou od 1. 1. 2001 (Čl. I bod 6 zákona č. 367/2000 Sb.), se řídí v době od 1. 1. 2001 rovněž práva (nároky) zástavních věřitelů na uspokojení ze zástavy (z prodeje či zpeněžení zástavy soudem), která vznikla podle právní úpravy zástavního práva účinné od 1. 9. 1998 do 31. 12. 2000 samotný vznik práva (nároku) na uspokojení ze zástavy se v tomto případě řídí právní úpravou zástavního práva účinnou od 1. 9. 1998 do 31. 12. 2000. Vzniklo-li právo (nárok) na uspokojení ze zástavy v době do 31. 8. 1998, řídí se i po 1. 1. 2001 právní úpravou zástavního práva, účinnou do 31. 8. 1998"
+- *NS* [21 Cdo 775/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6541B91A69BC667C1257A4E006970D8?openDocument) — 12. 4. 2001, kat. A
+  > „Rozhodnutí vydané v blokovém řízení (pokuta uložená v blokovém řízení) musí, aby se jednalo o vykonatelné správní rozhodnutí (rozhodnutí orgánu státní správy nebo samosprávy), obsahovat náležitosti, které jsou uvedeny v ustanovení § 85 odst. 4, větě druhé, zákona č. 200/1990 Sb., o přestupcích (ve znění pozdějších předpisů), a další údaje, jak vyplývají z použití bloku k ukládání pokut, vydaného podle ustanovení § 85 odst. 1 tohoto zákona. Nemůže-li pachatel přestupku zaplatit pokutu na místě, musí rozhodnutí v blokovém řízení (blok na pokutu na místě nezaplacenou) obsahovat též poučení o způsobu zaplacení pokuty, o lhůtě její splatnosti a o následcích nezaplacení pokuty (§ 85 odst. 3 tohoto zákona)"
 
 ### Výklad
 
@@ -697,6 +795,15 @@ Srážky se počítají z **čisté mzdy** (po odpočtu pojistného a daní).
 
 **§ 314:** Pokud dlužník nezaplatí, oprávněný může **žalovat dlužníka přímo** (poddlužnická žaloba).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 921/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3936A43704C62519C1257A4E0064E1DB?openDocument) — 21. 12. 2005, kat. A
+  > „Jestliže poddlužník povinného nesplnil povinnost vyplatit pohledávku řádně a včas oprávněnému, je poddlužnická žaloba podle § 315 o. s. ř. způsobem provedení výkonu rozhodnutí nebo exekuce přikázáním jiné peněžité pohledávky. Zákaz provedení výkonu rozhodnutí nebo exekuce (§ 14 odst. 1 písm. e/ zákona č. 328/1991 Sb., ve znění pozdějších předpisů) v tomto případě znamená, že o žalobě podle § 315 o. s. ř., nemůže soud rozhodnout, dokud trvají účinky prohlášení konkursu. Doručení usnesení o nařízení výkonu rozhodnutí přikázáním jiné peněžité pohledávky povinného nebrání poddlužníku ukončit s povinným smluvní vztah, z nějž měly povinnému v budoucnu postupně vznikat z téhož právního důvodu dílčí pohledávky"
+- *NS* [29 Odo 560/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BC64181753DB4C6C1257A4E0064D0A2?openDocument) — 25. 3. 2003, kat. A
+  > „I. Smlouva o převodu vlastnictví bytové jednotky z vlastnictví družstva, jejíž součástí není vzájemné vypořádání prostředků určených na financování oprav a údržby budovy, popřípadě domu a jednotky a dále prostředků tvořených ze zisku bytového hospodářství, připadajících na převáděnou jednotku (§ 24 odst. 7 zákona č. 72/1994 Sb. ve znění pozdějších předpisů), je neplatná (§ 39 obč. zák.). II. Dům ve vlastnictví bytového družstva, v němž se nacházejí družstevní byty, není vyloučen z výkonu rozhodnutí jen proto, že člen družstva uplatnil podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů právo na bezplatný převod bytové jednotky v tomto domě. III. Za trvání konkursu na majetek bytového družstva mají členové družstva, kteří podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů uplatnili právo na bezplatný převod bytové jednotky v domě ve vlastnictví bytového družstva, k této…"
+- *NS* [29 Odo 364/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8924582555002015C1257A4E00652E7B?openDocument) — 27. 6. 2002, kat. A
+  > „I. Po prohlášení konkursu na majetek povinného již dlužník povinného nesmí vyplatit oprávněnému jinou peněžitou pohledávku přikázanou oprávněnému ve smyslu ustanovení § 312 a násl. o. s. ř. to platí bez zřetele k tomu, zda dlužník povinného obdržel vyrozumění soudu výkonu rozhodnutí o tom, že usnesení o nařízení výkonu rozhodnutí přikázáním jiné peněžité pohledávky nabylo právní moci. II. Plnění, které dlužník povinného poskytl oprávněnému na základě pravomocně nařízeného výkonu rozhodnutí v době po prohlášení konkursu na majetek povinného, je plněním bez právního důvodu (§ 451 obč. zák.), k jehož vymožení od oprávněného je aktivně věcně legitimován dlužník povinného, nikoli povinný nebo správce konkursní podstaty povinného. Takovým plněním dlužníkův dluh vůči povinnému (úpadci) nezaniká"
+
 ### Praktický dopad
 
 - **Praxe — postižení fakturovaných pohledávek:** Pokud povinný má vystavené faktury vůči klientům, ti zaplatí **oprávněnému** (= věřiteli původního dlužníka).
@@ -712,6 +819,11 @@ Srážky se počítají z **čisté mzdy** (po odpočtu pojistného a daní).
 > **§ 320a (1)** Zaniká-li nařízením výkonu rozhodnutí postižením účasti společníka veřejná obchodní společnost, postihuje výkon rozhodnutí pohledávku povinného z práva na podíl na likvidačním zůstatku. **(2)** Zaniká-li v důsledku nařízení výkonu rozhodnutí jen účast společníka ve veřejné obchodní společnosti, postihuje výkon rozhodnutí pohledávku z práva na vypořádání. **(4)** Ustanovení odstavců 1 až 3 se použijí i na postižení účasti povinného v komanditní společnosti, je-li komplementářem.
 >
 > **§ 320aa (1)** V nařízení výkonu rozhodnutí soud zakáže a) povinnému převádět jeho podíl komanditisty v komanditní společnosti, podíl ve společnosti s ručením omezeným nebo jeho družstevní podíl (dále jen „podíl") nebo ho zatěžovat a b) příslušnému orgánu komanditní společnosti, společnosti s ručením omezeným nebo družstvu udělit povinnému k převodu nebo k zatížení podílu souhlas, je-li ho potřeba.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 101/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BEC1BB56D003EAE0C1257A4E0067B944?openDocument) — 26. 9. 2002, kat. A
+  > „Výkon rozhodnutí postižením členských práv a povinností v družstvu (§ 320 odst. 1 o. s. ř.) není ve smyslu § 264 odst. 1 o. s. ř. způsobem zřejmě nevhodným jen proto, že povinný je nájemcem družstevního bytu"
 
 ### Výklad
 

@@ -43,6 +43,13 @@
 
 > Účastník může napadnout rozhodnutí okresního soudu nebo rozhodnutí krajského soudu vydané v řízení v prvním stupni odvoláním, pokud to zákon nevylučuje.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 265/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6153202EC0A4F5E0C1257A4E00676F2C?openDocument) — 4. 9. 2003, kat. A
+  > „Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zamítnutí návrhu na ustanovení zástupce z řad advokátů (§ 30 o. s. ř.), není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné. Funkční příslušnost soudu k projednání dovolání proti rozhodnutí soudu prvního stupně není dána řízení o takovém podání Nejvyšší soud zastaví (§ 104 odst. 1 o. s. ř.)"
+- *NS* [29 Odo 184/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FB8D90CBF109B52C1257A4E006894A1?openDocument) — 31. 7. 2003, kat. A
+  > „Osobám uvedeným v ustanovení § 12a odst. 5, věty druhé, zákona č. 328/1991 Sb., ve znění pozdějších předpisů, začíná běžet lhůta k podání odvolání proti usnesení o zamítnutí návrhu na prohlášení konkursu pro nedostatek majetku od doručení rozhodnutí poslednímu z těch dosavadních účastníků řízení, kteří jsou legitimováni k podání odvolání podle § 12a odst. 5, věty první, uvedeného zákona to platí bez zřetele k tomu, zda se takový dosavadní účastník řízení sám práva odvolání vzdal. Podáním včasného odvolání se taková osoba stává dalším navrhovatelem ve smyslu ustanovení § 4 označeného zákona a platí pro ni stav řízení v době, kdy její odvolání došlo soudu"
+
 ### Výklad
 
 **Obecná přípustnost:** Odvolání je přípustné proti **každému** rozhodnutí soudu **1. stupně** (okresního / krajského), pokud zákon **výslovně nevylučuje**.
@@ -76,6 +83,11 @@
 > (2) Odvolání není přípustné proti rozsudku vydanému v řízení, jehož předmětem bylo v době vydání rozsudku peněžité plnění nepřevyšující 10 000 Kč, k příslušenství pohledávky se přitom nepřihlíží; to neplatí u rozsudku pro uznání a u rozsudku pro zmeškání.
 >
 > (3) Odvolání jen proti důvodům rozhodnutí není přípustné.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 503/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C72C00F72E3D233DC1257A4E0067D06F?openDocument) — 27. 6. 2001, kat. A
+  > „Proti opravnému usnesení, jímž se ve smyslu § 164 o. s. ř. opravuje výrok rozhodnutí, je odvolání přípustné, i když zákon proti opravovanému rozhodnutí odvolání nepřipouští"
 
 ### Výklad / smysl ustanovení
 
@@ -147,6 +159,15 @@
 >
 > (3) O prominutí zmeškání lhůty k odvolání rozhoduje soud prvního stupně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 310/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/990A09C84BD256DAC1257A4E00656BA8?openDocument) — 2. 6. 2004, kat. A
+  > „Lhůta k podání odvolání proti opravenému výroku rozhodnutí a proti výrokům na něm závislým se účastníku řízení nově otevírá jen tehdy, je-li důsledkem takové (byť i nevýznamné) opravy obsahová změna výroku z hlediska práv a povinností, jež po opravě vymezuje. Uvedené platí i tehdy, bylo-li původní rozhodnutí již přezkoumáno v odvolacím řízení na základě dříve podaného odvolání a odvolací soud je jako věcně správné potvrdil. Jestliže usnesení, jímž soud prvního stupně opravil chyby v psaní a v počtech, nebo jiné zjevné nesprávnosti výroku svého rozsudku (§ 164 o. s. ř.), nabylo právní moci, vychází soud, který rozhoduje o odvolání proti opravenému rozsudku, z toho, že práva a povinnosti účastníků byla rozhodnutím soudu prvního stupně ustavena způsobem, který odpovídá znění rozsudku po provedené opravě a zákonností opravy (důvodností vydání opravného usnesení) se již zabývat nesmí"
+- *NS* [29 Odo 700/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_700_2001.txt) — 27. 6. 2002, kat. A
+  > „I. Týká-li se oprava výroku rozhodnutí, má být opravným usnesením ve smyslu § 164, věty druhé, o. s. ř. zhojena pouze ta část výroku opravovaného rozhodnutí, která je postižena chybou v psaní, v počtech nebo jinou zřejmou nesprávností. V případech chyb v psaní by z výroku opravného usnesení mělo být zřejmé, která ze zkomolených, zaměněných nebo vynechaných částí textu se jím opravuje. Smyslu zákona odporuje, jestliže soud pro chybu v psaní, která se týká jen části výroku opravovaného rozhodnutí, ve výroku opravného usnesení uvede celý opravovaný výrok rozhodnutí, aniž by bylo zřejmé, čeho se oprava týká. II. Začíná-li v důsledku vydání opravného usnesení znovu běžet lhůta k podání odvolání proti opravenému rozhodnutí nebo jeho opravené části, musejí být účastníci řízení též znovu poučeni o možnosti podat v příslušné lhůtě proti opravenému (výroku) rozhodnutí odvolání. Jestliže se tak…"
+- *NS* [26 Cdo 2378/99](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2026%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-26_Cdo_2378_99.txt) — 18. 12. 2000, kat. A
+  > „Provozovatel telefaxového spojení není orgánem, který má povinnost podání doručit ve smyslu § 57 odst. 3 o. s. ř. Učiní-li účastník řízení podání telefaxem, je pro posouzení včasnosti takového podání rozhodné, kdy došlo soudu"
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — standardní lhůta: 15 DNŮ** od doručení písemného vyhotovení rozhodnutí. **Místo podání: soud, jehož rozhodnutí napadá** (= soud 1. stupně).
@@ -194,6 +215,11 @@ Pokud bylo vydáno **opravné usnesení** (§ 164) **týkající se výroku**, l
 > (3) Odvolatel může bez souhlasu soudu měnit odvolací návrhy a odvolací důvody i po uplynutí lhůty k odvolání.
 >
 > (4) Rozsah, v jakém se rozhodnutí napadá, může odvolatel měnit jen v průběhu trvání lhůty k odvolání.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2708/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFC9884D4757A35FC1257A4E00699A7D?openDocument) — 20. 9. 2001, kat. A
+  > „Bylo-li zaměstnavateli nebo zaměstnanci doručeno okamžité zrušení pracovního poměru učiněné druhým účastníkem pracovního poměru v podobě telefaxového dokumentu, jde ve smyslu ustanovení § 55 zák. práce o neplatné rozvázání pracovního poměru"
 
 ### Výklad / smysl ustanovení
 
@@ -246,6 +272,13 @@ Pokud bylo vydáno **opravné usnesení** (§ 164) **týkající se výroku**, l
 > d) jimi má být splněna povinnost tvrdit všechny pro rozhodnutí věci významné skutečnosti nebo důkazní povinnost, a to za předpokladu, že pro nesplnění některé z uvedených povinností neměl odvolatel ve věci úspěch a že odvolatel nebyl řádně poučen podle § 118a odst. 1 až 3;
 > e) odvolatel nebyl řádně poučen podle § 119a odst. 1;
 > f) nastaly (vznikly) po vyhlášení (vydání) rozhodnutí soudu prvního stupně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4841/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9B4163A5C3DA5B0C1257A4E006522CF?openDocument) — 29. 10. 2008, kat. A
+  > „Vyplyne-li ve sporném řízení potřeba provedení nenavrženého důkazu z tvrzení, které účastník uplatňuje v odvolacím řízení v rozporu s ustanovením § 205a odst. 1 o. s. ř., nesmí odvolací soud takový důkaz (ani z vlastní iniciativy) provést, a to bez ohledu na to, zda má být tímto novým důkazem prokázána skutečnost, jež by mohla způsobit absolutní neplatnost právního úkonu"
+- *NS* [29 Odo 162/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/694EEB0450D5536DC1257A4E0065801F?openDocument) — 21. 8. 2003, kat. A
+  > „Důvodnost námitky promlčení soud zkoumá ve vztahu k nároku uplatněnému žalobou není významné, jak účastníci nárok kvalifikovali po právní stránce a z jakých právních důvodů byla námitka promlčení vznesena"
 
 ### Výklad / smysl ustanovení
 
@@ -303,6 +336,11 @@ Tato „**omezená přípustnost důvodů**" znamená, že rozsudek pro uznání
 >
 > (3) Právní moc ostatních výroků není dotčena také tehdy, jestliže odvolání směřuje pouze proti výroku o nákladech řízení, o příslušenství pohledávky, o lhůtě k plnění nebo o předběžné vykonatelnosti rozsudku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
+  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
+
 ### Výklad
 
 **Odst. 1 — odkladný účinek:** Včasné přípustné odvolání oprávněnou osobou → rozhodnutí **NENABÝVÁ PRÁVNÍ MOCI**, dokud odvolací soud nerozhodne. = **suspenzivní účinek**.
@@ -347,6 +385,11 @@ Tato „**omezená přípustnost důvodů**" znamená, že rozsudek pro uznání
 **Předseda senátu 1. stupně** odmítne **opožděné odvolání** usnesením.
 
 **Výjimka:** Odvolání **podané ve lhůtě** u **odvolacího soudu** nebo do **protokolu** u nepříslušného soudu **nelze odmítnout** jako opožděné.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1124/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_1124_2001.txt) — 20. 11. 2001, kat. A
+  > „Proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost, není dovolání přípustné"
 
 ---
 
@@ -397,6 +440,19 @@ Předseda senátu **soudu 1. stupně** odstraňuje **vady** ve včas podaném od
 
 **§ 211a — omezení pro jiné účastníky (než odvolatele):** Mohou uplatnit nové skutečnosti **JEN podle § 205a**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4841/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9B4163A5C3DA5B0C1257A4E006522CF?openDocument) — 29. 10. 2008, kat. A
+  > „Vyplyne-li ve sporném řízení potřeba provedení nenavrženého důkazu z tvrzení, které účastník uplatňuje v odvolacím řízení v rozporu s ustanovením § 205a odst. 1 o. s. ř., nesmí odvolací soud takový důkaz (ani z vlastní iniciativy) provést, a to bez ohledu na to, zda má být tímto novým důkazem prokázána skutečnost, jež by mohla způsobit absolutní neplatnost právního úkonu"
+- *NS* [29 Odo 132/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/244C26EA64A08DC2C1257A4E00658D50?openDocument) — 30. 11. 2004, kat. A
+  > „Proti návrhu na prohlášení konkursu se dlužník může ubránit i prostřednictvím v konkursním řízení důvodně uplatněné námitky, že pohledávka, kterou navrhující věřitel dokládá svou věcnou legitimaci, je promlčena. K námitce promlčení uplatněné dlužníkem až v průběhu řízení o jeho odvolání proti usnesení o prohlášení konkursu odvolací soud nepřihlíží je však povinen zabývat se tvrzením dlužníka, že takovou námitku ještě před prohlášením konkursu uplatnil v soudním nebo jiném řízení, v němž věřitel proti němu tuto pohledávku uplatňoval"
+- *NS* [29 Odo 257/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_257_2002.txt) — 4. 5. 2004, kat. A
+  > „Věřitel, který podal návrh na prohlášení konkursu na majetek dlužníka, nese břemeno tvrzení a břemeno důkazní ohledně všech skutečností rozhodných pro závěr, že byl osvědčen dlužníkův úpadek. Usnesení o prohlášení konkursu na návrh věřitele proto nelze založit na závěru, že dlužník neosvědčil, že k úhradě splatných závazků svých věřitelů, které nehradí po delší dobu, „je schopen“. Má-li jít o úpadek ve smyslu ustanovení § 1 odst. 2, věty první, zákona č. 328/1991 Sb. ve znění pozdějších předpisů, musí navrhující věřitel vedle charakteristiky vlastní splatné pohledávky proti dlužníkovi (§ 4 odst. 2, věta první, zákona) v návrhu uvést nejen konkrétní údaje, z nichž plyne závěr o pluralitě věřitelů dlužníka a o tom, že dlužník své splatné závazky nehradí „po delší dobu“, nýbrž i údaje, z nichž plyne, že dlužník po delší dobu není k úhradě svých splatných závazků „schopen“. V řízení o…"
+- *NS* [29 Odo 162/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/694EEB0450D5536DC1257A4E0065801F?openDocument) — 21. 8. 2003, kat. A
+  > „Důvodnost námitky promlčení soud zkoumá ve vztahu k nároku uplatněnému žalobou není významné, jak účastníci nárok kvalifikovali po právní stránce a z jakých právních důvodů byla námitka promlčení vznesena"
+- *NS* [29 Odo 108/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_108_2002.txt) — 18. 6. 2003, kat. A
+  > „Tzv. blanketní dovolání může být doplněno o údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, jen do uplynutí dovolací lhůty. Dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o. s. ř., Nejvyšší soud odmítne podle § 43 odst. 2 o. s. ř"
+
 ---
 
 ## § 212 — Rozsah přezkumu (vázán návrhem)
@@ -405,6 +461,13 @@ Předseda senátu **soudu 1. stupně** odstraňuje **vady** ve včas podaném od
 > a) v případech, kdy na rozhodnutí o napadeném výroku je závislý výrok, který odvoláním nebyl dotčen,
 > b) v případech, kde jde o taková společná práva nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří vystupují na jedné straně, a kde platí úkony jednoho z nich i pro ostatní (§ 91 odst. 2), třebaže odvolání podal jen některý z účastníků,
 > c) jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
+  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
+- *NS* [29 Odo 532/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0698DBC8035BF07BC1257A4E00689D84?openDocument) — 19. 9. 2001, kat. A
+  > „Spor, v němž se správce konkursní podstaty úpadce domáhá po správci daně toho, aby do konkursní podstaty vrátil (zaplatil) nadměrný odpočet daně z přidané hodnoty, není sporem vyvolaným konkursem. Pravomoc k rozhodnutí takového sporu nemají soudy, ale správci daně. Počínaje dnem prohlášení konkursu na majetek dlužníka již nelze provést započtení na majetek patřící do konkursní podstaty (§ 14 odst. 1 písm. i/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) není přitom rozhodné, zda se započítávané pohledávky střetly již v době před prohlášením konkursu. Vznikne-li úpadci nárok na vrácení nadměrného odpočtu daně z přidané hodnoty, nesmí být za trvání konkursu použit k úhradě jiných daňových nedoplatků úpadce, které správce daně přihlásil nebo měl přihlásit do konkursu. Postup podle § 64 zákona č. 337/1992 Sb. ve znění pozdějších předpisů, by za trvání konkursu byl nepřípustným…"
 
 ### Výklad
 
@@ -521,6 +584,13 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 >
 > (3) Jednání není třeba nařizovat také tehdy, bylo-li odvolání podáno jen z důvodu nesprávného právního posouzení věci a účastníci se práva účasti na projednání věci vzdali, popřípadě s rozhodnutím věci bez nařízení jednání souhlasí; to neplatí, jestliže odvolací soud opakuje nebo doplňuje dokazování.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 132/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/244C26EA64A08DC2C1257A4E00658D50?openDocument) — 30. 11. 2004, kat. A
+  > „Proti návrhu na prohlášení konkursu se dlužník může ubránit i prostřednictvím v konkursním řízení důvodně uplatněné námitky, že pohledávka, kterou navrhující věřitel dokládá svou věcnou legitimaci, je promlčena. K námitce promlčení uplatněné dlužníkem až v průběhu řízení o jeho odvolání proti usnesení o prohlášení konkursu odvolací soud nepřihlíží je však povinen zabývat se tvrzením dlužníka, že takovou námitku ještě před prohlášením konkursu uplatnil v soudním nebo jiném řízení, v němž věřitel proti němu tuto pohledávku uplatňoval"
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+
 ### Výklad
 
 **Odst. 1:** Předseda senátu odvolacího soudu **nařídí jednání** k projednání odvolání.
@@ -555,11 +625,35 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 
 **§ 218c:** O **zastavení** (pro zpětvzetí) a **odmítnutí** může rozhodnout **i sám předseda** nebo pověřený člen senátu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3602/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C82473EF57006297C1257A4E00656E27?openDocument) — 5. 11. 2008, kat. A
+  > „Nenapadá-li dovolatel nesprávnost právního názoru odvolacího soudu vyjádřeného v jeho předchozím rozhodnutí, jímž bylo prvé rozhodnutí soudu prvního stupně zrušeno a věc byla tomuto soudu vrácena k dalšímu řízení, přičemž tento právní názor vedl soud prvního stupně k tomu, aby v novém rozhodnutí rozhodl jinak než v předchozím zrušeném rozhodnutí, může být o přípustnosti dovolání proti tentokrát potvrzujícímu rozhodnutí odvolacího soudu ve věci samé uvažováno jen z hlediska § 237 odst. 1 písm. c) o. s. ř"
+- *NS* [29 Cdo 699/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC0D54C32DDA84B8C1257A4E006AC9B8?openDocument) — 22. 5. 2008, kat. A
+  > „V konkursním řízení vedeném na majetek dlužníka podle zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007, není správce podniku dlužníka (povinného) oprávněn zastupovat dlužníka na základě ustanovení § 338k odst. 6 o. s. ř. to platí i pro tu část konkursního řízení, která začíná podáním návrhu na prohlášení konkursu na majetek dlužníka a končí rozhodnutím konkursního soudu o tomto návrhu. Návrh na prohlášení konkursu na majetek dlužníka podle ustanovení § 4b zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007 podává správce podniku dlužníka (povinného) svým jménem a nikoliv jménem dlužníka jde o "navrhovatele konkursu", který nedokládá svou pohledávku za dlužníkem ve smyslu ustanovení § 4 odst. 2 uvedeného zákona"
+- *NS* [25 Cdo 991/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8989D27AFAB96AE5C1257A4E006781D8?openDocument) — 31. 8. 2006, kat. A
+  > „Pro určení výše nového nároku na náhradu za ztížení společenského uplatnění při následném zhoršení již ustáleného zdravotního stavu je rozhodující porovnání omezených či ztracených možností společenského uplatnění v době před zhoršením zdravotního stavu se stavem nynějším"
+- *NS* [29 Odo 310/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/990A09C84BD256DAC1257A4E00656BA8?openDocument) — 2. 6. 2004, kat. A
+  > „Lhůta k podání odvolání proti opravenému výroku rozhodnutí a proti výrokům na něm závislým se účastníku řízení nově otevírá jen tehdy, je-li důsledkem takové (byť i nevýznamné) opravy obsahová změna výroku z hlediska práv a povinností, jež po opravě vymezuje. Uvedené platí i tehdy, bylo-li původní rozhodnutí již přezkoumáno v odvolacím řízení na základě dříve podaného odvolání a odvolací soud je jako věcně správné potvrdil. Jestliže usnesení, jímž soud prvního stupně opravil chyby v psaní a v počtech, nebo jiné zjevné nesprávnosti výroku svého rozsudku (§ 164 o. s. ř.), nabylo právní moci, vychází soud, který rozhoduje o odvolání proti opravenému rozsudku, z toho, že práva a povinnosti účastníků byla rozhodnutím soudu prvního stupně ustavena způsobem, který odpovídá znění rozsudku po provedené opravě a zákonností opravy (důvodností vydání opravného usnesení) se již zabývat nesmí"
+- *NS* [30 Cdo 839/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2030%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-30_Cdo_839_2003.txt) — 4. 5. 2004, kat. A
+  > „Zjistí-li se v průběhu řízení o dodatečném projednání dědictví (§ 175x o. s. ř.), že zde není nově najevo vyšlý majetek zůstavitele, soud řízení zastaví (bylo-li řízení zahájeno bez návrhu) nebo zamítne návrh na zahájení řízení o dodatečném projednání dědictví (bylo-li řízení zahájeno na návrh) v obou případech nejde o usnesení ve věci samé. Zastavení řízení za popsaných okolností není důsledkem závěru, že projednání věci brání nedostatek podmínek řízení (§ 103 o. s. ř.), tedy zastavením řízení podle ustanovení § 104 odst. 1 o. s. ř"
+- *NS* [29 Odo 184/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FB8D90CBF109B52C1257A4E006894A1?openDocument) — 31. 7. 2003, kat. A
+  > „Osobám uvedeným v ustanovení § 12a odst. 5, věty druhé, zákona č. 328/1991 Sb., ve znění pozdějších předpisů, začíná běžet lhůta k podání odvolání proti usnesení o zamítnutí návrhu na prohlášení konkursu pro nedostatek majetku od doručení rozhodnutí poslednímu z těch dosavadních účastníků řízení, kteří jsou legitimováni k podání odvolání podle § 12a odst. 5, věty první, uvedeného zákona to platí bez zřetele k tomu, zda se takový dosavadní účastník řízení sám práva odvolání vzdal. Podáním včasného odvolání se taková osoba stává dalším navrhovatelem ve smyslu ustanovení § 4 označeného zákona a platí pro ni stav řízení v době, kdy její odvolání došlo soudu"
+- *NS* [29 Odo 56/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C14DD4544E161721C1257A4E0068FA9B?openDocument) — 6. 5. 2003, kat. A
+  > „I. Dovolání proti výroku usnesení odvolacího soudu, jímž odvolací soud potvrdil usnesení soudu prvního stupně o odmítnutí námitek proti směnečnému platebnímu rozkazu pro opožděnost (§ 175 odst. 3 o. s. ř.), není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné. II. Nejde-li o případ uvedený v bodě 13., hlavy první, části dvanácté, zákona č. 30/2000 Sb., postupuje soud prvního stupně při vydání usnesení, jímž po 1. lednu 2001 odmítá námitky proti směnečnému rozkazu podané před tímto datem, podle občanského soudního řádu ve znění účinném od 1. ledna 2001. III. Usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o odmítnutí námitek proti směnečnému platebnímu rozkazu pro opožděnost (§ 175 odst. 3 o. s. ř.), je usnesením jen procesní povahy. Odmítá-li dovolací soud dovolání proti takovému usnesení odvolacího soudu, činí paušální sazba odměny za…"
+- *NS* [21 Cdo 1124/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_1124_2001.txt) — 20. 11. 2001, kat. A
+  > „Proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost, není dovolání přípustné"
+
 ---
 
 ## § 219 — POTVRZENÍ
 
 > Odvolací soud rozhodnutí potvrdí, je-li ve výroku věcně správné.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 3342/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/366CC059E3147F45C1257A4E0067B724?openDocument) — 24. 10. 2007, kat. A
+  > „Odvolací soud může změnit svůj právní názor vyjádřený v předchozím zrušujícím usnesení a potvrdit rozhodnutí soudu prvního stupně, jímž ten jeho dřívější právní názor nerespektoval"
 
 ### Výklad
 
@@ -647,6 +741,11 @@ Pokud odvolací soud odmítne odvolání proti PO, které **zaniklo / pozbylo ú
 > c) rozhodne o zastavení řízení, jestliže je tu takový nedostatek podmínek řízení, který nelze odstranit (§ 104 odst. 1); není-li dána pravomoc soudů, rozhodne též o postoupení věci orgánu, do jehož pravomoci náleží.
 >
 > (2) Zruší-li odvolací soud rozhodnutí proto, že nebyl dodržen závazný právní názor (§ 226 odst. 1, § 235h odst. 2 věta druhá a § 243d odst. 1) nebo že v řízení došlo k závažným vadám, může nařídit, aby v dalším řízení věc projednal a rozhodl jiný senát (samosoudce), nebo přikázat věc k dalšímu řízení jinému soudu prvního stupně, kterému je nadřízen.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 532/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0698DBC8035BF07BC1257A4E00689D84?openDocument) — 19. 9. 2001, kat. A
+  > „Spor, v němž se správce konkursní podstaty úpadce domáhá po správci daně toho, aby do konkursní podstaty vrátil (zaplatil) nadměrný odpočet daně z přidané hodnoty, není sporem vyvolaným konkursem. Pravomoc k rozhodnutí takového sporu nemají soudy, ale správci daně. Počínaje dnem prohlášení konkursu na majetek dlužníka již nelze provést započtení na majetek patřící do konkursní podstaty (§ 14 odst. 1 písm. i/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) není přitom rozhodné, zda se započítávané pohledávky střetly již v době před prohlášením konkursu. Vznikne-li úpadci nárok na vrácení nadměrného odpočtu daně z přidané hodnoty, nesmí být za trvání konkursu použit k úhradě jiných daňových nedoplatků úpadce, které správce daně přihlásil nebo měl přihlásit do konkursu. Postup podle § 64 zákona č. 337/1992 Sb. ve znění pozdějších předpisů, by za trvání konkursu byl nepřípustným…"
 
 ### Výklad
 

@@ -39,6 +39,13 @@ Paragraf 36 stanoví **základní strukturu rozhodovacího orgánu**:
 > (1) V řízení před okresním soudem jedná a rozhoduje samosoudce.
 > (2) V řízení před krajským soudem jako soudem prvého stupně jedná a rozhoduje samosoudce; senát jedná a rozhoduje v řízení v prvním stupni, stanoví-li tak zákon, a v odvolacím řízení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 85/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_85_2002.txt) — 9. 10. 2002, kat. A
+  > „Má-li podání, kterým žalobce uplatnil změnu návrhu (§ 95 odst. 1 o. s. ř.), vady, které brání pokračování v řízení o změněném návrhu, pokusí se předseda senátu postupem podle ustanovení § 43 o. s. ř. o jejich odstranění. V případě, že tyto vady nebudou přes výzvu předsedy senátu odstraněny, má to za následek, že soud k takovému podání nepřihlíží (§ 43 odst. 2 o. s. ř.).*)"
+- *NS* [25 Co 173/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/658E31581080683FC1257BD6003A446A?openDocument) — 25. 4. 2001, kat. A
+  > „Zamítá-li soud návrh na nařízení předběžného opatření v pracovní věci, podaný po zahájení řízení ve věci samé (§ 102 odst. 3 o. s. ř.), rozhoduje vždy v senátě"
+
 ### Výklad
 
 **Okresní soud (1. stupeň):** vždy **samosoudce**. Senát v 1. stupni okresního soudu neexistuje.
@@ -263,6 +270,11 @@ Výjimka: osoby s **bezpečnostním osvědčením** poučení nepotřebují.
 > (2) Každý úkon posuzuje soud podle jeho obsahu, i když je úkon nesprávně označen.
 > (3) Hmotněprávní jednání účastníka učiněné vůči soudu je účinné také vůči ostatním účastníkům, avšak teprve od okamžiku, kdy se o něm v řízení dozvěděli; to platí i tehdy, je-li pro platnost hmotněprávního jednání předepsána písemná forma. Ustanovení § 40 odst. 3 se použije obdobně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 569/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C4517FDB9D399522C1257A4E00687ADC?openDocument) — 24. 1. 2006, kat. A
+  > „Řízení o určení (vyslovení) neplatnosti veřejné nedobrovolné dražby podle ustanovení § 48 odst. 3, 4 a 5 zákona č. 26/2000 Sb. ve znění pozdějších předpisů se musí z hlediska věcné legitimace účastnit (buď jako žalobci, nebo jako žalovaní) navrhovatel dražby, vlastník nebo nositel jiného práva k předmětu dražby, dražebník a vydražitel na straně žalovaného je třeba tyto účastníky považovat za nerozlučné společníky ve smyslu ustanovení § 91 odst. 2 o. s. ř. V řízení o určení (vyslovení) neplatnosti veřejné nedobrovolné dražby podle ustanovení § 48 odst. 3, 4 a 5 zákona č. 26/2000 Sb. ve znění pozdějších předpisů činí paušální sazba odměny za zastupování účastníka advokátem v jednom stupni 4500 Kč (§ 8 písm. a/ vyhlášky č. 484/2000 Sb. ve znění pozdějších předpisů)"
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — princip bezformálnosti:** Účastník může činit úkony **jakkoli** (písemně, ústně do protokolu, elektronicky), pokud zákon výslovně nestanoví jinou formu (typicky § 42, § 79, § 174a).
@@ -295,6 +307,13 @@ Výjimka: osoby s **bezpečnostním osvědčením** poučení nepotřebují.
 > (3) K úkonu účastníka, který není za řízení přípustný, se nepřihlíží.
 >
 > (4) Úkon může být odvolán, jen jestliže jeho odvolání dojde soudu nejpozději současně s tímto úkonem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
+  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
+- *NS* [29 Odo 961/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F83256DC916A8B24C1257A4E006AA3E9?openDocument) — 27. 9. 2006, kat. A
+  > „Jestliže byl po předchozím zrušení konkursu znovu prohlášen konkurs na majetek téhož dlužníka, nejsou konkursní věřitelé ani správce konkursní podstaty vázáni procesními úkony, které v procesu přezkoumávání přihlášených pohledávek učinili podle § 23 a násl. zákona č. 328/1991 Sb. ve znění pozdějších předpisů, v průběhu prvního konkursu. Konkursnímu věřiteli s právem na oddělené uspokojení pohledávky z titulu zástavního práva, jehož zástavní právo zaniklo za trvání konkursu zpeněžením zástavy (§ 28 odst. 5 zákona č. 328/1991 Sb. ve znění pozdějších předpisů), již v novém konkursu prohlášeném na majetek téhož dlužníka právo na oddělené uspokojení pohledávky na základě stejného titulu nenáleží. Zajištěný konkursní věřitel, jehož zástavní právo zaniklo v průběhu konkursu zpeněžením zástavy, má právo na vyplacení příslušné části čistého výtěžku zpeněžení zástavy, i když po zpeněžení…"
 
 ### Výklad
 
@@ -335,6 +354,11 @@ Po dohodnutí smíru u jednání soud **přečte protokol** o smíru a vyzve ú�
 > (3) V případě podání v elektronické podobě podepsaného způsobem, se kterým zvláštní právní předpis spojuje účinky vlastnoručního podpisu, se nevyžaduje doplnění podání předložením jeho originálu podle odstavce 2.
 >
 > (4) Pokud zákon pro podání určitého druhu nevyžaduje další náležitosti, musí být z podání patrno, kterému soudu je určeno, kdo je činí, které věci se týká a co sleduje, a musí být podepsáno a datováno. Povinnost podpisu a datování se nevztahuje na podání v elektronické podobě podle zvláštního právního předpisu. Je-li účastník zastoupen advokátem, může být podpis advokáta nahrazen otiskem podpisového razítka, jehož vzor byl uložen u soudu, kterému je podání určeno. Podání v listinné podobě je třeba předložit s potřebným počtem stejnopisů a s přílohami tak, aby jeden stejnopis zůstal u soudu a aby každý účastník dostal jeden stejnopis, jestliže je to třeba. Podání v jiných formách se činí pouze jedním stejnopisem. K podání učiněnému elektronicky lze připojit také všechny jeho přílohy v elektronické podobě.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
+  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
 
 ### Výklad / smysl ustanovení
 
@@ -377,6 +401,25 @@ Po dohodnutí smíru u jednání soud **přečte protokol** o smíru a vyzve ú�
 
 > (1) Předseda senátu usnesením vyzve účastníka, aby bylo opraveno nebo doplněno podání, které neobsahuje všechny stanovené náležitosti nebo které je nesrozumitelné nebo neurčité. K opravě nebo doplnění podání určí lhůtu a účastníka poučí, jak je třeba opravu nebo doplnění provést.
 > (2) Není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne. K ostatním podáním soud nepřihlíží, dokud nebudou řádně opravena nebo doplněna. O těchto následcích musí být účastník poučen.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 742/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5ABA070698021B19C1257A4E006601DA?openDocument) — 15. 7. 2008, kat. A
+  > „Závěr, že vylíčení rozhodujících skutečností může mít zprostředkovaně původ i v odkazu na listinu, kterou žalobce (coby důkazní materiál) připojí k žalobě a na kterou v textu žaloby výslovně odkáže, je výjimkou ze zásady, že vylíčení rozhodujících skutečností má obsahovat samotná žaloba (§ 79 odst. 1 o. s. ř.) a jako výjimka by měl být aplikován restriktivně. Kromě požadavku, aby z odkazu obsaženého v žalobě, bylo patrno, že připojený listinný důkaz je listinou, která popisuje nárok po skutkové stránce, je uplatnění uvedeného závěru namístě jen tehdy, neobsahuje-li potřebné vylíčení rozhodujících skutečností sama žaloba. Je-li příslušná skutečnost v žalobě vylíčena, pak to, že listinný důkaz připojený k žalobě žalobní tvrzení nepodporuje, nezpůsobuje vadu žaloby, ale může být podkladem pro závěr, že žalobce tímto důkazem tvrzenou skutečnost neprokázal"
+- *NS* [29 Odo 678/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC3702EB580A9184C1257A4E006AD3BF?openDocument) — 23. 2. 2006, kat. A
+  > „Občanský soudní řád neukládá zastoupenému, ani zástupci, jímž je advokát, a ani dalšímu zástupci advokáta (§ 25 odst. 2 o. s. ř.) povinnost doložit další zastoupení advokáta pouze písemnou plnou mocí jen pro určité úkony. Jestliže další zástupce advokáta nedoložil oprávnění k zastupování již při prvním úkonu, který ve věci učinil (§ 32 odst. 1 o. s. ř.), může mít následný průkaz dalšího zastoupení i podobu písemného sdělení takto zastoupeného advokáta, že dalšího zástupce k provedení příslušného jednotlivého úkonu nebo jednotlivých úkonů zmocnil"
+- *NS* [29 Odo 37/2004](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_37_2004.txt) — 24. 1. 2006, kat. A
+  > „Nepřipojí-li dlužník k návrhu na prohlášení konkursu seznam svého majetku a závazků (§ 4 odst. 3, věta druhá, zákona č. 328/1991 Sb. ve znění pozdějších předpisů), nejde o vadu návrhu ve smyslu § 43 o. s. ř"
+- *NS* [21 Cdo 2023/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E99151B687B3E8D7C1257A4E0065417D?openDocument) — 14. 6. 2005, kat. A
+  > „Zaplatil-li zaměstnanec vyšší daň z příjmů fyzických osob jenom proto, že mu zaměstnavatel vyplatil náhradu za ztrátu na výdělku po skončení pracovní neschopnosti náležející mu za delší časové období po lhůtě splatnosti jednorázově, vznikla tím zaměstnanci škoda, za kterou zaměstnavatel odpovídá podle § 187 odst. 2 zák. práce"
+- *NS* [29 Odo 649/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F36FECD8A0A51D14C1257A4E00696E92?openDocument) — 27. 11. 2003, kat. A
+  > „Není dána pravomoc soudu uložit v občanském soudním řízení Úřadu průmyslového vlastnictví, aby z rejtříku ochranných známek vymazal označené ochranné známky. *) Každý procesní úkon je nutno posuzovat podle toho, jak byl navenek projeven, nikoliv podle toho, jestli mezi projeveným procesním úkonem a vnitřní vůlí jednajícího je skutečný souhlas. Ani podstatný omyl účastníka mezi tím, co procesním úkonem projevil a tím, co jím projevit chtěl, nemá na procesní úkon a jeho účinnost žádný vliv. Nedostatek podmínky řízení ve smyslu § 103 o. s. ř. není vadou žaloby z hlediska její správnosti či úplnosti a vada žaloby naopak nepředstavuje nedostatek podmínky řízení"
+- *NS* [29 Odo 108/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_108_2002.txt) — 18. 6. 2003, kat. A
+  > „Tzv. blanketní dovolání může být doplněno o údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, jen do uplynutí dovolací lhůty. Dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o. s. ř., Nejvyšší soud odmítne podle § 43 odst. 2 o. s. ř"
+- *NS* [25 Cdo 511/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B5D2A6966882F92C1257A4E0065A3CB?openDocument) — 29. 5. 2003, kat. A
+  > „Domáhá-li se účastník povolení obnovy řízení proti rozhodnutí vydanému před 1. lednem 2001, postupuje soud podle občanského soudního řádu ve znění účinném před tímto datem (bod 16. hlava první, část dvanáctá, zákona č. 30/2000 Sb.) soud vychází i z ustanovení § 43 o. s. ř. ve znění účinném před 1. lednem 2001"
+- *NS* [21 Cdo 270/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C5B14C73A88166F9C1257A4E00671D2D?openDocument) — 23. 5. 2003, kat. A
+  > „Má-li žalobce za to, že věc se týká dvou odštěpných závodů, které jsou organizační složkou téže právnické osoby, a vyjádří-li tento svůj názor v žalobě tím, že za více žalovaných označí tutéž právnickou osobu, přičemž jednotlivé žalované rozliší podle toho, jak k označení téže právnické osoby připojí údaje o jejích odštěpných závodech, je z obsahu žaloby nepochybné, že byla podána pouze proti této právnické osobě a že údaje o odštěpných závodech pouze vyjadřují jeho názor, že spor se týká obou těchto organizačních složek právnické osoby"
 
 ### Výklad / smysl ustanovení
 
@@ -495,6 +538,13 @@ Paragraf 45 zakotvuje **kaskádový postup doručování**:
 > (1) Adresou pro doručování prostřednictvím veřejné datové sítě je adresa datové schránky evidovaná podle zvláštního právního předpisu.
 >
 > (2) Prostřednictvím veřejné datové sítě soud doručuje na elektronickou adresu, kterou adresát sdělil soudu, jestliže soud o doručení písemnosti tímto způsobem požádal nebo s ním vyslovil souhlas.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [5 Cmo 343/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFB497CC17490E2CC1257BD6003A3923?openDocument) — 27. 11. 2002, kat. A
+  > „Je-li třeba pro řízení dokladu o doručení písemnosti, nelze soudní písemnost adresovat do dodávací schránky (do tzv. PO BOXu) jestliže tak soud přesto učiní, je náhradní doručení této písemnosti vyloučeno"
+- *NS* [21 Cdo 85/2002](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2021%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-21_Cdo_85_2002.txt) — 9. 10. 2002, kat. A
+  > „Má-li podání, kterým žalobce uplatnil změnu návrhu (§ 95 odst. 1 o. s. ř.), vady, které brání pokračování v řízení o změněném návrhu, pokusí se předseda senátu postupem podle ustanovení § 43 o. s. ř. o jejich odstranění. V případě, že tyto vady nebudou přes výzvu předsedy senátu odstraněny, má to za následek, že soud k takovému podání nepřihlíží (§ 43 odst. 2 o. s. ř.).*)"
 
 ### Výklad
 
@@ -615,6 +665,11 @@ Tento institut umožňuje **soudu pokračovat v řízení** i tam, kde se adres�
 >
 > (3) Doručení prostřednictvím veřejné datové sítě na elektronickou adresu je neúčinné, jestliže se písemnost zaslaná na elektronickou adresu vrátila soudu jako nedoručitelná nebo jestliže adresát do 3 dnů od odeslání písemnosti nepotvrdil soudu její přijetí datovou zprávou podle odstavce 2.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 166/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B86AEE823743FFFC1257A4E006863BC?openDocument) — 24. 9. 2003, kat. A
+  > „Předvolání k prvnímu jednání, při kterém může být vydán rozsudek pro zmeškání (§ 153b odst. 1 o. s. ř.), lze jako písemnost určenou do vlastních rukou adresáta doručit žalovanému též uložením. Při řádném náhradním doručení písemnosti uložením platí, že účastník řízení, který si zásilku do dne, kdy nastala fikce doručení, nevyzvedl, byl s jejím obsahem seznámen dnem, kdy fikce doručení nastala"
+
 ### Výklad
 
 **Odst. 1:** Postupuje se podle **zákona č. 300/2008 Sb.** o elektronických úkonech (ZAEP).
@@ -697,6 +752,13 @@ V praxi **99 %** doručování listinných písemností probíhá přes **Česko
 > (6) Doručení písemnosti prostřednictvím veřejné datové sítě se považuje za doručení do vlastních rukou adresáta.
 >
 > (7) Zjistí-li doručující orgán, že adresát zemřel, písemnost vrátí se zprávou odesílajícímu soudu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 331/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D4FFF09A6F4470FC1257A4E0068E229?openDocument) — 28. 11. 2001, kat. A
+  > „Jestliže soud před novým rozhodnutím o věci nedoručil účastníku řízení rozhodnutí, kterým dovolací soud zrušil usnesení odvolacího soudu o odmítnutí odvolání pro opožděnost, a ten proto nereagoval na vzniklou procesní situaci (např. tím, že by soudu předestřel nová tvrzení ke včasnosti odvolání), pak mu ve smyslu ustanovení § 237 odst. 1 písm. f) o. s. ř. ve znění účinném před 1. lednem 2001 v průběhu řízení nesprávným postupem odňal možnost před soudem jednat.*)"
+- *NS* [21 Cdo 1094/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E26BDF5BAA089D68C1257A4E0065AC68?openDocument) — 15. 3. 2001, kat. A
+  > „Jestliže účastník řízení oznámil soudu vypovězení procesní plné moci svému zástupci poté, co tento zástupce byl řádně a včas vyrozuměn o termínu soudního jednání, při kterém nebylo zapotřebí osobní účasti zastoupeného (§ 49 odst. 1 o.s.ř.), neměl soud povinnost vyrozumět účastníka znovu o termínu jednání"
 
 ### Výklad / smysl ustanovení
 
@@ -927,6 +989,11 @@ V praxi vzácné — typicky používáno u **vysoce urgentních** věcí (před
 > (4) V případě doručování účastníkem nebo jeho zástupcem je průkazem doručení potvrzení o přijetí opatřené datem a podpisem příjemce.
 >
 > (5) Nelze-li doručení prokázat žádným ze způsobů uvedených v odstavcích 1 až 4, lze je prokázat též jiným způsobem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 658/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/541F34C3D76C3E54C1257A4E0068CC4F?openDocument) — 28. 1. 2009, kat. A
+  > „Doručenka byla podle právní úpravy účinné do 30. 6. 2009 listinou, která má povahu veřejné listiny to platilo i tehdy, neměla-li doručenka všechny náležitosti, které podle zákona musí obsahovat. Každý údaj, který byl (ve skutečnosti) na doručence uveden, se považuje za pravdivý, nebyl-li dokázán opak. „Opak“ ve smyslu ustanovení § 50f odst. 9 o. s. ř. ve znění účinném do 30. 6. 2009 prokazoval (pomocí důkazních prostředků) ten, kdo ho za řízení tvrdil, a nesl procesní odpovědnost (důkazní břemeno) za to, že nebyl zjištěn. Rozhodl-li soud prvního stupně o věci rozsudkem pro uznání (§ 153a o. s. ř.) a dospěje-li odvolací soud k závěru, že pro vydání rozsudku pro uznání nebyly splněny předpoklady stanovené zákonem, odvolací soud změní rozsudek soudu prvního stupně tak, že se rozsudek pro uznání nevydává (§ 220 odst. 1 písm. a/ o. s. ř.) zrušení rozsudku soudu prvního stupně by bylo v…"
 
 ### Výklad
 

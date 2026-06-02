@@ -43,6 +43,13 @@
 > c) patentový zástupce v rozsahu svého oprávnění stanoveného zvláštními právními předpisy, který je společníkem, akcionářem, zaměstnancem nebo členem statutárního nebo dozorčího orgánu společnosti patentových zástupců, a plátcem daně z přidané hodnoty podle zvláštního právního předpisu je tato právnická osoba,
 > d) advokát, který je zaměstnancem jiného advokáta nebo právnické osoby zřízené za účelem výkonu advokacie podle zvláštního právního předpisu, a plátcem daně z přidané hodnoty podle zvláštního právního předpisu je tento zaměstnavatel advokáta.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1556/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC71F82C47F02144C1257A4E006556E8?openDocument) — 15. 12. 2004, kat. A
+  > „Částka odpovídající dani z přidané hodnoty je jedním z druhů nákladů řízení (§ 137 odst. 1 a 3 o. s. ř.), a to za předpokladu, že účastníka řízení zastupoval advokát, notář nebo patentový zástupce, který je plátcem daně z přidané hodnoty. Tato částka tvoří součást nákladů řízení účastníka i v řízení, které bylo zahájeno přede dnem 1. 5. 2004 a které nebylo do 30. 4. 2004 skončeno"
+- *NS* [29 Odo 358/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E91B44F4D56E6A40C1257A4E0068BA55?openDocument) — 31. 7. 2002, kat. A
+  > „Jde-li o nepeněžité plnění z titulu ochrany proti nekalosoutěžnímu jednání, činí paušální sazba odměny advokáta za řízení v prvním stupni 6200 Kč (§ 8 písm. b/ vyhlášky č. 484/2000 Sb.)"
+
 ### Výklad / smysl ustanovení
 
 **Demonstrativní výčet nákladů řízení** (odst. 1):
@@ -85,6 +92,13 @@
 > (2) Přiznané osvobození předseda senátu kdykoli za řízení odejme, popřípadě i se zpětnou účinností, jestliže se do pravomocného skončení řízení ukáže, že poměry účastníka osvobození neodůvodňují, popřípadě neodůvodňovaly.
 >
 > (3) Byl-li účastníku osvobozenému od soudních poplatků ustanoven zástupce, vztahuje se osvobození v rozsahu, v jakém bylo přiznáno, i na hotové výdaje zástupce a na odměnu za zastupování.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 532/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0698DBC8035BF07BC1257A4E00689D84?openDocument) — 19. 9. 2001, kat. A
+  > „Spor, v němž se správce konkursní podstaty úpadce domáhá po správci daně toho, aby do konkursní podstaty vrátil (zaplatil) nadměrný odpočet daně z přidané hodnoty, není sporem vyvolaným konkursem. Pravomoc k rozhodnutí takového sporu nemají soudy, ale správci daně. Počínaje dnem prohlášení konkursu na majetek dlužníka již nelze provést započtení na majetek patřící do konkursní podstaty (§ 14 odst. 1 písm. i/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) není přitom rozhodné, zda se započítávané pohledávky střetly již v době před prohlášením konkursu. Vznikne-li úpadci nárok na vrácení nadměrného odpočtu daně z přidané hodnoty, nesmí být za trvání konkursu použit k úhradě jiných daňových nedoplatků úpadce, které správce daně přihlásil nebo měl přihlásit do konkursu. Postup podle § 64 zákona č. 337/1992 Sb. ve znění pozdějších předpisů, by za trvání konkursu byl nepřípustným…"
+- *NS* [11 Zp 24/99](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2011%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-11_Zp_24_99.txt) — 18. 5. 2001, kat. A
+  > „Návrhu účastníka řízení na přiznání osvobození od placení soudních poplatků (§ 138 o. s. ř.) pro řízení v prvním a druhém stupni lze vyhovět, jen požádá-li o osvobození před pravomocným skončením řízení"
 
 ### Výklad
 
@@ -243,6 +257,11 @@ V průběhu sporu **každá strana hradí své náklady**. Až po skončení (§
 >
 > (2) Jsou-li tu důvody hodné zvláštního zřetele, může soud výjimečně náhradu nákladů řízení zcela nebo zčásti žalobci přiznat i v případě, že žalobce žalovanému výzvu k plnění za podmínek uvedených v odstavci 1 nezaslal.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 4388/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83057DBB0C66DB0CC1257E4900309A45?openDocument) — 19. 2. 2015, kat. A
+  > „Při rozhodování o náhradě nákladů řízení nelze izolovaně posuzovat (jen) to, zda žalobce způsobem určeným ustanovením § 142a o. s. ř. vyzval žalovaného k plnění, nýbrž je nezbytné přihlédnout i k dalším okolnostem konkrétní věci, zejména pak k povaze (a výši) uplatněné pohledávky (za účelem uvážení, zda vskutku při naplnění obecné míry obezřetnosti lze uvažovat o "opomenutí" dlužníka pohledávku zaplatit), k postoji dlužníka k (následně) uplatněné pohledávce, jakož i k reakci dlužníka na zahájení soudního řízení a doručení žaloby"
+
 ### Výklad / smysl ustanovení
 
 **Klíčová novela 2013 — § 142a:** Žalobce má právo na náhradu nákladů řízení **JEN tehdy**, pokud žalovanému **nejméně 7 dnů před podáním žaloby** zaslal **výzvu k plnění** na adresu pro doručování (nebo poslední známou).
@@ -342,6 +361,11 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 > (1) Účastníku nebo jeho zástupci může soud uložit, aby hradili náklady řízení, které by jinak nebyly vznikly, jestliže je způsobili svým zaviněním nebo jestliže tyto náklady vznikly náhodou, která se jim přihodila.
 >
 > (2) Soud může uložit svědkům, fyzickým osobám uvedeným v § 126a, znalcům, tlumočníkům nebo těm, kteří při dokazování měli nějakou povinnost, jestliže zavinili náklady řízení, které by jinak nebyly vznikly, aby je nahradili účastníkům.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 733/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Odo_733_2001.txt) — 29. 8. 2002, kat. A
+  > „Je-li dovolání podepsáno pouze zástupcem dovolatele na základě plné moci, který ani přes opatření soudu dle § 104 odst. 2, věty první, o. s. ř., vůči němu učiněné, toto zastoupení nedoložil, Nejvyšší soud dovolací řízení dle § 104 odst. 2, věty třetí, o. s. ř. zastaví. Obdobně to platí i pro jiný návrh na zahájení řízení. Jestliže soud z uvedeného důvodu řízení zastaví, je osobou, která z procesního hlediska zavinila zastavení řízení, zástupce účastníka, jemuž lze ve smyslu § 147 odst. 1 o. s. ř. uložit, aby hradil náklady řízení, jež by bez jeho zavinění nevznikly"
 
 ### Výklad
 

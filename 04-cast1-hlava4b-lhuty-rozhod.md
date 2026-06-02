@@ -211,6 +211,15 @@ Klíčový systematický blok. **Typy lhůt v civilním procesu:**
 > (2) Lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Lhůty určené podle hodin končí uplynutím hodiny, která se svým označením shoduje s hodinou, kdy došlo ke skutečnosti určující počátek lhůty.
 > (3) Lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+- *NS* [29 Odo 741/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DFDF10EFA6271D6C1257A4E0064DF20?openDocument) — 16. 2. 2005, kat. A
+  > „K zachování lhůty pro podání žaloby o vyloučení majetku ze soupisu konkursní podstaty úpadce (§ 19 odst. 2 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) je nezbytné, aby žaloba nejpozději posledního dne lhůty došla soudu na tom nic nemění skutečnost, že délku lhůty vymezuje svým rozhodnutím soud"
+- *NS* [26 Cdo 2378/99](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2026%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-26_Cdo_2378_99.txt) — 18. 12. 2000, kat. A
+  > „Provozovatel telefaxového spojení není orgánem, který má povinnost podání doručit ve smyslu § 57 odst. 3 o. s. ř. Učiní-li účastník řízení podání telefaxem, je pro posouzení včasnosti takového podání rozhodné, kdy došlo soudu"
+
 ### Výklad / smysl ustanovení
 
 **Tři pravidla počítání lhůt:**
@@ -253,6 +262,11 @@ Klíčový systematický blok. **Typy lhůt v civilním procesu:**
 
 > (1) Soud promine zmeškání lhůty, jestliže účastník nebo jeho zástupce ji zmeškal z omluvitelného důvodu, a byl proto vyloučen z úkonu, který mu přísluší. Návrh je třeba podat do patnácti dnů po odpadnutí překážky a je s ním třeba spojit i zmeškaný úkon.
 > (2) Soud může k žádosti účastníka přiznat odkladný účinek návrhu, aby bylo prominuto zmeškání lhůty.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 396/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26555FF94EE2CBD9C1257A4E00668D3B?openDocument) — 29. 11. 2005, kat. A
+  > „Je-li prohlášen konkurs na majetek zástavního dlužníka odlišného od osobního dlužníka a zajištěná pohledávka dosud není splatná, má zástavní věřitel právo od osobního dlužníka žádat, aby zajištění bez zbytečného odkladu přiměřeně doplnil jinak se ta část pohledávky, která není v důsledku konkursu zajištěna, stane splatnou (§ 163 odst. 2 obč. zák.). Jestliže osobní dlužník bez zbytečného odkladu zajištění takové pohledávky přiměřeně doplní, nepřísluší zástavnímu věřiteli právo dožadovat se uspokojení zajištěné pohledávky v konkursu vedeném na majetek zástavního dlužníka jinak než formou přihlášky pohledávky vázané na podmínku (§ 20 odst. 4 zákona č. 328/1991 Sb. ve znění pozdějších předpisů). Není-li zástavou pohledávka a je-li zajištěná pohledávka splatná, je zástavní věřitel oprávněn přihlásit ji jako peněžitou pohledávku s právem na oddělené uspokojení jak v konkursu vedeném na…"
 
 ### Výklad / smysl ustanovení
 
@@ -501,6 +515,11 @@ To je drakonické pravidlo — **navrhovatel musí dodat dokonalé podání hned
 > (2) Předběžným opatřením lze uložit povinnost někomu jinému než účastníku jen tehdy, lze-li to na něm spravedlivě žádat.
 >
 > (3) Předseda senátu při nařízení předběžného opatření uloží navrhovateli, aby ve lhůtě, kterou mu určí, podal u soudu návrh na zahájení řízení. Může také stanovit, že předběžné opatření bude trvat jen po určenou dobu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 908/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E75A222F46E34F1CC1257A4E0069A503?openDocument) — 30. 9. 2005, kat. A
+  > „Na základě ustanovení § 14 odst. 3 zákona č. 328/1991 Sb. ve znění účinném od 1. května 2000 může správce konkursní podstaty vypovědět i nájemní smlouvy, které pozdější úpadce uzavřel jako pronajímatel před tímto datem na dobu určitou. Předběžným opatřením, kterým soud ve smyslu § 76 odst. 1 písm. e) o. s. ř. účastníku řízení zakáže určitou věc zcizit nebo zatížit, není účastník omezen v právu vypovědět (jako pronajímatel) smlouvu o nájmu této věci"
 
 ### Výklad
 

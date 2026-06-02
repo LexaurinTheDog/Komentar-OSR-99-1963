@@ -36,6 +36,11 @@ Tato kapitola pokrývá **„materiální" způsoby výkonu** — nucené posti�
 
 ## § 322 — Vyloučené věci (klíčový institut!)
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 560/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BC64181753DB4C6C1257A4E0064D0A2?openDocument) — 25. 3. 2003, kat. A
+  > „I. Smlouva o převodu vlastnictví bytové jednotky z vlastnictví družstva, jejíž součástí není vzájemné vypořádání prostředků určených na financování oprav a údržby budovy, popřípadě domu a jednotky a dále prostředků tvořených ze zisku bytového hospodářství, připadajících na převáděnou jednotku (§ 24 odst. 7 zákona č. 72/1994 Sb. ve znění pozdějších předpisů), je neplatná (§ 39 obč. zák.). II. Dům ve vlastnictví bytového družstva, v němž se nacházejí družstevní byty, není vyloučen z výkonu rozhodnutí jen proto, že člen družstva uplatnil podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů právo na bezplatný převod bytové jednotky v tomto domě. III. Za trvání konkursu na majetek bytového družstva mají členové družstva, kteří podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů uplatnili právo na bezplatný převod bytové jednotky v domě ve vlastnictví bytového družstva, k této…"
+
 ### Výklad / smysl ustanovení
 
 **Sociální minimum povinného** — taxativní výčet věcí, které jsou **z výkonu vyloučeny**:
@@ -209,6 +214,11 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 >
 > (4) Soud změní usnesení o ceně, nebyla-li vydána dražební vyhláška, pokud se výrazně změnily okolnosti rozhodné pro ocenění nemovité věci a jejího příslušenství.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 296/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9925D7292A318DC1C1257A4E00655483?openDocument) — 16. 7. 2003, kat. A
+  > „Zástavní právo zásadně nebrání vlastníku zástavy (zástavnímu dlužníku) nakládat se zástavou. Nestanoví-li zákon něco jiného, může zástavní dlužník zástavu zcizit, znovu ji zastavit, zřídit k ní věcné břemeno, dát ji do nájmu nebo do jiného užívání apod. Ujednání, kterými by byl zástavní dlužník v rozporu se zákonem vyloučen nebo omezen v takovém nakládání se zástavou, jsou neplatná (§ 39 obč. zák.). Právní úkon týkající se zástavy není neplatný jen proto, že zástavní dlužník při jeho uzavření porušil povinnost uvedenou v ustanovení § 151e odst. 2 (nyní § 163 odst. 1) obč. zák. Porušil-li zástavní dlužník tuto povinnost zaviněně, odpovídá zástavnímu věřiteli za škodu, která mu tím vznikla (§ 420 obč. zák.). Zástavní věřitel může kromě náhrady škody též požadovat po dlužníku, aby doplnil zajištění pohledávky, jestliže zástava ztratila na ceně tak, že se zajištění pohledávky…"
+
 ### Výklad / smysl ustanovení
 
 **Cena se stanoví:**
@@ -234,6 +244,13 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 **§ 336e — předkupní právo:** Spoluvlastník má přednost (typicky u podílového spoluvlastnictví).
 
 **§ 336c — opakovaná dražba:** Pokud první dražba neúspěšná (nikdo nedražil) → opakovaná s **nižší vyvolávací cenou** (typicky 50 % původní).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 46/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3679DD1AA140AEA3C1257A4E0067AAA4?openDocument) — 26. 2. 2009, kat. A
+  > „Přihláška nevykonatelné pohledávky zajištěné zástavním právem do řízení o výkon rozhodnutí prodejem nemovitosti je ve vztahu k povinnému dlužníku ve smyslu § 402 obch. zák. právním úkonem uplatněným věřitelem v již zahájeném vykonávacím řízení za účelem uspokojení věřitelova práva (uspokojení pohledávky). V konkursní věci podle zákona č. 328/1991 Sb., ve které se konalo jednání o návrhu na prohlášení konkursu na majetek dlužníka, nemůže vydat rozhodnutí o zamítnutí takového návrhu asistent soudce nebo vyšší soudní úředník"
+- *NS* [29 Odo 332/2004](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Odo_332_2004.txt) — 31. 5. 2006, kat. A
+  > „Úkonem, kterým se v rozporu s ustanovením § 14 odst. 1 písm. e) zákona č. 328/1991 Sb. ve znění pozdějších předpisů provádí výkon rozhodnutí, je po prohlášení konkursu na majetek povinného i pokyn soudu výkonu rozhodnutí k tomu, aby usnesení o udělení příklepu, vydané podle § 336j o. s. ř. před prohlášením konkursu, bylo doručeno osobám uvedeným v § 336k odst. 1 o. s. ř. Jestliže soud výkonu rozhodnutí doručoval usnesení o udělení příklepu osobám uvedeným v § 336k odst. 1 o. s. ř. až po prohlášení konkursu na majetek povinného, nebylo takové doručení účinné. Je-li konkurs na majetek povinného prohlášen po doručení usnesení o příklepu vydaného podle § 336j o. s. ř., avšak před jeho právní mocí, nenabývá usnesení o příklepu právní moci"
 
 ---
 
@@ -270,6 +287,11 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 
 Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv třetích osob** (vč. zástavních) po udělení příklepu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1293_2003.txt) — 27. 10. 2004, kat. A
+  > „Smlouva o převodu vlastnictví k nemovitosti, uzavřená po zahájení řízení o zřízení soudcovského zástavního práva k této nemovitosti, nezakládá důvod k vyloučení této nemovitosti z výkonu rozhodnutí ve smyslu ustanovení § 267 odst. 1 o. s. ř. Je-li okresní správa sociálního zabezpečení způsobilá být účastníkem řízení o výkon rozhodnutí, má tuto způsobilost i ve sporu o vylučovací žalobě podle § 267 odst. 1 o. s. ř"
+
 ---
 
 # HLAVA VI — SOUDCOVSKÉ ZÁSTAVNÍ PRÁVO NA NEMOVITÝCH VĚCECH (§ 338b — § 338e)
@@ -281,6 +303,11 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 > (2) Pro nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva je rozhodující stav v době zahájení řízení.
 >
 > (3) V usnesení o nařízení výkonu rozhodnutí soud uloží povinnému, aby soudu do 15 dnů od doručení usnesení oznámil, zda nemovitou věc nabyl jako substituční jmění, a pokud jde o takovou nemovitou věc, zda má právo s ní volně nakládat a zda jsou výkonem rozhodnutí vymáhány zůstavitelovy dluhy nebo dluhy související s nutnou správou věcí nabytých jako substituční jmění, a doložil tyto skutečnosti listinami vydanými nebo ověřenými státními orgány, popřípadě též veřejnými listinami notáře. Doloží-li povinný, že nemovitou věc nabyl jako substituční jmění, a nedoloží-li další skutečnosti podle věty první nebo nevyjdou-li tyto skutečnosti najevo jinak, soud výkon rozhodnutí zastaví.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1293/2003](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1293_2003.txt) — 27. 10. 2004, kat. A
+  > „Smlouva o převodu vlastnictví k nemovitosti, uzavřená po zahájení řízení o zřízení soudcovského zástavního práva k této nemovitosti, nezakládá důvod k vyloučení této nemovitosti z výkonu rozhodnutí ve smyslu ustanovení § 267 odst. 1 o. s. ř. Je-li okresní správa sociálního zabezpečení způsobilá být účastníkem řízení o výkon rozhodnutí, má tuto způsobilost i ve sporu o vylučovací žalobě podle § 267 odst. 1 o. s. ř"
 
 ### Výklad / smysl ustanovení
 
@@ -312,6 +339,11 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 **§ 338e:** Zástavní právo zaniká:
 - splacením pohledávky,
 - zánikem nemovitosti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1905/2001](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2009&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_1905_2001.txt) — 24. 10. 2002, kat. A
+  > „Výkon rozhodnutí prodejem nemovitostí pro pohledávku, pro niž bylo zřízeno soudcovské zástavní právo, lze vést přímo nejen proti každému pozdějšímu vlastníku nemovitostí, který ji nabyl smluvně (§ 338d odst. 2 o. s. ř.), nýbrž i proti osobě, která se stala výlučným vlastníkem nemovitosti dohodou o vypořádání společného jmění s povinným"
 
 ---
 

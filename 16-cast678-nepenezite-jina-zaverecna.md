@@ -56,6 +56,11 @@
 
 ## § 340 — VYKLIZENÍ (klíčový institut!)
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 2141/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C136E6F5A8885C5CC1257A4E0069214A?openDocument) — 31. 1. 2002, kat. A
+  > „To, že podle ustanovení § 712 odst. 4 obč. zák. se rozumí náhradním ubytováním i byt o jedné místnosti, nevylučuje možnost pohlížet na byt o jedné místnosti jako na bytovou náhradu jiného druhu - jako na náhradní byt"
+
 ### Výklad / smysl ustanovení
 
 **Vyklizení** je v praxi **nejčastější forma nepeněžitého výkonu** — typicky:
@@ -184,6 +189,11 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 
 **§ 347 — náhradní pořízení:** Pokud se věc **nepodaří** odebrat + lze získat **jinak (= stejný druh, stejná jakost)** → soud vyzve oprávněného, aby si ji pořídil **na náklady povinného**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 360/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/502749CDB20593DFC1257A4E0065010D?openDocument) — 29. 4. 2004, kat. A
+  > „Bylo-li vyhověno žalobě s tzv. alternativou facultas, může být rozhodnutí titulem výkonu rozhodnutí jen pro primární plnění, jež je jím uloženo skutečnost, že povinný dobrovolně plní podle určené alternativy, je důvodem k zastavení výkonu rozhodnutí. I výkon rozhodnutí odebráním věci může být posléze proveden výkonem pro peněžité plnění to však předpokládá, aby se po jeho nařízení ukázalo, že se odebrat věc nepodařilo, a že si věc stejného druhu a jakosti lze opatřit jinak. Ustanovení § 347 o. s. ř. neumožňuje oprávněnému z titulu znějícího na vydání (dodání) věci úspěšně navrhnout nařízení výkonu rozhodnutí přímo pro peněžitou částku, odpovídající hodnotě (ceně) věci, i kdyby zde byl reálný předpoklad, že povinný věc nemá resp. není objektivně způsobilý ji dodat, a lze tudíž i očekávat, že se ji odebrat nepodaří"
+
 ### Praktický dopad
 
 - **Typické:** Soud rozhodl, že povinný má vrátit auto. Auto **chybí / bylo prodáno**. Oprávněný si **koupí nové auto** stejného typu + povinný zaplatí náklady.
@@ -238,6 +248,11 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 ## § 351 — POKUTA AŽ 100 000 Kč (vynucení „jiné" povinnosti)
 
 > (1) Ukládá-li vykonávané rozhodnutí jinou povinnost, uloží soud za porušení této povinnosti povinnému pokutu až do výše 100 000 Kč. Nesplní-li povinný ani poté vykonávané rozhodnutí, ukládá mu soud na návrh oprávněného další přiměřené pokuty, dokud výkon rozhodnutí nebude zastaven.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 498/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C284A93F1C746D6C1257A4E006951F8?openDocument) — 25. 1. 2005, kat. A
+  > „Rozsudek, jímž soud uložil povinnému zaslat oprávněnému dopis, jehož text je součástí výroku, nenahrazuje prohlášení vůle (§ 161 odst. 3 o. s. ř.) výkon rozhodnutí lze provést způsobem uvedeným v § 351 odst. 1 o. s. ř"
 
 ### Výklad / smysl ustanovení
 

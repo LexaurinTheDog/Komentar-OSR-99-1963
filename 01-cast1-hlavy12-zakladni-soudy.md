@@ -41,6 +41,11 @@ Paragraf 1 plní **trojí roli**:
 
 > V občanském soudním řízení soudy projednávají a rozhodují spory a jiné právní věci a provádějí výkon rozhodnutí, která nebyla splněna dobrovolně; dbají přitom, aby nedocházelo k porušování práv a právem chráněných zájmů a aby práv nebylo zneužíváno.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Nd 201/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Nd_201_2008.txt) — 15. 7. 2008, kat. A
+  > „Jestliže dosavadní výsledky řízení dokládají, že institut návrhu na delegaci vhodnou (§ 12 odst. 2 o. s. ř.) je účastníkem řízení zneužíván k obstrukci a cílenému protahování občanského soudního řízení, soud nepředkládá věc k rozhodnutí o takovém návrhu nejblíže společně nadřízenému soudu. Pro výsledek řízení o opravných prostředcích může mít skutečnost, že soud návrh na delegaci vhodnou nepředložil soudu, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána, a o věci meritorně rozhodl, význam jen tehdy, dospěje-li soud, který o opravném prostředku rozhoduje, k závěru, že o jednání, jež je zneužitím procesních práv účastníka (§ 2 o. s. ř.), nešlo"
+
 ### Výklad / smysl ustanovení
 
 Paragraf 2 obsahuje **dvě klíčové normy**:
@@ -98,6 +103,15 @@ Zásadní jsou tři pojmy:
 ## § 5 — Poučovací povinnost soudu
 
 > Soudy poskytují účastníkům poučení o jejich procesních právech a povinnostech.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2203/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43B82A8030C8AB9CC1257A4E00694B19?openDocument) — 24. 10. 2006, kat. A
+  > „Jen takový zůstavitel, jemuž zdravotní nebo jiná překážka objektivně znemožňuje číst nebo psát, může platně pořídit závěť ve smyslu ustanovení § 476c obč. zák. (§ 40 odst. 1 obč. zák.)"
+- *NS* [29 Odo 813/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ED7FBB004465AFAC1257A4E0069327A?openDocument) — 27. 8. 2003, kat. A
+  > „Vztah z bezdůvodného obohacení získaného přijetím plnění z neplatné smlouvy o úvěru (§ 497 a násl. obch. zák.), je obchodním závazkovým vztahem právo na vydání tohoto bezdůvodného obohacení se promlčuje ve čtyřleté promlčecí době podle ustanovení § 397 obch. zák. Smlouvu o úvěru (§ 497 obch. zák.) může jako věřitel uzavřít kterýkoli subjekt.*)"
+- *NS* [29 Cdo 2494/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1DC7D06B4F070E85C1257A4E00678EAB?openDocument) — 30. 10. 2001, kat. A
+  > „Jestliže věřitel, jehož nevykonatelná pohledávka byla při přezkumném jednání v konkursu popřena, podá žalobu o určení pravosti pohledávky přímo proti úpadci, soud žalobu zamítne pro nedostatek pasívní věcné legitimace žalovaného ve sporu. Proti tomu, kdo se má stát účastníkem řízení na základě usnesení, jímž soud připustí jeho přistoupení do řízení (§ 92 odst. 1 o. s. ř.), se běh hmotněprávních lhůt (včetně třicetidenní lhůty určené v ustanovení § 24 odst. 1 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) staví dnem, kdy návrh na jeho přistoupení dojde soudu. Poučení žalobce o tom, že ve věci má či může být žalován další žalovaný, není součástí poučovací povinnosti soudu dle § 5 o. s. ř"
 
 ### Výklad / smysl ustanovení
 
@@ -184,6 +198,25 @@ Paragraf 6 obsahuje **pět norem**, z nichž každá má samostatný význam:
 >
 > (4) Pravomoc soudů ve věcech správního soudnictví upravuje zvláštní zákon.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2894/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D644C2352A6E283DC1257A4E006AB418?openDocument) — 31. 3. 2009, kat. A
+  > „K projednání a rozhodnutí sporu o úhradu ceny za poskytnutou službu elektronické komunikace je dána pravomoc Českého telekomunikačního úřadu podle § 129 odst. 1, věty první, zákona č. 127/2005 Sb. i tehdy, jestliže osoba vykonávající komunikační činnost postoupila pohledávku vůči účastníku osobě, která komunikační činnost nevykonává"
+- *NS* [29 Nd 336/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A541ED7449ACEDBC1257A4E0064FE24?openDocument) — 23. 9. 2008, kat. A
+  > „V režimu Nařízení Rady (ES) číslo 44/2001 ze dne 22. 12. 2000, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech platí, že soud nemůže (s výjimkou věcí uvedených v článku 22 nařízení) přezkoumávat svoji mezinárodní příslušnost (pravomoc) a místní příslušnost dříve, než doručí žalobu žalovanému a umožní mu, aby se k ní vyjádřil. Příslušnost procesního soudu totiž může být založena postupem podle článku 24 nařízení, tj. tím, že se žalovaný vyjádří k žalobě, aniž by nejpozději současně s tímto vyjádřením vznesl námitku nedostatku příslušnosti procesního soudu"
+- *NS* [21 Cdo 702/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FEC181CE53A6F019C1257A4E006918F7?openDocument) — 11. 9. 2008, kat. A
+  > „Řízení o neplatnost rozvázání pracovního (služebního) poměru duchovního církve nebo náboženské společnosti nelze zastavit pro nedostatek pravomoci soudů (§ 7 o. s. ř.) jen proto, že v něm nelze přezkoumávat věcnou správnost rozhodnutí příslušného orgánu církve nebo náboženské společnosti o odvolání duchovního z jeho funkce"
+- *NS* [21 Cdo 2215/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98D73791A2237335C1257A4E006A78E6?openDocument) — 25. 6. 2008, kat. A
+  > „Vystupuje-li cizí stát nikoliv jako suverénní nositel veřejné moci, nýbrž jako právnická osoba ve věcech vyplývajících z individuálních pracovních vztahů charakterizovaných právní rovností účastníků, odůvodňují pravidla mezinárodního práva závěr, že tato právnická osoba - cizí stát - nepožívá funkční imunity a že je v těchto věcech dána pravomoc českých soudů"
+- *NS* [29 Odo 649/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F36FECD8A0A51D14C1257A4E00696E92?openDocument) — 27. 11. 2003, kat. A
+  > „Není dána pravomoc soudu uložit v občanském soudním řízení Úřadu průmyslového vlastnictví, aby z rejtříku ochranných známek vymazal označené ochranné známky. *) Každý procesní úkon je nutno posuzovat podle toho, jak byl navenek projeven, nikoliv podle toho, jestli mezi projeveným procesním úkonem a vnitřní vůlí jednajícího je skutečný souhlas. Ani podstatný omyl účastníka mezi tím, co procesním úkonem projevil a tím, co jím projevit chtěl, nemá na procesní úkon a jeho účinnost žádný vliv. Nedostatek podmínky řízení ve smyslu § 103 o. s. ř. není vadou žaloby z hlediska její správnosti či úplnosti a vada žaloby naopak nepředstavuje nedostatek podmínky řízení"
+- *NS* [33 Odo 907/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7AEB5618BCC6777C1257A4E0064B7AE?openDocument) — 9. 1. 2003, kat. A
+  > „Pro řízení ve věcech pojistného na všeobecné zdravotní pojištění, včetně penále, platí zákon č. 71/1967 Sb., o správním řízení k rozhodování v těchto věcech jsou v prvním stupni příslušné zdravotní pojišťovny. Na nedostatku pravomoci soudu k rozhodování v dané věci nemění nic skutečnost, že účastník správního řízení zemřel"
+- *NS* [29 Odo 524/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C54C36C19CFC69DC1257A4E006ACDD6?openDocument) — 29. 8. 2002, kat. A
+  > „Dohoda, kterou účastníci zakládají pravomoc soudu určitého státu, nemusí obsahovat označení místně příslušného soudu určeného státu. Ujednání o tom, který český soud konkrétně má spor projednat, není jen dohodou o pravomoci, nýbrž i dohodou o místní příslušnosti (§ 89a o. s. ř.). Jestliže strany dohodou založily pravomoc českých soudů, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, postupuje se podle § 11 odst. 3 o. s. ř"
+- *NS* [25 Cdo 1211/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F1C3F664140578AC1257A4E006A708A?openDocument) — 24. 4. 2002, kat. A
+  > „K rozhodování o nároku vlastníka lesa na náhradu újmy vzniklé v důsledku omezení hospodaření v lese vůči orgánu státní správy (§ 11 odst. 3, věty první, zákona č. 289/1995 Sb. ve znění pozdějších předpisů) je dána pravomoc soudu"
+
 ### Výklad / smysl ustanovení
 
 Paragraf 7 vymezuje **pravomoc soudu** (jurisdikci) — *zda* věc náleží před civilní soud. Pravomoc je nutno odlišit od:
@@ -225,6 +258,19 @@ Hranice „soukromé právo" vs. „veřejné právo" je klasické dělení (Ulp
 ---
 
 ## § 9 — Věcná příslušnost (okresní vs. krajský soud v 1. stupni)
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3309/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_3309_2015.txt) — 27. 10. 2015, kat. A
+  > „Žalobce, na kterého byla směnka indosována po protestu pro neplacení nebo po uplynutí lhůty k protestu, je jakožto právní nástupce původního věřitele vázán rozhodčí smlouvou uzavřenou tímto věřitelem. Věcně příslušnými k projednání žaloby o zrušení rozhodčího nálezu, jímž bylo rozhodnuto o zaplacení směnky, jsou krajské soudy"
+- *NS* [29 Cdo 2225/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D6C0D4E4362D350C1257A4E0068E673?openDocument) — 25. 9. 2008, kat. A
+  > „Na základě exekučního titulu získaného proti příslušné osobě ve sporu, v němž vystupovala jako správce konkursní podstaty konkrétního úpadce (z titulu výkonu této funkce), nemůže být výkonem rozhodnutí nebo exekucí nikdy postižen osobní majetek této osoby (majetek správce konkursní podstaty). Pohledávka spočívající v požadavku na vrácení zálohy, kterou zájemce o koupi majetku konkursní podstaty prodejem mimo dražbu složil na účet určený správcem konkursní podstaty za účelem splnění podmínky účasti na výběrovém řízení, je pohledávkou za podstatou (§ 31 odst. 2 písm. e/ zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007)"
+- *NS* [29 Odo 706/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBCB8DFDE16078FFC1257A4E00699190?openDocument) — 29. 11. 2005, kat. A
+  > „Účastníky řízení o určení neplatnosti usnesení členské schůze družstva o vyloučení manželů (společných členů družstva) z družstva (§ 231 obch. zák.) jsou oba manželé, i když návrh na zahájení takového řízení podal jen jeden z nich (§ 200e odst. 3 a § 94 odst. 1, věta první, o. s. ř.)"
+- *NS* [29 Odo 1154/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/076C5D5A9C07082BC1257A4E0066B280?openDocument) — 25. 2. 2004, kat. A
+  > „Řízení o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace a jmenování likvidátora (§ 75b obch. zák.), je ve smyslu § 200e o. s. ř. a § 9 odst. 3 písm. b) o. s. ř. řízením ve statusové věci obchodní společnosti. Likvidátor jmenovaný soudem v řízení o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace a jmenování likvidátora (§ 75b obch. zák.), se stává účastníkem takového řízení až dnem, kdy soud rozhodl o jeho jmenování není rovněž osobou oprávněnou k podání odvolání proti rozhodnutí soudu o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace. Účastníkem řízení o zrušení zápisu o výmazu obchodní společnosti z obchodního rejstříku a o jejím vstupu do likvidace a jmenování likvidátora, je ve smyslu § 75b odst. 2 obch. zák., § 19 o. s. ř., části…"
+- *NS* [20 Cdo 840/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9A7A8AE9F62B0B2C1257BD6003A2C9F?openDocument) — 27. 1. 2000, kat. A
+  > „K vadě řízení spočívající v tom, že ve věci v prvním stupni rozhodl věcně nepříslušný soud, může dovolací soud přihlédnout jen tehdy, je-li dovolání přípustné o vadu ve smyslu § 237 odst. 1 písm. f) o.s.ř. tu nejde"
 
 ### Výklad / smysl ustanovení
 
@@ -319,6 +365,17 @@ Dovolací soud = **Nejvyšší soud ČR** (v Brně). Dovolání je **mimořádn�
 
 > (1) Řízení se koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení. Věcně a místně příslušným je vždy také soud, jehož příslušnost již není možné podle zákona zkoumat nebo jehož příslušnost byla určena pravomocným rozhodnutím příslušného soudu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2225/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D6C0D4E4362D350C1257A4E0068E673?openDocument) — 25. 9. 2008, kat. A
+  > „Na základě exekučního titulu získaného proti příslušné osobě ve sporu, v němž vystupovala jako správce konkursní podstaty konkrétního úpadce (z titulu výkonu této funkce), nemůže být výkonem rozhodnutí nebo exekucí nikdy postižen osobní majetek této osoby (majetek správce konkursní podstaty). Pohledávka spočívající v požadavku na vrácení zálohy, kterou zájemce o koupi majetku konkursní podstaty prodejem mimo dražbu složil na účet určený správcem konkursní podstaty za účelem splnění podmínky účasti na výběrovém řízení, je pohledávkou za podstatou (§ 31 odst. 2 písm. e/ zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007)"
+- *NS* [25 Nd 55/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C7FEF82A23B37304C1257A4E0069A428?openDocument) — 31. 8. 2006, kat. A
+  > „Pravomoc soudu členského státu Evropského společenství ve věci výkonu rozhodnutí je dána místem skutečného výkonu rozhodnutí podle způsobu jeho provedení výkon má být proveden tam, kde je s ohledem na konkrétní okolnosti reálné dosáhnout účelu výkonu (tj. požadované plnění skutečně vymoci), tedy kde povinný má (může mít) postižitelný majetek, z něhož může být uspokojena pohledávka oprávněného [článek 22 bod 5 Nařízení Rady (ES) č. 44/2001, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech]"
+- *NS* [30 Cdo 2336/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7788E18488040C85C1257A4E006726CC?openDocument) — 28. 2. 2006, kat. A
+  > „Podle ustanovení § 14 odst. 1 písm. c) zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů, se prohlášením konkursu na majetek výživou povinné osoby nepřerušuje řízení o výživném nezletilého dítěte okruh účastníků takového řízení se nemění a správce konkursní podstaty povinné osoby se účastníkem řízení namísto povinné osoby nebo i vedle ní nestává. Nebyla-li vyživovací povinnost povinné osoby k nezletilému dítěti soudně upravena před prohlášením konkursu na majetek povinné osoby a řízení o soudní úpravě vyživovací povinnosti povinné osoby k nezletilému dítěti bylo zahájeno až po prohlášení konkursu, jsou ve smyslu ustanovení § 94 o. s. ř. a § 14 odst. 1 písm. d) zákona č. 328/1991 Sb. ve znění pozdějších předpisů účastníky takového řízení jak ti, kdo by jimi byli i jinak, tak i správce konkursní podstaty povinné osoby. Vyživovací povinnost rodičů k dětem,…"
+- *NS* [29 Odo 524/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C54C36C19CFC69DC1257A4E006ACDD6?openDocument) — 29. 8. 2002, kat. A
+  > „Dohoda, kterou účastníci zakládají pravomoc soudu určitého státu, nemusí obsahovat označení místně příslušného soudu určeného státu. Ujednání o tom, který český soud konkrétně má spor projednat, není jen dohodou o pravomoci, nýbrž i dohodou o místní příslušnosti (§ 89a o. s. ř.). Jestliže strany dohodou založily pravomoc českých soudů, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, postupuje se podle § 11 odst. 3 o. s. ř"
+
 ### Výklad / smysl ustanovení
 
 **Odstavec 1 — princip *perpetuatio fori***: Příslušnost se posuzuje **k okamžiku zahájení řízení** (= podání žaloby — § 82) a **zůstává zachována i v případě**, že se podmínky později změní (např. žalovaný se přestěhuje, věc se rozšíří). Cíl: stabilita procesního prostředí a procesní ekonomie.
@@ -346,6 +403,11 @@ V praxi je § 11 odst. 3 (určovací role NS) využíván zejména u **přeshran
 > (1) Nemůže-li příslušný soud o věci jednat, protože jeho soudci jsou vyloučeni (§ 14, § 15 odst. 2 a § 16a), musí být věc přikázána jinému soudu téhož stupně.
 > (2) Věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
 > (3) O přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Nd 201/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_Nd_201_2008.txt) — 15. 7. 2008, kat. A
+  > „Jestliže dosavadní výsledky řízení dokládají, že institut návrhu na delegaci vhodnou (§ 12 odst. 2 o. s. ř.) je účastníkem řízení zneužíván k obstrukci a cílenému protahování občanského soudního řízení, soud nepředkládá věc k rozhodnutí o takovém návrhu nejblíže společně nadřízenému soudu. Pro výsledek řízení o opravných prostředcích může mít skutečnost, že soud návrh na delegaci vhodnou nepředložil soudu, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána, a o věci meritorně rozhodl, význam jen tehdy, dospěje-li soud, který o opravném prostředku rozhoduje, k závěru, že o jednání, jež je zneužitím procesních práv účastníka (§ 2 o. s. ř.), nešlo"
 
 ### Výklad / smysl ustanovení
 
