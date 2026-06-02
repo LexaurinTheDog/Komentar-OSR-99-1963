@@ -82,3 +82,12 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky, soubor
 - **Iterace 4 (kap. 03, § 36—50m):** Hlava IV část 1 — senát vs. samosoudce (§ 36—36c), porada (§ 37 — mladší před staršími), VSÚ + asistent NS (§ 38a—b), dožádání + videokonference (§ 39), ZÁZNAM + PROTOKOL (§ 40 — záznam primární, protokol povinný u smíru/uznání), spis listinný/elektronický (§ 40b). ÚKONY ÚČASTNÍKŮ: materiální posouzení obsahu (§ 41), FORMA PODÁNÍ (§ 42 — DS bez podpisu, kvalif. e-podpis bez originálu), VADY PODÁNÍ (§ 43), nahlížení do spisu (§ 44 — vyloučen protokol o hlasování). DORUČOVÁNÍ (§ 45—50m): kaskáda jednání → DS → e-mail → doručující orgán → účastník → úřední deska, default adresy (§ 46b — 14 kategorií), zástupce pro doručování (§ 46c), FIKCE 10 DNÍ (§ 49 odst. 4 listinné + § 17 odst. 4 ZAEP pro DS), neúčinnost doručení z omluvitelného důvodu (§ 50d, lhůta 15 dnů), doručenka jako veřejná listina (§ 50f), cizina (§ 50j — Nař. EU 2020/1784), úřední deska (§ 50l), ohlašovna (§ 50m).
 
 > Tento soubor (INDEX.md) je živý — aktualizuje se s každou iterací.
+
+
+## Licence
+
+Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
+
+Výkladový text komentáře (© 2026 Vojtěch Říha) lze volně užívat, šířit a upravovat za podmínek uvedené licence. Doslovná znění právních předpisů citovaná v komentáři jsou úředními díly vyloučenými z ochrany podle § 3 písm. a) zákona č. 121/2000 Sb. (autorský zákon) a nejsou předmětem autorského práva.
+
+Komentář **není autoritativním právním stanoviskem** a poskytuje se „tak jak je", bez jakýchkoli záruk ve smyslu čl. 7–8 licence.
