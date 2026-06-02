@@ -164,11 +164,11 @@ Speciální procesy pro:
 
 ## § 335 — Postup u prodeje nemovité věci
 
-> **(1)** Výkon rozhodnutí prodejem nemovitých věcí může být nařízen, jen když oprávněný označí nemovitou věc, jejíž prodej navrhuje, a jestliže listinami vydanými nebo ověřenými státními orgány, popřípadě též veřejnými listinami notáře doloží, že nemovitá věc je ve vlastnictví povinného. O tom, že byl podán návrh na nařízení výkonu rozhodnutí prodejem nemovitých věcí, soud vyrozumí příslušný katastrální úřad.
+> (1) Výkon rozhodnutí prodejem nemovitých věcí může být nařízen, jen když oprávněný označí nemovitou věc, jejíž prodej navrhuje, a jestliže listinami vydanými nebo ověřenými státními orgány, popřípadě též veřejnými listinami notáře76) doloží, že nemovitá věc je ve vlastnictví povinného. O tom, že byl podán návrh na nařízení výkonu rozhodnutí prodejem nemovitých věcí, soud vyrozumí příslušný katastrální úřad.
 >
-> **(2)** Návrh dalšího oprávněného na nařízení výkonu rozhodnutí prodejem téže nemovité věci podaný u příslušného soudu dříve, než soud pravomocně rozhodl o nařízení výkonu rozhodnutí, se považuje za přistoupení k řízení, a to ode dne podání návrhu. (…) Další oprávněný musí přijmout stav řízení, v němž je při jeho přistoupení.
+> (2) Návrh dalšího oprávněného na nařízení výkonu rozhodnutí prodejem téže nemovité věci podaný u příslušného soudu dříve, než soud pravomocně rozhodl o nařízení výkonu rozhodnutí, se považuje za přistoupení k řízení, a to ode dne podání návrhu. Návrh dalšího oprávněného, který byl podán u nepříslušného soudu, soud postoupí bez rozhodnutí příslušnému soudu; v takovém případě se návrh považuje za přistoupení k řízení ode dne, kdy návrh došel příslušnému soudu. Další oprávněný musí přijmout stav řízení, v němž je při jeho přistoupení.
 >
-> **(3)** Oprávněný může vzít zpět svůj návrh až do právní moci usnesení o nařízení výkonu rozhodnutí. Soud však řízení zastaví jen tehdy, souhlasí-li s tím všichni oprávnění, kteří přistoupili do řízení.
+> (3) Oprávněný může vzít zpět svůj návrh až do právní moci usnesení o nařízení výkonu rozhodnutí. Soud však řízení zastaví jen tehdy, souhlasí-li s tím všichni oprávnění, kteří přistoupili do řízení.
 
 ### Výklad
 
@@ -189,17 +189,25 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 
 ## § 336a — Cena pro dražbu (klíčový institut!)
 
-> **(1)** Podle výsledků ocenění a ohledání provedeného podle § 336 určí soud
-> a) nemovitou věc, které se výkon týká,
-> b) příslušenství nemovité věci, kterého se výkon týká,
-> c) výslednou cenu nemovité věci a jejího příslušenství, kterého se výkon týká,
-> d) soudu oznámená nebo jinak známá věcná břemena, výměnky a nájemní, pachtovní či předkupní práva, která prodejem v dražbě nezaniknou.
+> (1) Podle výsledků ocenění a ohledání provedeného podle § 336 určí soud
 >
-> **(2)** Soud zároveň může rozhodnout o zániku nájemního či pachtovního práva, výměnku nebo práva odpovídajícího věcnému břemeni, jestliže a) je nájemné či pachtovné (…) zcela nepřiměřené nájemnému či pachtovnému (…) v místě a čase obvyklé nebo je-li věcné břemeno či výměnek zcela nepřiměřený výhodě oprávněného, a b) toto právo výrazně omezuje možnost prodat nemovitou věc v dražbě.
+> - a) nemovitou věc, které se výkon týká,
 >
-> **(3)** Usnesení soud doručí oprávněnému, těm, kdo do řízení přistoupili jako další oprávnění, povinnému a osobám, o jejichž právech a povinnostech soud rozhodl podle odstavce 2. Jednání není třeba nařizovat.
+> - b) příslušenství nemovité věci, kterého se výkon týká,
 >
-> **(4)** Soud změní usnesení o ceně, nebyla-li vydána dražební vyhláška, pokud se výrazně změnily okolnosti rozhodné pro ocenění nemovité věci a jejího příslušenství.
+> - c) výslednou cenu nemovité věci a jejího příslušenství, kterého se výkon týká,
+>
+> - d) soudu oznámená nebo jinak známá věcná břemena, výměnky a nájemní, pachtovní či předkupní práva, která prodejem v dražbě nezaniknou.
+>
+> (2) Soud zároveň může rozhodnout o zániku nájemního či pachtovního práva, výměnku nebo práva odpovídajícího věcnému břemeni, jestliže
+>
+> - a) je nájemné či pachtovné, případně poměrná část výnosu z věci zcela nepřiměřená nájemnému či pachtovnému, případně poměrné části výnosu z věci v místě a čase obvyklé nebo je-li věcné břemeno či výměnek zcela nepřiměřený výhodě oprávněného, a
+>
+> - b) toto právo výrazně omezuje možnost prodat nemovitou věc v dražbě.
+>
+> (3) Usnesení soud doručí oprávněnému, těm, kdo do řízení přistoupili jako další oprávnění, povinnému a osobám, o jejichž právech a povinnostech soud rozhodl podle odstavce 2. Jednání není třeba nařizovat.
+>
+> (4) Soud změní usnesení o ceně, nebyla-li vydána dražební vyhláška, pokud se výrazně změnily okolnosti rozhodné pro ocenění nemovité věci a jejího příslušenství.
 
 ### Výklad / smysl ustanovení
 
@@ -231,23 +239,13 @@ Soud označí v usnesení o nařízení výkonu **konkrétní nemovitost** (parc
 
 ## § 337 — Rozvrh výtěžku (klíčové!)
 
-> **§ 337 (1)** Není-li nařízeno jednání o rozvrhu podle § 336q odst. 1, soud rozvrhne rozdělovanou podstatu podle § 337c.
+> **§ 337**
 >
-> **§ 337a** Rozdělovanou podstatu tvoří nejvyšší podání a úroky z něho, popřípadě náhrady, které do podstaty připadají podle § 336n odst. 4 (…).
+> (1) Není-li nařízeno jednání o rozvrhu podle § 336q odst. 1, soud rozvrhne rozdělovanou podstatu podle § 337c.
 >
-> **§ 337c (1)** Z rozdělované podstaty se uspokojují postupně podle těchto skupin:
-> a) pohledávky nákladů vzniklých státu v tomto řízení,
-> b) pohledávky související se správou domu a pozemku vůči vlastníku jednotky, a to do výše jedné desetiny výtěžku z prodeje jednotky,
-> c) pohledávky z hypotečních úvěrů sloužící ke krytí dluhů z hypotečních zástavních listů v oběhu,
-> d) pohledávka oprávněného, pohledávka toho, kdo do řízení přistoupil jako další oprávněný, a pohledávky zajištěné zástavním právem nebo zajišťovacím převodem práva,
-> e) pohledávky nedoplatků výživného,
-> f) pohledávky daní a poplatků, pojistného na veřejné zdravotní pojištění a pojistného na sociální zabezpečení, pohledávky za náhradní výživné podle jiného zákona,
-> g) pohledávky náhrady újmy na zdraví způsobené trestným činem,
-> h) ostatní pohledávky.
+> (2) Ustanovení § 336q odst. 2 a 5 se použije obdobně.
 >
-> **§ 337c (2)** Nelze-li plně uspokojit všechny pohledávky patřící do téže skupiny, uspokojí se podle pořadí; pohledávky patřící do téže skupiny, které mají stejné pořadí, se uspokojí poměrně.
->
-> **§ 337c (5)** Pro pořadí je rozhodující a) u pohledávky oprávněného den, kdy k soudu výkonu došel jeho návrh na nařízení výkonu rozhodnutí, b) u pohledávky toho, jenž do řízení přistoupil jako další oprávněný, den, který se považuje za přistoupení k řízení, c) u přihlášené pohledávky den, kdy k soudu došla přihláška, d) u pohledávky zajištěné zástavním právem den vzniku zástavního práva (…).
+> (3) Účastníky rozvrhu jsou oprávněný, ten, kdo do řízení přistoupil jako další oprávněný, povinný a osoby, které podaly přihlášku, ledaže by jejich přihláška byla odmítnuta (§ 336f odst. 4).
 
 ### Výklad
 
@@ -278,11 +276,11 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 
 ## § 338b — Soudcovské zástavní právo (klíčový alternativní institut!)
 
-> **(1)** Výkon rozhodnutí zřízením soudcovského zástavního práva na nemovité věci může být nařízen, jen když oprávněný přesně označí nemovitou věc, k níž má být zástavní právo zřízeno, a jestliže listinami vydanými nebo ověřenými státními orgány nebo notářem doloží, že nemovitá věc je ve vlastnictví povinného. O tom, že byl podán návrh na nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva na nemovité věci, soud vyrozumí příslušný katastrální úřad.
+> (1) Výkon rozhodnutí zřízením soudcovského zástavního práva na nemovité věci může být nařízen, jen když oprávněný přesně označí nemovitou věc, k níž má být zástavní právo zřízeno, a jestliže listinami vydanými nebo ověřenými státními orgány nebo notářem76) doloží, že nemovitá věc je ve vlastnictví povinného. O tom, že byl podán návrh na nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva na nemovité věci, soud vyrozumí příslušný katastrální úřad.
 >
-> **(2)** Pro nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva je rozhodující stav v době zahájení řízení.
+> (2) Pro nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva je rozhodující stav v době zahájení řízení.
 >
-> **(3)** V usnesení o nařízení výkonu rozhodnutí soud uloží povinnému, aby soudu do 15 dnů od doručení usnesení oznámil, zda nemovitou věc nabyl jako substituční jmění (…). Doloží-li povinný, že nemovitou věc nabyl jako substituční jmění, a nedoloží-li další skutečnosti podle věty první nebo nevyjdou-li tyto skutečnosti najevo jinak, soud výkon rozhodnutí zastaví.
+> (3) V usnesení o nařízení výkonu rozhodnutí soud uloží povinnému, aby soudu do 15 dnů od doručení usnesení oznámil, zda nemovitou věc nabyl jako substituční jmění, a pokud jde o takovou nemovitou věc, zda má právo s ní volně nakládat a zda jsou výkonem rozhodnutí vymáhány zůstavitelovy dluhy nebo dluhy související s nutnou správou věcí nabytých jako substituční jmění, a doložil tyto skutečnosti listinami vydanými nebo ověřenými státními orgány, popřípadě též veřejnými listinami notáře. Doloží-li povinný, že nemovitou věc nabyl jako substituční jmění, a nedoloží-li další skutečnosti podle věty první nebo nevyjdou-li tyto skutečnosti najevo jinak, soud výkon rozhodnutí zastaví.
 
 ### Výklad / smysl ustanovení
 
@@ -321,11 +319,11 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 
 ## § 338f — Předpoklady postižení závodu
 
-> **(1)** Výkon rozhodnutí postižením závodu může být nařízen, jen když oprávněný označí závod, jehož postižení navrhuje, a jestliže doloží, že závod je ve vlastnictví povinného.
+> (1) Výkon rozhodnutí postižením závodu může být nařízen, jen když oprávněný označí závod, jehož postižení navrhuje, a jestliže doloží, že závod je ve vlastnictví povinného.
 >
-> **(2)** Návrh dalšího oprávněného na nařízení výkonu rozhodnutí postižením téhož závodu podaný u příslušného soudu dříve, než soud pravomocně rozhodl o nařízení výkonu rozhodnutí, se považuje za přistoupení k řízení, a to ode dne podání návrhu. (…) Další oprávněný musí přijmout stav řízení, v němž je při jeho přistoupení.
+> (2) Návrh dalšího oprávněného na nařízení výkonu rozhodnutí postižením téhož závodu podaný u příslušného soudu dříve, než soud pravomocně rozhodl o nařízení výkonu rozhodnutí, se považuje za přistoupení k řízení, a to ode dne podání návrhu. Návrh dalšího oprávněného, který byl podán u nepříslušného soudu, soud postoupí bez rozhodnutí příslušnému soudu; v takovém případě se návrh považuje za přistoupení k řízení ode dne, kdy návrh došel příslušnému soudu. Další oprávněný musí přijmout stav řízení, v němž je při jeho přistoupení.
 >
-> **(3)** Oprávněný může vzít zpět svůj návrh až do právní moci usnesení o nařízení výkonu rozhodnutí. Soud však řízení zastaví jen tehdy, souhlasí-li s tím všichni oprávnění, kteří přistoupili do řízení.
+> (3) Oprávněný může vzít zpět svůj návrh až do právní moci usnesení o nařízení výkonu rozhodnutí. Soud však řízení zastaví jen tehdy, souhlasí-li s tím všichni oprávnění, kteří přistoupili do řízení.
 
 ### Výklad / smysl ustanovení
 
@@ -346,11 +344,15 @@ Speciální pravidla pro postižení nemovitostí v **SJM** a pro **zánik práv
 
 ## § 338g—338zh — Komplexní procesní pravidla
 
-> **§ 338g (2)** Nařízení výkonu rozhodnutí se vztahuje na jmění, které slouží k provozování závodu nebo vzhledem ke své povaze má tomuto účelu sloužit, a to podle stavu, jaký tu je v době příklepu. (…) **(3)** Výkonem rozhodnutí nemůže být postižen závod, jedná-li se o banku.
+> **§ 338g**
 >
-> **§ 338h (1)** V usnesení o nařízení výkonu rozhodnutí soud ustanoví správce závodu (dále jen „správce") a povinnému (…) a) zakáže, aby po doručení usnesení závod nebo část závodu převedl na někoho jiného; (…) d) zakáže, aby po doručení usnesení majetek, který slouží k provozování závodu (…) převedl na jiného, zatížil jej nebo s ním jinak nakládal bez souhlasu správce; e) přikáže, aby správci umožnil kdykoliv nahlížet do účetní evidence a dalších písemností týkajících se závodu a bez omezení vstupovat do všech prostor závodu.
+> (1) Pro nařízení výkonu rozhodnutí postižením závodu je rozhodující stav v době zahájení řízení.
 >
-> **§ 338i (1)** Správcem soud ustanoví osobu zapsanou podle zvláštních předpisů v seznamu insolvenčních správců. Výjimečně může soud správcem ustanovit i osobu do tohoto seznamu nezapsanou, splňuje-li podmínky pro zapsání do seznamu, jestliže s ustanovením správcem souhlasí.
+> (2) Nařízení výkonu rozhodnutí se vztahuje na jmění, které slouží k provozování závodu nebo vzhledem ke své povaze má tomuto účelu sloužit, a to podle stavu, jaký tu je v době příklepu. Výkon rozhodnutí postižením závodu, k jehož využití slouží věc v přídatném spoluvlastnictví, se vztahuje i na podíl na této věci v přídatném spoluvlastnictví.
+>
+> (3) Výkonem rozhodnutí nemůže být postižen závod, jedná-li se o banku.
+>
+> (4) Z výkonu rozhodnutí je vyloučen závod, který povinný nabyl jako substituční jmění. To neplatí, má-li povinný právo se závodem volně nakládat nebo jde-li o výkon rozhodnutí, kterým jsou vymáhány zůstavitelovy dluhy nebo dluhy související s nutnou správou věcí nabytých jako substituční jmění.
 
 Hlava VII obsahuje **rozsáhlou úpravu**:
 - **§ 338g—338i:** Nařízení postižení + správa závodu.

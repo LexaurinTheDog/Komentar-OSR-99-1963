@@ -206,17 +206,11 @@ Lze nařídit výkon **proti jinému než označenému povinnému** nebo **ve pr
 
 ## § 260a—h — PROHLÁŠENÍ O MAJETKU
 
-> **§ 260a (1)** Kdo má vykonatelným rozhodnutím přiznanou peněžitou pohledávku, může soudu před podáním návrhu na výkon rozhodnutí navrhnout, aby předvolal povinného a vyzval ho k prohlášení o majetku.
+> **§ 260a**
 >
-> **§ 260b (1)** Soud návrhu na prohlášení o majetku vyhoví jen tehdy, připojí-li oprávněný k návrhu listiny osvědčující, že jeho pohledávka nebyla nebo nemohla být ani s pomocí soudu podle § 260 nebo podle § 513 zákona o zvláštních řízeních soudních uspokojena výkonem rozhodnutí přikázáním pohledávky z účtu povinného u peněžního ústavu, a stejnopis rozhodnutí, opatřený potvrzením o jeho vykonatelnosti, nebo jinou listinu potřebnou k nařízení výkonu rozhodnutí (…).
+> (1) Kdo má vykonatelným rozhodnutím přiznanou peněžitou pohledávku, může soudu před podáním návrhu na výkon rozhodnutí navrhnout, aby předvolal povinného a vyzval ho k prohlášení o majetku.
 >
-> **§ 260b (2)** Návrhu na prohlášení majetku nelze vyhovět, a) probíhá-li insolvenční řízení (…) a po dobu trvání účinků moratoria na majetek povinného, b) byla-li u povinného zavedena nucená správa podle zvláštního zákona nebo dočasná správa nebo správa pro řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu.
->
-> **§ 260d (1)** Předvolání k prohlášení o majetku musí obsahovat účel výslechu a poučení o následcích, jestliže prohlášení bude odmítnuto nebo jestliže v něm budou uvedeny nepravdivé nebo hrubě zkreslené údaje. **(2)** Předvolání se doručuje předvolanému do vlastních rukou. Předvolání musí být doručeno nejméně deset dnů přede dnem konání výslechu. **(3)** Jestliže se ten, kdo byl k soudu řádně předvolán, nedostaví bez včasné a důvodné omluvy, bude k soudu předveden; o tom musí být předvolaný poučen.
->
-> **§ 260e (2)** V prohlášení o majetku je předvolaný povinen uvést a) plátce mzdy nebo jiného příjmu postižitelného srážkami ze mzdy a výši tohoto nároku, b) peněžní ústavy, u nichž má účty, výši pohledávek a čísla účtů nebo jiné jedinečné identifikátory, c) dlužníky, u nichž má jiné peněžité pohledávky, důvod a výši těchto pohledávek, d) osoby, vůči nimž má jiná majetková práva, jejich důvod a hodnotu (§ 320), e) movité věci (spoluvlastnický podíl na nich) povinného a kde, popřípadě u koho se nacházejí (…), f) nemovité věci (spoluvlastnický podíl na nich) povinného, g) závod povinného a jeho části a kde se nachází.
->
-> **§ 260h** Právní jednání povinného týkající se jeho majetku, která učinil poté, co bylo předvolanému doručeno předvolání k prohlášení o majetku (§ 260d), jsou vůči oprávněnému neúčinná.
+> (2) Není-li povinný plně svéprávný nebo jsou-li povinným obec, vyšší územně samosprávný celek nebo právnická osoba, označí oprávněný podle možnosti osoby, které je třeba předvolat (§ 260c).
 
 ### Výklad / smysl ustanovení
 
@@ -548,11 +542,9 @@ Srážky se počítají z **čisté mzdy** (po odpočtu pojistného a daní).
 
 ## § 278 — NEZABAVITELNÁ ČÁSTKA (klíčový institut!)
 
-> **§ 278** Povinnému nesmí být sražena z měsíční mzdy základní částka; způsoby jejího výpočtu stanoví nařízením vláda České republiky (dále jen „nezabavitelná částka").
+> **§ 278**
 >
-> *Související § 279 (1)* — Z čisté mzdy, která zbývá po odečtení nezabavitelné částky a která se zaokrouhlí směrem dolů na částku dělitelnou třemi a vyjádřenou v celých korunách, lze srazit k vydobytí pohledávky oprávněného jen jednu třetinu. Pro přednostní pohledávky uvedené v odstavci 2 se srážejí dvě třetiny. Přednostní pohledávky se uspokojují nejprve z druhé třetiny a teprve, nestačí-li tato třetina k jejich úhradě, uspokojují se spolu s ostatními pohledávkami z první třetiny. Paušálně stanovená náhrada nákladů plátce mzdy se uspokojuje před všemi ostatními pohledávkami z první třetiny.
->
-> *§ 279 (2) — přednostní pohledávky:* a) pohledávky výživného; b) pohledávky náhrady újmy způsobené poškozenému ublížením na zdraví; c) pohledávky náhrady újmy, způsobené úmyslnými trestnými činy; d) pohledávky daní, poplatků a jiných obdobných peněžitých plnění, e) pohledávky náhrady přeplatků na dávkách nemocenského pojištění a důchodového pojištění, f) pohledávky pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a pohledávky pojistného na veřejné zdravotní pojištění, g) pohledávky náhrady přeplatků na podpoře v nezaměstnanosti a podpoře při rekvalifikaci, h) pohledávky náhrady přeplatků na dávkách státní sociální podpory a dávce státní sociální pomoci, i) pohledávky regresní náhrady podle zákona o nemocenském pojištění, j) pohledávky náhrady mzdy, platu nebo odměny a sníženého platu nebo snížené odměny, poskytované v období prvních 14 kalendářních dnů (…) dočasné pracovní neschopnosti nebo karantény, k) pohledávky za náhradní výživné podle jiného zákona.
+> Povinnému nesmí být sražena z měsíční mzdy základní částka; způsoby jejího výpočtu stanoví nařízením vláda České republiky (dále jen „nezabavitelná částka“).
 
 ### Výklad / smysl ustanovení
 
@@ -591,11 +583,15 @@ Srážky se počítají z **čisté mzdy** (po odpočtu pojistného a daní).
 
 ## § 280 — Pořadí pohledávek (klíčové!)
 
-> **(1)** Jsou-li srážky ze mzdy prováděny k vydobytí několika pohledávek, uspokojí se jednotlivé pohledávky z první třetiny zbytku čisté mzdy podle svého pořadí bez ohledu na to, zda jde o přednostní pohledávky nebo o pohledávky ostatní.
+> (1) Jsou-li srážky ze mzdy prováděny k vydobytí několika pohledávek, uspokojí se jednotlivé pohledávky z první třetiny zbytku čisté mzdy podle svého pořadí bez ohledu na to, zda jde o přednostní pohledávky nebo o pohledávky ostatní.
 >
-> **(2)** Dochází-li podle § 279 odst. 1 nebo § 279 odst. 4 a 6 ke srážkám z druhé třetiny zbytku čisté mzdy, uspokojí se z ní bez zřetele na pořadí nejprve pohledávky výživného, poté pohledávky za náhradní výživné podle jiného zákona a teprve pak podle pořadí (odstavec 3) ostatní přednostní pohledávky. Nepostačí-li částka sražená z druhé třetiny k uspokojení všech pohledávek výživného, uspokojí se nejprve běžné výživné všech oprávněných a pak teprve nedoplatky za dřívější dobu, a to podle poměru běžného výživného. (…)
+> (2) Dochází-li podle § 279 odst. 1 ke srážkám z druhé třetiny zbytku čisté mzdy, uspokojí se z ní bez zřetele na pořadí nejprve pohledávky výživného, poté pohledávky na úhradu úplaty za postupované pohledávky výživného, poté pohledávky výživného, které byly postoupeny, poté pohledávky za náhradní výživné podle jiného zákona a teprve pak podle pořadí podle odstavce 5 ostatní přednostní pohledávky.
 >
-> **(3)** Pořadí pohledávek se řídí dnem, kdy bylo plátci mzdy doručeno nařízení výkonu rozhodnutí. Bylo-li mu doručeno téhož dne nařízení výkonu rozhodnutí pro několik pohledávek, mají tyto pohledávky stejné pořadí; nestačí-li částka na ně připadající k jejich plnému uspokojení, uspokojí se poměrně.
+> (3) Nepostačí-li částka sražená z druhé třetiny zbytku čisté mzdy k uspokojení všech pohledávek výživného, uspokojí se nejprve běžné výživné všech oprávněných a teprve pak nedoplatky za dřívější dobu, a to podle poměru běžného výživného. Nepostačí-li částka sražená z druhé třetiny zbytku čisté mzdy k uspokojení všech pohledávek na úhradu úplaty za postupované pohledávky výživného, uspokojí se tyto pohledávky podle poměru běžného výživného. Nepostačí-li částka sražená z druhé třetiny zbytku čisté mzdy k uspokojení všech pohledávek výživného, které byly postoupeny, uspokojí se tyto pohledávky podle poměru běžného výživného. Nepostačí-li částka sražená z druhé třetiny zbytku čisté mzdy k uspokojení všech pohledávek za náhradní výživné, uspokojí se tyto pohledávky podle poměru běžného výživného.
+>
+> (4) Nebylo-li by však částkou sraženou z druhé třetiny zbytku čisté mzdy kryto ani běžné výživné všech oprávněných, rozdělí se mezi ně částka sražená z druhé třetiny poměrně podle výše běžného výživného bez ohledu na výši nedoplatků.
+>
+> (5) Pořadí pohledávek se řídí dnem, kdy bylo plátci mzdy doručeno nařízení výkonu rozhodnutí. Bylo-li mu doručeno téhož dne nařízení výkonu rozhodnutí pro několik pohledávek, mají tyto pohledávky stejné pořadí; nestačí-li částka na ně připadající k jejich plnému uspokojení, uspokojí se poměrně.
 
 ### Výklad
 
@@ -650,17 +646,11 @@ Srážky se počítají z **čisté mzdy** (po odpočtu pojistného a daní).
 
 ## § 303—311 — PŘIKÁZÁNÍ POHLEDÁVKY Z ÚČTU
 
-> **§ 303 (1)** Výkon rozhodnutí přikázáním pohledávky z účtu u peněžního ústavu lze nařídit ohledně pohledávky povinného z účtu vedeného v jakékoliv měně u peněžního ústavu působícího v tuzemsku, nestanoví-li zákon jinak.
+> **§ 303**
 >
-> **§ 304 (1)** V nařízení výkonu rozhodnutí přikázáním pohledávky z účtu soud přikáže peněžnímu ústavu, aby od okamžiku, kdy mu bude usnesení doručeno, z účtu povinného až do výše vymáhané pohledávky a jejího příslušenství nevyplácel peněžní prostředky, neprováděl na ně započtení a ani jinak s nimi nenakládal. (…)
+> (1) Výkon rozhodnutí přikázáním pohledávky z účtu u peněžního ústavu lze nařídit ohledně pohledávky povinného z účtu vedeného v jakékoliv měně u peněžního ústavu působícího v tuzemsku, nestanoví-li zákon jinak.
 >
-> **§ 304 (3)** Povinný ztrácí okamžikem, kdy je peněžnímu ústavu doručeno usnesení o nařízení výkonu rozhodnutí, právo vybrat peněžní prostředky z účtu, použít tyto prostředky k platbám nebo s nimi jinak nakládat, a to do výše vymáhané pohledávky a jejího příslušenství.
->
-> **§ 304b (1)** Je-li povinný fyzickou osobou, zákazy uvedené v § 304 odst. 1 a 3 ani postup podle § 307 odst. 2 a odst. 3 věty první se nevztahují na peněžní prostředky do výše trojnásobku životního minima jednotlivce podle právního předpisu upravujícího výši životního minima. (…)
->
-> **§ 304c (1)** Peněžní ústav, kterému soud doručil usnesení o nařízení výkonu rozhodnutí přikázáním pohledávky z účtu povinného, který je fyzickou osobou, je povinen poté, co mu bylo doručeno oznámení podle § 304d odst. 3, s povinným na jeho žádost uzavřít smlouvu o platebním účtu (…) (dále jen „chráněný účet") a chráněný účet po uzavření smlouvy zřídit do 5 pracovních dnů od podání žádosti (…). Peněžní ústav nemá právo na úplatu za zřízení a vedení chráněného účtu.
->
-> **§ 305** O tom, že usnesení o nařízení výkonu rozhodnutí nabylo právní moci, soud vyrozumí oprávněného a peněžní ústav; peněžnímu ústavu vyrozumění doručí do vlastních rukou.
+> (2) Výkon rozhodnutí nelze provést ohledně pohledávky z účtu u peněžního ústavu, kterou povinný nabyl jako dědic dědictvím, které podle nařízení zůstavitele má přejít na svěřenského nástupce jako následného dědice (dále jen „substituční jmění“). To neplatí, má-li povinný právo s pohledávkou volně nakládat nebo jde-li o výkon rozhodnutí, kterým jsou vymáhány zůstavitelovy dluhy nebo dluhy související s nutnou správou věcí nabytých jako substituční jmění.
 
 ### Výklad / smysl ustanovení
 
@@ -691,19 +681,15 @@ Srážky se počítají z **čisté mzdy** (po odpočtu pojistného a daní).
 
 ## § 312—319 — PŘIKÁZÁNÍ JINÉ PENĚŽITÉ POHLEDÁVKY
 
-> **§ 312 (1)** Výkon rozhodnutí přikázáním jiné peněžité pohledávky povinného než pohledávky z účtu u peněžního ústavu nebo nároku uvedeného v § 299 lze nařídit i v případě, že pohledávka povinného se stane splatnou teprve v budoucnu, jakož i v případě, že povinnému budou dílčí pohledávky z téhož právního důvodu v budoucnu postupně vznikat.
+> **§ 312**
 >
-> **§ 313 (1)** V nařízení výkonu rozhodnutí zakáže soud povinnému, aby se svou pohledávkou jakkoli nakládal (…). Dlužníkovi povinného soud zakáže, aby od okamžiku, kdy mu bylo doručeno nařízení výkonu rozhodnutí, povinnému jeho pohledávku vyplatil, provedl na ni započtení nebo s ní jinak nakládal.
+> (1) Výkon rozhodnutí přikázáním jiné peněžité pohledávky povinného než pohledávky z účtu u peněžního ústavu nebo nároku uvedeného v § 299 lze nařídit i v případě, že pohledávka povinného se stane splatnou teprve v budoucnu, jakož i v případě, že povinnému budou dílčí pohledávky z téhož právního důvodu v budoucnu postupně vznikat.
 >
-> **§ 314a (1)** Výkon rozhodnutí se provede tak, že dlužník povinného po právní moci usnesení o nařízení výkonu vyplatí oprávněnému pohledávku v rozsahu, v jakém byla nařízením výkonu postižena. **(2)** Dlužník povinného vyplatí pohledávku, jestliže je již splatná, oprávněnému v den, který následuje po doručení vyrozumění podle § 314; není-li pohledávka povinného v tento den dosud splatná, vyplatí ji oprávněnému, jakmile se stane splatnou. **(3)** Výplatou oprávněnému se zprostí dlužník povinného v rozsahu poskytnutého plnění své povinnosti vůči povinnému.
+> (2) Soud postupuje podle odstavce 1 i v případě, že plnění vyplývající ze závazku, jehož je povinný účastníkem, je podmíněno nebo vázáno na dosažení věku nebo jiný běh času. Je-li to účelné, soud po právní moci usnesení o nařízení výkonu rozhodnutí nahradí svým rozhodnutím prohlášení vůle povinného k výpovědi tohoto závazku nebo k žádosti o plnění. Souhlas třetí osoby, je-li jím právní jednání podmíněno, je nahrazen usnesením o nařízení výkonu rozhodnutí. Jednání potřebná k uplatnění práva, která přísluší podle zvláštních právních předpisů povinnému, provádí místo povinného oprávněný.
 >
-> **§ 315 (1)** Nevyplatí-li dlužník povinného oprávněnému pohledávku podle § 314a odst. 2, popřípadě podle § 314c odst. 1 a 3, může oprávněný proti dlužníku povinného vlastním jménem podat návrh na výkon rozhodnutí, jestliže jej mohl podat povinný, jinak se domáhat vyplacení pohledávky v řízení podle části třetí, popřípadě v řízení podle zvláštního zákona. (…)
+> (3) Výkon rozhodnutí ohledně dávek státní sociální podpory a pěstounské péče, které nejsou vyplaceny jednorázově, nelze provést přikázáním pohledávky.
 >
-> **§ 317 (1)** Výkonu rozhodnutí nepodléhají pohledávky náhrady, kterou podle pojistné smlouvy vyplácí pojišťovna, má-li být náhrady použito k novému vybudování nebo k opravě budovy, a výživné na dítě.
->
-> **§ 318** Pohledávky fyzických osob, které jsou podnikateli, vzniklé při jejich podnikatelské činnosti, podléhají výkonu rozhodnutí jen dvěma pětinami; je-li však navrhován výkon rozhodnutí pro některou z přednostních pohledávek uvedených v § 279 odst. 2, podléhají výkonu rozhodnutí třemi pětinami. (…)
->
-> **§ 319 (1)** Pohledávky autorské odměny podléhají výkonu rozhodnutí, je-li povinným autor, jen dvěma pětinami; je-li však navrhován výkon rozhodnutí pro některou z přednostních pohledávek uvedených v § 279 odst. 2, podléhají výkonu rozhodnutí třemi pětinami. (…)
+> (4) Výkon rozhodnutí postihuje pohledávku povinného do výše pohledávky oprávněného a jejího příslušenství, pro něž byl nařízen.
 
 **Mechanismus:** Soud vyzve **dlužníka povinného** (typicky obchodního partnera), aby místo povinnému zaplatil **přímo oprávněnému**.
 
