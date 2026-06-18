@@ -76,9 +76,7 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
-  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
-- *NS* [26 Cdo 2754/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D2AEE11DD31BC7FC1257A4E00694EEA?openDocument) — 22. 8. 2002, kat. A
+- *NS* [26 Cdo 2754/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D2AEE11DD31BC7FC1257A4E00694EEA?openDocument) — kat. A, 22. 8. 2002
   > „Je-li v řízení o žalobě o zrušení práva společného nájmu bytu i po zvážení hledisek obsažených v § 3 odst. 1 obč. zák. důvod rozhodnout, že ten z účastníků, který nebyl určen nájemcem bytu, má právo na bytovou náhradu (§ 712 odst. 3, věta druhá, obč. zák.), soud mu uloží byt vyklidit po zajištění bytové náhrady (§ 712 odst. 6 obč. zák.), i když se v bytě nezdržuje a nemá v něm umístěny věci"
 
 ### Výklad / smysl ustanovení
@@ -112,11 +110,9 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 658/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/541F34C3D76C3E54C1257A4E0068CC4F?openDocument) — 28. 1. 2009, kat. A
-  > „Doručenka byla podle právní úpravy účinné do 30. 6. 2009 listinou, která má povahu veřejné listiny to platilo i tehdy, neměla-li doručenka všechny náležitosti, které podle zákona musí obsahovat. Každý údaj, který byl (ve skutečnosti) na doručence uveden, se považuje za pravdivý, nebyl-li dokázán opak. „Opak“ ve smyslu ustanovení § 50f odst. 9 o. s. ř. ve znění účinném do 30. 6. 2009 prokazoval (pomocí důkazních prostředků) ten, kdo ho za řízení tvrdil, a nesl procesní odpovědnost (důkazní břemeno) za to, že nebyl zjištěn. Rozhodl-li soud prvního stupně o věci rozsudkem pro uznání (§ 153a o. s. ř.) a dospěje-li odvolací soud k závěru, že pro vydání rozsudku pro uznání nebyly splněny předpoklady stanovené zákonem, odvolací soud změní rozsudek soudu prvního stupně tak, že se rozsudek pro uznání nevydává (§ 220 odst. 1 písm. a/ o. s. ř.) zrušení rozsudku soudu prvního stupně by bylo v…"
-- *NS* [21 Cdo 1951/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/68F9CB6EB8825181C1257A4E006A7D0A?openDocument) — 8. 3. 2005, kat. A
-  > „Má-li se za řízení ve smyslu ustanovení § 114b odst. 5 o. s. ř. za to, že žalovaný nárok uplatněný proti němu žalobou uznal, soud rozhodne podle ustanovení § 153a odst. 3 o. s. ř. rozsudkem pro uznání, i když se žalovaný ještě před vydáním rozsudku pro uznání ve věci písemně vyjádřil tak, že nárok žalobce zcela neuznává, a i když ve svém opožděném vyjádření vylíčil rozhodující skutečnosti, na nichž staví svoji procesní obranu. Jestliže žalovaný podal vyjádření ve věci až po uplynutí lhůty určené v usnesení o výzvě k vyjádření vydaném podle ustanovení § 114b odst. 1 o. s. ř., nenastane fikce uznání nároku uplatněného proti žalovanému v žalobě jen tehdy, jestliže žalovaný prokáže, že mu v podání vyjádření bránil vážný důvod, a současně, jestliže takový vážný důvod alespoň sdělil soudu ve lhůtě stanovené pro podání vyjádření nebo jestliže šlo o tak vážný důvod, který mu zabránil v tom,…"
-- *NS* [29 Odo 296/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9077CDDB49CA8889C1257A4E006710CB?openDocument) — 21. 10. 2003, kat. A
+- *NS* [21 Cdo 1951/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/68F9CB6EB8825181C1257A4E006A7D0A?openDocument) — kat. A, 8. 3. 2005
+  > „Má-li se za řízení ve smyslu ustanovení § 114b odst. 5 o. s. ř. za to, že žalovaný nárok uplatněný proti němu žalobou uznal, soud rozhodne podle ustanovení § 153a odst. 3 o. s. ř. rozsudkem pro uznání, i když se žalovaný ještě před vydáním rozsudku pro uznání ve věci písemně vyjádřil tak, že nárok žalobce zcela neuznává, a i když ve svém opožděném vyjádření vylíčil rozhodující skutečnosti, na nichž staví svoji procesní obranu…"
+- *NS* [29 Odo 296/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9077CDDB49CA8889C1257A4E006710CB?openDocument) — kat. A, 21. 10. 2003
   > „Je-li žaloba zjevně bezdůvodná, neodůvodňuje povaha věci ani okolnosti případu, aby žalovaný byl vyzván k vyjádření podle ustanovení § 114b o. s. ř. o takové žalobě nelze rozhodnout rozsudkem pro uznání podle § 153a odst. 3 o. s. ř"
 
 ### Výklad / smysl ustanovení
@@ -172,10 +168,10 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 166/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B86AEE823743FFFC1257A4E006863BC?openDocument) — 24. 9. 2003, kat. A
+- *ÚS* [Pl.ÚS 49/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-49-10_1) — nález, 28. 1. 2014
+  > „Ústavní soud v tomto kroku vzal rovněž v potaz skutečnost, že rozsudek pro zmeškání je procesní sankcí, která postihuje prodlévající stranu na jejích procesních zájmech, a nikoliv přímou sankcí, pročež by aplikace tohoto sankčního institutu civilního řízení soudního neměla být v rozporu s jeho funkcí, tj. neměla by směřovat k vydávání rozsudků, které jsou v rozporu se skutečným hmotněprávním stavem… Neboli, funkcí kontumačního rozsudku není jakkoliv urychlit řízení, ale urychlit řízení za pomoci uplatnění skutkové domněnky…"
+- *NS* [29 Odo 166/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B86AEE823743FFFC1257A4E006863BC?openDocument) — kat. A, 24. 9. 2003
   > „Předvolání k prvnímu jednání, při kterém může být vydán rozsudek pro zmeškání (§ 153b odst. 1 o. s. ř.), lze jako písemnost určenou do vlastních rukou adresáta doručit žalovanému též uložením. Při řádném náhradním doručení písemnosti uložením platí, že účastník řízení, který si zásilku do dne, kdy nastala fikce doručení, nevyzvedl, byl s jejím obsahem seznámen dnem, kdy fikce doručení nastala"
-- *NS* [29 Odo 92/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2494C23ED801F612C1257A4E00657B88?openDocument) — 27. 6. 2002, kat. A
-  > „Správce konkursní podstaty se účastníkem řízení, které se prohlášením konkursu na majetek dlužníka přerušuje, v němž však lze na návrh k tomu oprávněné osoby pokračovat (§ 14 odst. 1 písm. c/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů), stává (namísto úpadce) dnem, kdy soudu došel návrh na pokračování v řízení, nikoli dnem přerušení řízení"
 
 ### Výklad / smysl ustanovení
 
@@ -229,13 +225,9 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 502/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C756B65ED363938C1257A4E00651173?openDocument) — 3. 4. 2008, kat. A
-  > „Pro závěr o opodstatněnosti soupisu příslušného majetku do konkursní podstaty úpadce je určující, že předpoklady takového soupisu nastaly nejpozději v době, kdy soud rozhodl o vylučovací žalobě (srov. § 154 odst. 1 o. s. ř.). Skutečnost, že zákonné podmínky takového soupisu nastaly později než v době soupisu, může mít význam z hlediska možné odpovědnosti za škodu způsobenou předčasným soupisem osobě, o jejíž majetek šlo, a z hlediska možného sporu o případné užitky vzešlé z tohoto majetku v době, kdy sepsán býti neměl"
-- *NS* [29 Odo 132/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/244C26EA64A08DC2C1257A4E00658D50?openDocument) — 30. 11. 2004, kat. A
-  > „Proti návrhu na prohlášení konkursu se dlužník může ubránit i prostřednictvím v konkursním řízení důvodně uplatněné námitky, že pohledávka, kterou navrhující věřitel dokládá svou věcnou legitimaci, je promlčena. K námitce promlčení uplatněné dlužníkem až v průběhu řízení o jeho odvolání proti usnesení o prohlášení konkursu odvolací soud nepřihlíží je však povinen zabývat se tvrzením dlužníka, že takovou námitku ještě před prohlášením konkursu uplatnil v soudním nebo jiném řízení, v němž věřitel proti němu tuto pohledávku uplatňoval"
-- *NS* [29 Odo 257/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E76F75ECE899509CC1257A4E00650A0B?openDocument) — 4. 5. 2004, kat. A
-  > „Věřitel, který podal návrh na prohlášení konkursu na majetek dlužníka, nese břemeno tvrzení a břemeno důkazní ohledně všech skutečností rozhodných pro závěr, že byl osvědčen dlužníkův úpadek. Usnesení o prohlášení konkursu na návrh věřitele proto nelze založit na závěru, že dlužník neosvědčil, že k úhradě splatných závazků svých věřitelů, které nehradí po delší dobu, „je schopen“. Má-li jít o úpadek ve smyslu ustanovení § 1 odst. 2, věty první, zákona č. 328/1991 Sb. ve znění pozdějších předpisů, musí navrhující věřitel vedle charakteristiky vlastní splatné pohledávky proti dlužníkovi (§ 4 odst. 2, věta první, zákona) v návrhu uvést nejen konkrétní údaje, z nichž plyne závěr o pluralitě věřitelů dlužníka a o tom, že dlužník své splatné závazky nehradí „po delší dobu“, nýbrž i údaje, z nichž plyne, že dlužník po delší dobu není k úhradě svých splatných závazků „schopen“. V řízení o…"
-- *NS* [29 Odo 657/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/383E2A7BA8DB0FEAC1257A4E00655478?openDocument) — 15. 5. 2002, kat. A
+- *NS* [29 Odo 502/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C756B65ED363938C1257A4E00651173?openDocument) — kat. A, 3. 4. 2008
+  > „Pro závěr o opodstatněnosti soupisu příslušného majetku do konkursní podstaty úpadce je určující, že předpoklady takového soupisu nastaly nejpozději v době, kdy soud rozhodl o vylučovací žalobě (srov. § 154 odst. 1 o. s. ř.). Skutečnost, že zákonné podmínky takového soupisu nastaly později než v době soupisu, může mít význam z hlediska možné odpovědnosti za škodu způsobenou předčasným soupisem…"
+- *NS* [29 Odo 657/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/383E2A7BA8DB0FEAC1257A4E00655478?openDocument) — kat. A, 15. 5. 2002
   > „Podle § 181 odst. 1 obch. zák. je rozhodující, zda navrhovatel (akcionář) má aktivní věcnou legitimaci v době rozhodnutí soudu"
 
 ### Výklad
@@ -334,14 +326,8 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 394/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5FBF9908189D9E9C1257A4E0068E94F?openDocument) — 29. 7. 2004, kat. A
-  > „Ten, na koho správce konkursní podstaty v rámci zpeněžování (§ 27 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) převedl majetek sepsaný do konkursní podstaty jako vlastnictví úpadce, se stává vlastníkem takového majetku bez zřetele k tomu, zda později vyšlo najevo, že majetek v době zpeněžení vlastnicky náležel někomu jinému. Neuplynula-li tomu, kdo tvrdí, že jeho vlastnické právo k majetku zpeněženému správcem konkursní podstaty jako součást majetku konkursní podstaty vylučovalo příslušnost tohoto majetku ke konkursní podstatě, dosud lhůta k podání vylučovací žaloby podle ustanovení § 19 odst. 2 zákona č. 328/1991 Sb. ve znění pozdějších předpisů, může se žalobou podanou podle tohoto ustanovení proti správci konkursní podstaty domáhat vyloučení náhradního peněžitého plnění získaného správcem konkursní podstaty za zpeněžený majetek z konkursní podstaty. Se žalobou na určení…"
-- *NS* [29 Odo 257/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E76F75ECE899509CC1257A4E00650A0B?openDocument) — 4. 5. 2004, kat. A
-  > „Věřitel, který podal návrh na prohlášení konkursu na majetek dlužníka, nese břemeno tvrzení a břemeno důkazní ohledně všech skutečností rozhodných pro závěr, že byl osvědčen dlužníkův úpadek. Usnesení o prohlášení konkursu na návrh věřitele proto nelze založit na závěru, že dlužník neosvědčil, že k úhradě splatných závazků svých věřitelů, které nehradí po delší dobu, „je schopen“. Má-li jít o úpadek ve smyslu ustanovení § 1 odst. 2, věty první, zákona č. 328/1991 Sb. ve znění pozdějších předpisů, musí navrhující věřitel vedle charakteristiky vlastní splatné pohledávky proti dlužníkovi (§ 4 odst. 2, věta první, zákona) v návrhu uvést nejen konkrétní údaje, z nichž plyne závěr o pluralitě věřitelů dlužníka a o tom, že dlužník své splatné závazky nehradí „po delší dobu“, nýbrž i údaje, z nichž plyne, že dlužník po delší dobu není k úhradě svých splatných závazků „schopen“. V řízení o…"
-- *NS* [29 Odo 108/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F4F38F86F522A86C1257A4E0065C9A5?openDocument) — 18. 6. 2003, kat. A
-  > „Tzv. blanketní dovolání může být doplněno o údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, jen do uplynutí dovolací lhůty. Dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o. s. ř., Nejvyšší soud odmítne podle § 43 odst. 2 o. s. ř"
-- *NS* [29 Odo 425/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26758251658D744BC1257A4E006A7ED8?openDocument) — 27. 6. 2002, kat. A
-  > „I. V konkursním řízení patří k usnesením ve věci samé (§ 237 odst. 1 o. s. ř.) především usnesení o schválení konečné zprávy, rozvrhové usnesení, usnesení o zamítnutí návrhu na nucené vyrovnání, usnesení o potvrzení nuceného vyrovnání, usnesení o zamítnutí návrhu na potvrzení nuceného vyrovnání, usnesení o zrušení konkursu, usnesení, jímž soud zamítá návrh na prohlášení konkursu a usnesení o prohlášení konkursu. II. Může-li být dovolání proti rozhodnutí odvolacího soudu ve věci samé přípustné pouze podle § 237 odst. 1 písm. c) o. s. ř., je odvolací soud povinen v písemném vyhotovení rozhodnutí účastníky poučit v tom směru, že dovolání není přípustné, ledaže na základě dovolání podaného do dvou měsíců od doručení rozhodnutí k Nejvyššímu soudu prostřednictvím v poučení označeného soudu prvního stupně, dospěje dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní…"
+- *ÚS* [II.ÚS 605/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-605-07_1) — nález
+  > „Odůvodnění výroku o nákladech nevyhovuje ani ustanovení § 157 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, v platném znění, jehož účelem je zabránit vydávání neurčitých či nesrozumitelných rozhodnutí, kdy naopak písemné vyhotovení rozhodnutí má být spolehlivým pramenem poznání úvah soudu"
 
 ### Výklad / smysl ustanovení
 
@@ -460,8 +446,10 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1720/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C8AD8B22493EBEBC1257A4E00654145?openDocument) — 11. 1. 2005, kat. A
-  > „Absence údaje o intervalu, v jakém se vypočítává poplatek z prodlení, ve výroku vykonávaného rozhodnutí nečiní rozhodnutí materiálně nevykonatelným, je-li z rozhodnutí zřejmé, že jde o poplatek z prodlení podle občanského zákoníka. Povinný je proto povinen zaplatit poplatek z prodlení za každý den prodlení"
+- *NS* [20 Cdo 2931/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/810D661ECFE7BBA2C1257A4E0067983D?openDocument) — kat. A, 12. 12. 2001
+  > „I. Pravomocný rozsudek, jímž soud přivolil k výpovědi z nájmu bytu, vytváří překážku věci rozsouzené (§ 159a odst. 5 o. s. ř.) pro řízení o žalobě na určení neplatnosti téže výpovědi. II. Pravomocný rozsudek o žalobě na určení, zda tu právo nebo právní vztah je nebo není (§ 80 písm. c/ o. s. ř.), nevytváří překážku věci rozsouzené pro žalobu na plnění vycházející z téhož skutkového základu"
+- *NS* [22 Cdo 862/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FDF0FB062C4CA168C1257A4E006758C9?openDocument) — kat. A, 27. 11. 2001
+  > „Rozhodnutí soudu výkonu rozhodnutí o zrušení věcného břemene dle § 337b odst. 3 o. s. ř. ve znění účinném před 1. lednem 2001 je pro soud v řízení o určení existence práva odpovídajícího věcnému břemeni závazné i v případě, že osoba oprávněná z věcného břemene nebyla účastnicí té fáze výkonu rozhodnutí, v níž ke zrušení věcného břemene došlo"
 
 ### Výklad / smysl ustanovení
 
@@ -496,6 +484,11 @@ K nim přistupují **zvláštní řízení** (§ 176 a násl.) — žaloba z ru�
 > (3) Uložil-li soud pravomocným rozsudkem povinnost vyklidit obydlí až po zajištění náhradního bydlení, běží lhůta k vyklizení až ode dne zajištění náhradního bydlení.
 >
 > (4) U rozsudků předběžně vykonatelných soud určí lhůtu k plnění od jejich doručení tomu, kdo má plnit.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 413/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-413-04_1) — nález
+  > „Pokud soudy v civilním řízení přiznají pronajímateli jeho právo a bývalému nájemci uloží povinnost byt vyklidit, jsou povinny k vyklizení bytu podle § 160 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, stanovit minimálně patnáctidenní lhůtu"
 
 ### Výklad
 
@@ -786,10 +779,10 @@ EuPR je užitečný pro **české podnikatele s pohledávkami v EU** — typicky
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 63/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C2C46283D02961FC1257A4E0064F988?openDocument) — 26. 7. 2007, kat. A
+- *ÚS* [Pl.ÚS 16/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-16-12_1) — nález, 16. 10. 2012
+  > „…stojí Ústavní soud před úkolem posoudit, zda třídenní lhůta dává směnečnému dlužníkovi, ať už je jeho postavení v konkrétním směnečném vztahu jakékoliv, reálnou možnost, aby mohl – zvláště s ohledem na specifika směnečného řízení – vznášet kvalifikované námitky, tj. aby ve smyslu § 175 o. s. ř. uvedl vše, co proti platebnímu rozkazu namítá"
+- *NS* [29 Odo 63/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C2C46283D02961FC1257A4E0064F988?openDocument) — kat. A, 26. 7. 2007
   > „K námitce započtení uplatněné po vydání směnečného platebního rozkazu soud při rozhodování o tom, zda směnečný platební rozkaz ponechá v platnosti, nepřihlíží"
-- *NS* [29 Odo 56/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C14DD4544E161721C1257A4E0068FA9B?openDocument) — 6. 5. 2003, kat. A
-  > „I. Dovolání proti výroku usnesení odvolacího soudu, jímž odvolací soud potvrdil usnesení soudu prvního stupně o odmítnutí námitek proti směnečnému platebnímu rozkazu pro opožděnost (§ 175 odst. 3 o. s. ř.), není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné. II. Nejde-li o případ uvedený v bodě 13., hlavy první, části dvanácté, zákona č. 30/2000 Sb., postupuje soud prvního stupně při vydání usnesení, jímž po 1. lednu 2001 odmítá námitky proti směnečnému rozkazu podané před tímto datem, podle občanského soudního řádu ve znění účinném od 1. ledna 2001. III. Usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o odmítnutí námitek proti směnečnému platebnímu rozkazu pro opožděnost (§ 175 odst. 3 o. s. ř.), je usnesením jen procesní povahy. Odmítá-li dovolací soud dovolání proti takovému usnesení odvolacího soudu, činí paušální sazba odměny za…"
 
 ### Výklad / smysl ustanovení
 

@@ -86,7 +86,7 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [26 Cdo 503/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C72C00F72E3D233DC1257A4E0067D06F?openDocument) — 27. 6. 2001, kat. A
+- *NS* [26 Cdo 503/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C72C00F72E3D233DC1257A4E0067D06F?openDocument) — kat. A, 27. 6. 2001
   > „Proti opravnému usnesení, jímž se ve smyslu § 164 o. s. ř. opravuje výrok rozhodnutí, je odvolání přípustné, i když zákon proti opravovanému rozhodnutí odvolání nepřipouští"
 
 ### Výklad / smysl ustanovení
@@ -464,10 +464,8 @@ Předseda senátu **soudu 1. stupně** odstraňuje **vady** ve včas podaném od
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
-  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
-- *NS* [29 Odo 532/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0698DBC8035BF07BC1257A4E00689D84?openDocument) — 19. 9. 2001, kat. A
-  > „Spor, v němž se správce konkursní podstaty úpadce domáhá po správci daně toho, aby do konkursní podstaty vrátil (zaplatil) nadměrný odpočet daně z přidané hodnoty, není sporem vyvolaným konkursem. Pravomoc k rozhodnutí takového sporu nemají soudy, ale správci daně. Počínaje dnem prohlášení konkursu na majetek dlužníka již nelze provést započtení na majetek patřící do konkursní podstaty (§ 14 odst. 1 písm. i/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) není přitom rozhodné, zda se započítávané pohledávky střetly již v době před prohlášením konkursu. Vznikne-li úpadci nárok na vrácení nadměrného odpočtu daně z přidané hodnoty, nesmí být za trvání konkursu použit k úhradě jiných daňových nedoplatků úpadce, které správce daně přihlásil nebo měl přihlásit do konkursu. Postup podle § 64 zákona č. 337/1992 Sb. ve znění pozdějších předpisů, by za trvání konkursu byl nepřípustným…"
+- *ÚS* [II.ÚS 3703/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3703-13_1) — usnesení, 25. 3. 2014
+  > „…výrok o nákladech řízení je výrokem závislým (akcesorickým) na výroku, který odvoláním napaden byl a odvolací soud tak v tomto směru nebyl vázán rozsahem, ve kterém se stěžovatelka domáhala přezkoumání prvostupňového rozhodnutí (ust. § 212 zákona č. 99/1963 Sb., občanský soudní řád)"
 
 ### Výklad
 
@@ -528,6 +526,11 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 >
 > (5) Při zjišťování skutkového stavu odvolací soud nepřihlíží ke skutečnostem nebo důkazům, které byly účastníky řízení uplatněny v rozporu s § 205a nebo § 211a.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 2661/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2661-14_1) — usnesení, 12. 11. 2014
+  > „Ustanovení § 213 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, sice skutečně uvádí, že odvolací soud není vázán skutkovým stavem, jak jej zjistil soud prvního stupně, avšak již z ustanovení § 213 odst. 2 téhož zákona vyplývá, že odvolací soud je povinen zopakovat důkazy provedené soudem prvního stupně, má-li za to, že je z nich možné dospět k jinému skutkovému zjištění, než které učinil soud prvního stupně"
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — odvolací soud NENÍ vázán skutkovým stavem 1. stupně.**
@@ -586,10 +589,10 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 132/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/244C26EA64A08DC2C1257A4E00658D50?openDocument) — 30. 11. 2004, kat. A
-  > „Proti návrhu na prohlášení konkursu se dlužník může ubránit i prostřednictvím v konkursním řízení důvodně uplatněné námitky, že pohledávka, kterou navrhující věřitel dokládá svou věcnou legitimaci, je promlčena. K námitce promlčení uplatněné dlužníkem až v průběhu řízení o jeho odvolání proti usnesení o prohlášení konkursu odvolací soud nepřihlíží je však povinen zabývat se tvrzením dlužníka, že takovou námitku ještě před prohlášením konkursu uplatnil v soudním nebo jiném řízení, v němž věřitel proti němu tuto pohledávku uplatňoval"
-- *NS* [20 Cdo 1020/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/367AC118D3DE60CBC1257A4E006905B5?openDocument) — 29. 8. 2001, kat. A
-  > „Při zkoumání, zda k výkonu navržené rozhodnutí bylo povinnému doručeno, vychází soud ze skutečností vyplývajících z obsahu spisu, v němž bylo vykonávané rozhodnutí vydáno, popřípadě ze skutečností o okolnostech doručení, zjištěných pomocí šetření, které provedl. I když při zjišťování skutečností rozhodných pro posouzení předpokladů pro nařízení výkonu rozhodnutí nejde o dokazování, soud při něm postupuje přiměřeně podle ustanovení § 122 a násl. o. s. ř. Účastníci proto mají mimo jiné právo být přítomni při výslechu svědků (§ 126 o. s. ř.), výslechu účastníků (§ 131 o. s. ř.) či provádění důkazu listinou (§ 129 o. s. ř.), jejíž obsah je zaměřen ke zjištění rozhodných skutečností, vyjádřit se k její pravosti či správnosti a k výsledkům provedeného šetření (srov. § 123 o. s. ř.). Činí-li soud výkonu rozhodnutí závěr o vykonatelnosti titulu (včetně závěru o řádném doručení rozhodnutí)…"
+- *ÚS* [IV.ÚS 873/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-873-13_1) — usnesení, 6. 6. 2013
+  > „Stanoví-li tedy ustanovení § 214 odst. 2 písm. a) zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, výjimku z výše uvedeného pravidla veřejného projednání věci, nelze bez dalšího považovat postup soudu za protiústavní. Na druhou stranu však nemůže odvolací soud přistupovat k aplikaci výše citovaného ustanovení příliš formalisticky a automaticky v případě odmítání odvolání jednání nenařizovat. Citované ustanovení o. s. ř. dává možnost, byť omezenou, aby odvolací soud v případech zde vyjmenovaných nenařídil k projednání odvolání jednání; nejde však o zákaz jednání nařídit, ukáže-li se to (byť třebas jen zcela výjimečně) nezbytným"
+- *ÚS* [III.ÚS 804/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-804-11_1) — usnesení, 13. 7. 2011
+  > „Z ustanovení § 214 odst. 2 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, totiž vyplývá, že v případě, kdy odvolání směřuje proti usnesení soudu prvního stupně, jímž bylo rozhodnuto o předběžném opatření, není třeba nařizovat jednání"
 
 ### Výklad
 
@@ -652,7 +655,7 @@ Odvolací soud projedná věc **v mezích**, ve kterých se odvolatel domáhá p
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [28 Cdo 3342/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/366CC059E3147F45C1257A4E0067B724?openDocument) — 24. 10. 2007, kat. A
+- *NS* [28 Cdo 3342/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/366CC059E3147F45C1257A4E0067B724?openDocument) — kat. A, 24. 10. 2007
   > „Odvolací soud může změnit svůj právní názor vyjádřený v předchozím zrušujícím usnesení a potvrdit rozhodnutí soudu prvního stupně, jímž ten jeho dřívější právní názor nerespektoval"
 
 ### Výklad

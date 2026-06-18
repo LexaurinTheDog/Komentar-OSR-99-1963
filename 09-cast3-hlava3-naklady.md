@@ -45,10 +45,8 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1556/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC71F82C47F02144C1257A4E006556E8?openDocument) — 15. 12. 2004, kat. A
+- *NS* [21 Cdo 1556/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC71F82C47F02144C1257A4E006556E8?openDocument) — kat. A, 15. 12. 2004
   > „Částka odpovídající dani z přidané hodnoty je jedním z druhů nákladů řízení (§ 137 odst. 1 a 3 o. s. ř.), a to za předpokladu, že účastníka řízení zastupoval advokát, notář nebo patentový zástupce, který je plátcem daně z přidané hodnoty. Tato částka tvoří součást nákladů řízení účastníka i v řízení, které bylo zahájeno přede dnem 1. 5. 2004 a které nebylo do 30. 4. 2004 skončeno"
-- *NS* [29 Odo 358/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E91B44F4D56E6A40C1257A4E0068BA55?openDocument) — 31. 7. 2002, kat. A
-  > „Jde-li o nepeněžité plnění z titulu ochrany proti nekalosoutěžnímu jednání, činí paušální sazba odměny advokáta za řízení v prvním stupni 6200 Kč (§ 8 písm. b/ vyhlášky č. 484/2000 Sb.)"
 
 ### Výklad / smysl ustanovení
 
@@ -95,9 +93,7 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 532/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0698DBC8035BF07BC1257A4E00689D84?openDocument) — 19. 9. 2001, kat. A
-  > „Spor, v němž se správce konkursní podstaty úpadce domáhá po správci daně toho, aby do konkursní podstaty vrátil (zaplatil) nadměrný odpočet daně z přidané hodnoty, není sporem vyvolaným konkursem. Pravomoc k rozhodnutí takového sporu nemají soudy, ale správci daně. Počínaje dnem prohlášení konkursu na majetek dlužníka již nelze provést započtení na majetek patřící do konkursní podstaty (§ 14 odst. 1 písm. i/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) není přitom rozhodné, zda se započítávané pohledávky střetly již v době před prohlášením konkursu. Vznikne-li úpadci nárok na vrácení nadměrného odpočtu daně z přidané hodnoty, nesmí být za trvání konkursu použit k úhradě jiných daňových nedoplatků úpadce, které správce daně přihlásil nebo měl přihlásit do konkursu. Postup podle § 64 zákona č. 337/1992 Sb. ve znění pozdějších předpisů, by za trvání konkursu byl nepřípustným…"
-- *NS* [11 Zp 24/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/507046F7DCEB8AB3C1257A4E0064CA41?openDocument) — 18. 5. 2001, kat. A
+- *NS* [11 Zp 24/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/507046F7DCEB8AB3C1257A4E0064CA41?openDocument) — kat. A, 18. 5. 2001
   > „Návrhu účastníka řízení na přiznání osvobození od placení soudních poplatků (§ 138 o. s. ř.) pro řízení v prvním a druhém stupni lze vyhovět, jen požádá-li o osvobození před pravomocným skončením řízení"
 
 ### Výklad
@@ -217,6 +213,11 @@ V průběhu sporu **každá strana hradí své náklady**. Až po skončení (§
 >
 > (4) V řízení zahájeném na návrh nejvyššího státního zástupce nebo státního zastupitelství podle zvláštních předpisů přizná soud žalovanému za podmínek uvedených v odstavcích 1 až 3 náhradu těchto nákladů proti státu. To platí obdobně, bylo-li řízení zahájeno na návrh Úřadu pro zastupování státu ve věcech majetkových v případech a za podmínek uvedených v § 35a nebo na návrh ochránce práv dětí v případech a za podmínek uvedených v § 35b.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 3011/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3011-11_1) — nález, 15. 5. 2012
+  > „Základní zásadou, která ovládá rozhodování o náhradě nákladů civilního sporného procesu, je zásada úspěchu ve věci, vyjádřená v § 142 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů. V této zásadě se promítá myšlenka, že ten, kdo důvodně bránil své subjektivní právo nebo právem chráněný zájem, by měl mít právo na náhradu nákladů, jež při této procesní činnosti účelně vynaložil, proti účastníku, jenž do jeho právní sféry bezdůvodně zasahoval"
+
 ### Výklad / smysl ustanovení
 
 **Klíčový princip — "Loser pays" / „Sieger ist Erstatter":** Strana, **která prohrála**, hradí straně, **která vyhrála**, **náklady řízení potřebné k účelnému uplatňování / bránění práva**.
@@ -259,7 +260,7 @@ V průběhu sporu **každá strana hradí své náklady**. Až po skončení (§
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 4388/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83057DBB0C66DB0CC1257E4900309A45?openDocument) — 19. 2. 2015, kat. A
+- *NS* [29 Cdo 4388/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83057DBB0C66DB0CC1257E4900309A45?openDocument) — kat. A, 19. 2. 2015
   > „Při rozhodování o náhradě nákladů řízení nelze izolovaně posuzovat (jen) to, zda žalobce způsobem určeným ustanovením § 142a o. s. ř. vyzval žalovaného k plnění, nýbrž je nezbytné přihlédnout i k dalším okolnostem konkrétní věci, zejména pak k povaze (a výši) uplatněné pohledávky (za účelem uvážení, zda vskutku při naplnění obecné míry obezřetnosti lze uvažovat o "opomenutí" dlužníka pohledávku zaplatit), k postoji dlužníka k (následně) uplatněné pohledávce, jakož i k reakci dlužníka na zahájení soudního řízení a doručení žaloby"
 
 ### Výklad / smysl ustanovení
@@ -335,6 +336,11 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 >
 > (3) Odmítne-li soud žalobu nebo jiný návrh na zahájení řízení, je žalobce (navrhovatel) povinen nahradit ostatním účastníkům jejich náklady.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 315/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-315-07_1) — nález, 17. 12. 2008
+  > „V citovaném ustanovení a ustanovení § 142 odst. 1 o. s. ř. se promítají zákonné principy, dle nichž náhrada nákladů zatěžuje stranu, jež ve sporu nebyla úspěšná, resp. účastníka, který zavinil, že řízení muselo být zastaveno. Náklady účastníka řízení přitom představují majetkovou újmu, kterou účastník utrpěl v adekvátní příčinné souvislosti se samotným řízením. … Z ustanovení § 142 a násl. o. s. ř. plyne, že tento zásah je účastník bez náhrady povinen strpět zásadně jen tehdy, pokud jej sám způsobil. Institut náhrady nákladů řízení tak představuje zvláštní případ náhrady škody…"
+
 ### Výklad
 
 **Odst. 1 — žádný náklad:**
@@ -364,8 +370,8 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 733/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D544B29502E11F50C1257A4E0066B16B?openDocument) — 29. 8. 2002, kat. A
-  > „Je-li dovolání podepsáno pouze zástupcem dovolatele na základě plné moci, který ani přes opatření soudu dle § 104 odst. 2, věty první, o. s. ř., vůči němu učiněné, toto zastoupení nedoložil, Nejvyšší soud dovolací řízení dle § 104 odst. 2, věty třetí, o. s. ř. zastaví. Obdobně to platí i pro jiný návrh na zahájení řízení. Jestliže soud z uvedeného důvodu řízení zastaví, je osobou, která z procesního hlediska zavinila zastavení řízení, zástupce účastníka, jemuž lze ve smyslu § 147 odst. 1 o. s. ř. uložit, aby hradil náklady řízení, jež by bez jeho zavinění nevznikly"
+- *NS* [29 Odo 733/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D544B29502E11F50C1257A4E0066B16B?openDocument) — kat. A, 29. 8. 2002
+  > „Je-li dovolání podepsáno pouze zástupcem dovolatele na základě plné moci, který ani přes opatření soudu dle § 104 odst. 2, věty první, o. s. ř., vůči němu učiněné, toto zastoupení nedoložil, Nejvyšší soud dovolací řízení dle § 104 odst. 2, věty třetí, o. s. ř. zastaví. … Jestliže soud z uvedeného důvodu řízení zastaví, je osobou, která z procesního hlediska zavinila zastavení řízení, zástupce účastníka, jemuž lze ve smyslu § 147 odst. 1 o. s. ř. uložit, aby hradil náklady řízení, jež by bez jeho zavinění nevznikly"
 
 ### Výklad
 
@@ -434,6 +440,13 @@ Pokud strana vyhraje hlavní spor, soud jí přizná i náklady:
 ## § 150 — MODERAČNÍ DŮVOD (klíčový institut!)
 
 > Jsou-li tu důvody hodné zvláštního zřetele, nebo odmítne-li se účastník bez vážného důvodu zúčastnit prvního setkání s mediátorem nařízeného soudem, nemusí soud výjimečně náhradu nákladů řízení zcela nebo zčásti přiznat.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 3210/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3210-14_1) — nález, 9. 6. 2015
+  > „Ustanovení § 150 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, nelze považovat za úpravu, která by zakládala zcela volnou diskreci soudu ve smyslu libovůle, nýbrž jde o ustanovení, podle něhož je soud povinen zkoumat, zda ve věci neexistují zvláštní okolnosti, k nimž je třeba při stanovení povinnosti k náhradě nákladů řízení přihlédnout. … Úvaha soudu o tom, zda se jedná o výjimečný případ a zda jsou tu důvody hodné zvláštního zřetele, pak musí vycházet z posouzení všech okolností konkrétní věci. Přitom je nezbytné, aby soud své rozhodnutí řádně a přesvědčivě odůvodnil"
+- *ÚS* [II.ÚS 2570/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2570-10_1) — nález, 28. 5. 2013
+  > „Ustanovení § 150 občanského soudního řádu má sloužit k odstranění nepřiměřené tvrdosti, tedy jinými slovy, k dosažení spravedlnosti pro účastníky řízení. Úvaha soudu o tom, zda jsou splněny podmínky jeho aplikace, tedy zda se jedná o výjimečný případ, a závěr, zda tu jsou důvody hodné zvláštního zřetele, musí vycházet z posouzení všech okolností konkrétní věci. … Úkolem obecného soudu není pouze mechanicky rozhodnout o náhradě podle výsledku sporu, nýbrž vážit, zda tu neexistují další rozhodující okolnosti mající podstatný vliv na přiznání náhrady"
 
 ### Výklad / smysl ustanovení
 

@@ -48,15 +48,11 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 3090/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B7C6D14B847AA9BC1257A4E00655877?openDocument) — 26. 4. 2006, kat. A
-  > „Dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení ohledně peněžitého plnění, jež nepřevyšuje 20 000 Kč a v obchodních věcech 50 000 Kč, není přípustné"
-- *NS* [29 Odo 558/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AFAC331191C91099C1257A4E00679DB5?openDocument) — 23. 10. 2003, kat. A
-  > „Návrh na obnovu řízení nemusí obsahovat označení účastníků řízení. Byl-li konkurs na majetek účastníka řízení o nárocích, které se týkají majetku patřícího do konkursní podstaty, prohlášen po pravomocném skončení tohoto řízení, lze návrh na obnovu tohoto řízení projednat a rozhodnout o něm, jen byl-li podán návrh na pokračování v řízení a jde-li o řízení, v němž lze za trvání konkursu pokračovat (§ 14 odst. 1 písm. c/ zákona č. 328/1991 Sb. ve znění pozdějších předpisů) dnem, kdy některý z ostatních účastníků řízení nebo správce konkursní podstaty podal přípustný návrh na pokračování v řízení, se správce konkursní podstaty stává účastníkem řízení o obnově namísto úpadce. Spor o určení neplatnosti smlouvy, kterou pozdější úpadce prodal svůj majetek jinému subjektu, a spor o určení neplatnosti nájemní smlouvy, podle které získal pozdější úpadce tytéž věci do nájmu, je sporem o nárocích,…"
-- *NS* [25 Cdo 511/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B5D2A6966882F92C1257A4E0065A3CB?openDocument) — 29. 5. 2003, kat. A
-  > „Domáhá-li se účastník povolení obnovy řízení proti rozhodnutí vydanému před 1. lednem 2001, postupuje soud podle občanského soudního řádu ve znění účinném před tímto datem (bod 16. hlava první, část dvanáctá, zákona č. 30/2000 Sb.) soud vychází i z ustanovení § 43 o. s. ř. ve znění účinném před 1. lednem 2001"
-- *NS* [20 Cdo 1170/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08082A3F7ADC38B1C1257A4E006506F5?openDocument) — 26. 9. 2002, kat. A
-  > „Důvodem obnovy řízení ve smyslu ustanovení § 228 odst. 1 písm. a) o. s. ř. není důkaz, o němž účastník v původním řízení věděl a jehož provedení nenavrhl proto, že tvrzení o skutečnosti, která by jím mohla být prokázána, nebyla druhým účastníkem popřena. To platí přesto, že účastník nebyl soudem o své důkazní povinnosti prokázat tuto skutečnost v rozporu se zákonem poučen.*)"
-- *NS* [20 Cdo 322/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CD1D5C057C91FEC1257BD6003A2C60?openDocument) — 28. 1. 1999, kat. A
+- *ÚS* [IV.ÚS 1148/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1148-13_1) — nález, 5. 2. 2014
+  > „Obnova řízení je mimořádným opravným prostředkem, jenž představuje průlom do principu nezměnitelnosti a závaznosti vydaných rozhodnutí a jehož účelem je odstranit nedostatky ve skutkových zjištěních pravomocného rozsudku v případech, kdy tyto vady vyšly najevo až po právní moci původního rozhodnutí. V řízení o povolení obnovy soud nepřezkoumává zákonnost a odůvodněnost původního rozhodnutí, ale posuzuje otázku, zda nové skutečnosti či důkazy dříve neznámé ve spojení s důkazy již provedenými mohou odůvodnit jiné - a žalobci příznivější - rozhodnutí, než které bylo dříve vydáno"
+- *NS* [20 Cdo 1170/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08082A3F7ADC38B1C1257A4E006506F5?openDocument) — kat. A, 26. 9. 2002
+  > „Důvodem obnovy řízení ve smyslu ustanovení § 228 odst. 1 písm. a) o. s. ř. není důkaz, o němž účastník v původním řízení věděl a jehož provedení nenavrhl proto, že tvrzení o skutečnosti, která by jím mohla být prokázána, nebyla druhým účastníkem popřena. To platí přesto, že účastník nebyl soudem o své důkazní povinnosti prokázat tuto skutečnost v rozporu se zákonem poučen"
+- *NS* [20 Cdo 322/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CD1D5C057C91FEC1257BD6003A2C60?openDocument) — kat. A, 28. 1. 1999
   > „Okolnost, že odůvodnění nálezu Ústavního soudu zahrnuje posouzení právní otázky, kterou odvolací soud posoudil v jiné věci dříve jinak, nečiní z nálezu rozhodnutí, jež by bylo důvodem obnovy řízení podle ustanovení § 228 odst. 1 písm. a) o.s.ř"
 
 ### Výklad / smysl ustanovení
@@ -117,22 +113,12 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 46/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3679DD1AA140AEA3C1257A4E0067AAA4?openDocument) — 26. 2. 2009, kat. A
-  > „Přihláška nevykonatelné pohledávky zajištěné zástavním právem do řízení o výkon rozhodnutí prodejem nemovitosti je ve vztahu k povinnému dlužníku ve smyslu § 402 obch. zák. právním úkonem uplatněným věřitelem v již zahájeném vykonávacím řízení za účelem uspokojení věřitelova práva (uspokojení pohledávky). V konkursní věci podle zákona č. 328/1991 Sb., ve které se konalo jednání o návrhu na prohlášení konkursu na majetek dlužníka, nemůže vydat rozhodnutí o zamítnutí takového návrhu asistent soudce nebo vyšší soudní úředník"
-- *NS* [21 Cdo 1269/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/994EB3D60EC82939C1257A4E0066D170?openDocument) — 15. 2. 2007, kat. A
+- *NSS* [30 A 8/2024 - 88](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745211) — 12. 8. 2025
+  > „Zmatečnostní vady představují ty nejtěžší vady rozhodnutí v civilním soudním procesu, které svým obsahem odpovídají nicotnosti – například, že soud rozhodoval ve věci, která do pravomoci soudů nenáleží [§ 229 odst. 1 písm. a) zákona č. 99/1963 Sb., občanský soudní řád]"
+- *NS* [21 Cdo 1269/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/994EB3D60EC82939C1257A4E0066D170?openDocument) — kat. A, 15. 2. 2007
   > „Žaloba pro zmatečnost je přípustná proti každému pravomocnému usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, bez ohledu na to, zda odvolání směřovalo proti rozhodnutí o věci samé, proti rozhodnutí, kterým bylo řízení jinak skončeno, nebo proti rozhodnutí vydanému v průběhu řízení"
-- *NS* [21 Cdo 972/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C89B7022A57EAA4C1257A4E0067BBBB?openDocument) — 9. 3. 2006, kat. A
+- *NS* [21 Cdo 972/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C89B7022A57EAA4C1257A4E0067BBBB?openDocument) — kat. A, 9. 3. 2006
   > „Proti usnesení, kterým odvolací soud potvrdil usnesení soudu prvního stupně o zastavení odvolacího řízení, není žaloba pro zmatečnost podaná podle ustanovení § 229 odst. 4 o. s. ř. přípustná"
-- *NS* [29 Odo 208/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDDEAF86B730EB0EC1257A4E0066B0E5?openDocument) — 31. 1. 2006, kat. A
-  > „Posuzuje-li soud, zda jsou splněny předpoklady pro zrušení konkursu podle ustanovení § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů před přezkumným jednáním, přihlíží ke všem řádně a včas přihlášeným pohledávkám, bez zřetele k tomu, zda je úpadce pokládá za sporné nebo zda je podle seznamu přihlášených pohledávek hodlá popřít správce konkursní podstaty (§ 20 odst. 5, věta první, zákona č. 328/1991 Sb. ve znění pozdějších předpisů). Byl-li konkurs na majetek dlužníka prohlášen pro úpadek formou platební neschopnosti (§ 1 odst. 2, věty první, zákona č. 328/1991 Sb. ve znění pozdějších předpisů), nezakládá důvod ke zrušení konkursu podle § 44 odst. 1 písm. a) uvedeného zákona sám o sobě rozsah zjištěného majetku konkursní podstaty, je-li uspokojení pohledávek konkursních věřitelů vázáno na nutnost zpeněžení tohoto majetku. Takovým důvodem není ani skutečnost,…"
-- *NS* [29 Odo 963/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/35BDBA475673BB2AC1257A4E0065701A?openDocument) — 10. 3. 2005, kat. A
-  > „Při zkoumání důvodů pro zrušení konkursu podle ustanovení § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů se konkursní soud nezabývá správností procesního postupu soudu předcházejícího vydání usnesení o prohlášení konkursu, ani správností rozhodnutí o prohlášení konkursu, případně rozhodnutí je potvrzujícího. Okolnost, že nebyl podán návrh na prohlášení konkursu na majetek dlužníka nebo že tento návrh podala jménem navrhovatele osoba, která k tomu nebyla řádně zmocněna, není důvodem pro zrušení konkursu postupem podle § 44 odst. 1 písm. a) zákona č. 328/1991 Sb. ve znění pozdějších předpisů. Nejde o zmatečnostní vadu ve smyslu ustanovení § 229 odst. 1 písm. d) o. s. ř., jestliže soud nepřihlédl k tomu, že návrh na prohlášení konkursu na majetek dlužníka podala jménem navrhovatele osoba, která k tomu nebyla řádně zmocněna. Jednal-li navrhovatel při podání…"
-- *NS* [29 Odo 184/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FB8D90CBF109B52C1257A4E006894A1?openDocument) — 31. 7. 2003, kat. A
-  > „Osobám uvedeným v ustanovení § 12a odst. 5, věty druhé, zákona č. 328/1991 Sb., ve znění pozdějších předpisů, začíná běžet lhůta k podání odvolání proti usnesení o zamítnutí návrhu na prohlášení konkursu pro nedostatek majetku od doručení rozhodnutí poslednímu z těch dosavadních účastníků řízení, kteří jsou legitimováni k podání odvolání podle § 12a odst. 5, věty první, uvedeného zákona to platí bez zřetele k tomu, zda se takový dosavadní účastník řízení sám práva odvolání vzdal. Podáním včasného odvolání se taková osoba stává dalším navrhovatelem ve smyslu ustanovení § 4 označeného zákona a platí pro ni stav řízení v době, kdy její odvolání došlo soudu"
-- *NS* [21 Cdo 58/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13D2A0B63D681BF1C1257A4E0064E6EF?openDocument) — 29. 4. 2003, kat. A
-  > „Na určení, že je neplatná zástavní smlouva, podle níž bylo vloženo do katastru nemovitostí zástavní právo, není naléhavý právní zájem (§ 80 písm. c/ o. s. ř.). K odstranění nejistoty v právním postavení žalobce nebo k zamezení ohrožení jeho práva může v tomto případě vést pouze určení toho, zda tu zástavní právo je či není"
-- *NS* [21 Cdo 85/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2952EE061A38787DC1257A4E00653FBF?openDocument) — 9. 10. 2002, kat. A
-  > „Má-li podání, kterým žalobce uplatnil změnu návrhu (§ 95 odst. 1 o. s. ř.), vady, které brání pokračování v řízení o změněném návrhu, pokusí se předseda senátu postupem podle ustanovení § 43 o. s. ř. o jejich odstranění. V případě, že tyto vady nebudou přes výzvu předsedy senátu odstraněny, má to za následek, že soud k takovému podání nepřihlíží (§ 43 odst. 2 o. s. ř.).*)"
 
 ### Výklad / smysl ustanovení
 
@@ -286,7 +272,7 @@ Vedle obecných (§ 42 odst. 4):
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 289/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98E547AEAAC0D7F4C1257BD6003A2D82?openDocument) — 28. 3. 2002, kat. A
+- *NS* [20 Cdo 289/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98E547AEAAC0D7F4C1257BD6003A2D82?openDocument) — kat. A, 28. 3. 2002
   > „K projednání žaloby o zmatečnost proti usnesení, jímž dovolací soud učinil opatření k odstranění nedostatku podmínky dovolacího řízení, není založena věcná příslušnost žádného soudu a řízení o ní musí být podle § 104 odst. 1 o. s. ř. zastaveno. Učiní tak Nejvyšší soud, jestliže u něho byla tato žaloba podána"
 
 ### Výklad
@@ -357,10 +343,8 @@ Vedle obecných (§ 42 odst. 4):
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 839/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D06C99AF2A38CA7AC1257A4E00668402?openDocument) — 4. 5. 2004, kat. A
-  > „Zjistí-li se v průběhu řízení o dodatečném projednání dědictví (§ 175x o. s. ř.), že zde není nově najevo vyšlý majetek zůstavitele, soud řízení zastaví (bylo-li řízení zahájeno bez návrhu) nebo zamítne návrh na zahájení řízení o dodatečném projednání dědictví (bylo-li řízení zahájeno na návrh) v obou případech nejde o usnesení ve věci samé. Zastavení řízení za popsaných okolností není důsledkem závěru, že projednání věci brání nedostatek podmínek řízení (§ 103 o. s. ř.), tedy zastavením řízení podle ustanovení § 104 odst. 1 o. s. ř"
-- *NS* [29 Odo 265/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6153202EC0A4F5E0C1257A4E00676F2C?openDocument) — 4. 9. 2003, kat. A
-  > „Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zamítnutí návrhu na ustanovení zástupce z řad advokátů (§ 30 o. s. ř.), není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné. Funkční příslušnost soudu k projednání dovolání proti rozhodnutí soudu prvního stupně není dána řízení o takovém podání Nejvyšší soud zastaví (§ 104 odst. 1 o. s. ř.)"
+- *ÚS* [II.ÚS 827/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-827-13_1) — usnesení, 18. 4. 2013
+  > „Dovolání jakožto mimořádný opravný prostředek má sloužit právě k nápravě pravomocných rozhodnutí odvolacího soudu [srov. § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. prosince 2012 (dále jen "o. s. ř.")]. Kasační princip, na němž je dovolací řízení postaveno, má zajistit, aby právní závěry dovolacího soudu (t. j. jak názor na hmotněprávní posouzení věci, tak i pokyny k procesnímu postupu) byly v dalším průběhu řízení respektovány"
 
 ### Výklad
 

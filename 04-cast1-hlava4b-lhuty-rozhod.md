@@ -168,6 +168,11 @@ Klíčový systematický blok. **Typy lhůt v civilním procesu:**
 
 > Nestanoví-li tento zákon lhůtu k provedení úkonu, určí ji, jestliže je to třeba, předseda senátu. Lhůtu, kterou určil, může předseda senátu též prodloužit.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 560/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-560-01) — nález, 1. 4. 2003
+  > „Ústavní soud v nálezu sp. zn. III. ÚS 236/99 … konstatoval, že smyslem stanovení soudcovské lhůty je vymezit čas za účelem provedení určitého procesního úkonu účastníkem řízení. Z toho vyplývá, že vymezení času pro zaplacení soudního poplatku je spjato s realizací procesního subjektivního práva. Lhůta podle § 9 odst. 1 zákona o soudních poplatcích, ve spojení s § 55 o. s. ř., je tedy lhůtou procesněprávní, nikoli hmotněprávní (s příslušnými důsledky pro její počítání)"
+
 ### Výklad
 
 **Soudcovská lhůta** = předseda senátu ji **určuje**, kde zákon mlčí. Typicky:
@@ -213,11 +218,9 @@ Klíčový systematický blok. **Typy lhůt v civilním procesu:**
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
-- *NS* [29 Odo 741/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DFDF10EFA6271D6C1257A4E0064DF20?openDocument) — 16. 2. 2005, kat. A
-  > „K zachování lhůty pro podání žaloby o vyloučení majetku ze soupisu konkursní podstaty úpadce (§ 19 odst. 2 zákona č. 328/1991 Sb. ve znění pozdějších předpisů) je nezbytné, aby žaloba nejpozději posledního dne lhůty došla soudu na tom nic nemění skutečnost, že délku lhůty vymezuje svým rozhodnutím soud"
-- *NS* [26 Cdo 2378/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B345E2606A87CE17C1257A4E0065F06B?openDocument) — 18. 12. 2000, kat. A
+- *ÚS* [II.ÚS 560/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-560-01) — nález, 1. 4. 2003
+  > „… je smyslem právního institutu lhůty snížení entropie (neurčitosti) při uplatňování práv, resp. pravomocí, časové omezení stavu nejistoty v právních vztazích, urychlení procesu rozhodování s cílem reálného dosažení zamýšlených cílů. Normativní vymezení času pro uplatnění práv může přitom dopadat jak do oblasti hmotných, tak do oblasti procesních subjektivních práv. Nutno rozlišit hmotněprávní lhůty a lhůty procesněprávní i s nimi spojené rozdíly v jejich počítání"
+- *NS* [26 Cdo 2378/99](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B345E2606A87CE17C1257A4E0065F06B?openDocument) — kat. A, 18. 12. 2000
   > „Provozovatel telefaxového spojení není orgánem, který má povinnost podání doručit ve smyslu § 57 odst. 3 o. s. ř. Učiní-li účastník řízení podání telefaxem, je pro posouzení včasnosti takového podání rozhodné, kdy došlo soudu"
 
 ### Výklad / smysl ustanovení
@@ -366,6 +369,11 @@ Smírčí řízení provádí **předseda senátu** (i u věcí senátních). **
 
 ## § 74 — Předběžné opatření před zahájením (obecná úprava)
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 480/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-480-04) — usnesení, 23. 6. 2005
+  > „Podle ustanovení § 74 odst. 1 … je-li obava, že by výkon rozhodnutí mohl být ohrožen, může soud nařídit předběžné opatření. Předběžné opatření je přitom opatřením dočasným, jehož trvání je omezeno a může být zrušeno (§ 77 o.s.ř.). Zákon s ohledem na stadium řízení a lhůtu, v níž má být o předběžném opatření rozhodnuto … nepředpokládá, že by soud měl provádět při rozhodování o nařízení předběžného opatření dokazování. Rozhodné skutečnosti stran podmínek pro jeho vydání, je povinen soudu prokázat, popřípadě osvědčit, ten, kdo návrh na vydání předběžného opatření podal"
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — dvě situace, kdy lze nařídit:**
@@ -438,6 +446,11 @@ To je drakonické pravidlo — **navrhovatel musí dodat dokonalé podání hned
 >
 > (4) Byl-li návrh na nařízení předběžného opatření pravomocným usnesením soudu prvního stupně zamítnut, byl-li tento návrh pravomocně odmítnut nebo bylo-li řízení o tomto návrhu pravomocně zastaveno, soud složenou jistotu vrátí. V případě, že soud nařídil předběžné opatření, bude jistota vrácena, jestliže marně uplynula lhůta k žalobě podle § 77a odst. 2 nebo jestliže nabylo právní moci rozhodnutí soudu o žalobě podané podle § 77a odst. 2 a z tohoto rozhodnutí vyplývá, že jistota nebude použita k uspokojení práva na náhradu škody nebo jiné újmy.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3390/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3390-14_1) — usnesení, 5. 2. 2015
+  > „Dospějí-li obecné soudy k názoru o „předběžné důvodnosti“ žaloby, nelze za protiústavní považovat závěr, dle nějž je žalobní nárok ohrožen nedostatkem majetku na straně žalované, pročež je třeba zajistit jeho nesnižování. … Ochranu před zneužitím takového postupu představuje částečně institut jistoty, zakotvený v ustanovení § 75b zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů …, a zcela pak možnost požadovat náhradu škody předběžným opatřením způsobené"
+
 ### Výklad / smysl ustanovení
 
 **Klíčový institut, který radikálně omezil zneužívání PO!** Před novelou (2009) byla PO „zdarma" a navrhovatelé je často zneužívali k šikaně.
@@ -482,6 +495,13 @@ To je drakonické pravidlo — **navrhovatel musí dodat dokonalé podání hned
 >
 > (4) Pro předběžné opatření je rozhodující stav v době vyhlášení (vydání) usnesení soudu prvního stupně.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 2156/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2156-15_1) — usnesení, 31. 8. 2015
+  > „Má-li být totiž předběžné opatření nařízeno, či již nařízené předběžné opatření změněno, musí být tím, kdo takový návrh činí, „prokázána“ potřeba zatímní úpravy právních poměrů účastníků nebo potřeba změny této zatímní úpravy (viz § 75c zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů)"
+- *ÚS* [I.ÚS 70/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-70-13_1) — usnesení, 10. 12. 2013
+  > „… podle § 75c odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, musí předseda senátu rozhodnout bezodkladně, nejpozději do 7 dnů poté, co byl návrh podán. Rychlost rozhodnutí proto není v těchto věcech ničím výjimečným"
+
 ### Výklad
 
 **Odst. 1 — předpoklady nařízení PO:**
@@ -518,8 +538,8 @@ To je drakonické pravidlo — **navrhovatel musí dodat dokonalé podání hned
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 908/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E75A222F46E34F1CC1257A4E0069A503?openDocument) — 30. 9. 2005, kat. A
-  > „Na základě ustanovení § 14 odst. 3 zákona č. 328/1991 Sb. ve znění účinném od 1. května 2000 může správce konkursní podstaty vypovědět i nájemní smlouvy, které pozdější úpadce uzavřel jako pronajímatel před tímto datem na dobu určitou. Předběžným opatřením, kterým soud ve smyslu § 76 odst. 1 písm. e) o. s. ř. účastníku řízení zakáže určitou věc zcizit nebo zatížit, není účastník omezen v právu vypovědět (jako pronajímatel) smlouvu o nájmu této věci"
+- *NS* [29 Odo 908/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E75A222F46E34F1CC1257A4E0069A503?openDocument) — kat. A, 30. 9. 2005
+  > „Předběžným opatřením, kterým soud ve smyslu § 76 odst. 1 písm. e) o. s. ř. účastníku řízení zakáže určitou věc zcizit nebo zatížit, není účastník omezen v právu vypovědět (jako pronajímatel) smlouvu o nájmu této věci"
 
 ### Výklad
 
@@ -626,6 +646,11 @@ Výrok vykonatelného usnesení o PO je závazný:
 Pokud byl návrh na PO **zamítnut, odmítnut nebo bylo řízení zastaveno**, doručuje se usnesení **jen navrhovateli** (= žalovaný se o pokusu nedozví). Lhůta 3 dny.
 
 **Praktický důvod:** Aby žalovaný nezískal o pokusu o PO informaci a nedošlo k „zmizení majetku" před skutečnou žalobou.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 16/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-16-09_1) — nález, 19. 1. 2010
+  > „Pokud zákonodárce umožnil v případech, na které dopadá právě napadený § 76g občanského soudního řádu, aby žalobce mohl uplatnit opravný prostředek proti rozhodnutí soudu první instance, byl jeho postup odůvodněn zájmem na účinné ochraně subjektivního práva žalobce. Doručením rozhodnutí soudu prvního stupně též žalovanému by se žalovanému signalizovala uvedená procesní aktivita žalobce a poskytoval určitý časový prostor k úkonům, které by mohly účinnost případně následně vydaného předběžného opatření zmařit … Nelze proto v samotném nedoručení tohoto rozhodnutí žalovanému, které ve své podstatě zabezpečuje účelnost odvolání žalobce, spatřovat porušení zásady rovnosti účastníků řízení"
 
 ---
 

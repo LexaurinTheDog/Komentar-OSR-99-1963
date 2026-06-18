@@ -42,6 +42,11 @@
 > b) jestliže se rozhodnutí správního orgánu v důsledku námitek nebo jiného obdobného úkonu účastníka právního poměru učiněného před správním orgánem podle zvláštního zákona zrušuje nebo pozbývá účinnosti,
 > c) odkázal-li podle zvláštního právního předpisu správní orgán účastníky právního poměru s jejich nároky na řízení před soudem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 27/2003 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/236059) — 27. 1. 2005
+  > „Smlouva o poskytování telekomunikačních služeb zakládá soukromoprávní vztah mezi rovnými subjekty. V dané správní věci tak existuje spor o právo vyplývající ze soukromoprávního vztahu ve smyslu § 7 odst. 1 o. s. ř. Podle odst. 2 tohoto ustanovení rozhodují civilní soudy tyto spory, i když o nich podle zákona rozhodly jiné orgány než soudy, a to za podmínek uvedených v části páté o. s. ř. … je tedy dána pravomoc civilních soudů ve smyslu § 7 odst. 2 a části páté o. s. ř"
+
 ### Výklad / smysl ustanovení
 
 **Odst. 1 — generální klauzule:** Pokud **správní orgán** (orgán moci výkonné, ÚSC, zájmové/profesní samosprávy, smírčí orgán zřízený zvláštním předpisem) rozhodl podle **zvláštního zákona** o:
@@ -222,6 +227,11 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 > **(1)** Účastníky řízení jsou žalobce a ti, kdo byli účastníky v řízení před správním orgánem.
 >
 > **(2)** Jakmile soud zjistí, že se řízení neúčastní někdo, kdo je podle odstavce 1 jeho účastníkem, přibere jej usnesením do řízení. Proti tomuto usnesení není odvolání přípustné.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 35/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-35-11_1) — nález, 13. 5. 2014
+  > „Jestliže předmětem správního řízení byl spor vyplývající ze vztahů soukromého práva, přičemž organizační složka, která má za stát jednat, je současně ve věci rozhodujícím správním orgánem, je pro účely ustanovení § 250a o. s. ř. nutno považovat stát za účastníka řízení před správním orgánem. Státu tudíž náleží postavení účastníka i v následném řízení podle části páté občanského soudního řádu. … Tento výklad je nejen ústavně konformní, ale odpovídá i vůli zákonodárce"
 
 ### Výklad
 

@@ -55,13 +55,11 @@ V hlavě II OSŘ rozlišuje:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4841/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9B4163A5C3DA5B0C1257A4E006522CF?openDocument) — 29. 10. 2008, kat. A
-  > „Vyplyne-li ve sporném řízení potřeba provedení nenavrženého důkazu z tvrzení, které účastník uplatňuje v odvolacím řízení v rozporu s ustanovením § 205a odst. 1 o. s. ř., nesmí odvolací soud takový důkaz (ani z vlastní iniciativy) provést, a to bez ohledu na to, zda má být tímto novým důkazem prokázána skutečnost, jež by mohla způsobit absolutní neplatnost právního úkonu"
-- *NS* [29 Odo 1538/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12DA050CF9DE0715C1257A4E0066AEA6?openDocument) — 27. 3. 2008, kat. A
+- *NS* [29 Odo 1538/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12DA050CF9DE0715C1257A4E0066AEA6?openDocument) — kat. A, 27. 3. 2008
   > „I v režimu zákonné koncentrace řízení podle § 118b odst. 1 o. s. ř. není soud zbaven povinnosti provést i jiné než účastníky navržené důkazy, jestliže potřeba jejich provedení vyšla v řízení najevo (§ 120 odst. 3 o. s. ř.). Zákonná koncentrace řízení omezuje soud v rozsahu těchto aktivit potud, že může brát v úvahu jen takové důkazy, jejichž potřeba provedení vyšla najevo do skončení prvního jednání, které se ve věci konalo"
-- *NS* [29 Odo 813/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ED7FBB004465AFAC1257A4E0069327A?openDocument) — 27. 8. 2003, kat. A
-  > „Vztah z bezdůvodného obohacení získaného přijetím plnění z neplatné smlouvy o úvěru (§ 497 a násl. obch. zák.), je obchodním závazkovým vztahem právo na vydání tohoto bezdůvodného obohacení se promlčuje ve čtyřleté promlčecí době podle ustanovení § 397 obch. zák. Smlouvu o úvěru (§ 497 obch. zák.) může jako věřitel uzavřít kterýkoli subjekt.*)"
-- *NS* [29 Odo 799/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C624BB5BFC7EDAA8C1257A4E0065E5FC?openDocument) — 23. 10. 2002, kat. A
+- *NS* [21 Cdo 4841/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9B4163A5C3DA5B0C1257A4E006522CF?openDocument) — kat. A, 29. 10. 2008
+  > „Vyplyne-li ve sporném řízení potřeba provedení nenavrženého důkazu z tvrzení, které účastník uplatňuje v odvolacím řízení v rozporu s ustanovením § 205a odst. 1 o. s. ř., nesmí odvolací soud takový důkaz (ani z vlastní iniciativy) provést, a to bez ohledu na to, zda má být tímto novým důkazem prokázána skutečnost, jež by mohla způsobit absolutní neplatnost právního úkonu"
+- *NS* [29 Odo 799/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C624BB5BFC7EDAA8C1257A4E0065E5FC?openDocument) — kat. A, 23. 10. 2002
   > „Je-li sporné, zda odesílatelem zásilky je jiná osoba, než která je jako odesílatel označena v nákladním listě, nese o tom břemeno tvrzení a důkazní břemeno dopravce"
 
 ### Výklad / smysl ustanovení
@@ -499,12 +497,10 @@ V praxi typicky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 688/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0EB6618CCD09058C1257A4E00654228?openDocument) — 15. 5. 2007, kat. A
-  > „Skutečnosti odůvodňující závěr, že potomek o zůstavitele trvale neprojevuje opravdový zájem, který by jako potomek projevovat měl, mohou spočívat jak v pasivitě (nezájmu) potomka ve vztahu k zůstaviteli, tak také v chování, kterým potomek sice o zůstavitele zájem projevuje, ovšem způsobem neodpovídajícím řádnému chování potomka k rodiči (prarodiči atd.), tj. například způsobem trvale překračujícím zásady společenské slušnosti"
-- *NS* [21 Cdo 1397/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/606DB63AB98EA1F6C1257A4E00650B08?openDocument) — 11. 4. 2007, kat. A
-  > „Osobu, která vykonávala funkci statutárního orgánu právnické osoby, soud v řízení, jehož účastníkem je tato právnická osoba, vyslechne o okolnostech, které se týkají této právnické osoby a které nastaly v době, kdy vykonávala funkci statutárního orgánu, jako účastníka řízení (§ 131 o. s. ř.)"
-- *NS* [21 Cdo 2152/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89EABA3E03F25FF7C1257A4E00688315?openDocument) — 17. 5. 2005, kat. A
-  > „Posudek o pracovní činnosti může obsahovat kromě hodnocení práce zaměstnance, jeho kvalifikace a schopností rovněž jakékoliv další skutečnosti, jestliže mají vztah k výkonu práce. Pracovní posudek tedy může obsahovat i hodnocení celkového vztahu zaměstnance ke spolupracovníkům a k práci, jakož i hodnocení těch jeho osobních vlastností, které mají bezprostřední vztah k výkonu jeho práce, jako je svědomitost, iniciativnost, dodržování pracovní kázně, schopnost k řízení a organizování pracovního procesu, schopnost zapojit se do týmové práce s ostatními zaměstnanci apod. Pracovní posudek se současně musí omezit na konkrétní hodnocení činnosti zaměstnance u bývalého zaměstnavatele a nemůže vyjadřovat v obecné rovině jeho subjektivní hodnotící názor (doporučení) na vhodnost budoucího působení zaměstnance v určitém okruhu pracovních činností"
+- *ÚS* [IV.ÚS 262/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-262-10_1) — nález, 16. 9. 2010
+  > „Ústavním soudem bylo v nálezech opakovaně akcentováno, že je povinností soudu podle ustanovení § 132 zákona č. 99/1963 Sb., občanský soudní řád, vypořádat se se vším, co v průběhu řízení vyšlo najevo a co účastníci řízení tvrdí"
+- *ÚS* [II.ÚS 2662/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2662-07_1) — usnesení, 12. 2. 2009
+  > „…princip volného hodnocení důkazů, který je vyjádřen v ustanovení § 132 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen "občanský soudní řád"), a odůvodňuje postup soudu předvídaný v ustanovení § 120 odst. 1 občanského soudního řádu, vychází z ústavního principu nezávislosti soudů ve smyslu čl. 82 Ústavy České republiky…"
 
 ### Výklad / smysl ustanovení
 
@@ -579,6 +575,13 @@ V praxi typicky:
 > c) žalobce zaměstnavatele požádal o možnost pečovat o jinou fyzickou osobu nebo ji ošetřovat podle § 191 zákoníku práce nebo o takovou fyzickou osobu podle § 191 zákoníku práce pečoval nebo ji ošetřoval,
 >
 > je žalovaný povinen dokázat, že k výpovědi nebo okamžitému zrušení došlo z jiného důvodu.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 37/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-37-04) — nález, 26. 4. 2006
+  > „Toto ustanovení je totiž třeba interpretovat tak, že aby bylo případ vůbec možné subsumovat pod ustanovení § 133a odst. 2 o. s. ř., musí soudce nejdříve učinit závěr, že skutečnosti diskriminaci opravdu nasvědčují… Senát se nedomnívá, že by navrhovatelem popsaný "přesun důkazního břemene" založil rozpor s ústavní zásadou spravedlivého procesu, nýbrž má za to, že uložením větší odpovědnosti žalovanému za zjištění skutkového stavu dochází… k důslednějšímu naplnění maximy spravedlivého projednání věci, jak ji požaduje čl. 6 odst. 1 Úmluvy"
+- *ÚS* [II.ÚS 1609/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1609-08_1) — nález, 30. 4. 2009
+  > „Ustanovení § 133a odst. 1 o. s. ř. tedy neznamená, že žalující strana může rezignovat na svou obecnou důkazní povinnost. K procesnímu úspěchu žalobce nestačí pouhé jeho přesvědčení o tom, že byl diskriminován, ale je nutno tvrzené skutečnosti doložit tak, aby z nich nerovné zacházení opravdu vyplývalo. Jen v takovém případě nastupuje p[řesun důkazního břemene]"
 
 ### Výklad / smysl ustanovení
 
@@ -677,12 +680,10 @@ Praktické u **velkých zásilek** padělaného zboží (kontejnery) — ohledá
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 826/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7414C1EB94183DA2C1257A4E00686FE2?openDocument) — 18. 4. 2006, kat. A
-  > „Smlouva, při jejímž uzavření jeden z účastníků úmyslně předstíral určitou vůli se záměrem, aby tím vyvolal u druhého účastníka omyl nebo aby tím využil jeho omylu, není neplatná podle ustanovení § 37 odst. 1 obč. zák. pro nedostatek vážné vůle nebo podle ustanovení § 39 obč. zák. pro rozpor se zákonem. Podvodné jednání jednoho z účastníků smlouvy při jejím uzavření je důvodem neplatnosti smlouvy podle ustanovení § 49a obč. zák., jehož se může úspěšně dovolat jen druhý účastník smlouvy (§ 40a obč. zák.)"
-- *NS* [21 Cdo 2989/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F637EBCB3A8025D9C1257A4E006574DE?openDocument) — 9. 2. 2006, kat. A
-  > „Bylo-li ke společnému řízení spojeno více věcí, u kterých se sazba odměny určuje podle § 17 odst. 1 písm. a) vyhlášky č. 484/2000 Sb. ve znění pozdějších předpisů, a rozhodl-li dovolací soud v jedné z těchto věcí o odmítnutí dovolání, projeví se snížení sazby odměny podle ustanovení § 14 odst. 1 uvedené vyhlášky tak, že z celkové odměny se na polovinu krátí část, která odpovídá poměru předmětu řízení ve věci, v níž bylo dovolání odmítnuto, k celkovému součtu předmětů řízení.*)"
-- *NS* [29 Odo 560/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BC64181753DB4C6C1257A4E0064D0A2?openDocument) — 25. 3. 2003, kat. A
-  > „I. Smlouva o převodu vlastnictví bytové jednotky z vlastnictví družstva, jejíž součástí není vzájemné vypořádání prostředků určených na financování oprav a údržby budovy, popřípadě domu a jednotky a dále prostředků tvořených ze zisku bytového hospodářství, připadajících na převáděnou jednotku (§ 24 odst. 7 zákona č. 72/1994 Sb. ve znění pozdějších předpisů), je neplatná (§ 39 obč. zák.). II. Dům ve vlastnictví bytového družstva, v němž se nacházejí družstevní byty, není vyloučen z výkonu rozhodnutí jen proto, že člen družstva uplatnil podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů právo na bezplatný převod bytové jednotky v tomto domě. III. Za trvání konkursu na majetek bytového družstva mají členové družstva, kteří podle zákona č. 72/1994 Sb. ve znění pozdějších předpisů uplatnili právo na bezplatný převod bytové jednotky v domě ve vlastnictví bytového družstva, k této…"
+- *ÚS* [I.ÚS 1339/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1339-15_1) — usnesení, 28. 5. 2015
+  > „…pokud ve věci nebylo vydáno rozhodnutí příslušného orgánu o tom, že byl spáchán trestný čin, přestupek nebo jiný správní delikt, potom není podle § 135 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, dán výrok, kterým by byl soud v řízení o náhradu škody vázán, nelze pokládat za rozporný s principy spravedlnosti"
+- *ÚS* [II.ÚS 389/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-389-01) — nález, 25. 2. 2003
+  > „Porušením rovnosti není ani skutečnost, že odvolací soud vycházel z rozhodnutí správního orgánu, neboť jím byl podle ustanovení § 135 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, vázán"
 
 ### Výklad / smysl ustanovení
 
@@ -713,6 +714,13 @@ Soud **JE VÁZÁN** rozhodnutím příslušného orgánu o tom, že:
 ## § 136 — Diskreční odhad výše nároku
 
 > Lze-li výši nároků zjistit jen s nepoměrnými obtížemi nebo nelze-li ji zjistit vůbec, určí ji soud podle své úvahy.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 668/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-668-15_1) — nález, 11. 8. 2015
+  > „Soud rozhodující o stanovení výše škody způsobené neoprávněným odběrem energie za situace, ve které nelze výlučně použít výpočet podle prováděcího předpisu, musí tedy použít i vlastní spravedlivou úvahu a postupovat podle § 136 zákona č. 99/1963 Sb., občanský soudní řád, či nyní podle § 2955 občanského zákoníku. Součástí této úvahy by měly být všechny právě uvedené relevantní okolnosti…"
+- *ÚS* [I.ÚS 2930/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2930-13_2) — nález, 11. 11. 2014
+  > „…§ 136 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, dle kterého v případech, kdy nelze určit výši nároku nebo lze tuto výši určit s nepoměrnými obtížemi, určí výši nároku soud dle vlastní úvahy. Ústavní soud v obecné rovině aplikaci tohoto ustanovení v projednávaném případě s ohledem na možnosti dokazování a povahy nároku akceptuje"
 
 ### Výklad / smysl ustanovení
 

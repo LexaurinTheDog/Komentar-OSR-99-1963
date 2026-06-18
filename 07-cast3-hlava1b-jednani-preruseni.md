@@ -140,7 +140,7 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1392/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7DF340E07F7E2CEC1257A4E006891D5?openDocument) — 6. 1. 2005, kat. A
+- *NS* [21 Cdo 1392/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7DF340E07F7E2CEC1257A4E006891D5?openDocument) — kat. A, 6. 1. 2005
   > „Občanský soudní řád ve znění účinném od 1. 1. 2001 neukládá předsedovi senátu dbát o "to, aby svědci, kteří dosud nebyli vyslechnuti, nebyli přítomni jednání," ale ponechává na předsedovi senátu, aby v souvislosti s provedením důkazu výslechem svědků v každé jednotlivé věci posoudil, jaké opatření ve vztahu k přítomnosti dosud nevyslechnutých svědků při jednání zvolí a zda učiní opatření, aby nebyli (nemohli být) až do svého výslechu při jednání přítomni, nebo zda jim v přítomnosti při jednání nezabrání"
 
 ### Výklad
@@ -208,16 +208,10 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [22 Cdo 2593/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDD734F1793FD70DC125891C001E1FD1?openDocument) — 27. 9. 2022, kat. A
-  > „Institut přestavku lze u staveb zřízených před 1. 1. 2014 aplikovat jen tehdy, byla-li dobrá víra stavebníka, že stavbu zřídil na vlastním pozemku, dána k 1. 1. 2014"
-- *NS* [29 Odo 784/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1692A424971E5EBBC1257A4E00653FC8?openDocument) — 31. 5. 2007, kat. A
-  > „Zástavní věřitel se i po prohlášení konkursu na majetek osobního dlužníka a po soupisu zástavy do konkursní podstaty může platně vzdát zástavního práva"
-- *NS* [21 Cdo 2203/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43B82A8030C8AB9CC1257A4E00694B19?openDocument) — 24. 10. 2006, kat. A
-  > „Jen takový zůstavitel, jemuž zdravotní nebo jiná překážka objektivně znemožňuje číst nebo psát, může platně pořídit závěť ve smyslu ustanovení § 476c obč. zák. (§ 40 odst. 1 obč. zák.)"
-- *NS* [21 Cdo 1392/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7DF340E07F7E2CEC1257A4E006891D5?openDocument) — 6. 1. 2005, kat. A
-  > „Občanský soudní řád ve znění účinném od 1. 1. 2001 neukládá předsedovi senátu dbát o "to, aby svědci, kteří dosud nebyli vyslechnuti, nebyli přítomni jednání," ale ponechává na předsedovi senátu, aby v souvislosti s provedením důkazu výslechem svědků v každé jednotlivé věci posoudil, jaké opatření ve vztahu k přítomnosti dosud nevyslechnutých svědků při jednání zvolí a zda učiní opatření, aby nebyli (nemohli být) až do svého výslechu při jednání přítomni, nebo zda jim v přítomnosti při jednání nezabrání"
-- *NS* [21 Cdo 1769/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4520E6DED38FC36C1257A4E006795F3?openDocument) — 5. 2. 2004, kat. A
-  > „Jestliže zaměstnanec jednající jménem zaměstnavatele v úmyslu, aby jiného zaměstnance přiměl k uzavření dohody o rozvázání pracovního poměru, tohoto zaměstnance ujistí, že může bez obav, že přijde o výplatu náhrady za ztrátu na výdělku, požádat o přiznání starobního důchodu (mimořádného starobního důchodu), ačkoliv musel vědět (při vynaložení náležité péče, kterou lze po něm rozumně požadovat, musel zjistit), že přiznáním starobního důchodu nárok na náhradu za ztrátu na výdělku zaniká a že jeho ujištění je nepravdivé, porušil tím svou právní povinnost v rámci plnění úkolů zaměstnavatele. Zaměstnavatel odpovídá za škodu, která tím zaměstnanci vznikla"
+- *ÚS* [I.ÚS 2456/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2456-13_1) — nález, 16. 9. 2014
+  > „Ústavní soud poukazuje na ustanovení § 118a odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, podle něhož má soud v případě jiného právního názoru, než je názor účastníka řízení, jej poučit a vyzvat k vylíčení rozhodných skutečností, které jsou relevantní pro úvahy soudu. K tomu pak Ústavní soud pravidelně zdůrazňuje, že tato povinnost je o to naléhavější v rámci odvolacího řízení… Nedostojí-li obecný soud popsanému požadavku spravedlivého procesu, a to zvláště soud odvolací, dopustí se zpravidla překvapivého rozhodnutí…"
+- *ÚS* [II.ÚS 2233/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2233-10_1) — usnesení, 23. 9. 2010
+  > „Ústavní soud v minulosti uvedl, že smyslem § 118a zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen "o. s. ř.") je, aby účastníkovi nebyla zamítnuta žaloba proto, že neunesl břemeno tvrzení a břemeno důkazní, aniž byl poučen, že taková břemena má (sp. zn. I. ÚS 212/06). Ústavní soud se tak přihlásil k doktríně, podle níž předvídatelné může být jen takové rozhodnutí, jemuž předchází předvídatelný postup soudu při jednání a dokazování. Účastníci nesmějí být zaskočeni možným jiným posouzením věci soudem, aniž by jim bylo umožněno tvrdit skutečnosti významné z hlediska soudcova názoru a nabídnout k jejich prokázání důkazy"
 
 ### Výklad / smysl ustanovení
 
@@ -265,10 +259,10 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 3314/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/922265BF8A863D45C1258C4200529C4C?openDocument) — 29. 1. 2025, kat. A
-  > „Jestliže poté, kdy účastníkům na základě řádně poskytnutého poučení podle § 118b odst. 1 o. s. ř. uplynula koncentrační lhůta, byl některý z nich soudem vyzván podle § 118a odst. 1 až 3 o. s. ř. k doplnění rozhodných tvrzení o věci samé a označení důkazů k jejich prokázání (§ 118b odst. 1 poslední věta o. s. ř.), pak v rozsahu takto poskytnutého poučení mohou účastníci doplňovat tvrzení a označovat důkazy i po uplynutí lhůty soudem k tomu ve výzvě určené"
-- *NS* [29 Odo 1538/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12DA050CF9DE0715C1257A4E0066AEA6?openDocument) — 27. 3. 2008, kat. A
+- *NS* [29 Odo 1538/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12DA050CF9DE0715C1257A4E0066AEA6?openDocument) — kat. A, 27. 3. 2008
   > „I v režimu zákonné koncentrace řízení podle § 118b odst. 1 o. s. ř. není soud zbaven povinnosti provést i jiné než účastníky navržené důkazy, jestliže potřeba jejich provedení vyšla v řízení najevo (§ 120 odst. 3 o. s. ř.). Zákonná koncentrace řízení omezuje soud v rozsahu těchto aktivit potud, že může brát v úvahu jen takové důkazy, jejichž potřeba provedení vyšla najevo do skončení prvního jednání, které se ve věci konalo"
+- *NS* [30 Cdo 3314/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/922265BF8A863D45C1258C4200529C4C?openDocument) — kat. A, 29. 1. 2025
+  > „Jestliže poté, kdy účastníkům na základě řádně poskytnutého poučení podle § 118b odst. 1 o. s. ř. uplynula koncentrační lhůta, byl některý z nich soudem vyzván podle § 118a odst. 1 až 3 o. s. ř. k doplnění rozhodných tvrzení o věci samé a označení důkazů k jejich prokázání (§ 118b odst. 1 poslední věta o. s. ř.), pak v rozsahu takto poskytnutého poučení mohou účastníci doplňovat tvrzení a označovat důkazy i po uplynutí lhůty soudem k tomu ve výzvě určené"
 
 ### Výklad / smysl ustanovení
 
