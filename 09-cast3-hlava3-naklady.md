@@ -120,64 +120,6 @@ Náklady řízení jsou demonstrativně vymezeny; rozhodující je, zda položka
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=997ae232acf3fd1a7f22 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 137
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Náklady řízení jsou zejména hotové výdaje účastníků a jejich zástupců, včetně soudního poplatku, ušlý výdělek účastníků a jejich zákonných zástupců, náklady důkazů, tlumočné, náhrada za daň z přidané hodnoty, odměna za zastupování a odměna pro mediátora podle zákona o mediaci za první setkání s mediátorem nařízené soudem podle § 100 odst. 2.
->
-> (2) Odměna za zastupování patří k nákladům řízení, jen je-li zástupcem advokát nebo notář v rozsahu svého oprávnění stanoveného zvláštními právními předpisy57) anebo patentový zástupce v rozsahu oprávnění stanoveného zvláštními právními předpisy.57b)
->
-> (3) Náhrada za daň z přidané hodnoty patří k nákladům řízení, jen je-li zástupcem
->
-> - a) advokát, notář v rozsahu svého oprávnění stanoveného zvláštními právními předpisy57) nebo patentový zástupce v rozsahu svého oprávnění stanoveného zvláštními právními předpisy,57b) který je plátcem daně z přidané hodnoty podle zvláštního právního předpisu,57d)
->
-> - b) advokát, který je společníkem právnické osoby zřízené za účelem výkonu advokacie podle zvláštního právního předpisu,57e) a plátcem daně z přidané hodnoty podle zvláštního právního předpisu57d) je tato právnická osoba,
->
-> - c) patentový zástupce v rozsahu svého oprávnění stanoveného zvláštními právními předpisy,57b) který je společníkem, akcionářem, zaměstnancem nebo členem statutárního nebo dozorčího orgánu společnosti patentových zástupců,57f) a plátcem daně z přidané hodnoty podle zvláštního právního předpisu57d) je tato právnická osoba,
->
-> - d) advokát, který je zaměstnancem jiného advokáta nebo právnické osoby zřízené za účelem výkonu advokacie podle zvláštního právního předpisu,57e) a plátcem daně z přidané hodnoty podle zvláštního právního předpisu57d) je tento zaměstnavatel advokáta.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 100
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=997ae232acf3fd1a7f22 -->
-
 ## § 138 — Osvobození od soudních poplatků
 
 > (1) Na návrh může předseda senátu přiznat účastníkovi zčásti osvobození od soudních poplatků, odůvodňují-li to poměry účastníka a nejde-li o svévolné nebo zřejmě bezúspěšné uplatňování nebo bránění práva; přiznat účastníkovi osvobození od soudních poplatků zcela lze pouze výjimečně, jsou-li proto zvlášť závažné důvody, a toto rozhodnutí musí být odůvodněno. Nerozhodne-li předseda senátu jinak, vztahuje se osvobození na celé řízení a má i zpětnou účinnost; poplatky zaplacené před rozhodnutím o osvobození se však nevracejí.
@@ -259,56 +201,6 @@ Osvobození od soudních poplatků je nástrojem přístupu k soudu pro nemajetn
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2de2da751a540ff3236e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 138
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Na návrh může předseda senátu přiznat účastníkovi zčásti osvobození od soudních poplatků, odůvodňují-li to poměry účastníka a nejde-li o svévolné nebo zřejmě bezúspěšné uplatňování nebo bránění práva; přiznat účastníkovi osvobození od soudních poplatků zcela lze pouze výjimečně, jsou-li proto zvlášť závažné důvody, a toto rozhodnutí musí být odůvodněno. Nerozhodne-li předseda senátu jinak, vztahuje se osvobození na celé řízení a má i zpětnou účinnost; poplatky zaplacené před rozhodnutím o osvobození se však nevracejí.
->
-> (2) Přiznané osvobození předseda senátu kdykoli za řízení odejme, popřípadě i se zpětnou účinností, jestliže se do pravomocného skončení řízení ukáže, že poměry účastníka osvobození neodůvodňují, popřípadě neodůvodňovaly.
->
-> (3) Byl-li účastníku osvobozenému od soudních poplatků ustanoven zástupce, vztahuje se osvobození v rozsahu, v jakém bylo přiznáno, i na hotové výdaje zástupce a na odměnu za zastupování.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2de2da751a540ff3236e -->
-
 ## § 139 — Náhrady svědků, znalců, edicí
 
 > (1) Svědci a fyzické osoby uvedené v § 126a mají právo na náhradu hotových výdajů a ušlého výdělku (svědečné). Toto právo zaniká, není-li uplatněno do tří dnů od výslechu nebo ode dne, kdy bylo svědku oznámeno, že k výslechu nedojde. O tom musí soud svědka a fyzické osoby uvedené v § 126a poučit.
@@ -372,58 +264,6 @@ Svědek a osoby s jeho právy (vč. edicí povinného neúčastníka) mají nár
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=556102bb7889bf938a61 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 139
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Svědci a fyzické osoby uvedené v [[#§ 126a|§ 126a]] mají právo na náhradu hotových výdajů a ušlého výdělku (svědečné). Toto právo zaniká, není-li uplatněno do tří dnů od výslechu nebo ode dne, kdy bylo svědku oznámeno, že k výslechu nedojde. O tom musí soud svědka a fyzické osoby uvedené v [[#§ 126a|§ 126a]] poučit.
->
-> (2) Byl-li podán znalecký posudek nebo proveden tlumočnický úkon, vzniká právo na náhradu hotových výdajů a na odměnu (znalečné a tlumočné). Zvláštní předpisy stanoví, komu a v jaké výši se znalečné a tlumočné vyplácí.
->
-> (3) Ten, komu soud uložil při dokazování nějakou povinnost, zejména aby předložil listinu, má tatáž práva jako svědek, není-li účastníkem. Musí je uplatnit za týchž podmínek jako svědek.
->
-> (4) O právech podle odstavců 1 až 3 rozhoduje předseda senátu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 126a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=556102bb7889bf938a61 -->
-
 ## PLACENÍ NÁKLADŮ BĚHEM ŘÍZENÍ (§ 140 — § 141)
 
 ## § 140 — Kdo platí v průběhu
@@ -485,56 +325,6 @@ V průběhu řízení platí každý své náklady a náklady svého zástupce; 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=71474024adbd1499185e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 140
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Každý účastník platí náklady řízení, které vznikají jemu osobně, a náklady svého zástupce. Společné náklady platí účastníci podle poměru účastenství na věci a na řízení; nelze-li poměr účastenství určit, platí je rovným dílem. Účastníci uvedení v § 91 odst. 2 platí společné náklady společně a nerozdílně.
->
-> (2) Byl-li ustanoven účastníku zástupcem nebo opatrovníkem advokát, platí jeho hotové výdaje a odměnu za zastupování, popřípadě též náhradu za daň z přidané hodnoty, stát; při určení náhrady hotových výdajů a odměny za zastupování se postupuje podle ustanovení zvláštního právního předpisu o mimosmluvní odměně64) a náhradu za daň z přidané hodnoty soud určí z odměny za zastupování a z náhrady hotových výdajů podle sazby daně z přidané hodnoty stanovené zvláštním právním předpisem.57d) V odůvodněných případech stát poskytne advokátovi přiměřenou zálohu.
->
-> (3) Bylo-li nařízeno první setkání s mediátorem podle § 100 odst. 2 nebo § 114c odst. 3 písm. d), platí odměnu za účastníka osvobozeného od soudních poplatků stát; při určení odměny za zastupování se postupuje podle ustanovení zvláštního právního předpisu a náhradu za daň z přidané hodnoty soud určí z odměny podle sazby daně z přidané hodnoty stanovené zvláštním právním předpisem.57d)
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 91, § 100, § 114c
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=71474024adbd1499185e -->
-
 ## § 141 — Záloha na náklady důkazů
 
 > (1) Lze-li očekávat náklady důkazu, který účastník navrhl nebo který nařídil soud o skutečnostech jím uvedených anebo v jeho zájmu, uloží předseda senátu tomuto účastníku, není-li osvobozen od soudních poplatků, aby před jeho provedením složil zálohu podle předpokládané výše nákladů, jinak nelze důkaz navrhovaný účastníkem provést, o tom musí být účastník poučen.
@@ -595,54 +385,6 @@ Náklady důkazu navrženého účastníkem (typicky znalečné) musí neosvoboz
 **Typicky rozhodné důkazy / podklady:** usnesení o uložení zálohy s poučením; doklad o složení/nesložení zálohy; rozhodnutí o osvobození; návrh na ustanovení znalce.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=06ef7739a5b494a053db generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 141
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Lze-li očekávat náklady důkazu, který účastník navrhl nebo který nařídil soud o skutečnostech jím uvedených anebo v jeho zájmu, uloží předseda senátu tomuto účastníku, není-li osvobozen od soudních poplatků, aby před jeho provedením složil zálohu podle předpokládané výše nákladů, jinak nelze důkaz navrhovaný účastníkem provést, o tom musí být účastník poučen.
->
-> (2) Náklady důkazů, které nejsou kryty zálohou, jakož i hotové výdaje ustanoveného zástupce, který není advokátem, a náklady spojené s tím, že účastník jedná ve své mateřštině nebo se dorozumívá některým z komunikačních systémů neslyšících a hluchoslepých osob, platí stát.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=06ef7739a5b494a053db -->
 
 ## NÁHRADA NÁKLADŮ PO SKONČENÍ (§ 142 — § 150)
 
@@ -732,58 +474,6 @@ Rozhodování o náhradě nákladů ovládá zásada úspěchu ve věci. Plný �
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=fa26528fc54dcba8d1a7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 142
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Účastníku, který měl ve věci plný úspěch, přizná soud náhradu nákladů potřebných k účelnému uplatňování nebo bránění práva proti účastníku, který ve věci úspěch neměl.
->
-> (2) Měl-li účastník ve věci úspěch jen částečný, soud náhradu nákladů poměrně rozdělí, popřípadě vysloví, že žádný z účastníků nemá na náhradu nákladů právo.
->
-> (3) I když měl účastník ve věci úspěch jen částečný, může mu soud přiznat plnou náhradu nákladů řízení, měl-li neúspěch v poměrně nepatrné části nebo záviselo-li rozhodnutí o výši plnění na znaleckém posudku nebo na úvaze soudu.
->
-> (4) V řízení zahájeném na návrh nejvyššího státního zástupce nebo státního zastupitelství podle zvláštních předpisů58) přizná soud žalovanému za podmínek uvedených v odstavcích 1 až 3 náhradu těchto nákladů proti státu. To platí obdobně, bylo-li řízení zahájeno na návrh Úřadu pro zastupování státu ve věcech majetkových v případech a za podmínek uvedených v [[#§ 35a|§ 35a]] nebo na návrh ochránce práv dětí v případech a za podmínek uvedených v [[#§ 35b|§ 35b]].
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 35a, § 35b
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fa26528fc54dcba8d1a7 -->
-
 ## § 142a — Předžalobní výzva k plnění (klíčová podmínka pro náhradu nákladů!)
 
 > (1) Žalobce, který měl úspěch v řízení o splnění povinnosti, má právo na náhradu nákladů řízení proti žalovanému, jen jestliže žalovanému ve lhůtě nejméně 7 dnů před podáním návrhu na zahájení řízení zaslal na adresu pro doručování, případně na poslední známou adresu výzvu k plnění.
@@ -857,54 +547,6 @@ U žalob na splnění povinnosti je předžalobní výzva k plnění zaslaná ne
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=899747a81f63a359e70c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 142a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Žalobce, který měl úspěch v řízení o splnění povinnosti, má právo na náhradu nákladů řízení proti žalovanému, jen jestliže žalovanému ve lhůtě nejméně 7 dnů před podáním návrhu na zahájení řízení zaslal na adresu pro doručování, případně na poslední známou adresu výzvu k plnění.
->
-> (2) Jsou-li tu důvody hodné zvláštního zřetele, může soud výjimečně náhradu nákladů řízení zcela nebo zčásti žalobci přiznat i v případě, že žalobce žalovanému výzvu k plnění za podmínek uvedených v odstavci 1 nezaslal.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=899747a81f63a359e70c -->
-
 ## § 143 — Žalovaný úspěšný, ale „zavdal příčinu"
 
 > Žalovaný, který neměl úspěch ve věci, má právo na náhradu nákladů řízení proti žalobci, jestliže svým chováním nezavdal příčinu k podání návrhu na zahájení řízení.
@@ -967,52 +609,6 @@ U žalob na splnění povinnosti je předžalobní výzva k plnění zaslaná ne
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c17ebbbd5dc32da974ea generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 143
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Žalovaný, který neměl úspěch ve věci, má právo na náhradu nákladů řízení proti žalobci, jestliže svým chováním nezavdal příčinu k podání návrhu na zahájení řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c17ebbbd5dc32da974ea -->
-
 ## § 145 — Náklady souvisejících institutů
 
 > Účastníku, jemuž soud přizná náhradu nákladů řízení, přizná i náhradu nákladů předběžného opatření a zajištění důkazů, zajištění důkazů a zajištění předmětu důkazního prostředku ve věcech týkajících se práv z duševního vlastnictví.
@@ -1062,52 +658,6 @@ Náklady předběžného opatření a zajištění důkazů (vč. zajištění p
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o předběžném opatření a o zajištění důkazu; doklady o zaplacení poplatků a nákladech úschovy vzorků; vyčíslení nákladů; výrok o věci samé.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=d4344242bb3e48d2aa17 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 145
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Účastníku, jemuž soud přizná náhradu nákladů řízení, přizná i náhradu nákladů předběžného opatření a zajištění důkazů, zajištění důkazů a zajištění předmětu důkazního prostředku ve věcech týkajících se práv z duševního vlastnictví.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d4344242bb3e48d2aa17 -->
 
 ## § 146 — Zpětvzetí, smír, zastavení
 
@@ -1182,60 +732,6 @@ Skončí-li řízení smírem nebo zastavením, zásadně nemá nikdo právo na 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=bb4382f180bfd8592375 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 146
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Žádný z účastníků nemá právo na náhradu nákladů řízení podle jeho výsledku, jestliže řízení
->
-> - a) skončilo smírem, pokud v něm nebylo o náhradě nákladů ujednáno něco jiného;
->
-> - b) bylo zastaveno.
->
-> (2) Jestliže některý z účastníků zavinil, že řízení muselo být zastaveno, je povinen hradit jeho náklady. Byl-li však pro chování žalovaného (jiného účastníka řízení) vzat zpět návrh, který byl podán důvodně, je povinen hradit náklady řízení žalovaný (jiný účastník řízení).
->
-> (3) Odmítne-li soud žalobu nebo jiný návrh na zahájení řízení, je žalobce (navrhovatel) povinen nahradit ostatním účastníkům jejich náklady.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bb4382f180bfd8592375 -->
-
 ## § 147 — Procesní zavinění
 
 > (1) Účastníku nebo jeho zástupci může soud uložit, aby hradili náklady řízení, které by jinak nebyly vznikly, jestliže je způsobili svým zaviněním nebo jestliže tyto náklady vznikly náhodou, která se jim přihodila.
@@ -1303,54 +799,6 @@ Náklady, které by jinak nevznikly a které účastník nebo jeho zástupce zp�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5365847a106498fd741b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 147
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Účastníku nebo jeho zástupci může soud uložit, aby hradili náklady řízení, které by jinak nebyly vznikly, jestliže je způsobili svým zaviněním nebo jestliže tyto náklady vznikly náhodou, která se jim přihodila.
->
-> (2) Soud může uložit svědkům, fyzickým osobám uvedeným v [[#§ 126a|§ 126a]], znalcům, tlumočníkům nebo těm, kteří při dokazování měli nějakou povinnost, jestliže zavinili náklady řízení, které by jinak nebyly vznikly, aby je nahradili účastníkům.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 126a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5365847a106498fd741b -->
-
 ## § 148 — Stát vs. účastník
 
 > (1) Stát má podle výsledků řízení proti účastníkům právo na náhradu nákladů řízení, které platil, pokud u nich nejsou předpoklady pro osvobození od soudních poplatků.
@@ -1405,56 +853,6 @@ Náklady, které v průběhu řízení platil stát (odměna ustanoveného advok
 **Typicky rozhodné důkazy / podklady:** usnesení o ustanovení advokáta a o přibrání tlumočníka; vyúčtování státem hrazených nákladů; doklad o (ne)splnění předpokladů osvobození; protokol prokazující zaviněné zbytečné náklady.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c0602fcc2d0e8a601555 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 148
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Stát má podle výsledků řízení proti účastníkům právo na náhradu nákladů řízení, které platil, pokud u nich nejsou předpoklady pro osvobození od soudních poplatků.
->
-> (2) Soud může uložit svědkům, fyzickým osobám uvedeným v [[#§ 126a|§ 126a]], znalcům, tlumočníkům nebo těm, kteří při dokazování měli nějakou povinnost, aby nahradili státu náklady řízení, které by jinak nebyly vznikly, jestliže je zavinili.
->
-> (3) Při správě placení pohledávek uvedených v odstavcích 1 a [[#§ 2|2]] se postupuje podle [[daňového řádu|daňového řádu]]. Tyto pohledávky vymáhá celní úřad.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 126a, § 2
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c0602fcc2d0e8a601555 -->
 
 ## § 149 — Komu se náhrada nákladů zaplatí
 
@@ -1519,58 +917,6 @@ Přisouzená náhrada nákladů řízení se u zastoupení advokátem platí př
 **Typicky rozhodné důkazy / podklady:** plná moc / usnesení o ustanovení zástupce; doklad o postavení zástupce (advokát/notář/patentový zástupce); vyčíslení nákladů; platební výrok rozhodnutí.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c6d128d14928dec0b791 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 149
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Zastupoval-li advokát účastníka, jemuž byla přisouzena náhrada nákladů řízení, je ten, jemuž byla uložena náhrada těchto nákladů, povinen zaplatit ji advokátu.
->
-> (2) Zastupoval-li ustanovený advokát účastníka, jemuž byla přisouzena náhrada nákladů řízení, je ten, jemuž byla uložena náhrada těchto nákladů, povinen zaplatit státu náhradu hotových výdajů advokáta a odměnu za zastupování.
->
-> (3) Zastupoval-li účastníka, jemuž byla přisouzena náhrada nákladů řízení, jiný zástupce než podle § 137 odst. 2, je ten, jemuž byla uložena náhrada těchto nákladů, povinen zaplatit ji účastníkovi.
->
-> (4) Ustanovení odstavce 1 platí obdobně, zastupoval-li účastníka notář v rozsahu svého oprávnění stanoveného zvláštními předpisy57) nebo patentový zástupce v rozsahu oprávnění stanoveného zvláštními právními předpisy.57b)
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 137
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c6d128d14928dec0b791 -->
 
 ## § 150 — MODERAČNÍ DŮVOD (klíčový institut!)
 
@@ -1652,52 +998,6 @@ Přisouzená náhrada nákladů řízení se u zastoupení advokátem platí př
 **Typicky rozhodné důkazy / podklady:** doklady o sociálních/majetkových poměrech účastníka; doklady o povaze vztahu mezi účastníky; vyčíslení nákladů ve vztahu k předmětu sporu; protokol o (ne)účasti na mediaci; návrh na aplikaci § 150 a jeho odůvodnění.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c77cec4050238b45e1b9 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 150
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Jsou-li tu důvody hodné zvláštního zřetele, nebo odmítne-li se účastník bez vážného důvodu zúčastnit prvního setkání s mediátorem nařízeného soudem, nemusí soud výjimečně náhradu nákladů řízení zcela nebo zčásti přiznat.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c77cec4050238b45e1b9 -->
 
 ## ROZHODOVÁNÍ O NÁKLADECH (§ 151)
 
@@ -1795,62 +1095,6 @@ O náhradě nákladů rozhoduje soud bez návrhu zpravidla v rozhodnutí, jímž
 **Typicky rozhodné důkazy / podklady:** spisový přehled úkonů právní služby; doklad o zaplacení soudního poplatku; registrace zástupce k DPH; doklady o hotových výdajích / paušál; znalecké vyúčtování podle § 127a.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=eabd2920cf0599d76b06 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 151
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) O povinnosti k náhradě nákladů řízení rozhodne soud bez návrhu v rozhodnutí, jímž se řízení u něho končí; u náhrady nákladů řízení podle [[#§ 147|§ 147]] a § 148 odst. 2 tak může učinit již v průběhu řízení, a to zpravidla tehdy, jakmile tyto náklady vzniknou.
->
-> (2) Při rozhodování o náhradě nákladů řízení soud určí výši odměny za zastupování advokátem nebo notářem v rámci jeho oprávnění stanoveného zvláštním právním předpisem57) anebo patentovým zástupcem v rozsahu jeho oprávnění stanoveného zvláštními právními předpisy57b) podle ustanovení zvláštního právního předpisu o mimosmluvní odměně.64) Náhradu za daň z přidané hodnoty soud určí z odměny za zastupování a z náhrad podle sazby daně z přidané hodnoty stanovené zvláštním právním předpisem.57d) Náhradu mzdy (platu) a náhradu hotových výdajů soud stanoví podle zvláštních právních předpisů. Náhradu za odměnu znalce, který podal posudek podle [[#§ 127a|§ 127a]], soud určí podle sazby odměny stanovené zvláštním právním předpisem. Jinak soud vychází z nákladů, které účastníku prokazatelně vznikly.
->
-> (3) Účastníku, který nebyl v řízení zastoupen zástupcem podle § 137 odst. 2 a který nedoložil výši hotových výdajů svých nebo svého jiného zástupce, přizná soud náhradu v paušální výši určené zvláštním právním předpisem. Paušální náhrada zahrnuje hotové výdaje účastníka a jeho zástupce; nezahrnuje však náhradu soudního poplatku.
->
-> (4) Náklady řízení, které by jinak nebyly vznikly, protože je způsobili účastníci řízení, jejich zástupci svým zaviněním nebo jestliže tyto náklady vznikly náhodou, která se jim přihodila, nebo protože je způsobili svědci, osoby uvedené v [[#§ 126a|§ 126a]], znalci, tlumočníci nebo ti, kteří při dokazování měli nějakou povinnost, nemohou být nahrazeny z jiného důvodu než podle [[#§ 147|§ 147]].
->
-> (5) Určit výši nákladů může předseda senátu až v písemném vyhotovení rozhodnutí.
->
-> (6) I když bylo o náhradě nákladů řízení rozhodnuto samostatným usnesením, běží lhůta k plnění vždy až od právní moci rozhodnutí, jímž byla náhrada nákladů řízení přiznána.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 147, § 148, § 127a, § 137, § 126a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=eabd2920cf0599d76b06 -->
 
 ## DALŠÍ PARAGRAFY (§ 151a — § 151b)
 

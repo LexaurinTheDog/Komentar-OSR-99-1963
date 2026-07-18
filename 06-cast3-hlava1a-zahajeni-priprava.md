@@ -153,56 +153,6 @@ Jan Novák [podpis]
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=84d9f78ed564c05322dc generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 79
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Řízení se zahajuje na návrh. Návrh musí kromě obecných náležitostí (§ 42 odst. 4) obsahovat jméno, příjmení, bydliště účastníků, popřípadě rodná čísla nebo identifikační čísla účastníků (obchodní firmu nebo název a sídlo právnické osoby, identifikační číslo, označení státu a příslušné organizační složky státu, která za stát před soudem vystupuje), popřípadě též jejich zástupců, vylíčení rozhodujících skutečností, označení důkazů, jichž se navrhovatel dovolává, a musí být z něj patrno, čeho se navrhovatel domáhá. Ve věcech, v nichž je účastníkem řízení svěřenský správce, musí návrh dále obsahovat i označení, že se jedná o svěřenského správce, a označení svěřenského fondu. Tento návrh, týká-li se dvoustranných právních poměrů mezi žalobcem a žalovaným ([[#§ 90|§ 90]]), se nazývá žalobou.
->
-> (2) Žalobce je povinen k návrhu připojit písemné důkazy, jichž se dovolává, a to v listinné nebo v elektronické podobě.
->
-> (3) Žalobu (návrh na zahájení řízení) soud doručí ostatním účastníkům do vlastních rukou. Žalobce (navrhovatel) může obeznámit žalovaného (ostatní účastníky řízení) s obsahem návrhu tím, že vedle stejnopisu žaloby (návrhu) doručovaného soudem mu sám zašle další stejnopis.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 42, § 90
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=84d9f78ed564c05322dc -->
-
 ## § 80 — Určovací žaloba
 
 > Určení, zda tu právní poměr nebo právo je či není, se lze žalobou domáhat jen tehdy, je-li na tom naléhavý právní zájem.
@@ -304,52 +254,6 @@ Určovací žaloba je nástrojem odstranění právní nejistoty se závazností
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=8191a408b1852e88d8d2 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 80
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Určení, zda tu právní poměr nebo právo je či není, se lze žalobou domáhat jen tehdy, je-li na tom naléhavý právní zájem.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8191a408b1852e88d8d2 -->
-
 ## § 82 — Okamžik zahájení řízení
 
 ### Výklad
@@ -409,56 +313,6 @@ Okamžik zahájení (§ 82) je kotvou pro stavení promlčení (§ 648 OZ) i pro
 **Typicky rozhodné důkazy / podklady:** dodejka/doručenka datové zprávy, výpis z informačního systému soudu o čase dodání, otisk časového razítka, případně postupovací usnesení jiného orgánu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=6c5477509a52f2b3ef3f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 82
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Řízení je zahájeno dnem, kdy došel soudu návrh na jeho zahájení. Pokud je návrh na zahájení řízení učiněn prostřednictvím veřejné datové sítě a elektronické aplikace určené k podání takového návrhu, platí, že řízení je zahájeno v okamžiku, kdy je návrh dostupný informačnímu systému určenému k příjmu takového podání.
->
-> (2) Předcházelo-li řízení u soudu řízení u jiného orgánu, je řízení u soudu zahájeno dnem, kdy postoupená věc došla soudu.
->
-> (3) Odmítl-li žalobu (návrh na zahájení řízení) soud, který rozhoduje podle zvláštního zákona96) věci správního soudnictví, protože šlo o věc, kterou soudy projednávají a rozhodují v občanském soudním řízení, a došla-li soudu příslušnému k občanskému soudnímu řízení do jednoho měsíce od právní moci usnesení žaloba (návrh na zahájení řízení) v této věci, platí, že řízení o ní je u soudu zahájeno dnem, kdy soudu došla odmítnutá žaloba (návrh na zahájení řízení).
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6c5477509a52f2b3ef3f -->
 
 ## § 83 — Litispendence (překážka věci zahájené)
 
@@ -530,62 +384,6 @@ Litispendence (§ 83) brání dvojímu projednání téže věci; pozdější ř
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=edc0a46ba1a4e693f894 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 83
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Zahájení řízení brání tomu, aby o téže věci probíhalo u soudu jiné řízení.
->
-> (2) Zahájení řízení
->
-> - a) o zdržení se protiprávního jednání nebo o odstranění závadného stavu ve věcech ochrany práv porušených nebo ohrožených nekalým soutěžním jednáním,
->
-> - b) ve věcech náhrady škody nebo dorovnání výše protiplnění podle zákona o nabídkách převzetí anebo ve věcech přezkoumání protiplnění při výkupu účastnických cenných papírů,
->
-> - c) v dalších věcech stanovených zvláštními právními předpisy,
->
-> brání též tomu, aby proti témuž žalovanému probíhalo u soudu další řízení o žalobách jiných žalobců požadujících z téhož jednání nebo stavu stejné nároky.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=edc0a46ba1a4e693f894 -->
-
 ## MÍSTNÍ PŘÍSLUŠNOST (§ 84 — § 89a)
 
 OSŘ rozlišuje **čtyři typy místní příslušnosti**:
@@ -654,52 +452,6 @@ Základní pravidlo místní příslušnosti zní actor sequitur forum rei — �
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního/jiného rejstříku nebo evidence obyvatel k určení obecného soudu žalovaného, žaloba, případně doklady k výjimkám (poloha nemovitosti, místo škodní události).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ab874da8e55fbf8e4f32 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 84
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> K řízení je příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ab874da8e55fbf8e4f32 -->
 
 ## § 85 — Obecný soud
 
@@ -775,64 +527,6 @@ Obecný soud FO (§ 85) se určuje primárně podle faktického bydliště; evid
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a685713e6dda2e9874ad generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 85
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Nestanoví-li zákon jinak, je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště, a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Má-li fyzická osoba bydliště na více místech, jsou jejím obecným soudem všechny okresní soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale. Nelze-li zjistit bydliště fyzické osoby nebo nelze-li zjistit, v obvodu kterého okresního soudu se fyzická osoba zdržuje, nebo lze-li to zjistit jen s velkými obtížemi, je obecným soudem fyzické osoby okresní soud, v jehož obvodu se nachází místo trvalého pobytu evidované v informačním systému evidence obyvatel podle zákona o evidenci obyvatel, popřípadě místo jiného pobytu evidované podle jiných právních předpisů.
->
-> (2) Obecným soudem fyzické osoby, která je podnikatelem, je ve věcech vyplývajících z podnikatelské činnosti okresní soud, v jehož obvodu má sídlo; nemá-li sídlo, určuje se její obecný soud podle odstavce 1.
->
-> (3) Obecným soudem právnické osoby je okresní soud, v jehož obvodu má sídlo.
->
-> (4) Obecným soudem insolvenčního správce při výkonu jeho funkce je okresní soud, v jehož obvodu má sídlo.
->
-> (5) Obecným soudem státu je okresní soud, v jehož obvodu má sídlo organizační složka státu příslušná podle zvláštního právního předpisu, a nelze-li takto místně příslušný soud určit, soud, v jehož obvodu nastala skutečnost, která zakládá uplatněné právo.
->
-> (6) Obecným soudem obce je okresní soud, v jehož obvodu má své území.
->
-> (7) Obecným soudem vyššího územně samosprávného celku je okresní soud, v jehož obvodu mají sídlo jeho orgány.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a685713e6dda2e9874ad -->
-
 ## § 85a — Krajský soud, je-li věcně příslušný
 
 > Je-li pro řízení v prvním stupni věcně příslušný krajský soud a místní příslušnost se řídí obecným soudem účastníka, je místně příslušným krajský soud, v jehož obvodu je obecný soud účastníka.
@@ -880,52 +574,6 @@ Pokud je věcně příslušný krajský soud (= věc podle § 9 odst. 2 — typi
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku o sídle žalované PO, podklady prokazující povahu věci jako krajské agendy (§ 9 odst. 2), napadené usnesení valné hromady a související listiny.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=9ee238d277959014adb9 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 85a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Je-li pro řízení v prvním stupni věcně příslušný krajský soud a místní příslušnost se řídí obecným soudem účastníka, je místně příslušným krajský soud, v jehož obvodu je obecný soud účastníka.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9ee238d277959014adb9 -->
 
 ## § 86 — Žalovaný bez českého obecného soudu
 
@@ -984,56 +632,6 @@ Klíčové pro **přeshraniční spory**. Pozor — pro EU jsou pravidla **Nař�
 **Typicky rozhodné důkazy / podklady:** výpis z rejstříku o organizační složce závodu v ČR, smlouva a komunikace dokládající uzavření obchodu touto složkou, doklady o majetku žalovaného v ČR, podklady o posledním známém bydlišti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5537ba2876bc1300ba23 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 86
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jestliže žalovaný, který je občanem České republiky, nemá obecný soud anebo nemá obecný soud v České republice, je příslušný soud, v jehož obvodu měl v České republice poslední známé bydliště.
->
-> (2) Proti tomu, kde nemá jiný příslušný soud v České republice, je možno uplatnit majetková práva u soudu, v jehož obvodu má majetek.
->
-> (3) Proti zahraniční osobě lze podat žalobu (návrh na zahájení řízení) i u soudu, v jehož obvodu je v České republice umístěn její závod nebo organizační složka jejího závodu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5537ba2876bc1300ba23 -->
 
 ## § 87 — Místní příslušnost na výběr daná
 
@@ -1104,68 +702,6 @@ Klíčové pro **přeshraniční spory**. Pozor — pro EU jsou pravidla **Nař�
 **Typicky rozhodné důkazy / podklady:** protokol/listiny dokládající místo a okolnosti škodní události, znalecký posudek o výši škody, u směnek listina a údaj o platebním místě, doklady o obecném soudu žalovaného.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2132d09d37f93d074aa3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 87
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Vedle obecného soudu žalovaného, popřípadě vedle soudu uvedeného v [[#§ 85a|§ 85a]], je k řízení příslušný také soud, v jehož obvodu
->
-> - a) má žalovaný své stálé pracoviště;
->
-> - b) došlo ke skutečnosti, která zakládá právo na náhradu újmy;
->
-> - c) je umístěna organizační složka závodu fyzické nebo právnické osoby, která je žalovanou, týká-li se spor této složky;
->
-> - d) je sídlo osoby, která organizuje regulovaný trh nebo provozuje mnohostranný obchodní systém, jde-li o spor z obchodu
->
-> - 1. na jí organizovaném regulovaném trhu, nebo z vypořádání tohoto obchodu, nebo
->
-> - 2. v jí provozovaném mnohostranném obchodním systému, nebo z vypořádání tohoto obchodu,
->
-> - e) je platební místo, uplatňuje-li se právo ze směnky, šeku nebo jiného cenného papíru,
->
-> - f) je sídlo komoditní burzy, jde-li o spor z obchodu na komoditní burze.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 85a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2132d09d37f93d074aa3 -->
 
 ## § 88 — Místní příslušnost výlučná
 
@@ -1244,70 +780,6 @@ Klíčové pro **přeshraniční spory**. Pozor — pro EU jsou pravidla **Nař�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=fc9c8a80d985040f9322 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 88
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Namísto obecného soudu, popřípadě namísto soudu uvedeného v [[#§ 85a|§ 85a]], je k řízení příslušný soud,
->
-> - a) který rozhodoval o rozvodu, jde-li o vypořádání manželů po rozvodu stran jejich společného jmění nebo jiného majetku anebo o zrušení společného nájmu bytu,
->
-> - b) v jehož obvodu je nemovitá věc, týká-li se řízení práva k ní, není-li dána příslušnost podle písmene a),
->
-> - c) u něhož probíhá řízení o pozůstalosti, jde-li o rozhodnutí sporu v souvislosti s řízením o pozůstalosti,
->
-> - d) u něhož probíhá řízení o úschovách, jde-li o rozhodnutí, že ten, kdo odporoval vydání předmětu úschovy žadateli, je povinen s ním souhlasit,
->
-> - e) u něhož je prováděn výkon rozhodnutí, jde-li o vyloučení věci z výkonu rozhodnutí nebo o rozhodnutí o pravosti, výši, skupině nebo pořadí pohledávek přihlášených k rozvrhu,
->
-> - f) v jehož obvodu má sídlo organizační jednotka železničního dopravce, týká-li se spor na straně žalovaného této jednotky,
->
-> - g) u něhož probíhá řízení, jde-li o žalobu podle [[#§ 91a|§ 91a]],
->
-> - h) v jehož obvodu byla provedena dražba, jde-li o věc veřejné dražby podle zákona [[o veřejných dražbách|o veřejných dražbách]],
->
-> - i) který je obecným soudem žalobce, jde-li o ochranu držby práva k věci, není-li touto věcí věc nemovitá.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 85a, § 91a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fc9c8a80d985040f9322 -->
-
 ## § 89 — Přiřazení souvisejících věcí + vzájemné návrhy
 
 > Soud, který je příslušný k řízení o určité věci, je příslušný i k řízení o věcech s ní spojených a o vzájemných návrzích žalovaného, s výjimkou věcí uvedených v § 88.
@@ -1357,52 +829,6 @@ Soud příslušný pro **hlavní věc** je příslušný i pro:
 **Typicky rozhodné důkazy / podklady:** smlouva a doklady k hlavnímu nároku i k vzájemnému návrhu (faktury, reklamace, doklad o škodě), podklady prokazující souvislost obou věcí, případně údaje o poloze nemovitosti při úvaze o § 88.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=32f87c99131c3712f2f1 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 89
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Soud, který je příslušný k řízení o určité věci, je příslušný i k řízení o věcech s ní spojených a o vzájemných návrzích žalovaného, s výjimkou věcí uvedených v [[#§ 88|§ 88]].
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 88
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=32f87c99131c3712f2f1 -->
 
 ## § 89a — Prorogace mezi podnikateli
 
@@ -1459,52 +885,6 @@ Prorogace (§ 89a) umožňuje podnikatelům písemně zvolit místně přísluš
 **Typicky rozhodné důkazy / podklady:** písemná smlouva s prorogační doložkou, výpisy z obchodního rejstříku k podnikatelskému statusu stran, podklady o podnikatelském původu věci.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=d456f365ee187dce1dd4 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 89a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Účastníci řízení ve věcech týkajících se vztahů mezi podnikateli vyplývajících z podnikatelské činnosti se mohou písemně dohodnout na místní příslušnosti jiného soudu prvního stupně, ledaže zákon stanoví příslušnost výlučnou.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d456f365ee187dce1dd4 -->
 
 ## ÚČASTNÍCI VE SPORNÉM ŘÍZENÍ (§ 90 — § 94)
 
@@ -1564,52 +944,6 @@ V **nesporném řízení (ZŘS)** je pojem účastníka širší (§ 6 ZŘS) —
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku o právnické osobě a jejích odštěpných závodech, znění žaloby a označení účastníků, smlouva a komunikace dokládající, kdo je nositelem práv a povinností.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=bb59bdba59c276e37255 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 90
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Účastníky řízení jsou žalobce a žalovaný.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bb59bdba59c276e37255 -->
 
 ## § 91 — Procesní společenství
 
@@ -1679,54 +1013,6 @@ Rozlišení samostatného (§ 91 odst. 1) a nerozlučného (§ 91 odst. 2) spole
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=35e3e35a003b31a61507 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 91
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Je-li žalobců nebo žalovaných v jedné věci několik, jedná v řízení každý z nich sám za sebe.
->
-> (2) Jestliže však jde o taková společná práva nebo povinnosti, že se rozsudek musí vztahovat na všechny účastníky, kteří vystupují na jedné straně, platí úkony jednoho z nich i pro ostatní. Ke změně návrhu, k jeho vzetí zpět, k uznání nároku a k uzavření smíru je však třeba souhlasu všech účastníků, kteří vystupují na jedné straně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=35e3e35a003b31a61507 -->
-
 ## § 91a — Hlavní intervence
 
 > Kdo si činí nárok zcela nebo částečně na věc nebo právo, o nichž probíhá řízení mezi jinými osobami, může až do pravomocného skončení tohoto řízení podat žalobu proti těmto účastníkům.
@@ -1780,52 +1066,6 @@ Hlavní intervence (§ 91a) je nástroj, jímž třetí osoba uplatní vlastní 
 **Typicky rozhodné důkazy / podklady:** nabývací tituly intervenienta (dědické usnesení, kupní smlouva), doklady ztotožňující předmět sporu, spisová data probíhajícího hlavního řízení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0a8e797cdaaea87267e8 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 91a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Kdo si činí nárok zcela nebo částečně na věc nebo právo, o nichž probíhá řízení mezi jinými osobami, může až do pravomocného skončení tohoto řízení podat žalobu proti těmto účastníkům.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0a8e797cdaaea87267e8 -->
 
 ## § 92 — Přistoupení / záměna účastníka
 
@@ -1896,56 +1136,6 @@ Hlavní intervence (§ 91a) je nástroj, jímž třetí osoba uplatní vlastní 
 **Typicky rozhodné důkazy / podklady:** listina zakládající závazek/legitimaci nového účastníka (smlouva o solidaritě, postupní smlouva), doklad o datu doručení návrhu soudu, podklady k identitě přistupujícího či zaměňovaného účastníka.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=51cd8e2dd28517374a6e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 92
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Na návrh žalobce může soud připustit, aby do řízení přistoupil další účastník. Souhlasu toho, kdo má takto do řízení vstoupit, je třeba, jestliže má vystupovat na straně žalobce.
->
-> (2) Na návrh žalobce může soud se souhlasem žalovaného připustit, aby žalobce nebo žalovaný z řízení vystoupil a aby na jeho místo vstoupil někdo jiný. Má-li být takto zaměněn žalobce, je třeba, aby s tím souhlasil i ten, kdo má na jeho místo vstoupit.
->
-> (3) Ustanovení odstavců 1 a [[#§ 2|2]] se nepoužije v případech uvedených v [[#§ 107a|§ 107a]].
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2, § 107a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=51cd8e2dd28517374a6e -->
 
 ## § 93 — Vedlejší účastník
 
@@ -2023,56 +1213,6 @@ Vedlejší účastník (§ 93) podporuje jednu ze stran z titulu právního záj
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=05ac041183a0018caa67 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 93
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jako vedlejší účastník může se vedle žalobce nebo žalovaného zúčastnit řízení ten, kdo má právní zájem na jeho výsledku.
->
-> (2) Do řízení vstoupí buď z vlastního podnětu nebo na výzvu některého z účastníků učiněnou prostřednictvím soudu. O přípustnosti vedlejšího účastenství soud rozhodne jen na návrh.
->
-> (3) V řízení má vedlejší účastník stejná práva a povinnosti jako účastník. Jedná však toliko sám za sebe. Jestliže jeho úkony odporují úkonům účastníka, kterého v řízení podporuje, posoudí je soud po uvážení všech okolností.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=05ac041183a0018caa67 -->
-
 ## ÚKONY ÚČASTNÍKŮ VE VĚCI SAMÉ (§ 95 — § 99)
 
 ## § 95 — Změna žaloby
@@ -2130,54 +1270,6 @@ Změna žaloby (§ 95) zahrnuje i změnu skutkového základu při zachování p
 **Typicky rozhodné důkazy / podklady:** návrh na změnu žaloby s novým vylíčením skutečností, dosavadní důkazy využitelné pro nový základ (dodací listy, hodnota plnění), listiny k novému titulu (doklad o neplatnosti, výpočet obohacení).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=27b2d01e555458dba74a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 95
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Žalobce (navrhovatel) může za řízení se souhlasem soudu měnit návrh na zahájení řízení. Změněný návrh je třeba ostatním účastníkům doručit do vlastních rukou, pokud nebyli přítomni jednání, při němž ke změně došlo.
->
-> (2) Soud nepřipustí změnu návrhu, jestliže by výsledky dosavadního řízení nemohly být podkladem pro řízení o změněném návrhu. V takovém případě pokračuje soud v řízení o původním návrhu po právní moci usnesení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=27b2d01e555458dba74a -->
 
 ## § 96 — Zpětvzetí žaloby
 
@@ -2249,62 +1341,6 @@ Zpětvzetí je hlavním dispozičním nástrojem žalobce (typicky po úhradě n
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=bf4f071f54d62486defe generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 96
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Žalobce (navrhovatel) může vzít za řízení zpět návrh na jeho zahájení, a to zčásti nebo zcela.
->
-> (2) Je-li návrh vzat zpět, soud řízení zcela, popřípadě v rozsahu zpětvzetí návrhu, zastaví. Je-li návrh na zahájení řízení vzat zpět až po té, co již soud o věci rozhodl, avšak rozhodnutí není dosud v právní moci, soud rozhodne v rozsahu zpětvzetí návrhu též o zrušení rozhodnutí.
->
-> (3) Jestliže ostatní účastníci se zpětvzetím návrhu z vážných důvodů nesouhlasí, soud rozhodne, že zpětvzetí návrhu není účinné. Nebylo-li dosud o věci rozhodnuto, pokračuje soud po právní moci usnesení v řízení.
->
-> (4) Ustanovení odstavce 3 neplatí, dojde-li ke zpětvzetí návrhu dříve, než začalo jednání.
->
-> (5) Byl-li návrh na zahájení řízení vzat zpět až po té, co rozhodnutí o věci již nabylo právní moci, soud rozhodne, že zpětvzetí návrhu není účinné.
->
-> (6) Byl-li návrh na zahájení řízení vzat zpět až po té, co rozhodnutí odvolacího soudu, případně též soudu prvního stupně, o věci bylo dovolacím soudem zrušeno, soud rozhodne, že zpětvzetí návrhu není účinné, jestliže důvodem pro zpětvzetí návrhu byla skutečnost, která nastala v době, kdy trvaly účinky zrušeného rozhodnutí.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bf4f071f54d62486defe -->
-
 ## § 97 — Vzájemný návrh
 
 > (1) Žalovaný může za řízení uplatnit svá práva proti žalobci i vzájemným návrhem.
@@ -2368,56 +1404,6 @@ Vzájemný návrh je procesně samostatná protižaloba žalovaného v rámci t�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=d4b428ffcb2521d155b5 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 97
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Žalovaný může za řízení uplatnit svá práva proti žalobci i vzájemným návrhem.
->
-> (2) Vzájemný návrh může soud vyloučit k samostatnému řízení, jestliže by tu nebyly podmínky pro spojení věcí.
->
-> (3) Na vzájemný návrh se použije přiměřeně ustanovení o návrhu na zahájení řízení, jeho změně a vzetí zpět.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d4b428ffcb2521d155b5 -->
-
 ## § 98 — Vzájemný návrh vs. započtení
 
 > Vzájemným návrhem je i projev žalovaného, jímž proti žalobci uplatňuje svou pohledávku k započtení, avšak jen pokud navrhuje, aby bylo přisouzeno více, než co uplatnil žalobce. Jinak soud posuzuje takový projev jen jako obranu proti návrhu.
@@ -2480,52 +1466,6 @@ Rozhoduje jediné kritérium: žádá-li žalovaný přisoudit více, než žalu
 **Typicky rozhodné důkazy / podklady:** obě smlouvy a faktury, doklad o vzniku a výši protipohledávky (posudek, vyúčtování), úkon směřující k započtení a doklad o jeho doručení, doklad o zaplacení soudního poplatku.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=29b8ce11771b17c38309 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 98
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Vzájemným návrhem je i projev žalovaného, jímž proti žalobci uplatňuje svou pohledávku k započtení, avšak jen pokud navrhuje, aby bylo přisouzeno více, než co uplatnil žalobce. Jinak soud posuzuje takový projev jen jako obranu proti návrhu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=29b8ce11771b17c38309 -->
 
 ## § 99 — Smír
 
@@ -2600,56 +1540,6 @@ Smír je rychlý, okamžitě vykonatelný a nenapadnutelný řádnými opravným
 **Typicky rozhodné důkazy / podklady:** text dohody s podpisy účastníků, podklady k povaze věci (katastr, geometrický plán), doklady o existenci a výši plnění; pro pozdější výkon usnesení o schválení smíru s doložkou právní moci.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=402461f05f7748ff9637 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 99
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Připouští-li to povaha věci, mohou účastníci skončit řízení soudním smírem. Soud usiluje o smír mezi účastníky; při pokusu o smír předseda senátu zejména s účastníky probere věc, upozorní je na právní úpravu a na stanoviska Nejvyššího soudu a rozhodnutí uveřejněná ve Sbírce soudních rozhodnutí a stanovisek týkající se věci a podle okolností případu jim doporučí možnosti smírného vyřešení sporu. Je-li to s ohledem na povahu věci vhodné, upozorní předseda senátu účastníky rovněž na možnost využití mediace podle zákona o mediaci nebo sociálního poradenství podle zákona [[o sociálních službách|o sociálních službách]].
->
-> (2) Soud rozhodne o tom, zda smír schvaluje; neschválí jej, je-li v rozporu s právními předpisy. V takovém případě soud po právní moci usnesení pokračuje v řízení.
->
-> (3) Schválený smír má účinky pravomocného rozsudku. Rozsudkem však může soud zrušit usnesení o schválení smíru, je-li smír podle hmotného práva neplatný. Návrh lze podat do tří let od právní moci usnesení o schválení smíru.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=402461f05f7748ff9637 -->
 
 ## PRŮBĚH ŘÍZENÍ (§ 100 — § 102a)
 
@@ -2733,64 +1623,6 @@ Po zahájení řízení soud z úřední povinnosti usiluje o rychlost a smír; 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=bbc795348009b47f59bc generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 100
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jakmile bylo řízení zahájeno, postupuje v něm soud i bez dalších návrhů tak, aby věc byla co nejrychleji projednána a rozhodnuta. Přitom usiluje především o to, aby spor byl vyřešen smírně.
->
-> (2) Je-li to účelné a vhodné, může předseda senátu účastníkům řízení nařídit první setkání se zapsaným mediátorem (dále jen „mediátor“) v rozsahu 3 hodin a přerušit řízení, nejdéle však na dobu 3 měsíců. Při posuzování účelnosti a vhodnosti soud zejména zohlední, pokud byl účastník řízení pravomocně odsouzen pro trestný čin uvedený v odstavci 3 písm. a) nebo byl shledán vinným ze spáchání přestupku uvedeného v odstavci 3 písm. b), byl-li poškozeným nebo osobou přímo postiženou druhý účastník nebo osoba jemu blízká. Pokud se účastníci bez zbytečného odkladu nedohodnou na osobě mediátora, vybere jej ze seznamu vedeného ministerstvem předseda senátu. Po uplynutí 3 měsíců soud v řízení pokračuje.
->
-> (3) První setkání s mediátorem podle odstavce 2 nelze nařídit
->
-> - a) po dobu vedení trestního řízení o trestném činu vraždy podle [[§ 140|§ 140]] [[trestního zákoníku|trestního zákoníku]], těžkého ublížení na zdraví podle [[§ 145|§ 145]] [[trestního zákoníku|trestního zákoníku]], ublížení na zdraví podle [[§ 146|§ 146]] [[trestního zákoníku|trestního zákoníku]], vydírání podle [[§ 175|§ 175]] [[trestního zákoníku|trestního zákoníku]], znásilnění podle [[§ 185|§ 185]] [[trestního zákoníku|trestního zákoníku]], sexuálního útoku podle [[§ 185a|§ 185a]] [[trestního zákoníku|trestního zákoníku]], sexuálního nátlaku podle [[§ 186|§ 186]] [[trestního zákoníku|trestního zákoníku]], týrání osoby žijící ve společném obydlí podle [[§ 199|§ 199]] [[trestního zákoníku|trestního zákoníku]], nebezpečného vyhrožování podle [[§ 353|§ 353]] [[trestního zákoníku|trestního zákoníku]] nebo nebezpečného pronásledování podle [[§ 354|§ 354]] [[trestního zákoníku|trestního zákoníku]], z jehož spáchání je podezřelý jeden z účastníků řízení nebo je pro takový trestný čin stíhán, je-li poškozeným druhý účastník řízení nebo osoba jemu blízká,
->
-> - b) po dobu vedení řízení o přestupku pro jednání některého z účastníků řízení, které naplňuje znaky domácího násilí109), je-li osobou přímo postiženou spácháním tohoto přestupku druhý účastník řízení nebo osoba jemu blízká, nebo
->
-> - c) po dobu platnosti předběžného opatření ve věcech ochrany proti domácímu násilí.
->
-> (4) V řízení, jehož účastníkem je nezletilé dítě, které je schopno formulovat své názory, soud postupuje tak, aby byl zjištěn jeho názor ve věci. Názor nezletilého dítěte soud zjistí výslechem dítěte. Názor dítěte může soud ve výjimečných případech zjistit též prostřednictvím jeho zástupce, znaleckého posudku nebo příslušného orgánu sociálně-právní ochrany dětí. Výslech dítěte může soud provést i bez přítomnosti dalších osob, lze-li očekávat, že by jejich přítomnost mohla ovlivnit dítě tak, že by nevyjádřilo svůj skutečný názor; přítomnost důvěrníka dítěte, který není jeho zákonným zástupcem a o jehož účast u výslechu dítě požádá, může soud vyloučit jen tehdy, je-li jeho přítomností mařen účel výslechu. K názoru dítěte soud přihlíží s přihlédnutím k jeho věku a rozumové vyspělosti.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 140, § 145, § 146, § 175, § 185, § 185a, § 186, § 199, § 353, § 354
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bbc795348009b47f59bc -->
-
 ## § 101 — Povinnosti účastníků
 
 > (1) K tomu, aby bylo dosaženo účelu řízení, jsou účastníci povinni zejména
@@ -2867,64 +1699,6 @@ Po zahájení řízení soud z úřední povinnosti usiluje o rychlost a smír; 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=ba69913e1ff75df6cd19 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 101
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) K tomu, aby bylo dosaženo účelu řízení, jsou účastníci povinni zejména
->
-> - a) tvrdit všechny pro rozhodnutí věci významné skutečnosti; neobsahuje-li všechna potřebná tvrzení žaloba (návrh na zahájení řízení) nebo písemné vyjádření k ní, uvedou je v průběhu řízení,
->
-> - b) plnit důkazní povinnost (§ 120 odst. 1) a další procesní povinnosti uložené jim zákonem nebo soudem,
->
-> - c) dbát pokynů soudu.
->
-> (2) Nestanoví-li zákon jinak, soud pokračuje v řízení, i když jsou účastníci nečinní.
->
-> (3) Nedostaví-li se řádně předvolaný účastník k jednání a včas nepožádal z důležitého důvodu o odročení, může soud věc projednat a rozhodnout v nepřítomnosti takového účastníka; vychází přitom z obsahu spisu a z provedených důkazů.
->
-> (4) Vyzve-li soud účastníka, aby se vyjádřil o určitém návrhu, který se dotýká postupu a vedení řízení, může připojit doložku, že nevyjádří-li se účastník v určité lhůtě, bude se předpokládat, že nemá námitky.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 120
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ba69913e1ff75df6cd19 -->
-
 ## § 102 — Předběžné opatření za řízení + zajištění důkazu
 
 > (1) Je-li třeba po zahájení řízení zatímně upravit poměry účastníků nebo je-li po zahájení řízení obava, že by výkon rozhodnutí v řízení posléze vydaného mohl být ohrožen, může soud nařídit předběžné opatření.
@@ -2992,58 +1766,6 @@ Po zahájení řízení může soud nařídit předběžné opatření (hrozí-l
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=68a7752c7d372420ef10 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 102
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Je-li třeba po zahájení řízení zatímně upravit poměry účastníků nebo je-li po zahájení řízení obava, že by výkon rozhodnutí v řízení posléze vydaného mohl být ohrožen, může soud nařídit předběžné opatření.
->
-> (2) Po zahájení řízení může soud i bez návrhu zajistit důkaz, je-li obava, že později jej nebude možné provést vůbec nebo jen s velkými obtížemi.
->
-> (3) Ve věcech příslušejících senátu nařídí předběžné opatření nebo zajistí důkaz senát; předseda senátu tak může učinit, jen je-li tu nebezpečí z prodlení. Ustanovení [[#§ 75|§ 75]], [[#§ 75a|75a]], [[#§ 75b|75b]], [[#§ 75c|75c]], [[#§ 76|76]], [[#§ 76c|76c]], [[#§ 76d|76d]], [[#§ 76e|76e]], [[#§ 76f|76f]], [[#§ 76g|76g]], § 77 odst. 1 písm. b) až d), § 77 odst. 2, [[#§ 77a|§ 77a]] a § 78 odst. 3 se použijí obdobně.
->
-> (4) Po zahájení řízení může soud na návrh zajistit předmět důkazního prostředku ve sporech týkajících se práv z duševního vlastnictví; ustanovení § 78b odst. 1, [[#§ 78d|§ 78d]], § 78e odst. 1, [[#§ 2|2]] a [[#§ 4|4]], § 78f odst. 1 písm. b) a c), § 78f odst. 2 a [[#§ 3|3]] a [[#§ 78g|§ 78g]] zde platí obdobně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 75, § 75a, § 75b, § 75c, § 76, § 76c, § 76d, § 76e, § 76f, § 76g, § 77, § 77a, § 78, § 78b, § 78d, § 78e, § 2, § 4, § 78f, § 3, § 78g
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=68a7752c7d372420ef10 -->
-
 ## § 102a — Videokonference
 
 > (1) Na návrh účastníka nebo je-li to účelné, může soud provést úkon s využitím videokonferenčního zařízení, zejména zprostředkovat přítomnost účastníka nebo tlumočníka na jednání nebo provést výslech svědka, znalce nebo účastníka.
@@ -3107,60 +1829,6 @@ Videokonference umožňuje provést úkon (zejména výslech) na dálku, je-li t
 **Typicky rozhodné důkazy / podklady:** audiovizuální záznam úkonu, doklad o ověření totožnosti, protokol o úkonu (bez podpisu vyslýchané osoby), u přeshraničního výslechu doklady o součinnosti dožádaného/zahraničního soudu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c16ce8df4959d0537f53 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 102a — Využití videokonferenčního zařízení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Na návrh účastníka nebo je-li to účelné, může soud provést úkon s využitím videokonferenčního zařízení, zejména zprostředkovat přítomnost účastníka nebo tlumočníka na jednání nebo provést výslech svědka, znalce nebo účastníka.
->
-> (2) Úkon může být proveden prostřednictvím videokonferenčního zařízení tehdy, je-li zajištěno řádné ověření totožnosti osoby, jíž se úkon týká. V případě výslechu je třeba zvlášť dbát na to, aby vyslýchaná osoba nebyla v místě, kde se nachází, vystavena nepřípustnému ovlivňování.
->
-> (3) Před zahájením úkonu prováděného s využitím videokonferenčního zařízení poučí předseda senátu osobu, které se úkon týká, o způsobu provedení úkonu.
->
-> (4) Kdykoli v průběhu úkonu prováděného s využitím videokonferenčního zařízení může účastník nebo osoba, jíž se úkon týká, vznášet námitky proti kvalitě obrazového nebo zvukového přenosu.
->
-> (5) Je-li při provádění úkonu využito videokonferenčního zařízení, pořizuje se zvukový a obrazový záznam vždy. Je-li současně se záznamem pořízen protokol, osoba, jíž se úkon týká, protokol nepodepisuje.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c16ce8df4959d0537f53 -->
 
 ## ZKOUMÁNÍ PODMÍNEK ŘÍZENÍ (§ 103 — § 106)
 
@@ -3228,52 +1896,6 @@ Podmínky řízení (pravomoc, příslušnost, procesní subjektivita a způsobi
 **Typicky rozhodné důkazy / podklady:** obsah žaloby a petit, podklady o povaze věci (rejstříky, předmět práva), údaje o existenci a způsobilosti účastníků, doklad o zaplacení soudního poplatku.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c7461dda1005f7b2f100 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 103
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Kdykoli za řízení přihlíží soud k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení).
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c7461dda1005f7b2f100 -->
 
 ## § 104 — Důsledky nedostatku podmínek
 
@@ -3348,54 +1970,6 @@ Neodstranitelný nedostatek podmínky řízení vede k zastavení (a při nále�
 **Typicky rozhodné důkazy / podklady:** podklady o povaze věci a příslušném orgánu (smlouva, předpis o pravomoci), plná moc / sdělení o zastoupení, doklad o doručení výzev a o marném uplynutí lhůty.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=035c9b75f0c9819deb16 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 104
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jde-li o takový nedostatek podmínky řízení, který nelze odstranit, soud řízení zastaví. Nespadá-li věc do pravomoci soudů nebo má-li předcházet jiné řízení, soud postoupí věc po právní moci usnesení o zastavení řízení příslušnému orgánu; právní účinky spojené s podáním žaloby (návrhu na zahájení řízení) zůstávají přitom zachovány.
->
-> (2) Jde-li o nedostatek podmínky řízení, který lze odstranit, učiní soud k tomu vhodná opatření. Přitom zpravidla může pokračovat v řízení, ale nesmí rozhodnout o věci samé. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=035c9b75f0c9819deb16 -->
 
 ## § 104a, b, c — Procesní mechanismus pro věcnou příslušnost
 
@@ -3483,66 +2057,6 @@ Věcnou příslušnost zkoumá soud kdykoli; má-li za to, že není věcně př
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=9a6b7e6ee156cba14fa3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 104a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Věcnou příslušnost zkoumá soud kdykoli za řízení.
->
-> (2) Má-li okresní nebo krajský soud za to, že není věcně příslušný, předloží věc se zprávou o tom svému nadřízenému vrchnímu soudu, jestliže věc podle jeho názoru náleží do věcné příslušnosti okresních, krajských nebo vrchních soudů, popřípadě soudů zřízených k projednávání a rozhodování věcí určitého druhu, nebo Nejvyššímu soudu, jestliže věc podle jeho názoru náleží do věcné příslušnosti Nejvyššího soudu. Účastníci řízení mají právo se k tomuto postupu a k soudem uváděným důvodům vyjádřit. Vrchní soud (Nejvyšší soud) pak rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný.
->
-> (3) Bylo-li řízení zahájeno u vrchního soudu a má-li za to, že není věcně příslušný, vrchní soud rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni. To neplatí, dospěje-li vrchní soud k závěru, že věc patří do věcné příslušnosti Nejvyššího soudu; v takovém případě věc předloží se zprávou o tom Nejvyššímu soudu. Účastníci řízení mají právo se k otázce věcné příslušnosti vyjádřit.
->
-> (4) Bylo-li řízení zahájeno u Nejvyššího soudu nebo byla-li věc Nejvyššímu soudu předložena vrchním soudem, Nejvyšší soud rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný.
->
-> (5) Obdobně podle odstavců 2 až 4 se postupuje, namítne-li nedostatek věcné příslušnosti soudu účastník řízení.
->
-> (6) V usnesení, jímž bylo rozhodnuto, že k projednání a rozhodnutí věci jsou příslušné v prvním stupni jiné soudy, než u kterých bylo řízení zahájeno, se rovněž uvede soud, jemuž bude věc postoupena k dalšímu řízení; ustanovení [[#§ 105|§ 105]] tím není dotčeno.
->
-> (7) Usnesením vrchního nebo Nejvyššího soudu o věcné příslušnosti jsou účastníci řízení a soudy vázáni.
->
-> (8) Ustanovení odstavců 2 a [[#§ 7|7]] se nepoužije, náleží-li věc do věcné příslušnosti soudu, který rozhoduje podle zvláštního zákona96) věci správního soudnictví.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 105, § 7
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9a6b7e6ee156cba14fa3 -->
-
 ## § 105 — Místní příslušnost (zkoumání + námitka)
 
 > (1) Místní příslušnost zkoumá soud jen do skončení přípravného jednání podle § 114c. Neprovedl-li tuto přípravu jednání, zkoumá soud místní příslušnost jen před tím, než začne jednat o věci samé, nebo rozhodl-li o věci samé bez jednání, jen před vydáním rozhodnutí; to neplatí, jde-li o platební rozkaz, elektronický platební rozkaz nebo evropský platební rozkaz. Později ji soud zkoumá pouze tehdy, nebyla-li provedena příprava jednání podle § 114c, a jen k námitce účastníka, která byla uplatněna při prvním úkonu, který účastníku přísluší. Při zkoumání místní příslušnosti se nepřihlíží k přípravě jednání, jednáním a jiným úkonům provedeným před věcně nepříslušným soudem a k rozhodnutím vydaným věcně nepříslušným soudem.
@@ -3610,58 +2124,6 @@ Místní příslušnost se zkoumá jen do skončení přípravného jednání, j
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c751966fe91dd6ece2d7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 105
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Místní příslušnost zkoumá soud jen do skončení přípravného jednání podle [[#§ 114c|§ 114c]]. Neprovedl-li tuto přípravu jednání, zkoumá soud místní příslušnost jen před tím, než začne jednat o věci samé, nebo rozhodl-li o věci samé bez jednání, jen před vydáním rozhodnutí; to neplatí, jde-li o platební rozkaz, elektronický platební rozkaz, evropský platební rozkaz nebo rozkaz k vyklizení. Později ji soud zkoumá pouze tehdy, nebyla-li provedena příprava jednání podle [[#§ 114c|§ 114c]], a jen k námitce účastníka, která byla uplatněna při prvním úkonu, který účastníku přísluší. Při zkoumání místní příslušnosti se nepřihlíží k přípravě jednání, jednáním a jiným úkonům provedeným před věcně nepříslušným soudem a k rozhodnutím vydaným věcně nepříslušným soudem.
->
-> (2) Vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek § 11 odst. 3 předloží Nejvyššímu soudu.
->
-> (3) Jestliže soud, jemuž byla věc postoupena, s postoupením nesouhlasí, předloží ji k rozhodnutí, pokud otázka příslušnosti nebyla již rozhodnuta soudem odvolacím, svému nadřízenému soudu; rozhodnutím tohoto soudu je vázán i soud, který věc postoupil.
->
-> (4) Namítne-li účastník řízení včas a důvodně nedostatek místní příslušnosti, postupuje soud obdobně podle odstavců 2 a [[#§ 3|3]]; jinak námitku usnesením zamítne.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 114c, § 11, § 3
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c751966fe91dd6ece2d7 -->
-
 ## § 106 — Rozhodčí smlouva
 
 > (1) Jakmile soud k námitce žalovaného uplatněné nejpozději při prvním jeho úkonu ve věci samé zjistí, že věc má být podle smlouvy účastníků projednána v řízení před rozhodci nebo rozhodčí komisí spolku, nemůže věc dále projednávat a řízení zastaví; věc však projedná, jestliže účastníci prohlásí, že na smlouvě netrvají nebo že netrvají na projednání věci před rozhodčí komisí spolku. Soud projedná věc i tehdy, jestliže zjistí, že věc nemůže být podle práva České republiky podrobena rozhodčí smlouvě, nebo že rozhodčí smlouva je neplatná, popřípadě že vůbec neexistuje nebo že její projednání v řízení před rozhodci přesahuje rámec pravomoci přiznané jim smlouvou, anebo že rozhodčí soud odmítl věcí se zabývat.
@@ -3725,56 +2187,6 @@ K včasné námitce žalovaného (nejpozději při prvním úkonu ve věci samé
 **Typicky rozhodné důkazy / podklady:** smlouva s rozhodčí doložkou, doklad o postavení stran (podnikatel × spotřebitel), případné doklady o zahájení/odmítnutí rozhodčího řízení, procesní spis k včasnosti námitky.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=009d3b2ef6b926aacde8 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 106
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jakmile soud k námitce žalovaného uplatněné nejpozději při prvním jeho úkonu ve věci samé zjistí, že věc má být podle smlouvy účastníků projednána v řízení před rozhodci nebo rozhodčí komisí spolku, nemůže věc dále projednávat a řízení zastaví; věc však projedná, jestliže účastníci prohlásí, že na smlouvě netrvají nebo že netrvají na projednání věci před rozhodčí komisí spolku. Soud projedná věc i tehdy, jestliže zjistí, že věc nemůže být podle práva České republiky podrobena rozhodčí smlouvě, nebo že rozhodčí smlouva je neplatná, popřípadě že vůbec neexistuje nebo že její projednání v řízení před rozhodci přesahuje rámec pravomoci přiznané jim smlouvou, anebo že rozhodčí soud odmítl věcí se zabývat.
->
-> (2) Bylo-li řízení před soudem podle odstavce 1 zastaveno a v téže věci byl podán návrh na zahájení řízení před rozhodci nebo rozhodčí komisí spolku, zůstávají právní účinky původního návrhu zachovány, bude-li návrh na zahájení řízení před rozhodci nebo rozhodčí komisí spolku podán do 30 dnů od doručení usnesení soudu o zastavení řízení.
->
-> (3) Bylo-li řízení před rozhodci zahájeno dříve než došlo k řízení soudnímu, přeruší soud řízení o neexistenci, neplatnosti nebo zániku smlouvy až do doby, než bude v rozhodčím řízení rozhodnuto o pravomoci nebo ve věci samé.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=009d3b2ef6b926aacde8 -->
 
 ## PROCESNÍ NÁSTUPNICTVÍ (§ 107 — § 107a)
 
@@ -3854,60 +2266,6 @@ Ztratí-li účastník po zahájení řízení způsobilost být účastníkem (
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=694d7b90ba51fc580420 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 107
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením.
->
-> (2) Ztratí-li způsobilost být účastníkem řízení fyzická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou procesním nástupcem, nestanoví-li zákon jinak, ti, kteří vstoupili do práva nebo povinnosti, o něž v řízení jde.
->
-> (3) Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde.
->
-> (4) Ten, kdo nastupuje do řízení na místo dosavadního účastníka řízení, musí přijmout stav řízení, jaký tu je v době jeho nástupu do řízení.
->
-> (5) Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=694d7b90ba51fc580420 -->
-
 ## § 107a — Singulární sukcese (převod / přechod během řízení)
 
 > (1) Má-li žalobce za to, že po zahájení řízení nastala právní skutečnost, s níž právní předpisy spojují převod nebo přechod práva nebo povinnosti účastníka řízení, o něž v řízení jde, může dříve, než soud o věci rozhodne, navrhnout, aby nabyvatel práva nebo povinnosti, popřípadě ten, kdo převzal výkon vlastnického práva k majetku, o nějž v řízení jde, vstoupil do řízení na místo dosavadního účastníka; to neplatí v případech uvedených v § 107.
@@ -3975,56 +2333,6 @@ Při převodu/přechodu práva nebo povinnosti po zahájení řízení (singulá
 **Typicky rozhodné důkazy / podklady:** smlouva o postoupení pohledávky (či doklad o jiném převodu/přechodu), souhlas vstupujícího účastníka, případné oznámení postoupení dlužníkovi.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=90d7e53648f34438da7d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 107a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Má-li žalobce za to, že po zahájení řízení nastala právní skutečnost, s níž právní předpisy spojují převod nebo přechod práva nebo povinnosti účastníka řízení, o něž v řízení jde, může dříve, než soud o věci rozhodne, navrhnout, aby nabyvatel práva nebo povinnosti, popřípadě ten, kdo převzal výkon vlastnického práva k majetku, o nějž v řízení jde, vstoupil do řízení na místo dosavadního účastníka; to neplatí v případech uvedených v [[#§ 107|§ 107]].
->
-> (2) Soud návrhu usnesením vyhoví, jestliže se prokáže, že po zahájení řízení nastala právní skutečnost uvedená v odstavci 1, a jestliže s tím souhlasí ten, kdo má vstoupit na místo žalobce; souhlas žalovaného nebo toho, kdo má vstoupit na jeho místo, se nevyžaduje. Právní účinky spojené s podáním žaloby zůstávají zachovány.
->
-> (3) Ustanovení § 107 odst. 4 platí obdobně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 107
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=90d7e53648f34438da7d -->
 
 ## PŘERUŠENÍ ŘÍZENÍ (§ 109 — § 111)
 
@@ -4108,70 +2416,6 @@ Soud řízení obligatorně přeruší při ztrátě procesní způsobilosti bez
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5b202113b5570a8351fa generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 109
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Soud řízení přeruší, jestliže
->
-> - a) účastník ztratil způsobilost jednat před soudem a není zastoupen zástupcem s procesní plnou mocí;
->
-> - b) rozhodnutí závisí na otázce, kterou není v tomto řízení oprávněn řešit;
->
-> - c) dospěl k závěru, že zákon, jehož má být při projednávání nebo rozhodování věci použito, nebo jeho jednotlivé ustanovení je v rozporu s ústavním pořádkem a podal-li u Ústavního soudu návrh na zrušení tohoto zákona nebo jeho jednotlivého ustanovení;
->
-> - d) rozhodl, že požádá Soudní dvůr Evropských společenství o rozhodnutí o předběžné otázce.62d)
->
-> (2) Pokud soud neučiní jiná vhodná opatření, může řízení přerušit, jestliže
->
-> - a) účastník se nemůže řízení účastnit pro překážku trvalejší povahy nebo proto, že je neznámého pobytu;
->
-> - b) zákonný zástupce účastníka zemřel nebo ztratil způsobilost jednat před soudem;
->
-> - c) probíhá řízení, v němž je řešena otázka, která může mít význam pro rozhodnutí soudu, nebo jestliže soud dal k takovému řízení podnět.
->
-> (3) Soud může řízení přerušit i na základě návrhu České národní banky podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5b202113b5570a8351fa -->
-
 ## § 110 — Přerušení dohodou stran / nepřítomností
 
 > Jestliže to účastníci shodně navrhnou nebo jestliže se nedostaví bez předchozí omluvy k jednání anebo jestliže to alespoň jeden z účastníků navrhne a ostatní se nedostaví bez předchozí omluvy k jednání, soud řízení přeruší, jestliže se to nepříčí účelu řízení.
@@ -4225,52 +2469,6 @@ Soud přeruší řízení na shodný návrh stran, nebo nedostaví-li se bez př
 **Typicky rozhodné důkazy / podklady:** shodný procesní návrh účastníků (protokol/podání), doklad o řádném předvolání a absenci omluvy, podklady o povaze věci pro posouzení účelu řízení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=99c8d8230f7e44c1dc1e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 110
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Jestliže to účastníci shodně navrhnou nebo jestliže se nedostaví bez předchozí omluvy k jednání anebo jestliže to alespoň jeden z účastníků navrhne a ostatní se nedostaví bez předchozí omluvy k jednání, soud řízení přeruší, jestliže se to nepříčí účelu řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=99c8d8230f7e44c1dc1e -->
 
 ## § 111 — Účinky přerušení
 
@@ -4328,58 +2526,6 @@ Po dobu přerušení se nekonají jednání a neběží procesní lhůty; po pok
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2519e770a92978adae04 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 111
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jestliže řízení je přerušeno, nekonají se jednání a neběží lhůty podle tohoto zákona. Jestliže se v řízení pokračuje, počínají lhůty běžet znovu.
->
-> (2) Jestliže je řízení přerušeno podle § 109 odst. 1 a [[#§ 2|2]], činí soud všechna potřebná opatření, aby byly odstraněny překážky, jež způsobily přerušení nebo pro které přerušení trvá. Jakmile odpadne překážka, pro kterou bylo řízení přerušeno, pokračuje soud v řízení i bez návrhu.
->
-> (3) Jestliže je řízení přerušeno podle § 109 odst. 3, soud pokračuje v řízení po uplynutí doby, na kterou bylo řízení přerušeno.
->
-> (4) Jestliže je řízení přerušeno podle [[#§ 110|§ 110]], pokračuje v něm soud na návrh po uplynutí 3 měsíců. Soud může na návrh, jsou-li pro to závažné důvody, a i bez návrhu v případě, že to odůvodňují zájmy nezletilého dítěte, pokračovat v řízení i před uplynutím této lhůty. Není-li návrh na pokračování v řízení podán do 1 roku, soud řízení zastaví.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 109, § 2, § 110
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2519e770a92978adae04 -->
-
 ## § 112 — Spojení věcí
 
 > (1) V zájmu hospodárnosti řízení může soud spojit ke společnému řízení věci, které byly u něho zahájeny a skutkově spolu souvisí nebo se týkají týchž účastníků.
@@ -4435,54 +2581,6 @@ Soud může v zájmu hospodárnosti spojit ke společnému řízení věci zahá
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=19b70d669f9f83c98dc6 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 112
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) V zájmu hospodárnosti řízení může soud spojit ke společnému řízení věci, které byly u něho zahájeny a skutkově spolu souvisí nebo se týkají týchž účastníků.
->
-> (2) Jsou-li v návrhu na zahájení řízení uvedeny věci, které se ke spojení nehodí, nebo odpadnou-li důvody, pro které byly věci soudem spojeny, může soud některou věc vyloučit k samostatnému řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=19b70d669f9f83c98dc6 -->
-
 ## PŘÍPRAVA JEDNÁNÍ (§ 114 — § 114c)
 
 ## § 114 — Úvodní zkoumání
@@ -4530,54 +2628,6 @@ Po zahájení řízení předseda senátu zkoumá splnění podmínek řízení 
 **Typicky rozhodné důkazy / podklady:** obsah žaloby (vylíčení rozhodujících skutečností, petit), doklad o zaplacení soudního poplatku, doklady o splnění podmínek řízení (pravomoc, příslušnost, subjektivita).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=3f6cc617b3fd93ec7a46 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 114
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Po zahájení řízení předseda senátu především zkoumá, zda jsou splněny podmínky řízení a zda byly odstraněny případné vady v žalobě (návrhu na zahájení řízení).
->
-> (2) Zastaví-li soud řízení proto, že je tu takový nedostatek podmínky řízení, který nelze odstranit (§ 104 odst. 1), nebo že se nedostatek podmínky řízení nepodařilo odstranit (§ 104 odst. 2), popřípadě z jiných důvodů stanovených zákonem,63) anebo odmítne-li návrh (§ 43 odst. 2), je tím řízení skončeno.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 104, § 43
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3f6cc617b3fd93ec7a46 -->
 
 ## § 114a — Příprava jednání (jednodušší)
 
@@ -4645,68 +2695,6 @@ V rámci jednodušší přípravy podle § 114a předseda senátu zejména vyzve
 **Typicky rozhodné důkazy / podklady:** žaloba s výzvou a doklad o jejím doručení, listinné důkazy obou stran, vyžádané zprávy (§ 128), znalecký posudek (§ 127), případný názor ÚOOÚ.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=a7af38d843f8ec996885 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 114a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Nebylo-li rozhodnuto podle § 114 odst. 2, připraví předseda senátu jednání tak, aby bylo možné věc rozhodnout zpravidla při jediném jednání.
->
-> (2) Za tím účelem předseda senátu
->
-> - a) žalovaného, popřípadě ostatní účastníky, kteří nepodali návrh na zahájení řízení, vyzve, aby se ve věci písemně vyjádřili a aby soudu předložili listinné důkazy, jichž se dovolávají, ledaže se takový postup jeví s ohledem na povahu věci neúčelným;
->
-> - b) účastníky řízení upozorní na možnost využití mediace podle zákona o mediaci nebo sociálního poradenství podle zákona [[o sociálních službách|o sociálních službách]], je-li to vhodné;
->
-> - c) vyžádá si zprávu o skutečnostech, které mají význam pro řízení a rozhodnutí ([[#§ 128|§ 128]]);
->
-> - d) ustanoví znalce, jsou-li splněny podmínky podle [[#§ 127|§ 127]];
->
-> - e) zajistí, aby bylo možno při jednání provést potřebné důkazy, a jestliže je to účelné, může provést důkaz prostřednictvím dožádaného soudu;
->
-> - f) zjistí názor Úřadu pro ochranu osobních údajů, souvisí-li předmět řízení bezprostředně s otázkou ochrany osobních údajů, a
->
-> - g) činí jiná vhodná opatření.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 114, § 128, § 127
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a7af38d843f8ec996885 -->
 
 ## § 114b — KVALIFIKOVANÁ VÝZVA (fikce uznání nároku!)
 
@@ -4806,60 +2794,6 @@ Kvalifikovaná výzva podle § 114b je nástroj s drakonickým následkem: nevyj
 **Typicky rozhodné důkazy / podklady:** usnesení podle § 114b s poučením, doklad o doručení do vlastních rukou (datová schránka) a o pořadí po žalobě, evidence běhu 30denní lhůty, případné opožděné vyjádření a doklad o vážném důvodu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=08e7a7ec4aa1dad7ff93 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 114b
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Vyžaduje-li to povaha věci nebo okolnosti případu, jakož i tehdy, bylo-li o věci rozhodnuto platebním rozkazem, elektronickým platebním rozkazem nebo evropským platebním rozkazem, může předseda senátu místo výzvy podle § 114a odst. 2 písm. a) nebo nebylo-li takové výzvě řádně a včas vyhověno, žalovanému usnesením uložit, aby se ve věci písemně vyjádřil a aby v případě, že nárok uplatněný v žalobě zcela neuzná, ve vyjádření vylíčil rozhodující skutečnosti, na nichž staví svoji obranu, a k vyjádření připojil listinné důkazy, jichž se dovolává, popřípadě označil důkazy k prokázání svých tvrzení; to neplatí ve věcech, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a [[#§ 2|2]]), nebo je-li žalovaným ke dni zahájení řízení nebo ke dni vstupu do řízení nezletilý, který nenabyl plné svéprávnosti.
->
-> (2) K podání vyjádření podle odstavce 1 předseda senátu určí lhůtu, která nesmí být kratší než 30 dnů od doručení usnesení. Bylo-li o věci rozhodnuto platebním rozkazem, elektronickým platebním rozkazem nebo evropským platebním rozkazem, určí tuto lhůtu až ode dne uplynutí lhůty k podání odporu proti platebnímu rozkazu, elektronickému platebnímu rozkazu nebo evropskému platebnímu rozkazu.
->
-> (3) Usnesení podle odstavce 1 nelze vydat nebo doručit po přípravném jednání podle [[#§ 114c|§ 114c]] nebo po prvním jednání ve věci.
->
-> (4) Usnesení podle odstavce 1 musí být žalovanému doručeno do vlastních rukou. Náhradní doručení je vyloučeno; to neplatí, doručuje-li se prostřednictvím veřejné datové sítě do datové schránky. Usnesení nesmí být žalovanému doručeno dříve než žaloba.
->
-> (5) Jestliže se žalovaný bez vážného důvodu na výzvu soudu podle odstavce 1 včas nevyjádří a ani ve stanovené lhůtě soudu nesdělí, jaký vážný důvod mu v tom brání, má se za to, že nárok, který je proti němu žalobou uplatňován, uznává; o tomto následku (§ 153a odst. 3) musí být poučen. To neplatí, jsou-li splněny předpoklady pro zastavení řízení nebo odmítnutí žaloby.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 114a, § 99, § 2, § 114c, § 153a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=08e7a7ec4aa1dad7ff93 -->
 
 ## § 114c — Přípravné jednání
 
@@ -4961,70 +2895,3 @@ Přípravné jednání je nástroj k vyjasnění sporných tvrzení a důkazů a
 ---
 
 **Pokračování:** [07-cast3-hlava1b-jednani-preruseni.md](07-cast3-hlava1b-jednani-preruseni.md) — § 115 až § 119a (Jednání, vyloučení veřejnosti, podpůrce, výklady, koncentrace § 118b, omluvitelný důvod nesporné skutkové změny § 118a).
-
-<!-- LEGAL-REVISION:BEGIN id=2a093d0a22cc34a0700a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 114c — Přípravné jednání
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Není-li možné o věci samé rozhodnout bez nařízení jednání, nebylo-li nebo nemůže-li být postupem podle § 114a odst. 2 jednání připraveno tak, aby bylo možné věc rozhodnout při jediném jednání, a nepostupoval-li podle [[#§ 114b|§ 114b]], předseda senátu, s výjimkou sporů a jiných právních věcí, v nichž se takový postup jeví s ohledem na okolnosti případu neúčelným, nařídí a provede přípravné jednání.
->
-> (2) K přípravnému jednání předvolá předseda senátu účastníky a jejich zástupce, popřípadě též další osoby, jejichž přítomnosti je třeba. Předvolání k přípravnému jednání musí být doručeno do vlastních rukou. Náhradní doručení je vyloučeno; to neplatí, doručuje-li se prostřednictvím veřejné datové sítě do datové schránky.
->
-> (3) Při přípravném jednání předseda senátu zejména
->
-> - a) v součinnosti s účastníky objasní, zda jsou splněny podmínky řízení, a případně přijme opatření k odstranění zjištěného nedostatku podmínek řízení,
->
-> - b) vyzve účastníky, aby do protokolu doplnili svá potřebná tvrzení o skutečnostech rozhodných pro věc a návrhy na provedení důkazů k jejich prokázání a aby splnili své další procesní povinnosti, a poskytne účastníkům potřebná poučení; [[#§ 118a|§ 118a]] zde platí obdobně,
->
-> - c) pokusí se o smírné vyřešení věci ([[#§ 99|§ 99]]),
->
-> - d) může účastníkům řízení nařídit první setkání s mediátorem podle § 100 odst. 2, je-li to účelné a vhodné,
->
-> - e) uloží účastníkům řízení další procesní povinnosti potřebné k dosažení účelu řízení.
->
-> (4) Procesní povinnosti podle odstavce 3 jsou účastníci povinni splnit do skončení přípravného jednání. Z důležitých důvodů soud účastníkům poskytne na žádost některého z nich lhůtu k doplnění tvrzení o skutečnostech rozhodujících pro věc, k podání návrhů na provedení důkazů nebo ke splnění dalších procesních povinností; tato lhůta nesmí být delší než 30 dnů.
->
-> (5) Před skončením přípravného jednání předseda senátu poučí přítomné účastníky o tom, že ke skutečnostem uvedeným a k důkazům označeným po skončení přípravného jednání, popřípadě po uplynutí lhůty podle odstavce 4 věty druhé, může být přihlédnuto jen za podmínek uvedených v § 118b odst. 1.
->
-> (6) Nedostaví-li se žalovaný k přípravnému jednání, ačkoliv byl řádně a včas předvolán nejméně 20 dnů předem a řádně mu byla doručena žaloba, aniž by se včas a z důležitého důvodu omluvil, má se, s výjimkou věcí, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a [[#§ 2|2]]), nebo je-li žalovaným ke dni zahájení řízení nebo ke dni vstupu do řízení nezletilý, který nenabyl plné svéprávnosti, za to, že uznává nárok, který je proti němu uplatňován žalobou; o tomto následku (§ 153a odst. 3) musí být poučen v předvolání k přípravnému jednání. To neplatí, jsou-li splněny předpoklady pro zastavení řízení nebo odmítnutí žaloby.
->
-> (7) Nedostaví-li se k přípravnému jednání žalobce nebo jiný navrhovatel, ačkoliv byl řádně a včas předvolán nejméně 20 dnů předem, aniž by se včas a z důležitého důvodu omluvil, soud řízení zastaví; o tomto následku musí být poučen v předvolání k přípravnému jednání.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 114a, § 114b, § 118a, § 99, § 100, § 118b, § 2, § 153a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2a093d0a22cc34a0700a -->

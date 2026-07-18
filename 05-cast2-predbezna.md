@@ -108,56 +108,6 @@ Zajištění důkazu podle § 78 je krajní a v praxi vzácně užívaný nástr
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=4bf3a3164af27b85be3b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Před zahájením řízení o věci samé lze na návrh zajistit důkaz, je-li obava, že později jej nebude možno provést vůbec nebo jen s velkými obtížemi.
->
-> (2) K zajištění důkazu je příslušný soud, který by byl příslušný k řízení o věci, nebo soud, v jehož obvodu je ohrožený důkazní prostředek.
->
-> (3) Zajištění důkazu provede předseda senátu způsobem předepsaným pro důkaz, o který jde. Není-li tu nebezpečí z prodlení, mají účastníci ve věci samé právo být přítomni u zajištění důkazu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4bf3a3164af27b85be3b -->
-
 ## § 78a — Notářský / exekutorský zápis o skutkovém ději
 
 > Důkaz může být zajištěn také notářským nebo exekutorským zápisem o skutkovém ději nebo o stavu věci, jestliže se skutkový děj udál v přítomnosti notáře nebo soudního exekutora nebo jestliže notář nebo soudní exekutor osvědčil stav věci.
@@ -225,52 +175,6 @@ Zajištění důkazu podle § 78 je krajní a v praxi vzácně užívaný nástr
 **Typicky rozhodné důkazy / podklady:** exekutorský/notářský zápis, printscreeny, fotodokumentace stavu věci/nemovitosti, časové razítko.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=abd1c9fc128178572952 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Důkaz může být zajištěn také notářským nebo exekutorským zápisem o skutkovém ději nebo o stavu věci, jestliže se skutkový děj udál v přítomnosti notáře nebo soudního exekutora nebo jestliže notář nebo soudní exekutor osvědčil stav věci.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=abd1c9fc128178572952 -->
 
 # B) ZAJIŠTĚNÍ PŘEDMĚTU DŮKAZNÍHO PROSTŘEDKU V IP VĚCECH (§ 78b — § 78g)
 
@@ -355,60 +259,6 @@ V praxi nejčastěji:
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7c8ac26fbed1f387e188 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78b
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Ve věcech týkajících se práv z duševního vlastnictví lze před zahájením řízení o věci samé na návrh toho, kdo osvědčil porušení práva z duševního vlastnictví, za účelem provedení důkazu (§ 130 odst. 1) zajistit
->
-> - a) zboží, popřípadě přiměřený vzorek zboží, jehož výrobou mohlo být porušeno právo z duševního vlastnictví,
->
-> - b) materiál a nástroje, které byly použity k výrobě nebo rozšiřování zboží uvedeného v písmenu a),
->
-> - c) dokumenty týkající se zboží uvedeného v písmenu a).
->
-> (2) Zajištění podle odstavce 1 je přípustné jen tehdy, nebylo-li zboží, materiál, nástroje nebo dokumenty předmětem zajištění důkazu podle [[#§ 78|§ 78]] nebo [[#§ 78a|78a]], popřípadě jestliže pomocí takovéhoto zajištění důkazu nebylo možné postihnout všechny okolnosti významné pro rozhodnutí věci samé.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 130, § 78, § 78a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7c8ac26fbed1f387e188 -->
-
 ## § 78c — Příslušnost a účastníci
 
 > (1) K zajištění předmětu důkazního prostředku je příslušný krajský soud, v jehož obvodu je zajišťovaný předmět důkazního prostředku.
@@ -464,54 +314,6 @@ Tato třetí kategorie účastníka je důležitá — držitel **nemusí být t
 **Typicky rozhodné důkazy / podklady:** doklady o místě uložení zboží, skladovací/komisionářské smlouvy, identifikace faktického držitele, výpisy z rejstříků k označení porušitele.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=6ae3d2eb5994b173bdba generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78c
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) K zajištění předmětu důkazního prostředku je příslušný krajský soud, v jehož obvodu je zajišťovaný předmět důkazního prostředku.
->
-> (2) Účastníky řízení jsou navrhovatel, ti, kteří by jimi byli, kdyby šlo o věc samu, a ten, kdo má zajišťovaný předmět důkazního prostředku u sebe.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6ae3d2eb5994b173bdba -->
 
 ## § 78d — Jistota v IP věcech
 
@@ -578,56 +380,6 @@ Soud uloží jistotu **typicky tehdy**, hrozí-li, že zajištění způsobí v�
 **Typicky rozhodné důkazy / podklady:** doklad o hodnotě zajišťovaného zboží, podklady k hrozící škodě z blokace, doklad o složení jistoty, rozhodnutí soudu o stanovení jistoty.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2eff907d1ffeccab3d2e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78d
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Předseda senátu může, vyžadují-li to okolnosti, uložit navrhovateli povinnost složit jistotu k zajištění náhrady škody nebo jiné újmy, která by vznikla zajištěním předmětu důkazního prostředku. Výši jistoty stanoví předseda senátu s přihlédnutím k okolnostem případu, maximálně však ve výši 100 000 Kč. Takto stanovená jistota je splatná do 8 dnů od doručení rozhodnutí o stanovení jistoty navrhovateli. Podalo-li návrh více navrhovatelů, jsou povinni jistotu složit společně a nerozdílně.
->
-> (2) Nebude-li jistota podle odstavce 1 včas složena, předseda senátu návrh na zajištění předmětu důkazního prostředku odmítne; zmeškání lhůty uvedené v odstavci 1 nelze prominout.
->
-> (3) Byl-li návrh na zajištění předmětu důkazního prostředku pravomocně zamítnut nebo odmítnut, popřípadě bylo-li řízení o tomto návrhu pravomocně zastaveno, soud složenou jistotu vrátí. V případě, že soud nařídil zajištění předmětu důkazního prostředku, bude jistota vrácena, jestliže zajištění předmětu důkazního prostředku zaniklo podle § 78f odst. 1 písm. a), jestliže marně uplynula lhůta k žalobě podle § 78g odst. 2, nebo jestliže nabylo právní moci rozhodnutí o žalobě podané podle § 78g odst. 2 a z tohoto rozhodnutí vyplývá, že jistota nebude použita k uspokojení práva na náhradu škody nebo jiné újmy.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 78f, § 78g
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2eff907d1ffeccab3d2e -->
 
 ## § 78e — Rozhodnutí o zajištění (lhůta, bez slyšení, fyzické odebrání)
 
@@ -697,58 +449,6 @@ Soud uloží jistotu **typicky tehdy**, hrozí-li, že zajištění způsobí v�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5e18d8e7836a696afb37 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78e
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Nepostupoval-li předseda senátu podle § 78d odst. 2 a jsou-li splněny předpoklady uvedené v [[#§ 78b|§ 78b]], předseda senátu usnesením nařídí zajištění předmětu důkazního prostředku.
->
-> (2) O návrhu na zajištění předmětu důkazního prostředku soud rozhodne bez slyšení účastníků. Pro zajištění předmětu důkazního prostředku je rozhodující stav v době vyhlášení (vydání) rozhodnutí soudu prvního stupně.
->
-> (3) V usnesení o nařízení zajištění předmětu důkazního prostředku předseda senátu navrhovateli uloží, aby ve lhůtě, kterou mu určí, podal u soudu žalobu.
->
-> (4) Předmět důkazního prostředku, o jehož zajištění bylo rozhodnuto podle odstavce 1, se složí u soudu nebo u vhodného schovatele; tomu, kdo má předmět u sebe a odmítne jej předat dobrovolně, bude soudem odebrán, a to ihned poté, co mu bude doručen stejnopis vyhotovení usnesení o nařízení zajištění předmětu důkazního prostředku.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 78d, § 78b
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5e18d8e7836a696afb37 -->
-
 ## § 78f — Zánik / zrušení zajištění
 
 > (1) Zajištění předmětu důkazního prostředku zanikne, jestliže
@@ -813,62 +513,6 @@ Soud uloží jistotu **typicky tehdy**, hrozí-li, že zajištění způsobí v�
 **Typicky rozhodné důkazy / podklady:** protokol o provedeném ohledání, doklad o (ne)podání žaloby ve lhůtě, usnesení o zrušení zajištění, protokol o odebrání a o vrácení předmětu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=3085c7b6fcbf91196958 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78f
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Zajištění předmětu důkazního prostředku zanikne, jestliže
->
-> - a) navrhovatel nepodal ve lhůtě určené soudem žalobu,
->
-> - b) v řízení o věci samé byl proveden důkaz ohledáním zajištěného předmětu důkazního prostředku,
->
-> - c) řízení o věci samé bylo pravomocně skončeno, aniž by v něm byl proveden důkaz ohledáním zajištěného předmětu důkazního prostředku.
->
-> (2) Předseda senátu zajištění předmětu důkazního prostředku usnesením zruší, jestliže pominuly důvody, pro které bylo nařízeno.
->
-> (3) Poté, co zajištění zanikne nebo co bude pravomocně zrušeno, vrátí se předmět důkazního prostředku tomu, kdo jej předložil soudu nebo komu byl soudem odebrán.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3085c7b6fcbf91196958 -->
 
 ## § 78g — Odpovědnost navrhovatele za škodu (paralelní úprava k § 77a)
 
@@ -949,58 +593,6 @@ Soud uloží jistotu **typicky tehdy**, hrozí-li, že zajištění způsobí v�
 **Typicky rozhodné důkazy / podklady:** doklady o demurrage a skladném, smlouvy o zmařených obchodech, znalecký posudek na ušlý zisk, pravomocné rozhodnutí ve věci samé, doklad o složené jistotě.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=7012da83d68025221869 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 78g
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Zaniklo-li zajištění předmětu důkazního prostředku podle § 78f odst. 1 písm. a) nebo nebylo-li žalobě ve věci samé pravomocným rozhodnutím ani zčásti vyhověno, aniž by právo navrhovatele bylo byť jen zčásti uspokojeno, je navrhovatel povinen nahradit škodu a jinou újmu každému, komu zajištěním předmětu důkazního prostředku vznikla. Této odpovědnosti se navrhovatel nemůže zprostit, ledaže by ke škodě nebo jiné újmě došlo i jinak.
->
-> (2) Žalobu o náhradu škody nebo jiné újmy podle odstavce 1 je třeba podat nejpozději do 6 měsíců ode dne, kdy zajištění předmětu důkazního prostředku zaniklo podle § 78f odst. 1 písm. a) nebo kdy bylo o žalobě ve věci samé pravomocně rozhodnuto, jinak právo zanikne. Zmeškání této lhůty nelze prominout.
->
-> (3) Příslušným k projednání žaloby podle odstavce 2 a k rozhodnutí o ní je příslušný soud uvedený v § 78c odst. 1.
->
-> (4) Pravomocně přiznaná náhrada škody nebo jiné újmy se uspokojí z navrhovatelem složené jistoty; nepostačuje-li k uspokojení všech poškozených, rozdělí soud jistotu mezi ně poměrně. Povinnost navrhovatele nahradit škodu nebo jinou újmu, která nebyla zajištěna složenou jistotou, tím není dotčena.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 78f, § 78c
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7012da83d68025221869 -->
 
 ## Shrnutí: porovnání PO před zahájením (§ 74—77a) vs. zajištění důkazu (§ 78—78g)
 

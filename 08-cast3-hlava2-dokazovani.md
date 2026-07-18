@@ -137,56 +137,6 @@ Projednací zásada klade břemeno označení důkazů na účastníky; soud dop
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=400a85e0bb118e5d9a59 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 120
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Účastníci jsou povinni označit důkazy k prokázání svých tvrzení. Soud rozhoduje, které z navrhovaných důkazů provede.
->
-> (2) Soud může provést jiné než účastníky navržené důkazy v případech, kdy jsou potřebné ke zjištění skutkového stavu a vyplývají-li z obsahu spisu. Neoznačí-li účastníci důkazy potřebné k prokázání svých tvrzení, vychází soud při zjišťování skutkového stavu z důkazů, které byly provedeny.
->
-> (3) Soud může též vzít za svá skutková zjištění shodná tvrzení účastníků.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=400a85e0bb118e5d9a59 -->
-
 ## § 121 — Notorické skutečnosti a právo
 
 > Není třeba dokazovat skutečnosti obecně známé nebo známé soudu z jeho činnosti, jakož i právní předpisy uveřejněné nebo oznámené ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce.
@@ -255,52 +205,6 @@ Notorické skutečnosti, skutečnosti známé soudu z činnosti a české právn
 **Typicky rozhodné důkazy / podklady:** zprávy odborných institucí (ČHMÚ apod.), výpisy z veřejných rejstříků, spisy z jiných věcí téhož soudu, zpráva o obsahu cizího práva, znalecký výklad zahraniční normy.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=23a340940d0b906ed012 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 121
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Není třeba dokazovat skutečnosti obecně známé nebo známé soudu z jeho činnosti, jakož i právní předpisy uveřejněné nebo oznámené ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=23a340940d0b906ed012 -->
 
 ## PROVÁDĚNÍ DŮKAZŮ (§ 122 — § 124)
 
@@ -373,56 +277,6 @@ Dokazování provádí rozhodující soud při jednání (přímost a ústnost);
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=35373e52e99a38b3f06b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 122
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Dokazování provádí soud při jednání.
->
-> (2) Je-li to účelné, může být o provedení důkazu dožádán jiný soud nebo předseda senátu může důkaz z pověření senátu provést mimo jednání, anebo lze důkaz provést s využitím videokonferenčního zařízení. Účastníci mají právo být přítomni u takto prováděného dokazování. Jeho výsledky je třeba vždy při jednání sdělit.
->
-> (3) Senát může vždy rozhodnout, aby provedené důkazy byly doplněny nebo před ním opakovány.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=35373e52e99a38b3f06b -->
-
 ## § 123 — Právo účastníka na vyjádření
 
 > Účastníci mají právo vyjádřit se k návrhům na důkazy a ke všem důkazům, které byly provedeny.
@@ -480,52 +334,6 @@ Každý důkaz musí být proveden tak, aby se k němu strany mohly vyjádřit; 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=282f98e6967736bebb01 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 123
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Účastníci mají právo vyjádřit se k návrhům na důkazy a ke všem důkazům, které byly provedeny.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=282f98e6967736bebb01 -->
-
 ## § 124 — Mlčenlivost při dokazování
 
 > Dokazování je třeba provádět tak, aby byla šetřena povinnost zachovávat mlčenlivost o utajovaných informacích chráněných zvláštním zákonem a jiná zákonem stanovená nebo státem uznávaná povinnost mlčenlivosti. V těchto případech lze provést výslech jen tehdy, jestliže vyslýchaného zprostil povinnosti mlčenlivosti příslušný orgán nebo ten, v jehož zájmu má tuto povinnost; přiměřeně to platí i tam, kde se provádí důkaz jinak než výslechem.
@@ -581,52 +389,6 @@ Důkaz dotýkající se zákonné mlčenlivosti (lékařské, advokátní, utajo
 **Typicky rozhodné důkazy / podklady:** písemné zproštění mlčenlivosti, zdravotnická dokumentace, vyjádření orgánu dohledu, doklad o souhlasu dotčené osoby.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=d6a123ffd0955d91f160 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 124
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Dokazování je třeba provádět tak, aby byla šetřena povinnost zachovávat mlčenlivost o utajovaných informacích chráněných zvláštním zákonem56) a jiná zákonem stanovená nebo státem uznávaná povinnost mlčenlivosti. V těchto případech lze provést výslech jen tehdy, jestliže vyslýchaného zprostil povinnosti mlčenlivosti příslušný orgán nebo ten, v jehož zájmu má tuto povinnost; přiměřeně to platí i tam, kde se provádí důkaz jinak než výslechem.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d6a123ffd0955d91f160 -->
 
 ## DŮKAZNÍ PROSTŘEDKY (§ 125 — § 131)
 
@@ -697,52 +459,6 @@ OSŘ má otevřený katalog důkazů — důkazem je vše, čím lze zjistit sta
 **Typicky rozhodné důkazy / podklady:** originální datový nosič a metadata, znalecký posudek z oboru kybernetiky/forenzní analýzy, přepis nahrávky, listinné výstupy komunikace doložené originálem.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=16f6f94c1c762c50440c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 125
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Za důkaz mohou sloužit všechny prostředky, jimiž lze zjistit stav věci, zejména výslech svědků, znalecký posudek, zprávy a vyjádření orgánů, fyzických a právnických osob, notářské nebo exekutorské zápisy a jiné listiny, ohledání a výslech účastníků. Pokud není způsob provedení důkazu předepsán, určí jej soud.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=16f6f94c1c762c50440c -->
 
 ## § 126 — Výslech svědka
 
@@ -833,58 +549,6 @@ Každá osoba odlišná od účastníka má povinnost svědčit a vypovídat pra
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=be7d4c9585216b211dad generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 126
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Každá fyzická osoba, která není účastníkem řízení, je povinna dostavit se na předvolání k soudu a vypovídat jako svědek. Musí vypovědět pravdu a nic nezamlčovat. Výpověď může odepřít jen tehdy, kdyby jí způsobila nebezpečí trestního stíhání sobě nebo osobám blízkým; o důvodnosti odepření výpovědi rozhoduje soud.
->
-> (2) Na počátku výslechu je třeba zjistit totožnost svědka a okolnosti, které mohou mít vliv na jeho věrohodnost. Dále je třeba poučit svědka o významu svědecké výpovědi, o jeho právech a povinnostech a o trestních následcích křivé výpovědi.
->
-> (3) Předseda senátu vyzve svědka, aby souvisle vylíčil vše, co ví o předmětu výslechu. Klást otázky mají právo postupně předseda senátu, členové senátu, účastníci a znalci. Otázku položenou účastníkem nebo znalcem předseda senátu nepřipustí, jen jestliže nesouvisí s předmětem výslechu nebo naznačuje-li odpověď anebo je-li zejména předstíráním neprokázaných nebo nepravdivých skutečností klamavá; nepořizuje-li se o výpovědi záznam, uvede předseda senátu vždy v protokolu důvody, pro které otázka nebyla připuštěna.
->
-> (4) Fyzická osoba, která je statutárním orgánem právnické osoby (členem tohoto orgánu), může být vyslechnuta v řízení, jehož účastníkem je tato právnická osoba, jen podle [[#§ 131|§ 131]].
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 131
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=be7d4c9585216b211dad -->
-
 ## § 126a — Výslech bývalého statutárního orgánu
 
 > (1) Fyzická osoba, která má vypovídat o okolnostech, týkajících se právnické osoby a nastalých v době, kdy byla jejím statutárním orgánem nebo členem tohoto orgánu, je povinna dostavit se na předvolání k soudu v řízení, jehož účastníkem je tato právnická osoba.
@@ -936,54 +600,6 @@ Bývalý statutární orgán je povinen dostavit se a vypovídat o okolnostech z
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku (období funkce), zápisy z jednání orgánů, smluvní dokumentace z rozhodné doby, výslech v režimu účastníka.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5ef2752a7cd4fe3254e4 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 126a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Fyzická osoba, která má vypovídat o okolnostech, týkajících se právnické osoby a nastalých v době, kdy byla jejím statutárním orgánem nebo členem tohoto orgánu, je povinna dostavit se na předvolání k soudu v řízení, jehož účastníkem je tato právnická osoba.
->
-> (2) Výslech fyzické osoby uvedené v odstavci 1 se provede podle § 131 odst. 2 věty druhé a § 131 odst. 3.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 131
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5ef2752a7cd4fe3254e4 -->
 
 ## § 127 — Znalec / odborné vyjádření
 
@@ -1072,60 +688,6 @@ Při potřebě odborných znalostí soud postupuje od odborného vyjádření ke
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=3fb419a37980513ab936 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 127
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Závisí-li rozhodnutí na posouzení skutečností, k nimž je třeba odborných znalostí, vyžádá soud u orgánu veřejné moci nebo osoby, která disponuje potřebnými odbornými předpoklady, odborné vyjádření. Jestliže pro složitost posuzované otázky takový postup není postačující nebo je-li pochybnost o správnosti podaného odborného vyjádření, ustanoví soud znalce. Soud znalce vyslechne; znalci může také uložit, aby posudek vypracoval písemně. Je-li ustanoveno několik znalců, mohou podat společný posudek. Místo výslechu znalce může se soud v odůvodněných případech spokojit s písemným posudkem znalce.
->
-> (2) Má-li soud sám nebo na základě vyjádření účastníků pochybnost o správnosti posudku nebo jeví-li se mu posudek nejasný nebo neúplný, je nutno požádat znalce o vysvětlení. Kdyby to nevedlo k výsledku, soud požádá znalce, který znalecký posudek zpracoval, o jeho doplnění nebo nechá znalecký posudek přezkoumat jiným znalcem.
->
-> (3) Ve výjimečných, zvlášť obtížných případech, vyžadujících zvláštního vědeckého posouzení, může soud ustanovit k podání znaleckého posudku nebo přezkoumání posudku podaného znalcem státní orgán, vědecký ústav, vysokou školu nebo instituci specializovanou na znaleckou činnost.
->
-> (4) Účastníkovi, popřípadě i někomu jinému, může předseda senátu uložit, aby se dostavil ke znalci, předložil mu potřebné předměty, podal mu nutná vysvětlení, podrobil se lékařskému vyšetření, popřípadě zkoušce krve, anebo aby něco vykonal nebo snášel, jestliže to je k podání znaleckého posudku třeba.
->
-> (5) Za podání odborného vyjádření podle odstavce 1 náleží odměna a náhrada hotových výdajů, pro jejichž určení se ustanovení § 139 odst. 2 o znalečném užije obdobně. Odměna za podání odborného vyjádření činí polovinu sazby časové odměny znalce stanovené zvláštním právním předpisem. Orgánu veřejné moci za podání odborného vyjádření odměna ani náhrada hotových výdajů nenáleží.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 139
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3fb419a37980513ab936 -->
-
 ## § 127a — Soukromý znalecký posudek (kvalifikovaný)
 
 > Jestliže znalecký posudek předložený účastníkem řízení má všechny zákonem požadované náležitosti a obsahuje doložku znalce o tom, že si je vědom následků vědomě nepravdivého znaleckého posudku, postupuje se při provádění tohoto důkazu stejně, jako by se jednalo o znalecký posudek vyžádaný soudem. Soud umožní znalci, kterého některá ze stran požádala o znalecký posudek, nahlédnout do spisu nebo mu jinak umožní seznámit se s informacemi potřebnými pro vypracování znaleckého posudku.
@@ -1196,54 +758,6 @@ Kvalifikovaný soukromý znalecký posudek (náležitosti + doložka o vědomí 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=178b3fd4deb2b8c8352b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 127a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Jestliže znalecký posudek předložený účastníkem řízení má všechny zákonem požadované náležitosti a obsahuje doložku znalce o tom, že si je vědom následků vědomě nepravdivého znaleckého posudku, postupuje se při provádění tohoto důkazu stejně, jako by se jednalo o znalecký posudek vyžádaný soudem. Soud umožní znalci, kterého některá ze stran požádala o znalecký posudek, nahlédnout do spisu nebo mu jinak umožní seznámit se s informacemi potřebnými pro vypracování znaleckého posudku.
->
-> (2) Soud umožní ostatním účastníkům se v přiměřené lhůtě vyjádřit k vypracovanému znaleckému posudku, a to zejména k osobě znalce, oboru a odvětví, ve kterých znalecký posudek podal, k zadání a podkladům, ze kterých znalec vycházel. Ustanovení § 127 odst. 2 se použije obdobně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 127
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=178b3fd4deb2b8c8352b -->
-
 ## § 128 — Informační povinnost třetích osob
 
 > Každý je povinen bezplatně na dotaz sdělit soudu skutečnosti, které mají význam pro řízení a rozhodnutí.
@@ -1297,52 +811,6 @@ Každá osoba (i banka, operátor, úřad) je povinna soudu bezplatně sdělit s
 **Typicky rozhodné důkazy / podklady:** písemná zpráva banky/operátora/úřadu, doklad o odeslání dotazu, případné usnesení o pořádkové pokutě, navazující listinný důkaz.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=a5d7c3775c40b87a32b8 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 128
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Každý je povinen bezplatně na dotaz sdělit soudu skutečnosti, které mají význam pro řízení a rozhodnutí. Ustanovení § 139 odst. 3 tím není dotčeno. Odmítnout soudu sdělit tyto skutečnosti může jen ten, kdo by tak mohl učinit jako svědek podle § 126 odst. 1.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 139, § 126
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a5d7c3775c40b87a32b8 -->
 
 ## § 129 — Důkaz listinou
 
@@ -1407,54 +875,6 @@ Listinný důkaz se provádí přečtením/sdělením obsahu s právem stran vyj
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=d997c790208d3303b4dd generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 129
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Důkaz listinou se provede tak, že ji nebo její část při jednání předseda senátu přečte nebo sdělí její obsah, případně předloží účastníkům k nahlédnutí, je-li to postačující.
->
-> (2) Předseda senátu může uložit tomu, kdo má listinu potřebnou k důkazu, aby ji předložil, nebo ji opatří sám od jiného soudu, orgánu nebo právnické osoby.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d997c790208d3303b4dd -->
-
 ## § 130 — Ohledání
 
 > (1) Ohledání předmětu, který je možno dopravit k soudu, provede se při jednání. Za tím účelem může předseda senátu uložit tomu, kdo má potřebný předmět, aby jej předložil.
@@ -1509,54 +929,6 @@ Dopravitelný předmět se ohledá při jednání, nedopravitelný na místě za
 **Typicky rozhodné důkazy / podklady:** protokol o ohledání, fotodokumentace, geometrický plán a výpis z katastru, znalecký posudek (zaměření, statika, zastínění), výslechy účastníků a svědků k poměrům na místě.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c82d448792bee87b9e3a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 130
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Ohledání předmětu, který je možno dopravit k soudu, provede se při jednání. Za tím účelem může předseda senátu uložit tomu, kdo má potřebný předmět, aby jej předložil.
->
-> (2) Jinak se ohledání provádí na místě. Je k němu třeba předvolat ty, kteří se předvolávají k jednání.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c82d448792bee87b9e3a -->
 
 ## § 131 — Výslech účastníka
 
@@ -1623,56 +995,6 @@ Výslech účastníka je subsidiární důkaz, který lze nařídit jen, nelze-l
 **Typicky rozhodné důkazy / podklady:** protokol o výslechu účastníka a poučení, nepřímé důkazy podporující/vyvracející výpověď, doklad o souhlasu/nesouhlasu s výslechem, kontext z ostatních provedených důkazů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=04354c3a1682d79ea958 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 131
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Důkaz výslechem účastníků může soud nařídit, jestliže dokazovanou skutečnost nelze prokázat jinak a jestliže s tím souhlasí účastník, který má být vyslechnut.
->
-> (2) Nařídí-li soud jako důkaz výslech účastníků, jsou účastníci povinni dostavit se k výslechu. Při svém výslechu mají vypovědět pravdu a nic nezamlčovat; o tom musí být poučeni.
->
-> (3) Ustanovení § 126 odst. 3 se zde použije obdobně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 126
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=04354c3a1682d79ea958 -->
 
 ## HODNOCENÍ DŮKAZŮ (§ 132 — § 136)
 
@@ -1755,52 +1077,6 @@ Soud hodnotí důkazy volně, podle své úvahy a v souvislostech, ale nesvévol
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=384f03d3b43ce526909a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 132
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Důkazy hodnotí soud podle své úvahy, a to každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom pečlivě přihlíží ke všemu, co vyšlo za řízení najevo, včetně toho, co uvedli účastníci.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=384f03d3b43ce526909a -->
-
 ## § 133 — Vyvratitelné domněnky
 
 > Skutečnost, pro kterou je v zákoně stanovena domněnka, jež připouští důkaz opaku, má soud za prokázánu, pokud v řízení nevyšel najevo opak.
@@ -1856,52 +1132,6 @@ Vyvratitelná zákonná domněnka (otcovství, SJM, dobrá víra, splnění dluh
 **Typicky rozhodné důkazy / podklady:** listina zakládající domněnku (kvitance, oddací/rodný list, výpis z katastru), důkazy směřující k vyvrácení domněnky (výpisy z účtů, korespondence, svědci k okolnostem vystavení listiny).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=19cfd3277489ebc9a946 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 133
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Skutečnost, pro kterou je v zákoně stanovena domněnka, jež připouští důkaz opaku, má soud za prokázánu, pokud v řízení nevyšel najevo opak.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=19cfd3277489ebc9a946 -->
 
 ## § 133a — Antidiskriminační přesun důkazního břemene
 
@@ -2003,80 +1233,6 @@ Doloží-li žalobce skutečnosti, z nichž lze dovodit diskriminaci (či odvetu
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=337dc0ce9eb986f0c83c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 133a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Pokud žalobce uvede před soudem skutečnosti, ze kterých lze dovodit, že ze strany žalovaného došlo k přímé nebo nepřímé diskriminaci
->
-> - a) na základě pohlaví, rasového nebo etnického původu, náboženství, víry, světového názoru, zdravotního postižení, věku anebo sexuální orientace v oblasti pracovní nebo jiné závislé činnosti včetně přístupu k nim, povolání, podnikání nebo jiné samostatné výdělečné činnosti včetně přístupu k nim, členství v organizacích zaměstnanců nebo zaměstnavatelů a členství a činnosti v profesních komorách56b),
->
-> - b) na základě rasového nebo etnického původu při poskytování zdravotní a sociální péče, v přístupu ke vzdělání a odborné přípravě, přístupu k veřejným zakázkám, přístupu k bydlení, členství ve spolcích a jiných zájmových sdruženích a při prodeji zboží v obchodě nebo poskytování služeb56c), nebo
->
-> - c) na základě pohlaví při přístupu ke zboží a službám56d),
->
-> je žalovaný povinen dokázat, že nedošlo k porušení zásady rovného zacházení.
->
-> (2) Pokud žalobce uvede před soudem skutečnosti, ze kterých lze dovodit, že byl ze strany žalovaného vystaven odvetnému opatření proto, že je oznamovatelem podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]], je žalovaný povinen dokázat, že přijetí tvrzeného opatření bylo objektivně odůvodněno legitimním cílem a představovalo k tomuto cíli přiměřený a nezbytný prostředek.
->
-> (3) Pokud žalobce uvede před soudem skutečnosti, ze kterých lze dovodit, že mu žalovaný dal výpověď z pracovního poměru nebo okamžitě zrušil pracovní poměr nebo zrušil právní vztah založený dohodou o provedení práce nebo dohodou o pracovní činnosti výpovědí nebo okamžitým zrušením proto, že
->
-> - a) se žalobce zákonným způsobem domáhal
->
-> - 1. práva na informace při vzniku nebo změně pracovněprávního vztahu podle [[§ 37|§ 37]] nebo [[§ 77a|§ 77a]] [[zákoníku práce|zákoníku práce]],
->
-> - 2. práva na informace při vysílání zaměstnance na území jiného státu podle [[§ 37a|§ 37a]] nebo [[77b|77b]] [[zákoníku práce|zákoníku práce]],
->
-> - 3. práva na rozvržení pracovní doby předem podle [[§ 74 odst. 2|§ 74 odst. 2]] nebo [[§ 84|§ 84]] [[zákoníku práce|zákoníku práce]],
->
-> - 4. práva na odborný rozvoj podle [[§ 227 až 230|§ 227 až 230]] [[zákoníku práce|zákoníku práce]],
->
-> - b) žalobce zaměstnavatele požádal o zaměstnání v pracovním poměru podle [[§ 77 odst. 4|§ 77 odst. 4]] [[zákoníku práce|zákoníku práce]], o čerpání mateřské, otcovské nebo rodičovské dovolené nebo tuto dovolenou čerpal, nebo
->
-> - c) žalobce zaměstnavatele požádal o možnost pečovat o jinou fyzickou osobu nebo ji ošetřovat podle [[§ 191|§ 191]] [[zákoníku práce|zákoníku práce]] nebo o takovou fyzickou osobu podle [[§ 191|§ 191]] [[zákoníku práce|zákoníku práce]] pečoval nebo ji ošetřoval,
->
-> je žalovaný povinen dokázat, že k výpovědi nebo okamžitému zrušení došlo z jiného důvodu56e).
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 37, § 77a, § 37a, § 74, § 84, § 227, § 77, § 191
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=337dc0ce9eb986f0c83c -->
-
 ## § 133b — Domněnka výrobní vady u IP zboží
 
 > Byl-li ohledán přiměřený vzorek zboží, jehož výrobou mohlo být porušeno právo z duševního vlastnictví, má soud zjištění z ohledání vyplývající za prokázané vůči veškerému zboží.
@@ -2126,52 +1282,6 @@ U zboží podezřelého z porušení práva z duševního vlastnictví postačí
 **Typicky rozhodné důkazy / podklady:** protokol o ohledání vzorku, znalecký posudek k napodobenině, dokumentace výběru vzorku a složení zásilky, doklady o právu k duševnímu vlastnictví (zápis ochranné známky), celní záznamy o zadržení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b117e388ba79ad3d3942 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 133b
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Byl-li ohledán přiměřený vzorek zboží, jehož výrobou mohlo být porušeno právo z duševního vlastnictví, má soud zjištění z ohledání vyplývající za prokázané vůči veškerému zboží.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b117e388ba79ad3d3942 -->
 
 ## § 134 — Veřejné listiny
 
@@ -2249,52 +1359,6 @@ Veřejná listina (soudní/správní rozhodnutí, notářský zápis, výpis z k
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=0da632f8ff18681b6142 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 134
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Listiny vydané soudy České republiky nebo jinými státními orgány v mezích jejich pravomoci, jakož i listiny, které jsou zvláštními předpisy prohlášeny za veřejné, potvrzují, že jde o nařízení nebo prohlášení orgánu, který listinu vydal, a není-li dokázán opak, i pravdivost toho, co je v nich osvědčeno nebo potvrzeno.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0da632f8ff18681b6142 -->
-
 ## § 135 — Vázanost trestním (a jinými) rozhodnutími
 
 > (1) Soud je vázán rozhodnutím příslušných orgánů o tom, že byl spáchán trestný čin, přestupek nebo jiný správní delikt postižitelný podle zvláštních předpisů, a kdo je spáchal, jakož i rozhodnutím o osobním stavu; soud však není vázán rozhodnutím v blokovém řízení.
@@ -2370,54 +1434,6 @@ Civilní soud je vázán pravomocným rozhodnutím o tom, že byl spáchán tres
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=e5858ec3d6886f5f8f1f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 135
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Soud je vázán rozhodnutím příslušných orgánů o tom, že byl spáchán trestný čin, přestupek nebo jiný správní delikt postižitelný podle zvláštních předpisů, a kdo je spáchal, jakož i rozhodnutím o osobním stavu; soud však není vázán rozhodnutím v blokovém řízení.
->
-> (2) Jinak otázky, o nichž přísluší rozhodnout jinému orgánu, může soud posoudit sám. Bylo-li však o takové otázce vydáno příslušným orgánem rozhodnutí, soud z něho vychází.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e5858ec3d6886f5f8f1f -->
-
 ## § 136 — Diskreční odhad výše nároku
 
 > Lze-li výši nároků zjistit jen s nepoměrnými obtížemi nebo nelze-li ji zjistit vůbec, určí ji soud podle své úvahy.
@@ -2492,48 +1508,3 @@ Nelze-li výši nároku zjistit vůbec nebo jen s nepoměrnými obtížemi (typi
 ---
 
 **Pokračování:** [09-cast3-hlava3-naklady.md](09-cast3-hlava3-naklady.md) — § 137 až § 151b (Hlava III: Náklady řízení — úspěch ve věci § 142, procesní zavinění § 146—148, moderační důvod § 150, advokátní tarif).
-
-<!-- LEGAL-REVISION:BEGIN id=f20835f0d386a386e936 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 136
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Lze-li výši nároků zjistit jen s nepoměrnými obtížemi nebo nelze-li ji zjistit vůbec, určí ji soud podle své úvahy.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f20835f0d386a386e936 -->

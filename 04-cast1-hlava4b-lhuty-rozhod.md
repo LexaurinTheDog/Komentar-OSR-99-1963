@@ -90,54 +90,6 @@ Předvolání je perfektní jen při splnění formy i všech náležitostí § 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=9c17215f303e9e90f87c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 51
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Předvolání k soudu se děje v listinné nebo v elektronické podobě a v naléhavých případech i telefonicky nebo telefaxem. Předvolat lze i ústně při jednání nebo při jiném úkonu soudu, u něhož je předvolaný přítomen.
->
-> (2) Nevyžaduje-li zákon nebo zvláštní právní předpisy pro předvolání další náležitosti, musí předvolání obsahovat, v jaké věci se má předvolaný dostavit, předmět a místo úkonu soudu, dobu zahájení úkonu, důvod předvolání, povinnosti předvolaného při úkonu a popřípadě předpokládanou dobu trvání úkonu. Je-li jednání prováděno s využitím videokonferenčního zařízení, vyrozumí se předvolaný o době a místě, na které byl předvolán.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9c17215f303e9e90f87c -->
-
 ## § 52 — Předvedení
 
 > (1) V případě, že se předvolaný bez omluvy nedostaví k výslechu nebo ke znalci, může ho předseda senátu dát předvést, jestliže o možnosti předvedení předvolaného poučil. O předvedení rozhodne usnesením, které se předvolanému doručí při předvedení.
@@ -208,56 +160,6 @@ Předvedení vyžaduje kumulativně nedostavení se, absenci omluvy a předchoz�
 **Typicky rozhodné důkazy / podklady:** předvolání s poučením, doručenka, protokol o nedostavení, žádost o předvedení, vyúčtování nákladů předvedení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2c125e53cfcc9181e4aa generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 52
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) V případě, že se předvolaný bez omluvy nedostaví k výslechu nebo ke znalci, může ho předseda senátu dát předvést, jestliže o možnosti předvedení předvolaného poučil. O předvedení rozhodne usnesením, které se předvolanému doručí při předvedení.
->
-> (2) O předvedení požádá soud Policii České republiky; jde-li o nezletilého, požádá soud Policii České republiky o předvedení jen tehdy, nelze-li předvedení zajistit jinak. O předvedení vojáků v činné službě a příslušníků ozbrojených sborů požádá soud jejich velitele, popřípadě příslušný služební orgán.
->
-> (3) Náklady předvedení hradí ten, kdo je předváděn. Usnesením o tom rozhodne předseda senátu na návrh toho, kdo předvedení provedl.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2c125e53cfcc9181e4aa -->
 
 ## POŘÁDKOVÉ OPATŘENÍ (§ 53 — § 54)
 
@@ -338,58 +240,6 @@ Pořádkovou pokutu (do 50 000 Kč) ukládá předseda senátu usnesením za dem
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=986e9b7ee64b2e89e452 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 53
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Tomu, kdo hrubě ztěžuje postup řízení zejména tím, že se nedostaví bez vážného důvodu k soudu nebo neuposlechne příkazu soudu, nebo kdo ruší pořádek, nebo kdo učinil hrubě urážlivé podání anebo nesplnil povinnosti uvedené v [[#§ 294|§ 294]], [[#§ 295|295]] a [[#§ 320ab|320ab]], může předseda senátu uložit usnesením pořádkovou pokutu do výše 50 000 Kč.
->
-> (2) Uloženou pořádkovou pokutu může předseda senátu dodatečně, a to i po skončení řízení, prominout, jestliže to odůvodňuje pozdější chování toho, jemuž byla uložena.
->
-> (3) Pořádkové pokuty připadají státu.
->
-> (4) Při správě placení pořádkové pokuty se postupuje podle daňového řádu. Pořádkovou pokutu vymáhá celní úřad.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 294, § 295, § 320ab
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=986e9b7ee64b2e89e452 -->
-
 ## § 54 — Vykázání
 
 > Toho, kdo hrubě ruší pořádek, může předseda senátu vykázat z místa, kde se jedná. Je-li vykázán účastník, může být jednáno dále v jeho nepřítomnosti.
@@ -441,52 +291,6 @@ Vykázání slouží k okamžitému obnovení pořádku v síni; u účastníka 
 **Typicky rozhodné důkazy / podklady:** protokol o jednání (napomenutí, popis chování), zvukový/obrazový záznam jednání, případně souběžné usnesení o pořádkové pokutě.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=107dc874cadf5698518f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 54
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Toho, kdo hrubě ruší pořádek, může předseda senátu vykázat z místa, kde se jedná. Je-li vykázán účastník, může být jednáno dále v jeho nepřítomnosti.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=107dc874cadf5698518f -->
 
 ## LHŮTY (§ 55 — § 58)
 
@@ -564,52 +368,6 @@ Soudcovskou lhůtu určuje soud tam, kde mlčí zákon, a může ji prodloužit 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5b95cbd2346b367fb2c2 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 55
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Nestanoví-li tento zákon lhůtu k provedení úkonu, určí ji, jestliže je to třeba, předseda senátu. Lhůtu, kterou určil, může předseda senátu též prodloužit.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5b95cbd2346b367fb2c2 -->
-
 ## § 56 — Neběh lhůty (ztráta procesní způsobilosti)
 
 > (1) Lhůta neběží tomu, kdo ztratil způsobilost být účastníkem řízení nebo způsobilost jednat před soudem nebo u něhož bylo rozhodnuto, že musí být zastoupen svým zákonným zástupcem (§ 23).
@@ -667,54 +425,6 @@ Ztratí-li účastník způsobilost být účastníkem či procesní způsobilos
 **Typicky rozhodné důkazy / podklady:** doručenka původního rozhodnutí, úmrtní list / doklad o zániku PO, rozhodnutí o omezení svéprávnosti, usnesení o procesním nástupnictví / ustanovení opatrovníka.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e03c1012dae4add8cd0b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 56
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Lhůta neběží tomu, kdo ztratil způsobilost být účastníkem řízení nebo způsobilost jednat před soudem nebo u něhož bylo rozhodnuto, že musí být zastoupen svým zákonným zástupcem ([[#§ 23|§ 23]]).
->
-> (2) Jakmile v takovém případě do řízení vstoupí jiný účastník, zákonný zástupce nebo opatrovník účastníka, začíná jim běžet nová lhůta od té doby, kdy do řízení vstoupili.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 23
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e03c1012dae4add8cd0b -->
 
 ## § 57 — Počítání lhůty
 
@@ -803,56 +513,6 @@ Den rozhodné skutečnosti se nepočítá, konec lhůty padající na víkend/sv
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=ef4cd49c4eb14139148f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 57
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Do běhu lhůty se nezapočítává den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin.
->
-> (2) Lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Lhůty určené podle hodin končí uplynutím hodiny, která se svým označením shoduje s hodinou, kdy došlo ke skutečnosti určující počátek lhůty.
->
-> (3) Lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ef4cd49c4eb14139148f -->
-
 ## § 58 — Prominutí zmeškání lhůty
 
 > (1) Soud promine zmeškání lhůty, jestliže účastník nebo jeho zástupce ji zmeškal z omluvitelného důvodu, a byl proto vyloučen z úkonu, který mu přísluší. Návrh je třeba podat do patnácti dnů po odpadnutí překážky a je s ním třeba spojit i zmeškaný úkon.
@@ -935,54 +595,6 @@ Prominout lze zmeškání pouze zákonné (nikoli soudcovské) lhůty, jen z oml
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f09758a5e8a969c8e0ac generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 58
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Soud promine zmeškání lhůty, jestliže účastník nebo jeho zástupce ji zmeškal z omluvitelného důvodu, a byl proto vyloučen z úkonu, který mu přísluší. Návrh je třeba podat do patnácti dnů po odpadnutí překážky a je s ním třeba spojit i zmeškaný úkon.
->
-> (2) Soud může k žádosti účastníka přiznat odkladný účinek návrhu, aby bylo prominuto zmeškání lhůty.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f09758a5e8a969c8e0ac -->
-
 # ČÁST DRUHÁ — Činnost soudu před zahájením řízení
 
 ## HLAVA I — Předběžná řízení (§ 67 — § 69)
@@ -1041,54 +653,6 @@ Smírčí řízení podle § 67 umožňuje u věcně příslušného (popř. i o
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=1711271a738f16a18769 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 67
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Připouští-li to povaha věci, lze navrhnout u kteréhokoli soudu, který by byl věcně příslušný k rozhodování věci, aby provedl pokus o smír (smírčí řízení) a, došlo-li k jeho uzavření, aby rozhodl i o jeho schválení. Jestliže by věcně příslušný byl krajský soud, může provést smírčí řízení a schválení smíru i kterýkoli okresní soud.
->
-> (2) Soud rozhodne o tom, zda schvaluje mediační dohodu uzavřenou podle zákona o mediaci, nejdéle do 30 dnů od zahájení smírčího řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1711271a738f16a18769 -->
-
 ## § 68 — Vedení smírčího řízení
 
 > (1) Smírčí řízení ve věcech, v nichž jedná a rozhoduje senát, provádí předseda senátu.
@@ -1137,54 +701,6 @@ Smírčí řízení v senátních věcech vede předseda senátu a jeho podstato
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=3c95e4ccd041fccf369c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 68
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Smírčí řízení ve věcech, v nichž jedná a rozhoduje senát, provádí předseda senátu.
->
-> (2) Součinnost nebo přítomnost účastníků nelze žádným způsobem vynucovat.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3c95e4ccd041fccf369c -->
-
 ## § 69 — Účel smírčího řízení
 
 > Účelem smírčího řízení je uzavření smíru. Ustanovení § 99 platí i pro tento smír.
@@ -1232,52 +748,6 @@ Smír uzavřený ve smírčím řízení má díky § 69 a § 99 účinky pravom
 > **§ 70 — § 73e — zrušeny.**
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ef0be9ae366d87460134 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 69
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Účelem smírčího řízení je uzavření smíru. Ustanovení [[#§ 99|§ 99]] platí i pro tento smír.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 99
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ef0be9ae366d87460134 -->
 
 ## HLAVA II — Předběžná opatření a zajištění důkazu (§ 74 — § 78a)
 
@@ -1353,56 +823,6 @@ Před zahájením řízení lze nařídit PO k zatímní úpravě poměrů nebo 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=b62960b414099fb9b47d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 74
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Před zahájením řízení může předseda senátu nařídit předběžné opatření, je-li třeba, aby zatímně byly upraveny poměry účastníků, nebo je-li obava, že by výkon soudního rozhodnutí byl ohrožen.
->
-> (2) Účastníky řízení jsou navrhovatel a ti, kteří by jimi byli, kdyby šlo o věc samu.
->
-> (3) Příslušným k nařízení předběžného opatření je soud, který je příslušný k řízení o věci, nestanoví-li zákon jinak.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b62960b414099fb9b47d -->
-
 ## § 75 — Návrh na PO
 
 > (1) Předběžné opatření nařídí předseda senátu na návrh.
@@ -1465,56 +885,6 @@ Návrh na PO musí být úplný a doložený již při podání: obecné nálež
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2face8c85f1f0335ef0a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 75
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Předběžné opatření nařídí předseda senátu na návrh.
->
-> (2) Návrh na nařízení předběžného opatření podle [[#§ 76|§ 76]] musí kromě obecných náležitostí (§ 42 odst. 4) obsahovat jméno, příjmení a bydliště účastníků (obchodní firmu nebo název a sídlo právnické osoby, označení státu a příslušné organizační složky státu, která za stát před soudem vystupuje), popřípadě též jejich zástupců, vylíčení skutečností o tom, že je třeba, aby byly zatímně upraveny poměry účastníků, nebo že je tu obava, že by výkon soudního rozhodnutí byl ohrožen, vylíčení skutečností, které odůvodňují předběžné opatření, a musí být z něj patrno, jakého předběžného opatření se navrhovatel domáhá; ve věcech týkajících se vztahů mezi podnikateli vyplývajících z podnikatelské činnosti musí návrh dále obsahovat identifikační číslo osoby (dále jen „identifikační číslo“) právnické osoby, identifikační číslo fyzické osoby, která je podnikatelem, popřípadě další údaje potřebné k identifikaci účastníků řízení.
->
-> (3) Navrhovatel je povinen připojit k návrhu listiny, jichž se dovolává.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 76, § 42
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2face8c85f1f0335ef0a -->
-
 ## § 75a — Vady návrhu — okamžité odmítnutí
 
 > Návrh na předběžné opatření, který neobsahuje všechny náležitosti nebo který je nesrozumitelný anebo neurčitý, předseda senátu odmítne, jestliže pro tyto nedostatky nelze pokračovat v řízení; ustanovení § 43 se nepoužije.
@@ -1564,52 +934,6 @@ Vadný (neúplný, nesrozumitelný či neurčitý) návrh na PO se podle § 75a 
 **Typicky rozhodné důkazy / podklady:** samotný text návrhu na PO (z něj se posuzuje úplnost/určitost/srozumitelnost), spisový přehled o (ne)složení jistoty pro odlišení režimu § 75b.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=47485e877f9d79276131 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 75a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Návrh na předběžné opatření, který neobsahuje všechny náležitosti nebo který je nesrozumitelný anebo neurčitý, předseda senátu odmítne, jestliže pro tyto nedostatky nelze pokračovat v řízení; ustanovení [[#§ 43|§ 43]] se nepoužije.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 43
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=47485e877f9d79276131 -->
 
 ## § 75b — Jistota
 
@@ -1701,68 +1025,6 @@ Jistota (10 000 Kč, mezi podnikateli z podnikatelské činnosti 50 000 Kč) mus
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a5c41978a97a542c8109 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 75b
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) K zajištění náhrady škody nebo jiné újmy, která by vznikla předběžným opatřením, je navrhovatel povinen složit nejpozději ve stejný den, kdy podal u soudu návrh na nařízení předběžného opatření, jistotu ve výši 10 000 Kč a ve věcech týkajících se vztahů mezi podnikateli vyplývajících z podnikatelské činnosti ve výši 50 000 Kč. Dospěje-li předseda senátu k závěru, že složená jistota zjevně nepostačuje k zajištění náhrady škody nebo jiné újmy, která by vznikla předběžným opatřením, anebo že jde o opětovný návrh na nařízení předběžného opatření, který ve věci týchž účastníků požaduje z obdobných důvodů stejnou nebo obdobnou zatímní úpravu poměrů, vyzve navrhovatele bezodkladně, aby do 3 dnů složil doplatek jistoty ve výši, kterou stanoví s přihlédnutím k okolnostem případu. Podalo-li návrh na předběžné opatření více navrhovatelů, jsou povinni jistotu a doplatek jistoty složit společně a nerozdílně.
->
-> (2) Nebude-li jistota podle odstavce 1 složena, předseda senátu návrh na předběžné opatření odmítne.
->
-> (3) Odstavce 1 a [[#§ 2|2]] neplatí,
->
-> - a) jde-li o předběžné opatření ve věci výživného;
->
-> - b) jde-li o předběžné opatření ve věci pracovní nebo ve věci ochrany oznamovatele podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]];
->
-> - c) jde-li o předběžné opatření ve věci náhrady újmy na zdraví;
->
-> - d) osvědčí-li navrhovatel spolu s návrhem na nařízení předběžného opatření, že jsou u něj splněny podmínky pro osvobození od soudních poplatků ([[#§ 138|§ 138]]);
->
-> - e) je-li tu nebezpečí z prodlení, v jehož důsledku by mohla navrhovateli vzniknout újma, a navrhovatel spolu s návrhem na nařízení předběžného opatření osvědčí, že jistotu bez své viny nemohl složit.
->
-> (4) Byl-li návrh na nařízení předběžného opatření pravomocným usnesením soudu prvního stupně zamítnut, byl-li tento návrh pravomocně odmítnut nebo bylo-li řízení o tomto návrhu pravomocně zastaveno, soud složenou jistotu vrátí. V případě, že soud nařídil předběžné opatření, bude jistota vrácena, jestliže marně uplynula lhůta k žalobě podle § 77a odst. 2 nebo jestliže nabylo právní moci rozhodnutí soudu o žalobě podané podle § 77a odst. 2 a z tohoto rozhodnutí vyplývá, že jistota nebude použita k uspokojení práva na náhradu škody nebo jiné újmy.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2, § 138, § 77a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a5c41978a97a542c8109 -->
-
 ## § 75c — Rozhodnutí o PO (lhůty, bezodkladnost, bez slyšení)
 
 > (1) Nepostupoval-li podle § 75a nebo podle § 75b odst. 2, předseda senátu nařídí usnesením předběžné opatření, jestliže bude prokázáno, že je třeba, aby byly zatímně upraveny poměry účastníků, nebo že je tu obava, že by výkon soudního rozhodnutí byl ohrožen, a jestliže budou alespoň osvědčeny skutečnosti, které jsou rozhodující pro uložení povinnosti předběžným opatřením.
@@ -1836,58 +1098,6 @@ O návrhu na PO rozhoduje předseda senátu bezodkladně (nejpozději do 7 dnů,
 **Typicky rozhodné důkazy / podklady:** listiny osvědčující naléhavost a důvodnost nároku, doklady o poměrech účastníků, doklad o jistotě (§ 75b), návrh s určitým petitem.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=861d01aa8098dd5c1b4b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 75c
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Nepostupoval-li podle [[#§ 75a|§ 75a]] nebo podle § 75b odst. 2, předseda senátu nařídí usnesením předběžné opatření, jestliže bude prokázáno, že je třeba, aby byly zatímně upraveny poměry účastníků, nebo že je tu obava, že by výkon soudního rozhodnutí byl ohrožen, a jestliže budou alespoň osvědčeny skutečnosti, které jsou rozhodující pro uložení povinnosti předběžným opatřením.
->
-> (2) O návrhu na předběžné opatření rozhodne předseda senátu bezodkladně. Není-li tu nebezpečí z prodlení, může předseda senátu o návrhu na předběžné opatření rozhodnout až do uplynutí 7 dnů poté, co byl podán.
->
-> (3) O návrhu na nařízení předběžného opatření rozhodne předseda senátu bez slyšení účastníků.
->
-> (4) Pro předběžné opatření je rozhodující stav v době vyhlášení (vydání) usnesení soudu prvního stupně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 75a, § 75b
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=861d01aa8098dd5c1b4b -->
 
 ## § 76 — Typy předběžných opatření
 
@@ -1974,66 +1184,6 @@ O návrhu na PO rozhoduje předseda senátu bezodkladně (nejpozději do 7 dnů,
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=d12bffbe4d5d4e2f632b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 76
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Předběžným opatřením může být účastníku uloženo zejména, aby
->
-> - a) platil výživné v nezbytné míře;
->
-> - b) poskytl alespoň část pracovní odměny, jde-li o trvání pracovního poměru a navrhovatel ze závažných důvodů nepracuje;
->
-> - c) složil peněžitou částku nebo věc do úschovy u soudu;
->
-> - d) nenakládal s určitými věcmi nebo právy;
->
-> - e) něco vykonal, něčeho se zdržel nebo něco snášel.
->
-> (2) Předběžným opatřením lze uložit povinnost někomu jinému než účastníku jen tehdy, lze-li to na něm spravedlivě žádat.
->
-> (3) Předseda senátu při nařízení předběžného opatření uloží navrhovateli, aby ve lhůtě, kterou mu určí, podal u soudu návrh na zahájení řízení. Může také stanovit, že předběžné opatření bude trvat jen po určenou dobu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d12bffbe4d5d4e2f632b -->
-
 ## § 76c — Vyhlášení a doručení PO
 
 ### Výklad
@@ -2081,56 +1231,6 @@ PO lze při nebezpečí z prodlení ihned vyhlásit povinnému; stejnopisy se od
 **Typicky rozhodné důkazy / podklady:** usnesení o PO, protokol/doklad o vyhlášení, doručenky stejnopisů, doklad o odeslání katastru (rejstříku) k poznámce.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=588a05311514c0d86e82 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 76c
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Vyžadují-li to okolnosti případu nebo je-li tu nebezpečí z prodlení, předseda senátu usnesení o předběžném opatření podle [[#§ 76|§ 76]], o němž rozhodl bezodkladně, ihned vyhlásí účastníku, kterému ukládá povinnost, popřípadě též někomu jinému než účastníku řízení, byla-li mu předběžným opatřením uložena povinnost; ukazuje-li se to potřebné, přistoupí k vyhlášení usnesení na místě samém.
->
-> (2) Stejnopis usnesení, kterým bylo nařízeno předběžné opatření, je třeba účastníkům, popřípadě jejich zástupcům a těm, kterým byla předběžným opatřením uložena povinnost, odeslat ve lhůtě 3 dnů ode dne vyhlášení usnesení nebo, nebylo-li vyhlášeno, ve lhůtě 3 dnů ode dne jeho vydání. Jiným účastníkům než navrhovateli se spolu se stejnopisem usnesení doručí též návrh na předběžné opatření.
->
-> (3) Stejnopis usnesení, kterým bylo nařízeno předběžné opatření, jímž bylo účastníku uloženo, aby nenakládal s určitou nemovitou věcí, je třeba odeslat ve lhůtě podle odstavce 2 také příslušnému katastrálnímu úřadu; to neplatí, jde-li o nemovitou věc, která není předmětem evidence v katastru nemovitostí.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 76
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=588a05311514c0d86e82 -->
 
 ## § 76d — Vykonatelnost PO
 
@@ -2186,52 +1286,6 @@ PO je vykonatelné okamžitě — vyhlášením, jinak doručením povinnému �
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7f684c1a0cb95bb2bedf generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 76d
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Usnesení, kterým bylo nařízeno předběžné opatření, je vykonatelné vyhlášením. Nedošlo-li k vyhlášení, je vykonatelné, jakmile bylo doručeno tomu, komu ukládá povinnost.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7f684c1a0cb95bb2bedf -->
-
 ## § 76e — Závaznost PO
 
 > (1) Výrok vykonatelného usnesení o nařízení předběžného opatření je závazný jen pro účastníky řízení a pro ty, kterým byla předběžným opatřením uložena povinnost, nestanoví-li zákon jinak.
@@ -2282,54 +1336,6 @@ Výrok vykonatelného PO zavazuje účastníky a osoby, jimž ukládá povinnost
 **Typicky rozhodné důkazy / podklady:** usnesení o PO (výrok), doklad o zápisu poznámky, návrh na vklad / dispozice učiněné povinným, evidence adresátů uložených povinností.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=40540391b981692eaa24 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 76e
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Výrok vykonatelného usnesení o nařízení předběžného opatření je závazný jen pro účastníky řízení a pro ty, kterým byla předběžným opatřením uložena povinnost, nestanoví-li zákon jinak.
->
-> (2) V rozsahu, v jakém je výrok vykonatelného usnesení o nařízení předběžného opatření závazný pro účastníky řízení a popřípadě pro jiné osoby, je závazný též pro všechny orgány.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=40540391b981692eaa24 -->
 
 ## § 76f — Neplatnost úkonů v rozporu s PO
 
@@ -2391,54 +1397,6 @@ Výrok vykonatelného PO zavazuje účastníky a osoby, jimž ukládá povinnost
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=25d82ac7997c3c27f103 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 76f
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Právní jednání, které bylo učiněno tím, pro něhož je výrok vykonatelného usnesení o nařízení předběžného opatření závazný, je neplatné, jestliže jím byla porušena povinnost uložená vykonatelným usnesením o nařízení předběžného opatření. Soud k neplatnosti přihlédne i bez návrhu.
->
-> (2) Bylo-li účastníku předběžným opatřením uloženo, aby nenakládal s určitou nemovitou věcí, pozbývá návrh na vklad práva týkajícího se této nemovité věci, o němž dosud nebylo příslušným orgánem pravomocně rozhodnuto, své právní účinky; to platí i tehdy, jestliže účastník učinil právní jednání týkající se nemovité věci dříve, než se usnesení o nařízení předběžného opatření stalo vykonatelným.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=25d82ac7997c3c27f103 -->
-
 ## § 76g — Doručení usnesení o zamítnutí PO
 
 Pokud byl návrh na PO **zamítnut, odmítnut nebo bylo řízení zastaveno**, doručuje se usnesení **jen navrhovateli** (= žalovaný se o pokusu nedozví). Lhůta 3 dny.
@@ -2488,52 +1446,6 @@ Zamítavé (odmítavé, zastavovací) usnesení o PO se doručuje jen navrhovate
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=3902850683788e323a06 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 76g
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Byl-li návrh na nařízení předběžného opatření zamítnut nebo odmítnut nebo bylo-li řízení o návrhu zastaveno, doručuje se usnesení jen navrhovateli. Stejnopis usnesení je třeba odeslat navrhovateli, popřípadě jeho zástupci ve lhůtě 3 dnů ode dne vyhlášení nebo vydání usnesení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3902850683788e323a06 -->
-
 ## § 76h — Doplatek jistoty během trvání PO
 
 Předseda senátu může vyzvat navrhovatele ke **složení doplatku jistoty** (lhůta 3 dny) **na návrh povinného** — pokud se ukáže, že původní jistota nestačí krýt škodu z PO.
@@ -2575,52 +1487,6 @@ Během trvání PO může soud na návrh povinného vyzvat navrhovatele k doplat
 **Typicky rozhodné důkazy / podklady:** vyčíslení hrozící škody z PO (kalkulace, znalecké podklady), doklad o výši složené jistoty, výzva soudu k doplatku a doklad o jeho (ne)složení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0d437642e276d5157dcd generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 76h
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> Dokud trvají účinky předběžného opatření, může předseda senátu vyzvat navrhovatele ke složení doplatku jistoty (§ 75b odst. 1 věta druhá) ve lhůtě 3 dnů; učiní tak jen na návrh toho, komu byla předběžným opatřením uložena povinnost.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 75b
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0d437642e276d5157dcd -->
 
 ## § 77 — Zánik / zrušení PO
 
@@ -2681,62 +1547,6 @@ PO zaniká ze zákona v případech § 77 odst. 1 (zejm. nepodání žaloby ve l
 **Typicky rozhodné důkazy / podklady:** usnesení o PO (vč. lhůty a doby trvání), doklad o (ne)podání žaloby ve lhůtě, rozhodnutí ve věci samé a jeho vykonatelnost, doklad o pominutí důvodů PO.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=39901467d32de17d1bfc generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 77
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Předběžné opatření zanikne, jestliže
->
-> - a) navrhovatel nepodal v zákonné lhůtě nebo ve lhůtě soudem určené návrh na zahájení řízení;
->
-> - b) nebylo návrhu ve věci samé vyhověno;
->
-> - c) bylo návrhu ve věci samé vyhověno a uplynulo patnáct dní od vykonatelnosti rozhodnutí o věci;
->
-> - d) uplynula určená doba, po kterou mělo trvat.
->
-> (2) Předběžné opatření předseda senátu zruší, jestliže pominou důvody, pro které bylo nařízeno. Předběžné opatření předseda senátu zruší také tehdy, jestliže navrhovatel ve stanovené lhůtě nesložil doplatek jistoty.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=39901467d32de17d1bfc -->
 
 ## § 77a — Odpovědnost navrhovatele za škodu (klíčový institut)
 
@@ -2819,54 +1629,3 @@ Navrhovatel PO nese objektivní odpovědnost (bez možnosti zproštění, vyjma 
 ---
 
 **Pokračování:** [05-cast2-predbezna.md](05-cast2-predbezna.md) — § 78 až § 78g (Zajištění důkazu obecně + zvláštní úprava zajištění předmětu důkazního prostředku ve věcech práv z duševního vlastnictví).
-
-<!-- LEGAL-REVISION:BEGIN id=56246663012bdc3a720e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
-### Revizní doplnění k § 77a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
-
-#### Znění ustanovení
-
-> (1) Zaniklo-li nebo bylo-li zrušeno nařízené předběžné opatření z jiného důvodu než proto, že návrhu ve věci samé bylo vyhověno, nebo proto, že právo navrhovatele bylo uspokojeno, je navrhovatel povinen nahradit škodu a jinou újmu každému, komu předběžným opatřením vznikla. Této odpovědnosti se navrhovatel nemůže zprostit, ledaže by ke škodě nebo k jiné újmě došlo i jinak.
->
-> (2) Žalobu na náhradu škody nebo jiné újmy podle odstavce 1 je třeba podat nejpozději do 6 měsíců ode dne, kdy předběžné opatření zaniklo nebo kdy bylo pravomocně zrušeno, jinak právo zanikne. Zmeškání této lhůty nelze prominout.
->
-> (3) Příslušným k projednání žaloby podle odstavce 2 a k rozhodnutí o ní je soud, který v prvním stupni rozhodoval o předběžném opatření.
->
-> (4) Pravomocně přiznaná náhrada škody nebo jiné újmy se uspokojí z navrhovatelem složené jistoty; nepostačuje-li jistota k uspokojení všech poškozených, rozdělí soud jistotu mezi ně poměrně. Povinnost navrhovatele nahradit škodu nebo jinou újmu, která nebyla zajištěna složenou jistotou, tím není dotčena.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=56246663012bdc3a720e -->
