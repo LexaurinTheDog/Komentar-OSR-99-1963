@@ -90,6 +90,54 @@
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c460c2df6dabb120af97 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 339
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Podle těchto ustanovení se vykonávají rozhodnutí, která ukládají jinou povinnost než zaplacení peněžité částky.
+>
+> (2) Navrhuje-li oprávněný výkon rozhodnutí též pro náklady, které mu byly rozhodnutím přiznány, jakož i pro náklady výkonu rozhodnutí, uvede v návrhu na výkon rozhodnutí, jakým způsobem má být jeho pohledávka na nákladech uspokojena.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c460c2df6dabb120af97 -->
+
 ## § 340 — VYKLIZENÍ (klíčový institut!)
 
 **Judikatura (z místních zdrojů):**
@@ -153,6 +201,54 @@
 **Typicky rozhodné důkazy / podklady:** vykonatelný rozsudek/rozkaz k vyklizení; doklad o skončení nájmu; výpis z katastru; doklad o doručení vyrozumění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d62805e3ce02b8d46ea0 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 340
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukládá-li rozhodnutí, jehož výkon se navrhuje, aby povinný vyklidil nemovitou věc, stavbu, byt nebo místnost, soud nařídí výkon rozhodnutí a po právní moci tohoto usnesení výkon rozhodnutí provede.
+>
+> (2) Soud vyrozumí povinného nejméně 15 dnů předem, kdy bude vyklizení provedeno. Vyrozumí o tom rovněž oprávněného a příslušný orgán obce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d62805e3ce02b8d46ea0 -->
 
 ## § 341 — Vlastní provedení vyklizení
 
@@ -223,6 +319,62 @@
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a41d00b861d9e81edc58 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 341
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Výkon rozhodnutí se provede tak, že soud učiní opatření, aby z vyklizovaného objektu
+>
+> - a) byly odstraněny věci patřící povinnému a příslušníkům jeho domácnosti, jakož i věci, které sice patří někomu jinému, ale jsou se souhlasem povinného umístěny ve vyklizovaném nebo na vyklizovaném objektu,
+>
+> - b) byli vykázáni povinný a všichni, kdo se tam zdržují na základě práva povinného.
+>
+> (2) Věci odstraněné z vyklizovaného objektu odevzdají se povinnému nebo některému ze zletilých příslušníků jeho domácnosti.
+>
+> (3) Není-li přítomen vyklizení nikdo, kdo by mohl věci převzít, nebo je-li převzetí věcí odmítnuto, sepíší se věci a dají se na náklady povinného do úschovy obci nebo jinému vhodnému schovateli; není-li možné věci dát do úschovy, výkon rozhodnutí nelze provést. Soud vyrozumí povinného o tom, komu jeho věci byly dány do úschovy.
+>
+> (4) Postup podle odstavce 3 se nepoužije, jde-li o věc zjevně bezcennou. V takovém případě soud věc zdokumentuje a nařídí její zničení. O zničení věci vyrozumí povinného nejméně pět dnů předem, než k němu dojde. Zničení věci se provede tak, že ji soud předá k využití nebo k odstranění nebo ji předá osobě oprávněné ke sběru nebo výkupu odpadů podle zvláštního právního předpisu102).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a41d00b861d9e81edc58 -->
+
 ## § 342 — Co s neuchovanými věcmi
 
 Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravidel o prodeji movitých věcí. Výtěžek → povinnému (po srážkách nákladů). Nepodaří-li se prodat → **nabídnutí obci / schovateli za 2/3 odhadu**, jinak **stát**.
@@ -264,6 +416,58 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 **Typicky rozhodné důkazy / podklady:** doklad o úschově a jejích nákladech; výzva k vyzvednutí; odhad/ocenění věcí; protokol o prodeji a vyúčtování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b8880c559cbec61bf479 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 342
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nevyzvedl-li si povinný věci u obce nebo schovatele do šesti měsíců ode dne, kdy byly uschovány, budou prodány na návrh obce (schovatele) podle ustanovení o prodeji movitých věcí.
+>
+> (2) Výtěžek prodeje vyplatí soud povinnému po srážce nákladů úschovy a nákladů prodeje. Jestliže povinný odmítne zbytek výtěžku převzít nebo jeho pobyt není znám, postupuje soud přiměřeně podle [[§ 301|§ 301]] [[zákona o zvláštních řízeních soudních|zákona o zvláštních řízeních soudních]]; lhůta podle [[§ 301 odst. 1|§ 301 odst. 1]] [[zákona o zvláštních řízeních soudních|zákona o zvláštních řízeních soudních]] počíná běžet ode dne, kdy povinný odmítl zbytek výtěžku převzít nebo kdy se zbytek výtěžku soudu vrátil jako nedoručitelný.
+>
+> (3) Věci, které se nepodaří prodat, soud nabídne obci nebo schovateli na úhradu nákladů úschovy za dvě třetiny odhadní ceny; odmítnou-li věci převzít, připadají státu.
+>
+> (4) Náklady úschovy, které nebudou uhrazeny z výtěžku prodeje ani převzatými věcmi, je povinen nahradit obci (schovateli) povinný; o této povinnosti soud rozhodne na návrh obce (schovatele).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 301
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b8880c559cbec61bf479 -->
 
 ## § 343, § 344 — Vyklizení S NÁHRADOU (klíčové sociální právo)
 
@@ -340,6 +544,110 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3a79e84d11295d64f315 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 343
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukládá-li rozhodnutí, jehož výkon se navrhuje, aby povinný vyklidil dům nebo byt, za které je nutno zajistit určený způsob náhrady za ztrátu práva, soud nařídí výkon rozhodnutí jen tehdy, jestliže je prokázáno, že povinnému je zajištěn takový způsob náhrady, jaký byl určen ve vykonávaném rozhodnutí. Soud provede výkon rozhodnutí po právní moci rozhodnutí o nařízení výkonu rozhodnutí.
+>
+> (2) Zajištění určeného způsobu náhrady pro povinného je povinen prokázat oprávněný.
+>
+> (3) Není-li veřejnou listinou prokázáno, že náhrada je pro povinného zajištěna a že odpovídá vykonávanému rozhodnutí, nařídí soud před rozhodnutím o nařízení výkonu rozhodnutí jednání. Při zjišťování, zda náhrada je pro povinného zajištěna a zda odpovídá vykonávanému rozhodnutí, soud provede i jiné důkazy potřebné ke zjištění skutkového stavu, než jsou účastníky navrhovány.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3a79e84d11295d64f315 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=eb2239d819c5634b782a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 344
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Soud doručí vyrozumění povinnému nejméně 15 dnů přede dnem, kdy má být vyklizení provedeno. Vyrozumí o tom rovněž oprávněného a příslušný orgán obce. Jestliže to je potřebné, zejména není-li povinný přítomen, přibere vykonavatel provádějící vyklizení k tomuto úkonu vhodnou osobu, podle možnosti zástupce orgánu obce.
+>
+> (2) Bylo-li soudem přiznáno povinnému náhradní bydlení, provede se výkon rozhodnutí způsobem uvedeným v § 341 odst. 1 s tím, že odstraněné věci se přestěhují do zajištěného náhradního obydlí. Byl-li soudem určen jiný způsob náhrady za ztrátu práva, než je náhradní obydlí, postupuje se obdobně podle § 341 odst. 2 a 3 a [[#§ 342|§ 342]].
+>
+> (3) Zjistí-li soud po nařízení výkonu rozhodnutí, popřípadě až při jeho provádění, že pro povinného ve skutečnosti nebylo náhradní obydlí zajištěno, výkon rozhodnutí zastaví.
+>
+> (4) Po přestěhování vykonavatel předá náhradní obydlí povinnému nebo zletilému příslušníkovi jeho domácnosti, je-li takový; odmítnou-li náhradní obydlí převzít, uloží klíče u soudu nebo orgánu obce a povinného o tom vyrozumí. Nezačne-li povinný náhradní obydlí bez vážného důvodu do 6 měsíců od uložení užívat, práva povinného k náhradnímu obydlí uplynutím této lhůty zanikají.
+>
+> (5) Není-li možné věci nebo některé z nich přestěhovat do určeného náhradního obydlí, postupuje se obdobně podle § 341 odst. 2 a 3 a [[#§ 342|§ 342]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 341, § 342
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb2239d819c5634b782a -->
+
 ## § 345 — ODEBRÁNÍ VĚCI
 
 > (1) Ukládá-li rozhodnutí, jehož výkon se navrhuje, aby povinný vydal nebo dodal oprávněnému věc, postará se soud o výkon rozhodnutí tím, že dá odebrat věc se vším, co k ní patří, povinnému a odevzdá ji oprávněnému.
@@ -395,6 +703,58 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 **Typicky rozhodné důkazy / podklady:** vykonatelný rozsudek na vydání věci; doklad/listina k věci (technický průkaz); protokol o odebrání; indicie o místě uložení věci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2e32fd8517e7116d4489 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 345
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukládá-li rozhodnutí, jehož výkon se navrhuje, aby povinný vydal nebo dodal oprávněnému věc, postará se soud o výkon rozhodnutí tím, že dá odebrat věc se vším, co k ní patří, povinnému a odevzdá ji oprávněnému.
+>
+> (2) Jestliže je k užívání odebírané věci třeba listiny, odebere se i tato listina povinnému a odevzdá se oprávněnému spolu s věcí, která byla povinnému odebrána.
+>
+> (3) Nařízení výkonu rozhodnutí doručí povinnému vykonavatel při odebrání věci. Soud vyrozumí oprávněného o době výkonu předem. Odebrání věci nebude provedeno, nebude-li mu přítomen oprávněný nebo jeho zástupce. Ukazuje-li se to potřebné, vykonavatel provádějící odebrání věci přibere k tomu vhodnou osobu, podle možnosti zástupce orgánu obce.
+>
+> (4) Vyžaduje-li to účel výkonu rozhodnutí, je ten, kdo provádí výkon, oprávněn učinit osobní prohlídku povinného a prohlídku bytu (sídla) a jiných místností povinného, jakož i jeho skříní nebo jiných schránek v nich umístěných, kde je podle důvodného předpokladu věc, kterou má povinný vydat nebo dodat oprávněnému; za tím účelem je oprávněn zjednat si do bytu povinného nebo do jiné místnosti povinného přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2e32fd8517e7116d4489 -->
 
 ## § 346, § 347 — Věc u třetí osoby + nemožnost odebrání
 
@@ -453,6 +813,100 @@ Pokud si povinný **nevyzvedne věci do 6 měsíců** → **prodej** podle pravi
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cee0939c47564ade37e3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 346
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Má-li věc, kterou je třeba povinnému odebrat, u sebe někdo jiný, vyzve jej soud, aby ji oprávněnému vydal. Nebude-li věc vydána dobrovolně, použije se na návrh oprávněného přiměřeně ustanovení o výkonu rozhodnutí přikázáním pohledávky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cee0939c47564ade37e3 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6a003939cd361372d896 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 347
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nepodaří-li se odebrat věc určenou v nařízení výkonu rozhodnutí a lze-li si věc stejného druhu a stejné jakosti opatřit jinak, vyzve soud oprávněného, aby si ji opatřil na náklad a nebezpečí povinného.
+>
+> (2) Povinnému může soud uložit, aby potřebný náklad zaplatil oprávněnému předem. Výkon tohoto rozhodnutí provede se pak na návrh oprávněného některým ze způsobů uvedených v § 258 odst. 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 258
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a003939cd361372d896 -->
+
 ## § 348, § 349 — Rozdělení společné věci
 
 > **§ 348 (1)** Ukládá-li vykonávané rozhodnutí, aby byla společná movitá věc nebo nemovitá věc prodána a její výtěžek rozdělen mezi spoluvlastníky, provede se výkon rozhodnutí přiměřeně podle ustanovení o prodeji movitých věcí nebo nemovitých věcí. **(2)** Spoluvlastníci mají pro účely rozvrhu výtěžku prodeje postavení oprávněných; výše pohledávek se stanoví podle výše jejich podílů na společné věci. **(3)** Nepodaří-li se společnou movitou věc nebo nemovitou věc prodat, zastaví soud výkon rozhodnutí.
@@ -506,6 +960,104 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 **Typicky rozhodné důkazy / podklady:** vykonatelný rozsudek o zrušení a vypořádání spoluvlastnictví; geometrický plán; výpis z katastru; znalecký posudek (ocenění/vytyčení).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=87a4b18adcab41bc9252 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 348
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukládá-li vykonávané rozhodnutí, aby byla společná movitá věc nebo nemovitá věc prodána a její výtěžek rozdělen mezi spoluvlastníky, provede se výkon rozhodnutí přiměřeně podle ustanovení o prodeji movitých věcí nebo nemovitých věcí.
+>
+> (2) Spoluvlastníci mají pro účely rozvrhu výtěžku prodeje postavení oprávněných; výše pohledávek se stanoví podle výše jejich podílů na společné věci.
+>
+> (3) Nepodaří-li se společnou movitou věc nebo nemovitou věc prodat, zastaví soud výkon rozhodnutí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87a4b18adcab41bc9252 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=25cdd6c9c9ff85afaa43 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 349
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukládá-li vykonávané rozhodnutí, aby byla společná movitá věc nebo nemovitá věc rozdělena jinak než prodejem, určí soud při nařízení výkonu rozhodnutí, jak výkon bude proveden. Ukazuje-li se to potřebné, přibere se k provedení výkonu rozhodnutí vhodná osoba, podle možnosti zástupce orgánu obce.
+>
+> (2) Jestliže je to třeba, zejména je-li nutno přesně stanovit, popřípadě vytyčit hranice pozemků, přibere soud k rozdělení znalce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25cdd6c9c9ff85afaa43 -->
 
 ## § 350 — Provedení prací a výkonů (náhradní výkon)
 
@@ -569,6 +1121,56 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 **Typicky rozhodné důkazy / podklady:** vykonatelný rozsudek ukládající provedení práce; fotodokumentace stavu; nabídky/faktury za náhradní provedení; usnesení o povolení náhradního výkonu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c2aea952398f22651e98 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 350
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukládá-li vykonávané rozhodnutí, aby povinný podle něho provedl pro oprávněného nějakou práci, kterou může vykonat i někdo jiný než povinný, povolí soud oprávněnému, aby si dal práci, o kterou jde, provést někým jiným nebo si ji provedl sám, a to na náklad povinného.
+>
+> (2) Oprávněný nebo ten, kým si oprávněný nechal práci provést, je při výkonu rozhodnutí oprávněn ke všemu, co je potřebné k provedení práce, o kterou jde.
+>
+> (3) Povinnému může soud uložit, aby potřebný náklad zaplatil oprávněnému předem. Výkon tohoto rozhodnutí provede se pak na návrh oprávněného některým ze způsobů určených k uspokojení peněžitých pohledávek.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c2aea952398f22651e98 -->
 
 ## § 351 — POKUTA AŽ 100 000 Kč (vynucení „jiné" povinnosti)
 
@@ -648,6 +1250,56 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=21c452893a83f667ac82 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 351
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukládá-li vykonávané rozhodnutí jinou povinnost, uloží soud za porušení této povinnosti povinnému pokutu až do výše 100 000 Kč. Nesplní-li povinný ani poté vykonávané rozhodnutí, ukládá mu soud na návrh oprávněného další přiměřené pokuty, dokud výkon rozhodnutí nebude zastaven. Pokuty připadají státu.
+>
+> (2) Zaplacením pokut se povinný nezprošťuje povinnosti nahradit újmu.
+>
+> (3) Při správě placení pokut podle odstavce 1 se postupuje podle [[daňového řádu|daňového řádu]]. Pokuty vymáhá celní úřad.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21c452893a83f667ac82 -->
+
 ## § 351a — Obnovení předešlého stavu
 
 > **(1)** Bylo-li vykonávané rozhodnutí splněno, avšak povinný následně způsobil porušením uložené mu povinnosti změnu stavu, který toto rozhodnutí předpokládá, (předešlého stavu), soud oprávněnému povolí, aby se na náklady povinného postaral o obnovení stavu předpokládaného tímto rozhodnutím. Způsob obnovení předešlého stavu soud uvede v usnesení o nařízení výkonu rozhodnutí.
@@ -702,6 +1354,56 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 **Typicky rozhodné důkazy / podklady:** vykonatelný titul; doklad o jeho původním splnění; fotodokumentace obnoveného (zapovězeného) stavu; návrh na obnovení a vyčíslení nákladů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6b81d97da9f520d687c9 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 351a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Bylo-li vykonávané rozhodnutí splněno, avšak povinný následně způsobil porušením uložené mu povinnosti změnu stavu, který toto rozhodnutí předpokládá, (předešlého stavu), soud oprávněnému povolí, aby se na náklady povinného postaral o obnovení stavu předpokládaného tímto rozhodnutím. Způsob obnovení předešlého stavu soud uvede v usnesení o nařízení výkonu rozhodnutí.
+>
+> (2) Na žádost oprávněného soud pověří vykonavatele provedením jednotlivých úkonů při výkonu rozhodnutí nebo učiní jiná vhodná opatření, aby oprávněnému dopomohl k obnovení předešlého stavu.
+>
+> (3) Povinnému může soud uložit, aby potřebné náklady zaplatil oprávněnému předem. Výkon tohoto rozhodnutí, jakož i rozhodnutí, kterým bylo povinnému uloženo zaplatit náklady uvedené v odstavci 1, se provede na návrh oprávněného některým ze způsobů určených k uspokojení peněžitých pohledávek.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b81d97da9f520d687c9 -->
 
 # ČÁST SEDMÁ — JINÁ ČINNOST SOUDU (§ 352 — § 354a)
 
@@ -762,6 +1464,54 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 **Typicky rozhodné důkazy / podklady:** usnesení ukládající jistotu/zálohu; doklad o platbě/složení; potvrzení soudu o přijetí do úschovy; listiny o příslušnosti prostředků (např. nezletilému).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=84bbafb246798ade2922 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 352
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Soud přijímá do úschovy peníze, listiny a jiné movité věci v souvislosti s trestním nebo jiným soudním řízením. U soudu se rovněž skládají peníze a jiné hodnoty náležející osobám, u kterých soud dohlíží na správu majetku, zálohy, jistoty a jiné platby, které bezprostředně souvisí se soudním řízením.
+>
+> (2) O přijetí do úschovy a o složení peněz a jiných hodnot, zálohy, jistoty nebo jiných plateb podle odstavce 1 vydá soud tomu, kdo hodnoty skládá, potvrzení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84bbafb246798ade2922 -->
 
 ## § 353 — EVROPSKÝ EXEKUČNÍ TITUL
 
@@ -827,6 +1577,58 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f1429c706b9b4ca8d9ba generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 353
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Na žádost oprávněného ze soudního rozhodnutí, soudního smíru nebo veřejné listiny, které splňují podmínky podle přímo použitelného předpisu Evropské unie34f) k potvrzení jako evropský exekuční titul nebo částečný evropský exekuční titul, soud toto rozhodnutí, smír nebo veřejnou listinu jako evropský exekuční titul nebo částečný evropský exekuční titul potvrdí za podmínek stanovených přímo použitelným předpisem Evropské unie34f). Nejsou-li splněny podmínky pro vydání potvrzení, soud jej nevydá a o důvodech písemně vyrozumí oprávněného.
+>
+> (2) K vydání potvrzení evropského exekučního titulu a částečného evropského exekučního titulu je v případě rozhodnutí a soudního smíru příslušný soud, který rozhodnutí vydal nebo soudní smír schválil. K vydání potvrzení evropského exekučního titulu a částečného evropského exekučního titulu je v případě veřejné listiny příslušný soud, v jehož obvodu má sídlo ten, kdo veřejnou listinu sepsal.
+>
+> (3) Za podmínek stanovených přímo použitelným právním předpisem Evropské unie34f) soud na žádost provede opravu nebo zruší potvrzení evropského exekučního titulu nebo částečného evropského exekučního titulu vydaného podle odstavce 1. Nejsou-li splněny podmínky pro opravu nebo zrušení, použije se věta druhá odstavce 1 obdobně.
+>
+> (4) K opravě nebo zrušení potvrzení evropského exekučního titulu nebo částečného evropského exekučního titulu je příslušný soud, který potvrzení vydal.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f1429c706b9b4ca8d9ba -->
+
 ## § 354 — Oznámení výhrady neúčinnosti
 
 > **(1)** Každý může požádat okresní soud, aby doručil jeho oznámení o výhradě práva dovolat se neúčinnosti právního jednání podle občanského zákoníku tomu, proti kterému se neúčinnosti právního jednání může dovolat.
@@ -881,6 +1683,54 @@ V praxi po **žalobě o zrušení a vypořádání spoluvlastnictví** podle § 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e2f061aaecf0dc576e2f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 354 — Oznámení výhrady
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Každý může požádat okresní soud, aby doručil jeho oznámení o výhradě práva dovolat se neúčinnosti právního jednání podle [[občanského zákoníku|občanského zákoníku]] tomu, proti kterému se neúčinnosti právního jednání může dovolat.
+>
+> (2) Soud o žádosti sepíše protokol a oznámení o výhradě doručí. Nepředá-li žadatel soudu spolu se žádostí oznámení o výhradě, může ho učinit do protokolu u soudu. V takovém případě soud doručí protokol.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2f061aaecf0dc576e2f -->
+
 ## § 354a — Vyrozumění Vězeňské služby
 
 Při žalobě na **náhradu nemajetkové újmy** za neoprávněnou vazbu / trest odnětí svobody soud vyrozumí **Vězeňskou službu** o:
@@ -925,6 +1775,52 @@ Při žalobě na **náhradu nemajetkové újmy** za neoprávněnou vazbu / trest
 **Typicky rozhodné důkazy / podklady:** žaloba na náhradu nemajetkové újmy; rozhodnutí o vazbě/trestu a o zproštění; rozsudek a doložka právní moci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0882aec6ac32865cdb1d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 354a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Soud, který rozhoduje o žalobě na náhradu ušlého zisku nebo na přiměřené zadostiučinění za vzniklou nemajetkovou újmu způsobenou rozhodnutím o vazbě nebo trestu, jde-li o vykonaný trest odnětí svobody, podle zákona upravujícího odpovědnost za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem112), vyrozumí Vězeňskou službu České republiky o podání této žaloby. Po pravomocném skončení řízení o této žalobě ji vyrozumí také o jeho výsledku, dni nabytí právní moci rozhodnutí o této žalobě a případné změně či zrušení pravomocného rozhodnutí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0882aec6ac32865cdb1d -->
 
 # ČÁST OSMÁ — ZÁVĚREČNÁ USTANOVENÍ (§ 355 — § 376)
 
@@ -971,6 +1867,52 @@ Při žalobě na **náhradu nemajetkové újmy** za neoprávněnou vazbu / trest
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bdad12ffc7d7e7ef9bc4 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 355
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Není-li dále stanoveno jinak, platí tento zákon i pro řízení zahájená před jeho účinností. Právní účinky úkonů, které v řízení nastaly před účinností tohoto zákona, zůstávají zachovány.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bdad12ffc7d7e7ef9bc4 -->
+
 ## § 356 — Lhůty z předchozí úpravy
 
 **Lhůty neskončené k 1. 4. 1964** → podle nového OSŘ. **Pokud byla dosud delší** → zachována.
@@ -1011,6 +1953,56 @@ Při žalobě na **náhradu nemajetkové újmy** za neoprávněnou vazbu / trest
 **Typicky rozhodné důkazy / podklady:** spis s vyznačením počátku běhu lhůty; údaj o délce lhůty podle dřívějšího i nového předpisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bde22baf9a87c7ffc82b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 356
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Pro lhůty, které v den, kdy tento zákon nabyl účinnosti, ještě neskončily, platí ustanovení tohoto zákona.
+>
+> (2) Jestliže však zákonem byla dosud stanovena lhůta delší, skončí až v této pozdější době.
+>
+> (3) Lhůta k podání stížnosti pro porušení zákona neskončí dříve než šest měsíců ode dne, kdy tento zákon nabyl účinnosti.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bde22baf9a87c7ffc82b -->
 
 ## § 357 — § 370a — Historická přechodná ustanovení
 
@@ -1054,6 +2046,708 @@ Z bloku § 357—370a je dnes prakticky významný jen § 370a: působnosti obec
 **Typicky rozhodné důkazy / podklady:** žádost soudu o součinnost; vymezení konkrétní působnosti dle OSŘ; podklady k příspěvku na přenesenou působnost.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6682a3cef206ea801d0b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 357
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Na platební rozkazy vydané přede dnem, kdy tento zákon nabyl účinnosti, použije se dosavadních předpisů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6682a3cef206ea801d0b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8d011f29cbb87a542916 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 358
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Řízení v nájemních věcech, zahájená přede dnem, kdy tento zákon nabyl účinnosti, dokončí se podle dosavadních předpisů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8d011f29cbb87a542916 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a2ac3dff4deba660c650 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 359
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Pokud ode dne, kdy tento zákon nabyl účinnosti, přísluší soudu ještě rozhodovat o příkazech k vyklizení, vydaných národními výbory, rozhodne o nich podle dosavadních předpisů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2ac3dff4deba660c650 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2392108ef64c1f0408ce generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 360
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Bylo-li přede dnem, kdy tento zákon nabyl účinnosti, zahájeno řízení u soudu dosud věcně příslušného, pokračuje v řízení tento soud a pro další postup se použije dosavadních předpisů.
+>
+> (2) Obdobně se postupuje, náleží-li věc do pravomoci státního notářství, s výjimkou věcí soudní úschovy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2392108ef64c1f0408ce -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=60e895535c29dd65a856 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 361
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dosud neskončené věci soudní úschovy postoupí soud příslušnému státnímu notářství a vyrozumí účastníky i schovatele, že řízení napříště vede a o vydání předmětu úschovy rozhoduje státní notářství.
+>
+> (2) Dokud schovatel nebude takto vyrozuměn, vede řízení soud podle dosavadních předpisů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60e895535c29dd65a856 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b1a96a95ecaf278106c7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 362
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Věci poručenské a věci opatrovnické týkající se majetku dítěte přenášejí se dnem, kdy tento zákon nabyl účinnosti, z národních výborů na soudy.
+>
+> (2) Národní výbory postoupí neprodleně spisy týkající se věcí uvedených v odstavci 1 příslušnému okresnímu soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1a96a95ecaf278106c7 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=417cc168e3d3732a783f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 363
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) O žádostech za povolení uzavření manželství nezletilým a osobám stiženým duševní poruchou nebo duševně nedostatečně vyvinutým, o nichž nebylo národním výborem pravomocně rozhodnuto přede dnem, kdy tento zákon nabyl účinnosti, rozhodne soud.
+>
+> (2) Národní výbory postoupí žádosti uvedené v odstavci 1 neprodleně příslušnému okresnímu soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=417cc168e3d3732a783f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5c198a098b6edff9c840 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 364
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> V řízení o zadržení v ústavu soud od účinnosti nové úpravy tohoto řízení nepokračuje; do té doby rozhoduje soud o zadržení v ústavu podle dosavadních ustanovení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c198a098b6edff9c840 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a5f42ce2eda0587bbe0 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 365
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Exekuční tituly vzniklé před účinností tohoto zákona jsou podkladem pro výkon rozhodnutí podle tohoto zákona, i když je tento zákon za podklad výkonu rozhodnutí nepovažuje.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a5f42ce2eda0587bbe0 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6522c466f89c7a177f23 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 366
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Povolení exekuce, k němuž došlo přede dnem účinnosti tohoto zákona, má účinky nařízení výkonu rozhodnutí. V řízení se dále postupuje podle tohoto zákona, není-li stanoveno jinak.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6522c466f89c7a177f23 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9d5f1f57e30da7fb8f7d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 367
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Zabavení peněžité pohledávky a platu, k němuž došlo před účinností tohoto zákona, má účinky nařízení výkonu rozhodnutí srážkami ze mzdy, popřípadě přikázáním pohledávky povinného, které bylo plátci mzdy, popřípadě dlužníku povinného doručeno.
+>
+> (2) Plátce mzdy, který provádí srážky ze mzdy povinného na základě exekuce na plat povolené přede dnem, kdy tento zákon nabyl účinnosti, může po účinnosti tohoto zákona postupovat při provádění srážek podle nových ustanovení. Jakmile mu soud doručí usnesení, ve kterém jej vyzve, aby při dalším provádění srážek postupoval podle ustanovení tohoto zákona, je plátce mzdy povinen tak učinit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9d5f1f57e30da7fb8f7d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=484cdf57b1523e59d16e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 368
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Byla-li přede dnem účinnosti tohoto zákona povolena exekuce vyklizením bytu, dokončí se podle dosavadních předpisů.
+>
+> (2) Ukládá-li rozhodnutí soudu vydané přede dnem účinnosti tohoto zákona povinnost vyklidit byt, za který je třeba poskytnout náhradu, je vykonatelné, až když byl pravoplatně poskytnut náhradní byt, popřípadě náhradní ubytování tam, kde stačí poskytnout náhradní ubytování.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=484cdf57b1523e59d16e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=75d98b486535bc3d7716 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 369
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Povolené exekuce na nemovitosti a na movité věci se dokončí podle dosavadních předpisů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=75d98b486535bc3d7716 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=991fb11c2c6b70fc40fb generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 370
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Exekuční likvidace, nařízené přede dnem, kdy tento zákon nabyl účinnosti, dokončí se podle dosavadních předpisů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=991fb11c2c6b70fc40fb -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=02c2bbf224af1a22a583 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 370a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Působnosti stanovené obecnímu úřadu obce s rozšířenou působností podle tohoto zákona jsou výkonem přenesené působnosti.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02c2bbf224af1a22a583 -->
 
 ## § 374 — Zmocňovací ustanovení (jednací řád)
 
@@ -1107,6 +2801,65 @@ Z bloku § 357—370a je dnes prakticky významný jen § 370a: působnosti obec
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=be7465b49dd8dde6c689 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 374
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ministerstvo se zmocňuje vydat obecně závazným právním předpisem jednací řád pro okresní, krajské a vrchní soudy, který upraví podrobněji pro vyřizování občanskoprávních věcí organizaci práce a úkoly zaměstnanců při výkonu soudnictví včetně postupu notáře při provádění úkonů v řízení o dědictví, postup při doručování písemností, postup soudů při výkonu rozhodnutí, kancelářské práce u soudů včetně správní agendy.
+> Zejména v něm může stanovit,
+>
+> - a) které jednoduché úkony svěřené předsedovi senátu (samosoudci) mohou vykonávat justiční kandidáti nebo administrativní zaměstnanci a kterými úkony v řízení o dědictví může notář pověřit své zaměstnance,
+>
+> - b) ve kterých případech jsou zaměstnanci soudů oprávněni ověřit pravost podpisu na listinách a správnost opisů listin,
+>
+> - c) kdy lze upustit od přítomnosti zapisovatele při jednání před soudem a jakým způsobem v takových případech je nutno zaznamenat obsah jednání,
+>
+> - d) jaká nutná vydání se hradí osobám zúčastněným na řízení.
+>
+> (2) Předseda senátu (samosoudce), jemuž je jinak věc podle rozvrhu práce přikázána, může si vyhradit vyřizování určitých věcí svěřených justičním kandidátům nebo administrativním zaměstnancům, a to buď vůbec nebo v jednotlivých případech.
+>
+> (3) Je-li podáno odvolání proti rozhodnutí, které vydal soudní komisař, justiční kandidát, asistent soudce nebo pověřený administrativní zaměstnanec, může mu zcela vyhovět předseda senátu (samosoudce). Jeho rozhodnutí se považuje za rozhodnutí soudu prvního stupně a lze je napadnout odvoláním.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=be7465b49dd8dde6c689 -->
+
 ## § 374a — Zmocnění k dalším vyhláškám
 
 Ministerstvo stanoví vyhláškami:
@@ -1155,6 +2908,66 @@ Ministerstvo stanoví vyhláškami:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=78679009b18d50fdc603 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 374a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Ministerstvo stanoví vyhláškou
+>
+> - a) výši a způsob určení odměny a náhrady hotových výdajů notářů jako soudních komisařů,
+>
+> - b) případy, v nichž nelze povolit nahlédnutí do spisu, neboť jejich obsah musí zůstat utajen,
+>
+> - c) paušální výši náhrady hotových výdajů pro účely rozhodování o náhradě nákladů řízení v případech podle § 151 odst. 3,
+>
+> - d) výši odměny správců závodu, způsob jejího určení a určení náhrady jejich hotových výdajů a výši odměny správců nemovité věci, způsob jejího určení a určení náhrady jejich hotových výdajů,
+>
+> - e) podrobnosti postupu při vyhotovování a doručování stejnopisů rozhodnutí a jiných písemností soudu v listinné podobě za součinnosti provozovatele poštovních služeb,
+>
+> - f) výši a způsob určení paušálně stanovené náhrady nákladů plátce mzdy nebo jiného příjmu,
+>
+> - h) podrobnosti o způsobu nahlížení do spisu vedeného v elektronické podobě.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 151
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=78679009b18d50fdc603 -->
+
 ## § 375 — Zrušovací ustanovení (1963)
 
 Zrušil:
@@ -1197,6 +3010,96 @@ Zrušil:
 **Typicky rozhodné důkazy / podklady:** podání odkazující na dřívější předpis; procesní spis; text § 375 a přechodných ustanovení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=542b5acdb60356558309 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 375
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Zrušují se:
+>
+> - 1. [[zákon č. 142/1950 Sb|zákon č. 142/1950 Sb.]], o řízení ve věcech občanskoprávních ([[občanský soudní řád|občanský soudní řád]]) ve znění pozdějších předpisů;
+>
+> - 2. [[zákon č. 68/1952 Sb|zákon č. 68/1952 Sb.]], kterým se mění a doplňuje občanský soudní řád;
+>
+> - 3. [[§ 6 odst. 2|§ 6 odst. 2]] [[zákona č. 84/1952 Sb|zákona č. 84/1952 Sb.]], o organizaci peněžnictví;
+>
+> - 4. [[§ 7|§ 7]] [[zákona č. 85/1952 Sb., o pojišťovnictví|zákona č. 85/1952 Sb., o pojišťovnictví]];
+>
+> - 5. [[§ 57 až 60|§ 57 až 60]] [[zákona č. 115/1953 Sb., o právu autorském|zákona č. 115/1953 Sb., o právu autorském]];
+>
+> - 6. [[zákonné opatření předsednictva Národního shromáždění č. 57/1955 Sb|zákonné opatření předsednictva Národního shromáždění č. 57/1955 Sb.]], o urychleném vymáhání pohledávek na úhradu osobních potřeb nezletilých dětí;
+>
+> - 7. [[zákonné opatření předsednictva Národního shromáždění č. 63/1955 Sb., o soudní exekuci odepsáním z účtu u peněžního ústavu|zákonné opatření předsednictva Národního shromáždění č. 63/1955 Sb., o soudní exekuci odepsáním z účtu u peněžního ústavu]];
+>
+> - 8. [[zákon č. 46/1959 Sb|zákon č. 46/1959 Sb.]], o změně pravomoci soudů a o změně a doplnění některých ustanovení z oboru soudnictví a státních notářství;
+>
+> - 9. [[vládní nařízení č. 175/1950 Sb|vládní nařízení č. 175/1950 Sb.]], o potvrzeních potřebných pro osvobození od soudních poplatků a záloh a pro ustanovení zástupce;
+>
+> - 10. [[vládní nařízení č. 176/1950 Sb|vládní nařízení č. 176/1950 Sb.]], o způsobu a rozsahu exekuce proti družstvům a jiným právnickým osobám;
+>
+> - 11. [[vládní nařízení č. 177/1950 Sb|vládní nařízení č. 177/1950 Sb.]], o odhadech nemovitých věcí;
+>
+> - 12. [[nařízení ministra spravedlnosti č. 178/1950 Sb|nařízení ministra spravedlnosti č. 178/1950 Sb.]], kterým se pro určení soudní příslušnosti stanoví, co se u některých právnických osob rozumí organizačně nižší správou;
+>
+> - 13. [[nařízení ministra spravedlnosti č. 180/1950 Sb., o exekuci na peněžité pohledávky a plat|nařízení ministra spravedlnosti č. 180/1950 Sb., o exekuci na peněžité pohledávky a plat]];
+>
+> - 14. [[nařízení ministra spravedlnosti č. 95/1952 Sb., kterým se vydává jednací řád pro soudy|nařízení ministra spravedlnosti č. 95/1952 Sb., kterým se vydává jednací řád pro soudy]];
+>
+> - 15. [[nařízení ministra spravedlnosti č. 12/1953 Sb., o rozsahu a podmínkách přípustnosti exekuce na pohledávky z dodávek zemědělských výrobků státu|nařízení ministra spravedlnosti č. 12/1953 Sb., o rozsahu a podmínkách přípustnosti exekuce na pohledávky z dodávek zemědělských výrobků státu]];
+>
+> - 16. vyhláška ministra spravedlnosti č. [[356/1952 Ú. l. (č. 409/1952 Ú. v.)|356/1952 Ú. l. (č. 409/1952 Ú. v.)]], kterou se vypočítávají právnické osoby požívající ochrany v exekuci a příslušné dozorčí orgány;
+>
+> - 17. vyhláška ministra spravedlnosti č. [[149/1958 Ú. l|149/1958 Ú. l.]], o rozsahu přípustnosti exekuce na pracovní odměnu osob, na nichž se vykonává trest odnětí svobody, a chovanců výchoven dorostu, ve znění [[vyhlášky ministra spravedlnosti č. 34/1961 Sb|vyhlášky ministra spravedlnosti č. 34/1961 Sb.]];
+>
+> - 18. [[nařízení ministra spravedlnosti č. 41/1960 Sb., o sídlech a obvodech lidových soudů a sídlech a obvodech krajských soudů|nařízení ministra spravedlnosti č. 41/1960 Sb., o sídlech a obvodech lidových soudů a sídlech a obvodech krajských soudů]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 7, § 57
+
+#### Souvisící předpisy
+
+- zákon č. 142/1950 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 68/1952 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 84/1952 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 85/1952 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 115/1953 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 46/1959 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 175/1950 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 176/1950 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 177/1950 Sb. (výslovně uvedeno v místním znění)
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=542b5acdb60356558309 -->
 
 ## § 376 — ÚČINNOST
 
@@ -1241,6 +3144,52 @@ Zrušil:
 **Typicky rozhodné důkazy / podklady:** znění OSŘ účinné v rozhodné době; novelizující zákon a jeho přechodná ustanovení; doklad o datu rozhodného úkonu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=96350417e71d793e0b19 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 376 — Účinnost zákona
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. dubna 1964.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96350417e71d793e0b19 -->
 
 # 🎉 KONEC KOMENTÁŘE 🎉
 

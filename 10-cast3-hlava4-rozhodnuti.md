@@ -104,6 +104,54 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a569e5f29561ce0e6953 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 152
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Rozsudkem rozhoduje soud o věci samé. Zákon stanoví, kdy soud rozhoduje ve věci samé usnesením.
+>
+> (2) Rozsudkem má být rozhodnuto o celé projednávané věci. Jestliže to však je účelné, může soud rozsudkem rozhodnout nejdříve jen o její části nebo jen o jejím základu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a569e5f29561ce0e6953 -->
+
 ## § 153 — Soud rozhoduje na základě skutkového stavu + ZÁKAZ ULTRA PETITUM
 
 > (1) Soud rozhoduje na základě zjištěného skutkového stavu věci.
@@ -169,6 +217,54 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 **Typicky rozhodné důkazy / podklady:** žaloba a její znění petitu, případná změna žaloby, listiny prokazující výši nároku, u vypořádání podklady o hodnotě a podílech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5aab10089390a9d11411 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 153
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Soud rozhoduje na základě zjištěného skutkového stavu věci.
+>
+> (2) Soud může překročit návrhy účastníků a přisoudit něco jiného nebo více, než čeho se domáhají, jen tehdy, jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5aab10089390a9d11411 -->
 
 ## § 153a — Rozsudek pro UZNÁNÍ (klíčový institut)
 
@@ -262,6 +358,58 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 **Typicky rozhodné důkazy / podklady:** kvalifikovaná výzva s poučením, doklad o jejím doručení, obsah (ne)vyjádření žalovaného, protokol o přípravném jednání, doklad o smírné povaze věci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=212f14d4993ca0ebcf6d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 153a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Uzná-li žalovaný v průběhu soudního řízení nárok nebo základ nároku, který je proti němu žalobou uplatňován, rozhodne soud rozsudkem podle tohoto uznání. Uzná-li žalovaný nárok proti němu žalobou uplatněný jen zčásti, rozhodne soud rozsudkem podle tohoto uznání, jen navrhne-li to žalobce.
+>
+> (2) Rozsudek pro uznání, nelze vydat ve věcech, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a [[#§ 2|2]]).
+>
+> (3) Rozsudkem pro uznání rozhodne soud také tehdy, má-li se za to, že žalovaný nárok, který je proti němu žalobou uplatňován, uznal (§ 114b odst. 5 a § 114c odst. 6).
+>
+> (4) Jen pro vydání rozsudku pro uznání nemusí být nařízeno jednání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 99, § 2, § 114b, § 114c
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=212f14d4993ca0ebcf6d -->
 
 ## § 153b — Rozsudek pro ZMEŠKÁNÍ (kontumační)
 
@@ -365,6 +513,60 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=84e56c6e3e9f2d91f3d4 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 153b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Zmešká-li žalovaný, kterému byly řádně doručeny do jeho vlastních rukou ([[#§ 49|§ 49]]) žaloba a předvolání k jednání nejméně deset dnů přede dnem, kdy se jednání má konat, a který byl o následcích nedostavení se poučen, bez důvodné a včasné omluvy první jednání, které se ve věci konalo, a navrhne-li to žalobce, který se dostavil k jednání, pokládají se tvrzení žalobce obsažená v žalobě o skutkových okolnostech, týkající se sporu, za nesporná a na tomto základě může soud rozhodnout o žalobě rozsudkem pro zmeškání.
+>
+> (2) Je-li v jedné věci několik žalovaných, kteří mají takové společné povinnosti, že se rozsudek musí vztahovat na všechny (§ 91 odst. 2), lze rozhodnout rozsudkem pro zmeškání jen tehdy, nedostaví-li se k jednání všichni řádně obeslaní žalovaní.
+>
+> (3) Rozsudek pro zmeškání nelze vydat ve věcech, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a [[#§ 2|2]]), došlo-li by takovým rozsudkem ke vzniku, změně nebo zrušení právního poměru mezi účastníky nebo je-li žalovaným ke dni zahájení řízení nebo ke dni vstupu do řízení nezletilý, který nenabyl plné svéprávnosti.
+>
+> (4) Zmešká-li žalovaný z omluvitelných důvodů první jednání ve věci, při němž byl vynesen rozsudek pro zmeškání, soud na návrh žalovaného tento rozsudek usnesením zruší a nařídí jednání. Takový návrh může účastník podat nejpozději do dne právní moci rozsudku pro zmeškání.
+>
+> (5) Pokud žalovaný kromě návrhu na zrušení rozsudku soudu prvního stupně z důvodů podle odstavce 4 podal proti rozsudku i odvolání a návrhu na zrušení rozsudku bylo pravomocným usnesením vyhověno, k odvolání se nepřihlíží.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49, § 91, § 99, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84e56c6e3e9f2d91f3d4 -->
+
 ## § 154 — Stav v době vyhlášení rozsudku
 
 > (1) Pro rozsudek je rozhodující stav v době jeho vyhlášení.
@@ -423,6 +625,54 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 **Typicky rozhodné důkazy / podklady:** aktuální výpisy z veřejných rejstříků k datu vyhlášení, doklady o změnách v období do vyhlášení, podklady k aktivní/pasivní legitimaci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c91788629580ac1641b7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 154
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Pro rozsudek je rozhodující stav v době jeho vyhlášení.
+>
+> (2) Jde-li o opětující se dávky, lze uložit povinnost i k plnění dávek, které se stanou splatnými teprve v budoucnu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c91788629580ac1641b7 -->
 
 ## § 155 — Výrok rozsudku + cizí měna + zveřejnění rozsudku
 
@@ -497,6 +747,62 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e44541390d4c86a47104 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 155
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Obsah rozhodnutí ve věci samé vysloví soud ve výroku rozsudku. Ve výroku také rozhodne o povinnosti k náhradě nákladů řízení; rozhodne-li jen o základu náhrady nákladů řízení, určí její výši v samostatném usnesení.
+>
+> (2) Výrok rozsudku o plnění v penězích může být vyjádřen v cizí měně, neodporuje-li to okolnostem případu a jestliže
+>
+> - a) plnění vychází z právního jednání, v němž je vyjádřeno v cizí měně, žalobce (navrhovatel) požaduje plnění v cizí měně a devizové předpisy65) umožňují tuzemci,66) který má plnit, plnění v navrhované cizí měně poskytnout bez zvláštního povolení, nebo
+>
+> - b) některý z účastníků je cizozemcem.67)
+>
+> (3) Nejsou-li splněny předpoklady pro přiznání plnění v cizí měně uvedené v odstavci 2, soud stanoví i bez návrhu plnění v měně České republiky.
+>
+> (4) Ve věcech ochrany práv porušených nebo ohrožených nekalým soutěžním jednáním, ochrany práv z duševního vlastnictví a ve věcech ochrany práv spotřebitelů může soud účastníkovi, jehož žalobě vyhověl, přiznat na jeho návrh ve výroku rozsudku právo rozsudek uveřejnit na náklady neúspěšného účastníka; podle okolností případu soud stanoví též rozsah, formu a způsob uveřejnění.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e44541390d4c86a47104 -->
+
 ## § 156 — Vyhlášení rozsudku
 
 > (1) Rozsudek se vyhlašuje vždy veřejně; vyhlašuje jej předseda senátu jménem republiky. Uvede přitom výrok rozsudku spolu s odůvodněním a poučením o odvolání a o možnosti výkonu rozhodnutí. Není-li přítomen vyhlášení rozsudku žádný z účastníků, uvede pouze výrok. Po vyhlášení předseda senátu zpravidla účastníky vyzve, aby se vyjádřili, zda se vzdávají odvolání proti vyhlášenému rozsudku.
@@ -567,6 +873,56 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 **Typicky rozhodné důkazy / podklady:** protokol o jednání a o vyhlášení, písemné vyhotovení rozsudku, záznam o (ne)vzdání se odvolání, případně audiozáznam jednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8eb60821ca5698bba7f2 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 156
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Rozsudek se vyhlašuje vždy veřejně; vyhlašuje jej předseda senátu jménem republiky. Uvede přitom výrok rozsudku spolu s odůvodněním a poučením o odvolání a o možnosti výkonu rozhodnutí. Není-li přítomen vyhlášení rozsudku žádný z účastníků, uvede pouze výrok. Po vyhlášení předseda senátu zpravidla účastníky vyzve, aby se vyjádřili, zda se vzdávají odvolání proti vyhlášenému rozsudku.
+>
+> (2) Rozsudek se vyhlašuje zpravidla hned po skončení jednání, které rozsudku předcházelo; není-li to možné, soud k vyhlášení rozsudku odročí jednání nejdéle na dobu deseti kalendářních dnů. Ustanovení § 119 odst. 2 a [[#§ 3|3]] se v tomto případě nepoužijí.
+>
+> (3) Jakmile soud vyhlásí rozsudek, je jím vázán.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 119, § 3
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8eb60821ca5698bba7f2 -->
 
 ## § 157 — ODŮVODNĚNÍ ROZSUDKU (klíčové procesní pravidlo!)
 
@@ -671,6 +1027,58 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1a13e2fc25f87345ac53 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 157
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li stanoveno jinak, v písemném vyhotovení rozsudku se po slovech „Jménem republiky“ uvede označení soudu, jména a příjmení soudců, přesné označení účastníků a jejich zástupců, účast státního zastupitelství, Úřadu pro zastupování státu ve věcech majetkových a ochránce práv dětí, označení projednávané věci, znění výroku, odůvodnění, poučení o tom, zda je přípustný opravný prostředek nepočítaje v to žalobu na obnovu řízení a pro zmatečnost, a o lhůtě a místu k jeho podání, poučení o možnosti výkonu rozhodnutí a den a místo vyhlášení. Je-li to možné, uvede se v označení účastníků též jejich datum narození (identifikační číslo).
+>
+> (2) Není-li dále stanoveno jinak, soud v odůvodnění rozsudku uvede, čeho se žalobce (navrhovatel) domáhal a z jakých důvodů a jak se ve věci vyjádřil žalovaný (jiný účastník řízení), stručně a jasně vyloží, které skutečnosti má prokázány a které nikoliv, o které důkazy opřel svá skutková zjištění a jakými úvahami se při hodnocení důkazů řídil, proč neprovedl i další důkazy, jaký učinil závěr o skutkovém stavu a jak věc posoudil po právní stránce; není přípustné ze spisu opisovat skutkové přednesy účastníků a provedené důkazy. Soud dbá o to, aby odůvodnění rozsudku bylo přesvědčivé. Odůvodnění uvedené v písemném vyhotovení rozsudku musí být v souladu s vyhlášeným odůvodněním.
+>
+> (3) V odůvodnění rozsudku pro uznání nebo rozsudku pro zmeškání uvede soud pouze předmět řízení a stručně vyloží důvody, pro které rozhodl rozsudkem pro uznání nebo rozsudkem pro zmeškání.
+>
+> (4) V odůvodnění rozsudku, proti němuž není odvolání přípustné nebo proti němuž se účastníci odvolání vzdali (§ 207 odst. 1), soud uvede pouze předmět řízení, závěr o skutkovém stavu a stručné právní posouzení věci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 207
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a13e2fc25f87345ac53 -->
+
 ## § 158 — Vyhotovení + doručení rozsudku
 
 > (1) Písemné nebo elektronické vyhotovení rozsudku podepisuje předseda senátu. Nemůže-li je podepsat, podepíše je jiný člen senátu, a rozhodl-li samosoudce, jiný předsedou soudu pověřený soudce; důvod se na písemném vyhotovení poznamená. Rozsudek se vyhotovuje v té podobě, v jaké je veden spis.
@@ -739,6 +1147,60 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8edf0760d58a0d5ed6c9 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 158
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Písemné vyhotovení rozsudku v listinné nebo elektronické podobě podepisuje předseda senátu. Nemůže-li je podepsat, podepíše je jiný člen senátu, a rozhodl-li samosoudce, jiný předsedou soudu pověřený soudce; důvod se na písemném vyhotovení poznamená.
+>
+> (2) Stejnopis rozsudku vyhotoveného v listinné podobě a rozsudek vyhotovený v elektronické podobě se doručuje účastníkům, popřípadě jejich zástupcům do vlastních rukou.
+>
+> (3) Jestliže se účastníci vzdali odvolání po skončení jednání, které rozsudku předcházelo, doručí se stejnopis vyhotovení rozsudku zpravidla při skončení jednání.
+>
+> (4) Jestliže stejnopis vyhotovení rozsudku nebyl doručen podle odstavce 3, je třeba jej účastníkům, popřípadě jejich zástupcům odeslat ve lhůtě třiceti dnů ode dne vyhlášení rozsudku. Předseda soudu je oprávněn tuto lhůtu prodloužit až o dalších šedesát dnů.
+>
+> (5) Má-li být na podkladě rozsudku proveden zápis do katastru nemovitostí, vyhotoví soud z rozsudku výpis obsahující údaje potřebné pro tento účel a zašle jej příslušnému katastrálnímu úřadu; podrobnosti stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8edf0760d58a0d5ed6c9 -->
+
 ## § 159 — Právní moc
 
 > Doručený rozsudek, který již nelze napadnout odvoláním, je v právní moci.
@@ -797,6 +1259,52 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 **Typicky rozhodné důkazy / podklady:** doručenky všem účastníkům, spisový přehled o podaných opravných prostředcích, doložka právní moci a vykonatelnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1599abc223305365280d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 159
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Doručený rozsudek, který již nelze napadnout odvoláním, je v právní moci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1599abc223305365280d -->
 
 ## § 159a — Závaznost rozsudku (RES IUDICATA)
 
@@ -875,6 +1383,58 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b7e234aa353f139e234e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 159a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li zákon jinak, je výrok pravomocného rozsudku závazný jen pro účastníky řízení.
+>
+> (2) Výrok pravomocného rozsudku, kterým bylo rozhodnuto ve věcech uvedených v § 83 odst. 2, je závazný nejen pro účastníky řízení, ale i pro další osoby oprávněné proti žalovanému pro tytéž nároky z téhož jednání nebo stavu. Zvláštní právní předpisy stanoví, v kterých dalších případech a v jakém rozsahu je výrok pravomocného rozsudku závazný pro jiné osoby než účastníky řízení.
+>
+> (3) V rozsahu, v jakém je výrok pravomocného rozsudku závazný pro účastníky řízení a popřípadě jiné osoby, je závazný též pro všechny orgány.
+>
+> (4) Jakmile bylo o věci pravomocně rozhodnuto, nemůže být v rozsahu závaznosti výroku rozsudku pro účastníky a popřípadě jiné osoby věc projednávána znovu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 83
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b7e234aa353f139e234e -->
+
 ## § 160 — Lhůta plnění
 
 > (1) Uložil-li soud v rozsudku povinnost, je třeba ji splnit do tří dnů od právní moci rozsudku nebo, jde-li o vyklizení bytu, do patnácti dnů od právní moci rozsudku; soud může určit lhůtu delší nebo stanovit, že peněžité plnění se může stát ve splátkách, jejichž výši a podmínky splatnosti určí.
@@ -947,6 +1507,58 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=09bf62c25f6df01aa54a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 160
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Uložil-li soud v rozsudku povinnost, je třeba ji splnit do tří dnů od právní moci rozsudku nebo, jde-li o vyklizení bytu, do patnácti dnů od právní moci rozsudku; soud může určit lhůtu delší nebo stanovit, že peněžité plnění se může stát ve splátkách, jejichž výši a podmínky splatnosti určí.
+>
+> (2) Odsoudil-li soud k opětujícímu se plnění v budoucnu splatných dávek, je třeba je plnit, jakmile se podle rozsudku stanou splatnými.
+>
+> (3) Uložil-li soud pravomocným rozsudkem povinnost vyklidit obydlí až po zajištění náhradního bydlení, běží lhůta k vyklizení až ode dne zajištění náhradního bydlení.
+>
+> (4) U rozsudků předběžně vykonatelných soud určí lhůtu k plnění od jejich doručení tomu, kdo má plnit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=09bf62c25f6df01aa54a -->
+
 ## § 161, § 162, § 163, § 164, § 165, § 166 — Detaily rozsudku
 
 **Vykonatelnost (§ 161):** Po uplynutí lhůty plnění, není-li lhůta — od právní moci.
@@ -1011,6 +1623,296 @@ V praxi § 152 určuje, že o meritu se rozhoduje rozsudkem, a otevírá soudu n
 **Typicky rozhodné důkazy / podklady:** pravomocný rozsudek a jeho výrok, návrh na vklad a geometrický plán, doklady o výši výživného/mzdy (§ 162), případně opravné/doplňující usnesení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9ef3ecd5715c7cbba58b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 161
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Rozsudek je vykonatelný, jakmile uplyne lhůta k plnění.
+>
+> (2) Není-li v rozsudku uložena povinnost k plnění, je rozsudek vykonatelný, jakmile nabyl právní moci.
+>
+> (3) Pravomocné rozsudky ukládající prohlášení vůle nahrazují toto prohlášení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9ef3ecd5715c7cbba58b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f60f3b1f3f56dc88ca2 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 162
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Předběžně vykonatelné jsou rozsudky odsuzující k plnění výživného nebo pracovní odměny za poslední 3 měsíce před vyhlášením rozsudku.
+>
+> (2) Na návrh může soud předběžnou vykonatelnost rozsudku vyslovit, a to ve výroku rozsudku, jestliže by jinak účastníku hrozilo nebezpečí těžko nahraditelné nebo značné újmy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f60f3b1f3f56dc88ca2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=163e58176d4abfbc9f94 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 163
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Rozsudek odsuzující k plnění v budoucnu splatných dávek nebo k plnění ve splátkách je možno na návrh změnit, jestliže se podstatně změnily okolnosti, které jsou rozhodující pro výši a další trvání dávek nebo splátek. Nestanoví-li zákon jinak, je změna rozsudku přípustná od doby, kdy došlo ke změně poměrů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=163e58176d4abfbc9f94 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=02dd9d8ef9eaac89de0d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 164
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Předseda senátu opraví v rozsudku kdykoliv i bez návrhu chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti. Týká-li se oprava výroku rozhodnutí nebo není-li možné provést opravu v listinných stejnopisech rozhodnutí, vydá o tom opravné usnesení, které doručí účastníkům; jde-li o opravu výroku rozhodnutí, může odložit vykonatelnost rozsudku na dobu, dokud opravné usnesení nenabude právní moci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02dd9d8ef9eaac89de0d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5cfc7f6fa92499db884d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 165
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Pokud odůvodnění rozsudku nemá podklad ve zjištění skutkového stavu, může účastník před tím, než rozsudek nabude právní moci, navrhnout, aby odůvodnění bylo opraveno.
+>
+> (2) Nevyhoví-li soud prvního stupně návrhu, předloží věc odvolacímu soudu, který o opravě rozhodne.
+>
+> (3) O opravě důvodů se rozhoduje usnesením; ve věcech příslušejících senátu tak učiní předseda senátu. Jednání není třeba nařizovat.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5cfc7f6fa92499db884d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=3bf712e02bd0d2d3a3c7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 166
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nerozhodl-li soud v rozsudku o některé části předmětu řízení, o nákladech řízení nebo o předběžné vykonatelnosti, může účastník do patnácti dnů od doručení rozsudku navrhnout jeho doplnění. Soud může rozsudek, který nenabyl právní moci, doplnit i bez návrhu.
+>
+> (2) Doplnění o část předmětu řízení učiní soud rozsudkem, pro nějž platí obdobně ustanovení o rozsudku; jinak o doplnění rozhodne usnesením. Nevyhoví-li soud návrhu účastníka na doplnění rozsudku, usnesením návrh zamítne.
+>
+> (3) Návrh na doplnění se nedotýká právní moci ani vykonatelnosti výroků původního rozsudku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3bf712e02bd0d2d3a3c7 -->
 
 ## USNESENÍ (§ 167 — § 171)
 
@@ -1083,6 +1985,54 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a6f5b6b223e7d2b0410c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 167
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li zákon jinak, rozhoduje soud usnesením. Usnesením se rozhoduje zejména o podmínkách řízení, o zastavení nebo přerušení řízení, o odmítnutí návrhu, o změně návrhu, o vzetí návrhu zpět, o smíru, o nákladech řízení, jakož i o věcech, které se týkají vedení řízení.
+>
+> (2) Není-li dále stanoveno jinak, užije se na usnesení přiměřeně ustanovení o rozsudku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6f5b6b223e7d2b0410c -->
+
 ## § 168, § 169, § 170, § 171 — Detaily usnesení
 
 **Vyhlášení (§ 168):** Usnesení vyhlašuje předseda senátu přítomným. Doručuje se, je-li proti němu opravný prostředek nebo ukládá-li povinnost.
@@ -1143,6 +2093,206 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 **Typicky rozhodné důkazy / podklady:** vyhotovení usnesení s datem vydání a doručení, doklad o povaze usnesení (vedení řízení vs. meritorně-procesní), případná žádost o osvobození a doklad o jejím podání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=46b72a49e67f3179c1a5 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 168
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Usnesení vyhlašuje předseda senátu přítomným účastníkům.
+>
+> (2) Usnesení doručí soud účastníkům, je-li proti němu odvolání nebo dovolání nebo jestliže to je třeba pro vedení řízení anebo jde-li o usnesení, kterým se účastníkům ukládá nějaká povinnost.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=46b72a49e67f3179c1a5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=3bfecd6761ef75a2f736 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 169
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li stanoveno jinak, ve vyhotovení usnesení se uvede, který soud je vydal, jména a příjmení soudců, označení účastníků, jejich zástupců a věci, výrok, odůvodnění, poučení o tom, zda je přípustný opravný prostředek nepočítaje v to žalobu na obnovu řízení a pro zmatečnost, a o lhůtě a místu k jeho podání, a den a místo vydání usnesení.
+>
+> (2) Vyhotovení každého usnesení, kterým se zcela vyhovuje návrhu na předběžné opatření, návrhu na zajištění důkazu, návrhu na zajištění předmětu důkazního prostředku ve věcech týkajících se práv z duševního vlastnictví nebo jinému návrhu, jemuž nikdo neodporoval, nebo usnesení, které se týká vedení řízení, anebo usnesení podle [[#§ 104a|§ 104a]], nemusí obsahovat odůvodnění. Odůvodnění nemusí obsahovat rovněž usnesení, kterým bylo rozhodnuto nikoli ve věci samé, připouští-li to povaha této věci a je-li z obsahu spisu zřejmé, na základě jakých skutečností bylo rozhodnuto; v tomto případě se ve výroku usnesení uvedou zákonná ustanovení, jichž bylo použito, a důvod rozhodnutí.
+>
+> (3) Jestliže se usnesení nedoručuje, stačí v písemném vyhotovení uvést výrok a den vydání.
+>
+> (4) Pro odůvodnění usnesení, jímž se rozhoduje ve věci samé, platí obdobně § 157 odst. 2 a [[#§ 4|4.]]
+>
+> (5) Pro usnesení, na jehož podkladě má být proveden zápis do katastru nemovitostí, platí obdobně § 158 odst. 5.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 104a, § 157, § 4, § 158
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3bfecd6761ef75a2f736 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f19fa984ad256843214e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 170
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Soud je vázán usnesením, jakmile je vyhlásil; nedošlo-li k vyhlášení, jakmile bylo doručeno, a není-li třeba doručovat, jakmile bylo vyhotoveno.
+>
+> (2) Usnesením, kterým se upravuje vedení řízení, není však soud vázán.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f19fa984ad256843214e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=41fce786101c22e545fe generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 171
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Lhůta k plnění počíná běžet od doručení usnesení; jejím uplynutím je usnesení vykonatelné.
+>
+> (2) Nebyla-li v usnesení uložena povinnost k plnění, je usnesení, není-li stanoveno jinak, vykonatelné, jakmile bylo doručeno, a není-li třeba doručovat, jakmile bylo vyhlášeno nebo vyhotoveno.
+>
+> (3) Je-li usnesení podle zákona nebo podle rozhodnutí soudu vykonatelné až po právní moci, běží lhůta k plnění až od právní moci usnesení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=41fce786101c22e545fe -->
 
 ## PLATEBNÍ ROZKAZ (§ 172 — § 175a)
 
@@ -1220,6 +2370,62 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f6e2c4091417f185062 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 172
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Soud může i bez výslovné žádosti žalobce a bez slyšení žalovaného vydat platební rozkaz, je-li v žalobě uplatněno právo na zaplacení peněžité částky a vyplývá-li uplatněné právo ze skutečností uvedených žalobcem. V platebním rozkazu žalovanému uloží, aby do 15 dnů od doručení platebního rozkazu žalobci zaplatil uplatněnou pohledávku a náklady řízení nebo aby v téže lhůtě podal odpor u soudu, který platební rozkaz vydal.
+>
+> (2) Platební rozkaz nelze vydat,
+>
+> - a) není-li znám pobyt žalovaného;
+>
+> - b) má-li být platební rozkaz doručen žalovanému do ciziny;
+>
+> - c) je-li žalovaným ke dni zahájení řízení nebo ke dni vstupu do řízení nezletilý, který nenabyl plné svéprávnosti.
+>
+> (3) Nevydá-li soud platební rozkaz, nařídí jednání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f6e2c4091417f185062 -->
+
 ## § 173 — Doručení PR do vlastních rukou (BEZ FIKCE!)
 
 > (1) Platební rozkaz je třeba doručit žalovanému do vlastních rukou. Náhradní doručení je vyloučeno; to neplatí, doručuje-li se prostřednictvím veřejné datové sítě do datové schránky.
@@ -1277,6 +2483,54 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 **Typicky rozhodné důkazy / podklady:** doručenky všech žalovaných, doklad o vrácení nedoručené zásilky, lustrace datových schránek, případně usnesení o zrušení PR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9d2873f0fc3ee82e3aa7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 173
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Platební rozkaz je třeba doručit žalovanému do vlastních rukou. Náhradní doručení je vyloučeno; to neplatí, doručuje-li se prostřednictvím veřejné datové sítě do datové schránky.
+>
+> (2) Nelze-li platební rozkaz doručit i jen jednomu ze žalovaných, soud jej usnesením zruší v plném rozsahu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9d2873f0fc3ee82e3aa7 -->
 
 ## § 174 — Účinky PR + odpor
 
@@ -1346,6 +2600,58 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 **Typicky rozhodné důkazy / podklady:** doručenky PR, podaný odpor s datem podání, doklad o oprávnění odpůrce, spisový přehled o reakcích žalovaných.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=60fc25ce856baf2c6648 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 174
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Platební rozkaz, proti němuž nebyl podán odpor, má účinky pravomocného rozsudku.
+>
+> (2) Podá-li i jen jeden ze žalovaných včas odpor, ruší se tím platební rozkaz v plném rozsahu a soud nařídí jednání. Opravným prostředkem jen proti výroku o nákladech řízení je však i zde odvolání.
+>
+> (3) Pozdě podaný odpor soud usnesením odmítne; pro nedostatek odůvodnění nelze odpor odmítnout. Podaný odpor soud odmítne též tehdy, podal-li jej ten, kdo k podání odporu není oprávněn.
+>
+> (4) Při opravě chyb v psaní a v počtech, jakož i jiných zjevných nesprávností v platebním rozkazu se postupuje podle [[#§ 164|§ 164]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 164
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60fc25ce856baf2c6648 -->
 
 ## § 174a — ELEKTRONICKÝ PLATEBNÍ ROZKAZ (EPR)
 
@@ -1430,6 +2736,66 @@ Soud rozhoduje **usnesením**, nestanoví-li zákon jinak. Typicky:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e83363004240e275b4df generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 174a — Elektronický platební rozkaz
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Je-li návrh podán na elektronickém formuláři podepsaném žalobcem, soud může vydat na návrh žalobce elektronický platební rozkaz. Tento formulář zveřejní ministerstvo způsobem umožňujícím dálkový přístup.
+>
+> (2) Návrh na vydání elektronického platebního rozkazu musí kromě obecných náležitostí (§ 42 odst. 4) a náležitostí podle § 79 odst. 1 obsahovat datum narození fyzické osoby, identifikační číslo právnické osoby nebo identifikační číslo fyzické osoby, která je podnikatelem.
+>
+> (3) Ustanovení § 172 až 174 platí obdobně.
+>
+> (4) Návrh na vydání elektronického platebního rozkazu, který neobsahuje všechny zákonem stanovené náležitosti, nebo který je nesrozumitelný anebo neurčitý, předseda senátu usnesením odmítne, jestliže pro tyto nedostatky nelze pokračovat v řízení; ustanovení [[#§ 43|§ 43]] se nepoužije.
+>
+> (5) Elektronický platební rozkaz nelze vydat,
+>
+> - a) pokračuje-li soud v řízení po jeho přerušení, nebo
+>
+> - b) nebyl-li zaplacen poplatek za řízení o vydání elektronického platebního rozkazu splatný podáním návrhu na zahájení řízení ani ve lhůtě soudem k tomu určené.
+>
+> (6) Odpor proti elektronickému platebnímu rozkazu lze podat také na elektronickém formuláři podepsaném žalovaným. Tento formulář zveřejní ministerstvo způsobem umožňujícím dálkový přístup.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42, § 79, § 172, § 43
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e83363004240e275b4df -->
+
 ## § 174b — EVROPSKÝ PLATEBNÍ ROZKAZ
 
 > (1) Evropský platební rozkaz je třeba doručit žalovanému do vlastních rukou, náhradní doručení je vyloučeno.
@@ -1487,6 +2853,56 @@ EuPR je užitečný pro **české podnikatele s pohledávkami v EU** — typicky
 **Typicky rozhodné důkazy / podklady:** formulář návrhu na EuPR, doklady k pohledávce, doklad o doručení EuPR, případný návrh na přezkum dle čl. 20 nařízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=21649c5beee85079d6e3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 174b — Evropský platební rozkaz
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Evropský platební rozkaz67a) je třeba doručit žalovanému do vlastních rukou, náhradní doručení je vyloučeno.
+>
+> (2) K řízení o návrhu na přezkum evropského platebního rozkazu je příslušný soud, který evropský platební rozkaz vydal.
+>
+> (3) Usnesení soudu, jímž bylo vyhověno návrhu na přezkum evropského platebního rozkazu, se doručí účastníkům řízení o evropském platebním rozkazu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21649c5beee85079d6e3 -->
 
 ## § 175 — SMĚNEČNÝ / ŠEKOVÝ PR
 
@@ -1574,6 +2990,62 @@ EuPR je užitečný pro **české podnikatele s pohledávkami v EU** — typicky
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=632d452502f0306d61a8 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 175
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Předloží-li žalobce v prvopisu směnku nebo šek, o jejichž pravosti není důvodu pochybovat, a další listiny nutné k uplatnění práva, vydá na jeho návrh soud směnečný (šekový) platební rozkaz, v němž žalovanému uloží, aby do 15 dnů zaplatil požadovanou částku a náklady řízení nebo aby v téže lhůtě podal námitky, v nichž musí uvést vše, co proti platebnímu rozkazu namítá. Směnečný (šekový) platební rozkaz musí být doručen do vlastních rukou žalovaného, náhradní doručení je vyloučeno. Nelze-li návrhu na vydání platebního rozkazu vyhovět, nařídí soud jednání.
+>
+> (2) Ustanovení § 174 odst. 4 se použijí obdobně.
+>
+> (3) Nepodá-li žalovaný včas námitky nebo vezme-li je zpět, má směnečný (šekový) platební rozkaz účinky pravomocného rozsudku. Pozdě podané námitky nebo námitky, které neobsahují odůvodnění, soud odmítne. Podané námitky soud odmítne též tehdy, podal-li je ten, kdo k podání námitek není oprávněn.
+>
+> (4) Podá-li žalovaný včas námitky, nařídí soud k jejich projednání jednání; k námitkám později vzneseným však již nelze přihlížet. V rozsudku soud vysloví, zda směnečný (šekový) platební rozkaz ponechává v platnosti nebo zda ho zrušuje a v jakém rozsahu.
+>
+> (5) Vezme-li žalovaný námitky zpět, soud usnesením řízení o námitkách zastaví; jednání není třeba nařizovat.
+>
+> (6) Opravným prostředkem jen proti výroku o nákladech řízení je odvolání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 174
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=632d452502f0306d61a8 -->
+
 ## § 175a — § 175z — zrušeno
 
 > *Tyto paragrafy byly **zrušeny** novelou č. 293/2013 Sb. s účinností od 1. 1. 2014.*
@@ -1627,6 +3099,62 @@ Z platebních rozkazů OSŘ zná pouze:
 **Typicky rozhodné podklady:** platné znění OSŘ a ZŘS, novela č. 293/2013 Sb., u vyklizení listiny k vlastnictví a užívacímu titulu, u pozůstalosti podklady do řízení o pozůstalosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d582e8290361bc528e99 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 175a — Rozkaz k vyklizení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Uplatní-li žalobce v žalobě právo na vyklizení bytu nebo domu proti žalovanému, který byt nebo dům užívá i po dni, kdy mu právo užívání zaniklo z důvodu skončení nájmu, a vyplývá-li právo žalobce ze skutečností uvedených v žalobě a připojených písemných důkazů, může soud vydat i bez výslovné žádosti žalobce a bez slyšení žalovaného rozkaz k vyklizení. V rozkazu k vyklizení soud žalovanému uloží, aby do 15 dnů od doručení rozkazu k vyklizení byt nebo dům vyklidil a zaplatil náklady řízení nebo aby v téže lhůtě podal odpor u soudu, který rozkaz k vyklizení vydal.
+>
+> (2) Rozkaz k vyklizení nelze vydat,
+>
+> - a) nepřipojil-li žalobce k žalobě písemnou výzvu k vyklizení bytu nebo domu, kterou žalovanému zaslal nejméně 14 dnů před podáním žaloby na adresu pro doručování, případně na poslední známou adresu, nebo
+>
+> - b) probíhá-li u soudu řízení, ve kterém se rozhoduje o návrhu na přezkum oprávněnosti výpovědi z nájmu bytu nebo domu podaném v zákonem stanovené lhůtě nebo o užívacím právu žalovaného nájemce k bytu nebo domu.
+>
+> (3) K rozkazu k vyklizení soud připojí usnesení s výzvou k podání vyjádření podle § 114b odst. 1; lhůta k podání vyjádření podle § 114b odst. 2 činí 30 dní od doručení rozkazu k vyklizení.
+>
+> (4) Ustanovení § 172 odst. 2 a [[#§ 3|3]], [[#§ 173|§ 173]] a [[#§ 174|174]] platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 114b, § 172, § 3, § 173, § 174
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d582e8290361bc528e99 -->
 
 # HLAVA V — Zvláštní ustanovení (§ 176 — § 196)
 

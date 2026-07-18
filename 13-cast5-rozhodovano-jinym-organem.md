@@ -121,6 +121,60 @@ V praxi je § 244 vstupní filtr: nejprve se testuje, zda správní orgán rozho
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3a000708f6b30652f3b1 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 244
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Rozhodl-li orgán moci výkonné, orgán územního samosprávného celku, orgán zájmové nebo profesní samosprávy, popřípadě smírčí orgán zřízený podle zvláštního právního předpisu (dále jen „správní orgán“) podle zvláštního zákona o sporu nebo o jiné právní věci, která vyplývá ze vztahů soukromého práva (§ 7 odst. 1), a nabylo-li rozhodnutí správního orgánu právní moci, může být tatáž věc projednána na návrh v občanském soudním řízení.
+>
+> (2) Ustanovení odstavce 1 neplatí,
+>
+> - a) rozhodl-li o sporu nebo o jiné právní věci rozhodce nebo stálý rozhodčí soud98) nebo rozhodčí komise spolku,
+>
+> - b) jestliže se rozhodnutí správního orgánu v důsledku námitek nebo jiného obdobného úkonu účastníka právního poměru učiněného před správním orgánem podle zvláštního zákona zrušuje nebo pozbývá účinnosti,
+>
+> - c) odkázal-li podle zvláštního právního předpisu správní orgán účastníky právního poměru s jejich nároky na řízení před soudem.99)
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3a000708f6b30652f3b1 -->
+
 ## § 245 — Subsidiární použití Části I—IV
 
 > Není-li v této části uvedeno jinak, užijí se přiměřeně ustanovení části první až čtvrté tohoto zákona.
@@ -170,6 +224,52 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 **Typicky rozhodné důkazy / podklady:** není primárně dokazovací ustanovení; rozhodný je text Části V a obecné části OSŘ a posouzení, zda existuje speciální odchylka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=203366b6ae09dd8c1b0e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 245
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Není-li v této části uvedeno jinak, užijí se přiměřeně ustanovení části první až čtvrté tohoto zákona.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=203366b6ae09dd8c1b0e -->
 
 ## HLAVA DRUHÁ — Podání žaloby (§ 246 — § 248)
 
@@ -246,6 +346,56 @@ Klient nemusí znát celou Část V — stačí znát **speciální odchylky** (
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aeda97652c69a5b361d7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 246
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) K návrhu je oprávněn ten, kdo tvrdí, že byl dotčen na svých právech rozhodnutím správního orgánu, kterým byla jeho práva nebo povinnosti založena, změněna, zrušena, určena nebo zamítnuta. Tento návrh se nazývá žalobou.
+>
+> (2) Žaloba musí kromě obecných náležitostí podání (§ 42 odst. 4) obsahovat označení účastníků řízení, sporu nebo jiné právní věci, o které správní orgán rozhodl, a rozhodnutí správního orgánu, vylíčení skutečností, které svědčí o tom, že žaloba je podána včas, údaje o tom, v čem žalobce spatřuje, že byl rozhodnutím správního orgánu dotčen na svých právech, označení důkazů, které by měly být v řízení před soudem provedeny, jakož i to, v jakém rozsahu má být spor nebo jiná právní věc soudem projednána a rozhodnuta a jak má být spor nebo jiná právní věc soudem rozhodnuta.
+>
+> (3) K žalobě je žalobce povinen připojit stejnopis rozhodnutí správního orgánu a listinné důkazy, jichž se dovolává.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aeda97652c69a5b361d7 -->
+
 ## § 247 — LHŮTA 2 MĚSÍCE (nelze prominout!)
 
 > **(1)** Žaloba musí být podána ve lhůtě dvou měsíců od doručení rozhodnutí správního orgánu. Zmeškání této lhůty nelze prominout.
@@ -302,6 +452,54 @@ Dvouměsíční lhůta je tvrdá prekluze bez možnosti prominutí a žaloba je 
 **Typicky rozhodné důkazy / podklady:** doručenka konečného rozhodnutí, podací lístek/datová zpráva o podání žaloby, správní spis prokazující podání a projednání opravných prostředků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f8f9a42ab39d803876ac generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 247
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žaloba musí být podána ve lhůtě dvou měsíců od doručení rozhodnutí správního orgánu. Zmeškání této lhůty nelze prominout.
+>
+> (2) Žaloba je nepřípustná, jestliže žalobce nevyužil v řízení před správním orgánem řádné opravné prostředky nebo jestliže jím uplatněné řádné opravné prostředky nebyly správním orgánem pro opožděnost projednány.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8f9a42ab39d803876ac -->
 
 ## § 248 — Bez odkladného účinku (kromě usnesení)
 
@@ -365,6 +563,60 @@ Dvouměsíční lhůta je tvrdá prekluze bez možnosti prominutí a žaloba je 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3da98afd9f88584b8b03 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 248
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Podání žaloby nemá odkladný účinek na právní moc ani na vykonatelnost rozhodnutí správního orgánu.
+>
+> (2) Soud na žádost žalobce odloží
+>
+> - a) vykonatelnost rozhodnutí správního orgánu až do právní moci rozhodnutí o žalobě, jestliže by neprodleným výkonem rozhodnutí správního orgánu hrozila žalobci závažná újma,
+>
+> - b) právní moc rozhodnutí správního orgánu až do právní moci rozhodnutí o žalobě, jestliže je žalobce závažně ohrožen ve svých právech a odklad se nedotkne nepřiměřeným způsobem práv nabytých třetími osobami.
+>
+> (3) Odklad právní moci nebo vykonatelnosti rozhodnutí správního orgánu soud i bez návrhu zruší, jakmile se ukáže, že pominuly důvody, pro které byl povolen.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3da98afd9f88584b8b03 -->
+
 ## HLAVA TŘETÍ — Řízení o žalobě (§ 249 — § 250f)
 
 ## § 249 — Věcná příslušnost
@@ -420,6 +672,54 @@ Pravidlem je věcná příslušnost okresního soudu; jedinou výjimkou jsou vkl
 **Typicky rozhodné důkazy / podklady:** napadané rozhodnutí (katastrálního úřadu / jiného správního orgánu) určující povahu věci; u nemovitostí identifikace nemovitosti pro věcnou i místní příslušnost.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bafffea5e701f9ccd905 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 249
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, jsou k řízení v prvním stupni příslušné okresní soudy.
+>
+> (2) Krajské soudy rozhodují jako soudy prvního stupně ve věcech vkladu práva k nemovitým věcem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bafffea5e701f9ccd905 -->
 
 ## § 250 — Místní příslušnost
 
@@ -477,6 +777,60 @@ Místní příslušnost se určuje sestupnou kaskádou (povinný účastník →
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=546bba56b85b14949b40 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, je k řízení místně příslušný
+>
+> - a) obecný soud účastníka, jemuž byla nebo podle návrhu podaného u správního orgánu měla být uložena povinnost k plnění,
+>
+> - b) obecný soud účastníka, na jehož návrh bylo řízení před správním orgánem zahájeno, není-li dána příslušnost podle písmena a),
+>
+> - c) soud, v jehož obvodu je sídlo správního orgánu, který o sporu nebo o jiné právní věci rozhodl, není-li dána příslušnost podle písmena a) nebo b).
+>
+> (2) Týkalo-li se řízení před správním orgánem práva k nemovité věci, je k řízení místně příslušný vždy soud, v jehož obvodu je nemovitá věc.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=546bba56b85b14949b40 -->
+
 ## § 250a — Účastníci
 
 > **(1)** Účastníky řízení jsou žalobce a ti, kdo byli účastníky v řízení před správním orgánem.
@@ -533,6 +887,54 @@ Okruh účastníků v Části V kopíruje správní řízení a doplňuje žalob
 **Typicky rozhodné důkazy / podklady:** správní spis vymezující účastníky řízení, napadané rozhodnutí, doklady o tom, kdo a v jakém postavení za stát ve správním řízení jednal.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bf5b4f4d48ec7f85baef generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250a — Účastníci řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastníky řízení jsou žalobce a ti, kdo byli účastníky v řízení před správním orgánem.
+>
+> (2) Jakmile soud zjistí, že se řízení neúčastní někdo, kdo je podle odstavce 1 jeho účastníkem, přibere jej usnesením do řízení. Proti tomuto usnesení není odvolání přípustné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf5b4f4d48ec7f85baef -->
 
 ## § 250b — Spojení žalob + zákaz změny
 
@@ -592,6 +994,56 @@ Předmět i účastníci řízení podle Části V jsou pevně určeni správní
 **Typicky rozhodné důkazy / podklady:** napadané rozhodnutí správního orgánu (vymezení návrhu a účastníků), všechny žaloby směřující proti témuž rozhodnutí, doklady o případném procesním nástupnictví.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a1ec2cf725ad3398bc0 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) S žalobou jsou spojeny ke společnému řízení další žaloby, které byly podány ve věci, o níž správní orgán rozhodl stejným rozhodnutím dříve, než o ní soud prvního stupně rozhodl.
+>
+> (2) V průběhu řízení před soudem nesmí být změněn okruh účastníků, jaký tu byl v době rozhodnutí správního orgánu; to neplatí, došlo-li za řízení před soudem k procesnímu nástupnictví ([[#§ 107|§ 107]] a [[#§ 107a|107a]]).
+>
+> (3) Návrh, o němž rozhodl správní orgán, nesmí být v průběhu řízení před soudem změněn.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 107, § 107a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a1ec2cf725ad3398bc0 -->
 
 ## § 250c — Přípravné úkony soudu + práva správního orgánu
 
@@ -659,6 +1111,56 @@ Soud si vyžádá správní spis a doručí žalobu správnímu orgánu, jehož 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3ce1bb4d43bfddc58ee8 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) V rámci přípravy jednání předseda senátu rovněž vyžádá od správního orgánu potřebné spisy.
+>
+> (2) Stejnopis žaloby soud doručí též správnímu orgánu, který o sporu nebo o jiné právní věci rozhodl, a vyzve ho, aby soudu v určené lhůtě oznámil, zda v řízení bude uplatňovat práva podle věty druhé; jinak práva v řízení uplatňovat nelze. Správní orgán může v řízení předkládat písemná vyjádření, nahlížet do spisu, být vyrozuměn o nařízeném jednání a žádat, aby mu bylo při jednání uděleno slovo. Vždy se mu však doručuje rozhodnutí ve věci samé nebo jiné rozhodnutí, kterým se řízení před soudem končí. Pro řízení o opravném prostředku se věty první až třetí použijí obdobně.
+>
+> (3) Ustanovení [[#§ 114b|§ 114b]] se nepoužije.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 114b
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ce1bb4d43bfddc58ee8 -->
+
 ## § 250d — KONCENTRACE v Části V
 
 > **(1)** Účastníci řízení mohou uvést rozhodné skutečnosti o věci samé a označit důkazy k jejich prokázání nejpozději do skončení přípravného jednání, popřípadě do uplynutí lhůty, která jim byla poskytnuta k doplnění tvrzení o skutečnostech významných pro věc, k podání návrhů na provedení důkazů nebo ke splnění dalších procesních povinností (§ 114c) nebo, nebyla-li nařízena a provedena tato příprava jednání, do skončení prvního jednání, které se v řízení před soudem konalo; k později uvedeným skutečnostem a důkazům se nepřihlíží. To neplatí, jde-li o skutečnosti nebo důkazy, jimiž má být zpochybněna věrohodnost provedených důkazních prostředků, které nastaly po prvním jednání nebo které účastník nemohl bez své viny včas uvést, jakož i o skutečnosti a důkazy, které účastníci uvedli poté, co byl některý z nich vyzván k doplnění rozhodujících skutečností podle § 118a odst. 2.
@@ -718,6 +1220,54 @@ V Části V platí koncentrace obdobná § 118b: rozhodná tvrzení a důkazy je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7a308f03c5a2d625f6f3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastníci řízení mohou uvést rozhodné skutečnosti o věci samé a označit důkazy k jejich prokázání nejpozději do skončení přípravného jednání, popřípadě do uplynutí lhůty, která jim byla poskytnuta k doplnění tvrzení o skutečnostech významných pro věc, k podání návrhů na provedení důkazů nebo ke splnění dalších procesních povinností ([[#§ 114c|§ 114c]]) nebo, nebyla-li nařízena a provedena tato příprava jednání, do skončení prvního jednání, které se v řízení před soudem konalo; k později uvedeným skutečnostem a důkazům se nepřihlíží. To neplatí, jde-li o skutečnosti nebo důkazy, jimiž má být zpochybněna věrohodnost provedených důkazních prostředků, které nastaly po prvním jednání nebo které účastník nemohl bez své viny včas uvést, jakož i o skutečnosti a důkazy, které účastníci uvedli poté, co byl některý z nich vyzván k doplnění rozhodujících skutečností podle § 118a odst. 2.
+>
+> (2) Omezení podle odstavce 1 neplatí v případě, že účastníci nebyli řádně poučeni podle § 114c odst. 5 nebo že, nebyla-li nařízena a provedena příprava jednání, soud jim neposkytl poučení o povinnostech podle odstavce 1 a o následcích nesplnění těchto povinností nejpozději v předvolání k prvnímu jednání ve věci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 114c, § 118a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a308f03c5a2d625f6f3 -->
+
 ## § 250e — Soud NENÍ VÁZÁN skutkovým stavem správního orgánu
 
 > **(1)** Soud není vázán skutkovým stavem, jak byl zjištěn správním orgánem.
@@ -775,6 +1325,54 @@ V Části V platí koncentrace obdobná § 118b: rozhodná tvrzení a důkazy je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5b0727a045f63dbe6941 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Soud není vázán skutkovým stavem, jak byl zjištěn správním orgánem.
+>
+> (2) Soud může vzít za svá též skutková zjištění správního orgánu. Možnost zopakovat důkazy provedené před správním orgánem není dotčena.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b0727a045f63dbe6941 -->
+
 ## § 250f — Rozsah projednání
 
 > Soud projedná věc v mezích, ve kterých se žalobce domáhal projednání sporu nebo jiné právní věci v řízení před soudem. Tímto rozsahem není vázán,
@@ -826,6 +1424,58 @@ Soud zásadně rozhoduje v mezích žaloby; u věcí zahájených bez návrhu, u
 **Typicky rozhodné důkazy / podklady:** napadané rozhodnutí a doklad o způsobu zahájení správního řízení (na návrh/bez návrhu), vymezení okruhu nositelů společných práv/povinností, hmotněprávní úprava způsobu vypořádání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5ca4142c8a0bf7007b02 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Soud projedná věc v mezích, ve kterých se žalobce domáhal projednání sporu nebo jiné právní věci v řízení před soudem. Tímto rozsahem není vázán,
+>
+> - a) jestliže správní orgán řízení zahájil bez návrhu,
+>
+> - b) jde-li o taková společná oprávnění nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří jsou jejich nositeli,
+>
+> - c) vyplývá-li z právního předpisu určitý způsob vypořádání právního poměru mezi účastníky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ca4142c8a0bf7007b02 -->
 
 ## HLAVA ČTVRTÁ — Rozhodnutí o žalobě (§ 250g — § 250l)
 
@@ -884,6 +1534,60 @@ Soud zásadně rozhoduje v mezích žaloby; u věcí zahájených bez návrhu, u
 **Typicky rozhodné důkazy / podklady:** doručenka rozhodnutí a doklad o podání žaloby (lhůta), správní spis prokazující účastenství a využití opravných prostředků, obsah žaloby pro posouzení legitimace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8dedc78bb96b2e40f6ae generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Soud žalobu odmítne,
+>
+> - a) byla-li podána opožděně,
+>
+> - b) byla-li podána někým, kdo k žalobě není oprávněn,
+>
+> - c) je-li nepřípustná.
+>
+> (2) K rozhodnutí podle odstavce 1 nemusí být nařízeno jednání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8dedc78bb96b2e40f6ae -->
 
 ## § 250h — Zpětvzetí návrhu zakládajícího správní řízení
 
@@ -944,6 +1648,56 @@ Soud zásadně rozhoduje v mezích žaloby; u věcí zahájených bez návrhu, u
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3910e3c6fbf7e5f31eb0 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastník, na jehož návrh bylo zahájeno řízení před správním orgánem, může vzít v průběhu řízení před soudem tento návrh zpět, a to zcela nebo zčásti.
+>
+> (2) Byl-li vzat zpět návrh, kterým bylo zahájeno řízení před správním orgánem, a souhlasí-li s tímto zpětvzetím návrhu ostatní účastníci řízení, soud řízení zcela, popřípadě v rozsahu zpětvzetí návrhu zastaví. Jednání nemusí nařizovat.
+>
+> (3) Zastaví-li soud řízení podle odstavce 2, pozbývá rozhodnutí správního orgánu účinnost v rozsahu, v němž je usnesením soudu dotčeno. Uvedený následek musí být uveden ve výroku usnesení o zastavení řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3910e3c6fbf7e5f31eb0 -->
+
 ## § 250i — Zamítnutí žaloby
 
 > Soud žalobu zamítne, dospěje-li k závěru, že správní orgán rozhodl o sporu nebo o jiné právní věci správně.
@@ -989,6 +1743,52 @@ Shledá-li soud po vlastním přezkumu, že správní orgán rozhodl správně, 
 **Typicky rozhodné důkazy / podklady:** správní spis a v něm provedené důkazy, vlastní dokazování soudu (posudky, výslechy, listiny), podklady umožňující ověřit věcnou správnost napadaného rozhodnutí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=11e76baf75e20b832d33 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Soud žalobu zamítne, dospěje-li k závěru, že správní orgán rozhodl o sporu nebo o jiné právní věci správně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=11e76baf75e20b832d33 -->
 
 ## § 250j — Změna rozhodnutí soudem (rozsudek NAHRAZUJE akt)
 
@@ -1052,6 +1852,54 @@ Shledá-li soud po vlastním přezkumu, že správní orgán rozhodl správně, 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bd0344efb75076b51272 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250j
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dospěje-li soud k závěru, že o sporu nebo o jiné právní věci má být rozhodnuto jinak, než rozhodl správní orgán, rozhodne ve věci samé rozsudkem. S rozhodnutím správního orgánu se soud vypořádá v odůvodnění rozsudku.
+>
+> (2) Rozsudek soudu podle odstavce 1 nahrazuje rozhodnutí správního orgánu v takovém rozsahu, v jakém je rozsudkem soudu dotčeno. Tento následek musí být uveden ve výroku rozsudku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bd0344efb75076b51272 -->
+
 ## § 250k — Ostatní výsledky
 
 Pokud soud:
@@ -1098,6 +1946,52 @@ Pokud soud:
 **Typicky rozhodné důkazy / podklady:** rozhodnutí správního orgánu, procesní úkony účastníků (povaha zpětvzetí), příslušné rozhodnutí soudu (usnesení o zastavení/odmítnutí, rozsudek o zamítnutí).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5967d59308794b851c1c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250k
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Zastaví-li soud řízení o žalobě z jiných důvodů, než jsou uvedeny v [[#§ 250h|§ 250h]], nebo odmítne-li žalobu anebo zamítne-li žalobu, zůstává rozhodnutí správního orgánu nedotčeno.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 250h
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5967d59308794b851c1c -->
 
 ## § 250l — Náklady řízení před správním orgánem
 
@@ -1148,6 +2042,52 @@ Mění-li rozsudek výsledek věci (nahrazení aktu dle § 250j nebo pozbytí ú
 **Typicky rozhodné důkazy / podklady:** rozhodnutí správního orgánu vč. nákladového výroku, rozsudek nahrazující akt (či usnesení o pozbytí účinnosti), vyčíslení a doklady k nákladům řízení před správním orgánem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=858bbc1d341dceea99b5 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 250l
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Nahrazuje-li rozsudek soudu alespoň zčásti rozhodnutí správního orgánu (§ 250j odst. 2) nebo pozbylo-li rozhodnutí správního orgánu alespoň zčásti svou účinnost (§ 250h odst. 3), rozhodne soud znovu o náhradě nákladů řízení, které vznikly v řízení před správním orgánem, pokud bylo v tomto řízení o náhradě rozhodnuto.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 250j, § 250h
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=858bbc1d341dceea99b5 -->
 
 ## Praktická shrnující tabulka — KDY je která cesta?
 

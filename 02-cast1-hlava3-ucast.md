@@ -85,6 +85,54 @@ Rovnost podle § 18 vyžaduje rovné procesní zacházení a reálnou možnost p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=01f3b366ceeba6145848 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastníci mají v občanském soudním řízení rovné postavení. Mají právo jednat před soudem ve své mateřštině. Soud je povinen zajistit jim stejné možnosti k uplatnění jejich práv.
+>
+> (2) Účastníku, jehož mateřštinou je jiný než český jazyk, soud ustanoví tlumočníka, jakmile taková potřeba vyjde v řízení najevo. Totéž platí, jde-li o ustanovení tlumočníka účastníku, s nímž se nelze dorozumět jinak než některým z komunikačních systémů neslyšících a hluchoslepých osob54).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=01f3b366ceeba6145848 -->
+
 ## § 19 — Způsobilost být účastníkem řízení (procesní subjektivita)
 
 > Způsobilost být účastníkem řízení má ten, kdo má právní osobnost; jinak jen ten, komu ji zákon přiznává.
@@ -167,6 +215,52 @@ Procesní subjektivitu má ten, kdo má hmotněprávní právní osobnost, pří
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2ecf78200c39b6099dba generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 19
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Způsobilost být účastníkem řízení má ten, kdo má právní osobnost; jinak jen ten, komu ji zákon přiznává.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2ecf78200c39b6099dba -->
+
 ## § 20 — Procesní způsobilost
 
 > (1) Každý může před soudem jako účastník samostatně právně jednat (procesní způsobilost) v tom rozsahu, v jakém je svéprávný.
@@ -234,6 +328,54 @@ Procesní způsobilost kopíruje rozsah hmotněprávní svéprávnosti účastn�
 **Typicky rozhodné důkazy / podklady:** rodný list (věk), doklady o povaze jednání a svéprávnosti (pracovní smlouva, vlastní příjem), případné rozhodnutí o omezení svéprávnosti, zvláštní zákon přiznávající způsobilost organizační složce státu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fb3fd900504287371a11 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 20
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Každý může před soudem jako účastník samostatně právně jednat (procesní způsobilost) v tom rozsahu, v jakém je svéprávný.
+>
+> (2) Přiznává-li zvláštní právní předpis namísto státu někomu jinému způsobilost samostatně jednat před soudem ve věci týkající se majetku státu, jedná tato osoba jako účastník.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb3fd900504287371a11 -->
 
 ## § 21 — Jednání za právnickou osobu
 
@@ -329,6 +471,68 @@ Za PO jedná jediná oprávněná osoba (statutární orgán či jeho pověřen�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=36f4137387c26c024033 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Za právnickou osobu jedná
+>
+> - a) člen statutárního orgánu; tvoří-li statutární orgán více osob, jedná za právnickou osobu předseda statutárního orgánu, popřípadě jeho člen, který tím byl pověřen; je-li předsedou nebo pověřeným členem právnická osoba, jedná vždy fyzická osoba, která je k tomu touto právnickou osobou zmocněna nebo jinak oprávněna, nebo
+>
+> - b) její zaměstnanec (člen), který tím byl statutárním orgánem pověřen, nebo
+>
+> - c) vedoucí jejího odštěpného závodu, jde-li o věci týkající se tohoto závodu, nebo
+>
+> - d) její prokurista, může-li podle udělené prokury jednat samostatně.
+>
+> (2) Ustanovení odstavce 1 se nepoužije, stanoví-li tento nebo zvláštní zákon, že za právnickou osobu jednají jiné osoby.
+>
+> (3) Byla-li u právnické osoby zavedena nucená správa, dočasná správa nebo správa pro řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, jedná za ni nucený správce, dočasný správce nebo osoba vykonávající správu pro řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, která má podle zákona postavení jejího statutárního orgánu, popřípadě zaměstnanci právnické osoby, které tím nucený správce, dočasný správce nebo osoba vykonávající správu pro řešení krize pověřila; jinak se postupuje podle odstavců 1 a [[#§ 2|2.]]
+>
+> (4) Za právnickou osobu nemůže jednat ten, jehož zájmy jsou v rozporu se zájmy právnické osoby.
+>
+> (5) Každý, kdo jedná za právnickou osobu, musí své oprávnění prokázat. V téže věci může za právnickou osobu současně jednat jen jediná osoba.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36f4137387c26c024033 -->
+
 ## § 21a — Jednání za stát
 
 > (1) Za stát před soudem vystupuje
@@ -401,6 +605,62 @@ Stát je v civilním procesu **specifickým účastníkem**. Za něj vystupuje:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=00227bfa3545036f8c16 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 21a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Za stát před soudem vystupuje
+>
+> - a) Úřad pro zastupování státu ve věcech majetkových v případech stanovených podle zvláštního právního předpisu,55a)
+>
+> - b) organizační složka státu příslušná podle zvláštního právního předpisu v ostatních případech.
+>
+> (2) Vystupuje-li před soudem za stát Úřad pro zastupování státu ve věcech majetkových, jedná před soudem jménem státu zaměstnanec zařazený v Úřadu pro zastupování státu ve věcech majetkových, pověřený jeho generálním ředitelem.
+>
+> (3) Vystupuje-li před soudem za stát organizační složka státu příslušná podle zvláštního právního předpisu, jedná před soudem jménem státu vedoucí organizační složky státu nebo jím pověřený zaměstnanec působící u této nebo jiné organizační složky státu.
+>
+> (4) Ustanovení § 21 odst. 4 a [[#§ 5|5]] platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 5
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=00227bfa3545036f8c16 -->
+
 ## § 21b — Jednání za obec a vyšší ÚSC (kraj)
 
 > (1) Za obec a za vyšší územně samosprávný celek jedná ten, kdo je podle zvláštního zákona oprávněn je zastupovat navenek, nebo jejich zaměstnanec, který tím byl touto osobou pověřen.
@@ -425,6 +685,54 @@ Za obec / kraj jedná:
 - Žaloba proti **městské části** statutárního města (Praha, Brno, Plzeň, Ostrava, Liberec, Ústí n.L., Pardubice) — vyžaduje pozornost: statutární města mají složitější vnitřní strukturu; městská část je sice obecně účastníkem v některých věcech, ale ne ve všech (záleží na statutu města).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2ce86bb659e75f5c0283 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 21b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Za obec a za vyšší územně samosprávný celek jedná ten, kdo je podle zvláštního zákona oprávněn je zastupovat navenek, nebo jejich zaměstnanec, který tím byl touto osobou pověřen.
+>
+> (2) Ustanovení § 21 odst. 4 a [[#§ 5|5]] platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 5
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2ce86bb659e75f5c0283 -->
 
 ## Zástupci účastníků — systematický přehled
 
@@ -534,6 +842,52 @@ FO, která nemůže jednat samostatně, musí být zastoupena zákonným zástup
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4c90098e398f86d54592 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Fyzická osoba, která nemůže před soudem jednat samostatně, musí být zastoupena svým zákonným zástupcem nebo opatrovníkem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c90098e398f86d54592 -->
+
 ## § 23 — Rozhodnutí o nutnosti zastoupení
 
 > Vyžadují-li to okolnosti případu, může předseda senátu rozhodnout, že fyzická osoba, která není plně svéprávná, musí být v řízení zastoupena svým zákonným zástupcem nebo opatrovníkem, i když jde o věc, v níž by jinak mohla jednat samostatně.
@@ -582,6 +936,53 @@ Typicky: pokud je 16letý nezletilý dostatečně zralý a má svéprávnost pro
 **Typicky rozhodné důkazy / podklady:** rodný list (věk a stupeň svéprávnosti), údaje o hodnotě a složitosti věci, povaha navrhovaného dokazování, případné rozhodnutí o omezení svéprávnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=52ba6e25c979c3a8099f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Vyžadují-li to okolnosti případu, může předseda senátu rozhodnout, že fyzická osoba, která není plně svéprávná, musí být v řízení zastoupena svým zákonným zástupcem nebo opatrovníkem, i když jde o věc, v níž by jinak mohla jednat samostatně.
+> b) na základě plné moci
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52ba6e25c979c3a8099f -->
 
 ## § 24 — Smluvní zastoupení obecně
 
@@ -647,6 +1048,54 @@ Typicky: pokud je 16letý nezletilý dostatečně zralý a má svéprávnost pro
 **Typicky rozhodné důkazy / podklady:** plná moc (a její rozsah), protokol o jednání (počet a úkony zástupců), bezpečnostní osvědčení FO (u utajovaných informací), doklady k případnému nepřipuštění obecného zmocněnce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=50e58ea3717483c52427 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastník se může dát v řízení zastupovat zástupcem, jejž si zvolí. Nejedná-li se o zastupování podle [[#§ 26|§ 26]] nebo podle [[#§ 26a|§ 26a]], může být zvoleným zástupcem účastníka jen fyzická osoba. V téže věci může mít účastník současně jen jednoho zvoleného zástupce.
+>
+> (2) Jsou-li v řízení projednávány utajované informace, mohou účastníky zastupovat pouze fyzické osoby, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení těchto utajovaných informací vydaným podle zvláštního právního předpisu,56) nebo které byly poučeny způsobem uvedeným v § 40a odst. 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26, § 26a, § 40a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=50e58ea3717483c52427 -->
 
 ## § 25 — Advokát jako zástupce
 
@@ -719,6 +1168,54 @@ Advokáta lze zvolit vždy a uděluje se mu jen procesní plná moc; advokát se
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8e50ad7677a4e5f4d1d4 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Zástupcem si účastník může vždy zvolit advokáta. Advokátu lze udělit pouze plnou moc pro celé řízení (dále jen „procesní plná moc“).
+>
+> (2) Advokát je oprávněn dát se zastupovat jiným advokátem nebo, s výjimkou případů, v nichž je zastoupení advokátem podle tohoto zákona povinné, advokátním koncipientem nebo svým zaměstnancem jako dalším zástupcem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8e50ad7677a4e5f4d1d4 -->
+
 ## § 25a — Notář jako zástupce
 
 > (1) Účastník si může zvolit zástupcem též notáře; notář může účastníka zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Notáři lze udělit pouze procesní plnou moc.
@@ -775,6 +1272,54 @@ Notáře lze zvolit zástupcem jen v rozsahu jeho zákonné kompetence (typicky 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=40274164518b74b780b5 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 25a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastník si může zvolit zástupcem též notáře; notář může účastníka zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy.57) Notáři lze udělit pouze procesní plnou moc.
+>
+> (2) Notář je oprávněn dát se zastupovat jiným notářem a, s výjimkou případů, v nichž je zastoupení notářem podle tohoto zákona povinné, též notářským kandidátem nebo notářským koncipientem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40274164518b74b780b5 -->
+
 ## § 25b — Patentový zástupce
 
 > S výjimkou dovolání si účastník může zvolit zástupcem též patentového zástupce; patentový zástupce může účastníka zastupovat jen v rozsahu oprávnění stanoveného zvláštním právním předpisem.
@@ -825,6 +1370,52 @@ Patentový zástupce může zastupovat účastníka ve věcech práv duševního
 **Typicky rozhodné důkazy / podklady:** plná moc, doklad o oprávnění patentového zástupce (č. 417/2004 Sb.), vymezení předmětu sporu (práva duševního vlastnictví), pro dovolání plná moc advokátovi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=77f11d32c6d628b9ef3b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 25b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> S výjimkou dovolání si účastník může zvolit zástupcem též patentového zástupce; patentový zástupce může účastníka zastupovat jen v rozsahu oprávnění stanoveného zvláštním právním předpisem.57b)
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77f11d32c6d628b9ef3b -->
 
 ## § 26 — Zvláštní právnické osoby jako zástupci (odbory, antidiskriminační org. atd.)
 
@@ -909,6 +1500,66 @@ Paragraf 26 zakládá **výjimky z pravidla, že zvoleným zástupcem musí být
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=704183eb4a35bac5ae53 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 26
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Odborová organizace může, s výjimkou věcí týkajících se vztahů mezi podnikateli vyplývajících z podnikatelské činnosti, v řízení zastupovat účastníka, který je jejím členem.
+>
+> (2) Úřad pro mezinárodněprávní ochranu dětí (dále jen „Úřad“) může zastupovat účastníka v řízení o určení nebo změnu vyživovací povinnosti a v řízení o výkon rozhodnutí ukládajícího povinnost k placení výživného, jde-li o věci se vztahem k cizině.
+>
+> (3) Ve věcech ochrany před diskriminací na základě pohlaví, rasového nebo etnického původu, náboženství, víry, světového názoru, zdravotního postižení, věku anebo sexuální orientace se účastník může dát v řízení zastupovat též právnickou osobou vzniklou na základě zvláštního právního předpisu, k jejímž činnostem uvedeným ve stanovách patří ochrana před takovou diskriminací.
+>
+> (4) Ve sporech o nárocích vycházejících z [[autorského zákona|autorského zákona]], o nárocích z ohrožení a porušení práv podle [[autorského zákona|autorského zákona]] a o nárocích na vydání bezdůvodného obohacení získaného na úkor toho, komu svědčí práva podle [[autorského zákona|autorského zákona]], se účastník může dát zastupovat právnickou osobou, k jejímuž předmětu podnikání, popřípadě činnosti patří ochrana práv podle [[autorského zákona|autorského zákona]].
+>
+> (5) Je-li ve věcech pracovních žalobcem cizinec, může se dát v řízení zastupovat též právnickou osobou vzniklou na základě zvláštního právního předpisu, k jejímž činnostem uvedeným ve stanovách patří ochrana práv cizinců; za právnickou osobu jedná k tomu pověřený její zaměstnanec nebo člen, který má vysokoškolské právnické vzdělání, které je podle zvláštních právních předpisů vyžadováno pro výkon advokacie. Ustanovení tohoto odstavce o zastoupení cizince právnickou osobou se použije i v případech, ve kterých se uplatní přímo použitelný předpis Evropské unie z oblasti volného pohybu pracovníků105).
+>
+> (6) Ve věcech pracovních a ve věcech vyplývajících ze zákona [[o pobytu cizinců na území České republiky|o pobytu cizinců na území České republiky]] se může dát cizinec, který na území pobývá na vízum k pobytu nad 90 dnů za účelem sezónního zaměstnání, v řízení zastupovat právnickou osobou, k jejímž činnostem uvedeným ve stanovách patří ochrana práv cizinců.
+>
+> (7) Ve věcech ochrany osobních údajů se může dát subjekt údajů v řízení zastupovat též právnickou osobou, jejíž zisk se nerozděluje a k jejímž činnostem uvedeným v zakladatelském právním jednání patří ochrana práv subjektů údajů; za právnickou osobu jedná k tomu pověřený její zaměstnanec nebo člen, který má vysokoškolské právnické vzdělání, které je podle zvláštních předpisů vyžadováno pro výkon advokacie.
+>
+> (8) Převezme-li odborová organizace nebo Úřad anebo právnická osoba podle odstavců 3, 4 a 6 zastoupení, jedná jejich jménem za zastoupeného osoba uvedená v [[#§ 21|§ 21]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=704183eb4a35bac5ae53 -->
+
 ## § 26a — Stát jako zástupce obce (ÚZSVM)
 
 > (1) V případech a za podmínek uvedených ve zvláštním právním předpise může být obec v řízení zastoupena státem, za nějž před soudem vystupuje Úřad pro zastupování státu ve věcech majetkových.
@@ -959,6 +1610,56 @@ Obec může být v zákonem vymezených případech zastoupena státem, za něj�
 **Typicky rozhodné důkazy / podklady:** žádost obce a doklad o splnění podmínek dle č. 201/2002 Sb., procesní plná moc udělená státu, pověření zaměstnance ÚZSVM generálním ředitelem, podklady k předmětu sporu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ae0f27c755b83418e166 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 26a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) V případech a za podmínek uvedených ve zvláštním právním předpise55a) může být obec v řízení zastoupena státem, za nějž před soudem vystupuje Úřad pro zastupování státu ve věcech majetkových.
+>
+> (2) Při zastupování podle odstavce 1 lze státu udělit pouze procesní plnou moc.
+>
+> (3) Převezme-li stát zastoupení podle odstavce 1, jedná jménem státu za zastoupenou obec zaměstnanec zařazený v Úřadu pro zastupování státu ve věcech majetkových, pověřený jeho generálním ředitelem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ae0f27c755b83418e166 -->
 
 ## § 27 — Obecný zmocněnec (FO bez profesního statusu)
 
@@ -1026,6 +1727,56 @@ Obecným zmocněncem může být kterákoli plně svéprávná FO jednající os
 **Typicky rozhodné důkazy / podklady:** plná moc, přehled dřívějších řízení s týmž zmocněncem, poznatky o kvalitě a úplatnosti zastupování, usnesení o nepřipuštění a doklad o jeho odeslání Ministerstvu spravedlnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=567b93de751be1fd3ad7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastník se může dát zastoupit také kteroukoliv fyzickou osobou, která je plně svéprávná. Tento zástupce může jednat jedině osobně.
+>
+> (2) Soud rozhodne, že zastoupení podle odstavce 1 nepřipouští, jestliže zástupce zřejmě není způsobilý k řádnému zastupování, anebo jestliže jako zástupce vystupuje v různých věcech opětovně.
+>
+> (3) Soud je povinen zaslat Ministerstvu spravedlnosti opis rozhodnutí podle odstavce 2 do 30 dnů od právní moci takového rozhodnutí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=567b93de751be1fd3ad7 -->
 
 ## § 28 — Plná moc — udělení, odvolání, výpověď, zánik
 
@@ -1111,6 +1862,62 @@ Plná moc se uděluje písemně či ústně do protokolu; její odvolání/výpo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b54537d3593fb252add5 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 28
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Zástupci, jejž si účastník zvolil, udělí písemně nebo ústně do protokolu procesní plnou moc nebo plnou moc jen pro určité úkony.
+>
+> (2) Odvolání plné moci účastníkem nebo její výpověď zástupcem jsou vůči soudu účinné, jakmile mu byly účastníkem nebo zástupcem oznámeny; vůči jiným účastníkům řízení jsou účinné, jakmile jim byly oznámeny soudem.
+>
+> (3) Zvolí-li si účastník jiného zástupce, platí, že tím také vypověděl plnou moc dosavadnímu zástupci.
+>
+> (4) Podpisy na písemné plné moci, na odvolání plné moci nebo na její výpovědi musí být úředně ověřeny, jen stanoví-li to zákon nebo rozhodl-li tak předseda senátu.
+>
+> (5) Ztratí-li zastoupený způsobilost být účastníkem řízení, popřípadě zemře-li nebo zanikne-li zástupce, plná moc zaniká.
+>
+> (6) Nevyplývá-li z plné moci něco jiného, plná moc zaniká dnem právní moci rozhodnutí, kterým bylo skončeno řízení, pro něž byla udělena.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b54537d3593fb252add5 -->
+
 ## § 28a — Procesní plná moc vs. plná moc pro určité úkony
 
 > (1) Procesní plnou moc nelze omezit. Zástupce, jemuž byla tato plná moc udělena, je oprávněn ke všem úkonům, které může v řízení učinit účastník.
@@ -1171,6 +1978,55 @@ Procesní plnou moc nelze omezit — zástupce je oprávněn ke všem úkonům �
 **Typicky rozhodné důkazy / podklady:** text plné moci (rozsah a druh), sporný úkon (odvolání, smír) a protokol/podání, případná písemná instrukce klienta, výzva soudu k doložení procesní plné moci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1fe5928a7def9167f883 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 28a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Procesní plnou moc nelze omezit. Zástupce, jemuž byla tato plná moc udělena, je oprávněn ke všem úkonům, které může v řízení učinit účastník.
+>
+> (2) Plná moc pro určité úkony opravňuje k zastupování jen při těch úkonech, které byly v plné moci výslovně uvedeny.
+> c) na základě rozhodnutí
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1fe5928a7def9167f883 -->
 
 ## § 29 — Opatrovník ustanovený soudem
 
@@ -1266,6 +2122,58 @@ Opatrovníka ustanoví předseda senátu při nebezpečí z prodlení (FO nezpů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=01e02f545349677e627f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li zastoupena fyzická osoba, která jako účastník řízení nemůže před soudem samostatně jednat, ustanoví jí předseda senátu opatrovníka, je-li tu nebezpečí z prodlení. Stejně se postupuje, stanoví-li tak zvláštní předpis.
+>
+> (2) Opatrovníka ustanoví předseda senátu též právnické osobě, která jako účastník řízení nemůže před soudem vystupovat proto, že tu není osoba oprávněná za ni jednat nebo že je sporné, kdo je osobou oprávněnou za ni jednat ([[#§ 21|§ 21]]), je-li tu nebezpečí z prodlení.
+>
+> (3) Pokud neučiní jiná opatření, může předseda senátu ustanovit opatrovníka také neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, účastníku, jehož pobyt není znám, jemuž se nepodařilo doručit na známou adresu v cizině, který byl stižen duševní poruchou nebo z jiných zdravotních důvodů se nemůže nikoliv jen po přechodnou dobu účastnit řízení nebo který není schopen srozumitelně se vyjadřovat.
+>
+> (4) Opatrovníkem podle odstavců 1 až 3 soud jmenuje zpravidla osobu blízkou, případně jinou vhodnou osobu, nebrání-li tomu zvláštní důvody. Advokáta lze jmenovat opatrovníkem, jen jestliže jím nemůže být jmenován někdo jiný. Jinou osobu než advokáta lze jmenovat opatrovníkem, jen jestliže s tím souhlasí. Nerozhodl-li soud jinak, opatrovník ustanovený podle odstavců 1 až 3 vystupuje v řízení před soudem prvního stupně, v odvolacím a v dovolacím řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=01e02f545349677e627f -->
+
 ## § 29a — Opatrovník podle předběžného prohlášení
 
 > Účastníku, který pořídil předběžné prohlášení v očekávání vlastní nezpůsobilosti právně jednat, ustanoví soud opatrovníkem s jejím souhlasem osobu za opatrovníka označenou v předběžném prohlášení.
@@ -1316,6 +2224,52 @@ Vyjadřuje **respekt k autonomii vůle** osoby ohrožené budoucí nesvéprávno
 **Typicky rozhodné důkazy / podklady:** předběžné prohlášení (notářský zápis / listina dle § 38 OZ), doklad o zdravotním stavu účastníka, písemný souhlas označené osoby, prověření případného zrušení prohlášení a kolize zájmů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cfa88f67843e002c3018 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 29a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Účastníku, který pořídil předběžné prohlášení v očekávání vlastní nezpůsobilosti právně jednat, ustanoví soud opatrovníkem s jejím souhlasem osobu za opatrovníka označenou v předběžném prohlášení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cfa88f67843e002c3018 -->
 
 ## § 30 — Ustanovený zástupce (advokát „ex offo")
 
@@ -1397,6 +2351,54 @@ Nemajetnému účastníku (splňujícímu předpoklady osvobození od soudních 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7d5ea0d0647ba7196fca generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastníku, u něhož jsou předpoklady, aby byl soudem osvobozen od soudních poplatků ([[#§ 138|§ 138]]), předseda senátu ustanoví na jeho žádost zástupce, jestliže je to nezbytně třeba k ochraně jeho zájmů. O tom, že může tuto žádost podat, je předseda senátu povinen účastníka poučit.
+>
+> (2) Vyžaduje-li to ochrana zájmů účastníka nebo jde-li o ustanovení zástupce pro řízení, v němž je povinné zastoupení advokátem (notářem), ustanoví mu předseda senátu v případě uvedeném v odstavci 1 zástupce z řad advokátů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 138
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7d5ea0d0647ba7196fca -->
+
 ## § 31 — Postavení ustanoveného zástupce / opatrovníka
 
 > (1) Ustanovený opatrovník nebo jiný zástupce má stejné postavení jako zástupce na základě procesní plné moci.
@@ -1450,6 +2452,54 @@ Ustanovený opatrovník i ustanovený zástupce mají stejné procesní postaven
 **Typicky rozhodné důkazy / podklady:** usnesení o ustanovení opatrovníka/zástupce, protokol o učiněných úkonech (smír apod.), doklad o případné kolizi zájmů, podklady k odměně ustanoveného advokáta.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=816f867b167ebca39eaa generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ustanovený opatrovník nebo jiný zástupce má stejné postavení jako zástupce na základě procesní plné moci.
+>
+> (2) Byl-li opatrovníkem nebo jiným zástupcem ustanoven advokát, má stejné postavení jako advokát, jemuž účastník udělil plnou moc.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=816f867b167ebca39eaa -->
 
 ## § 32 — Společné ustanovení o zástupcích
 
@@ -1522,6 +2572,56 @@ Každý zástupce musí doložit své oprávnění již při prvním úkonu; zá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=562c319987587879be57 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 32 — Společné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Každý, kdo v řízení vystupuje jako zástupce účastníka, popřípadě jako jeho další zástupce, musí své oprávnění doložit již při prvním úkonu, který ve věci učinil.
+>
+> (2) Zástupcem účastníka nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného.
+>
+> (3) Povinnost soudu poskytnout účastníku potřebná poučení, výzvy nebo upozornění lze splnit i tím, že budou poskytnuty jeho zástupci; to neplatí, udělil-li účastník svému zástupci plnou moc jen pro určité úkony.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=562c319987587879be57 -->
+
 ## § 35 — Vstup státního zastupitelství
 
 > (1) V zákonem stanovených případech může státní zastupitelství, popřípadě nejvyšší státní zástupce, podat návrh na zahájení řízení nebo do občanského soudního řízení vstoupit.
@@ -1593,6 +2693,54 @@ Státní zastupitelství může v taxativně stanovených věcech (zejména nesp
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8754d02b69ca0d4c204b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 35
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) V zákonem stanovených případech může státní zastupitelství, popřípadě nejvyšší státní zástupce, podat návrh na zahájení řízení nebo do občanského soudního řízení vstoupit.
+>
+> (2) Státní zastupitelství nebo nejvyšší státní zástupce jsou v takovém řízení oprávněni ke všem úkonům, které může vykonat účastník řízení, pokud nejde o úkony, které může vykonat jen účastník právního poměru.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8754d02b69ca0d4c204b -->
+
 ## § 35a — Vstup Úřadu pro zastupování státu ve věcech majetkových (ÚZSVM)
 
 > (1) Zvláštní právní předpis stanoví, ve kterých případech a za jakých podmínek může podat návrh na zahájení řízení anebo do řízení vstoupit Úřad pro zastupování státu ve věcech majetkových.
@@ -1647,6 +2795,54 @@ Typicky: spory o nárok státu na majetek (např. odúmrť, neoprávněný drži
 **Typicky rozhodné důkazy / podklady:** zákonný titul vstupu (zákon č. 201/2002 Sb.), doklad o vstupu ÚZSVM do řízení, podklady k majetkovému zájmu státu (odúmrť, vlastnictví), listiny k předmětu sporu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7a118b403837094264a8 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 35a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Zvláštní právní předpis55a) stanoví, ve kterých případech a za jakých podmínek může podat návrh na zahájení řízení anebo do řízení vstoupit Úřad pro zastupování státu ve věcech majetkových.
+>
+> (2) Pokud Úřad pro zastupování státu ve věcech majetkových vstoupí do řízení podle odstavce 1, je oprávněn ke všem úkonům, které může vykonat účastník řízení, pokud nejde o úkony, které může vykonat jen účastník právního poměru.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a118b403837094264a8 -->
 
 ## § 35b — Vstup ochránce práv dětí
 
@@ -1708,3 +2904,50 @@ Ochránce práv dětí může v zákonem stanovených věcech (zejména řízen�
 ---
 
 **Pokračování:** [03-cast1-hlava4a-ukony.md](03-cast1-hlava4a-ukony.md) — § 36 až § 50l (Hlava IV, část 1: úkony soudu, podání, doručování — § 45 a násl., zejména doručování do datových schránek § 45f).
+
+<!-- LEGAL-REVISION:BEGIN id=6f41f4f9ee2aa484b638 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 35b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) V zákonem stanovených případech může ochránce práv dětí podat návrh na zahájení řízení nebo do občanského soudního řízení vstoupit. Ochránce práv dětí může jednáním před soudem pověřit zaměstnance Kanceláře veřejného ochránce práv a ochránce práv dětí.
+>
+> (2) Ochránce práv dětí je v řízení podle odstavce 1 oprávněn ke všem úkonům, které může vykonat účastník řízení, pokud nejde o úkony, které může vykonat jen účastník právního poměru.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f41f4f9ee2aa484b638 -->

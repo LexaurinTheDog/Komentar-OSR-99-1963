@@ -70,6 +70,54 @@ Rozvrh práce není formalita: určuje zákonného soudce a jeho porušení zakl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=33aadf561b61dd892da3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) V řízení před soudem jedná a rozhoduje senát nebo jediný soudce (samosoudce). Všichni členové senátu jsou si při rozhodování rovni.
+>
+> (2) Rozvrh práce určí, který senát nebo který jediný soudce (samosoudce) věc projedná a rozhodne.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=33aadf561b61dd892da3 -->
+
 ## § 36a — Obsazení soudu v 1. stupni (okresní, krajský)
 
 > (1) V řízení před okresním soudem jedná a rozhoduje samosoudce.
@@ -136,6 +184,54 @@ U krajského soudu vždy rozliš, zda jedná v 1. stupni (zpravidla samosoudce) 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=33c88b370569371c1532 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 36a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) V řízení před okresním soudem jedná a rozhoduje samosoudce.
+>
+> (2) V řízení před krajským soudem jako soudem prvého stupně jedná a rozhoduje samosoudce; senát jedná a rozhoduje v řízení v prvním stupni, stanoví-li tak zákon, a v odvolacím řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=33c88b370569371c1532 -->
+
 ## § 36b — Vrchní soudy
 
 > Vrchní soudy jednají a rozhodují v senátech.
@@ -179,6 +275,52 @@ Vrchní soud rozhoduje výhradně v senátě; jakékoli jiné obsazení je zmate
 **Typicky rozhodné důkazy / podklady:** protokol o jednání, záhlaví a výrok rozhodnutí, rozvrh práce vrchního soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=afa4c70e3ba3ba7ab0fc generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 36b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Vrchní soudy jednají a rozhodují v senátech.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afa4c70e3ba3ba7ab0fc -->
 
 ## § 36c — Nejvyšší soud
 
@@ -227,6 +369,52 @@ Nejvyšší soud rozhoduje v senátech; odchylka od ustálené praxe vyžaduje p
 **Typicky rozhodné důkazy / podklady:** napadené dovolací rozhodnutí, dřívější rozhodnutí jiného senátu/velkého senátu, publikovaná stanoviska, srovnání právních vět.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=23faa8328c9b07c214b4 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 36c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Nejvyšší soud jedná a rozhoduje v senátech.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=23faa8328c9b07c214b4 -->
 
 ## § 36d — Pravomoci předsedy senátu vs. senátu
 
@@ -281,6 +469,54 @@ Předseda senátu sám činí jen úkony nemeritorní; o věci samé rozhoduje s
 **Typicky rozhodné důkazy / podklady:** rozhodnutí s rozlišením výroků, protokol o jednání, rozvrh práce (obsazení senátu), záznam o podpisu rozhodnutí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0a3f8b52511fc7090b72 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 36d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li zákon jinak, předseda senátu nebo jím pověřený člen senátu může ve věcech příslušejících senátu provádět jen takové úkony, jimiž se nerozhoduje ve věci.
+>
+> (2) V případech, kdy podle zákona jedná a rozhoduje samosoudce, příslušejí mu jak práva a povinnosti předsedy senátu, tak i práva, která jsou jinak vyhrazena pouze senátu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a3f8b52511fc7090b72 -->
 
 ## § 37 — Porada a hlasování senátu
 
@@ -343,6 +579,54 @@ Porada senátu je neveřejná (jen soudci + zapisovatel), hlasuje se většinov�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=855a6f69655aeee7ff41 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 37
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Senát rozhoduje po poradě; kromě členů senátu a zapisovatele nesmí být nikdo jiný poradě přítomen.
+>
+> (2) K rozhodnutí je třeba většiny hlasů, přičemž hlasovat jsou povinni všichni členové senátu. Hlasování řídí předseda senátu. Mladší soudci hlasují před staršími soudci, předseda senátu hlasuje poslední.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=855a6f69655aeee7ff41 -->
+
 ## § 38a — Vyšší soudní úředníci (VSÚ)
 
 ### Výklad
@@ -395,6 +679,52 @@ VSÚ samostatně rozhoduje v jednoduchých věcech a činí dílčí úkony; jeh
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dc97994c7311d6a4c313 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 38a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Zvláštní zákon stanoví, ve kterých jednoduchých věcech mohou samostatně rozhodovat a ve kterých dalších věcech mohou samostatně provádět jednotlivé úkony vyšší soudní úředníci. Tento zvláštní zákon stanoví též kvalifikační a další předpoklady pro výkon funkce vyššího soudního úředníka.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc97994c7311d6a4c313 -->
+
 ## § 38b — Asistent soudce Nejvyššího soudu
 
 > Asistent soudce Nejvyššího soudu činí jednotlivé úkony občanského soudního řízení z pověření soudce Nejvyššího soudu.
@@ -436,6 +766,52 @@ Asistent soudce NS činí jen dílčí úkony z pověření; samostatně nerozho
 **Typicky rozhodné důkazy / podklady:** rozhodnutí a jeho podpisová doložka, pověření asistenta, obsazení senátu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=efd4559a962f3573af94 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 38b — Asistent soudce Nejvyššího soudu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Asistent soudce Nejvyššího soudu činí jednotlivé úkony občanského soudního řízení z pověření soudce Nejvyššího soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=efd4559a962f3573af94 -->
 
 ## § 39 — Dožádání a videokonference
 
@@ -494,6 +870,56 @@ Dožádání je výjimkou pro obtížné či nákladné úkony; tam, kde to lze,
 **Typicky rozhodné důkazy / podklady:** návrh na provedení důkazu, doklady o vzdálenosti/zdravotním stavu svědka, technický záznam z videokonference, protokol o dožádaném úkonu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c99979c32e36d892e68f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 39
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Úkony, které by příslušný soud mohl provést jen s obtížemi nebo se zvýšenými, neúčelnými náklady anebo které v jeho obvodu provést nelze, provede na dožádání jiný soud nebo je soud provede s využitím technického zařízení pro přenos obrazu a zvuku (dále jen „videokonferenční zařízení“). Dožádaným soudem je okresní soud.
+>
+> (2) Nemůže-li dožádaný soud provést úkon ve svém obvodu, postoupí dožádání soudu, v jehož obvodu je možno úkon provést, je-li mu tento soud znám; jinak dožádání vrátí.
+>
+> (3) Úkony dožádaného soudu provádí samosoudce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c99979c32e36d892e68f -->
 
 ## § 40 — Záznam a protokol z úkonů soudu
 
@@ -590,6 +1016,70 @@ Primární je zvukový (zvukově obrazový) záznam; protokol jej jen shrnuje a 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4d86b96d29d071d93b94 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Úkony, při nichž soud jedná s účastníky, provádí dokazování nebo vyhlašuje rozhodnutí, se zaznamenávají ve formě zvukového nebo zvukově obrazového záznamu (dále jen „záznam“). Záznam je součástí spisu.
+>
+> (2) Není-li pořízení záznamu možné nebo stanoví-li tak zákon, sepisuje se o úkonech, při nichž soud jedná s účastníky, provádí dokazování nebo vyhlašuje rozhodnutí, protokol. Soud může rozhodnout, že bude současně s pořízením záznamu sepsán o úkonu protokol. Nejsou-li při úkonu přítomni účastníci, zástupci ani veřejnost a soud provádí pouze listinné důkazy nebo vyhlašuje rozhodnutí, postačí pořízení protokolu. V případě rozporu protokolu a záznamu má přednost záznam. Protokol se sepisuje vždy o úkonu, kterým
+>
+> - a) byl uzavřen smír, nebo
+>
+> - b) došlo k uznání nároku podle § 153a odst. 1.
+>
+> (3) Přepis záznamu nebo jeho části se pořídí, pokud tak ze závažných důvodů určí soud.
+>
+> (4) Úkony prováděné soudním exekutorem se zaznamenávají ve formě záznamu nebo protokolu.
+>
+> (5) V přepisu záznamu nebo jeho části se označí projednávaná věc, uvedou se přítomní, datum pořízení záznamu, datum vyhotovení přepisu a doslovný strukturovaný přepis záznamu. Přepis podepisuje osoba, která jej vyhotovila.
+>
+> (6) V protokolu se označí projednávaná věc, uvedou se přítomní, vylíčí se průběh dokazování a uvede se obsah přednesů, poučení poskytnutá účastníkům, výroky rozhodnutí a vyjádření účastníků o tom, zda se vzdávají odvolání proti vyhlášenému rozhodnutí; nahrazuje-li protokol podání, musí mít též jeho náležitosti.
+>
+> (7) Protokol podepisuje předseda senátu a zapisovatel; nemůže-li předseda senátu protokol podepsat, podepíše jej za něho jiný člen senátu nebo jiný soudce, kterého určil předseda soudu. Byl-li uzavřen smír nebo došlo-li k uznání nároku (§ 153a odst. 1), podepisují protokol také účastníci smíru nebo žalovaný; nemohou-li číst a psát nebo z jiných důvodů protokol podepsat, uvede předseda senátu do protokolu kromě důvodu též, že úkon odpovídá jejich vůli, a příslušný záznam podepíše. Protokol o hlasování podepisují všichni členové senátu a zapisovatel.
+>
+> (8) Předseda senátu opraví v protokolu chyby v psaní a jiné zřejmé nesprávnosti. Předseda senátu také rozhoduje o návrzích na doplnění protokolu a o námitkách proti jeho znění.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 153a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d86b96d29d071d93b94 -->
+
 ## § 40a — Utajované informace
 
 Pokud se v řízení projednávají **utajované informace** (zákon č. 412/2005 Sb.), předseda senátu **poučuje předem** všechny zúčastněné podle zvláštního předpisu. Záznam o poučení zakládá do spisu a do 30 dnů zasílá Národnímu bezpečnostnímu úřadu (NBÚ).
@@ -633,6 +1123,54 @@ Před projednáním utajovaných informací předseda senátu předem poučí ne
 **Typicky rozhodné důkazy / podklady:** prezenční listina, bezpečnostní osvědčení účastníků, záznam o poučení, doklad o odeslání NBÚ, klasifikovaný dokument.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a7d6cddd571a0a64ed3b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 40a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Jsou-li v řízení projednávány utajované informace, je předseda senátu povinen účastníky, osoby oprávněné za ně jednat (§ 21 až 21b), zástupce účastníků, znalce, tlumočníky, osoby uvedené v § 116 odst. 3 a další osoby, které se podle zákona musí zúčastnit řízení, předem podle zvláštního právního předpisu poučit56a). Písemný záznam o tomto poučení založí předseda senátu do spisu a jeho kopii zašle nejpozději do 30 dnů ode dne poučení Národnímu bezpečnostnímu úřadu.
+>
+> (2) Poučení podle odstavce 1 není potřebné u těch osob, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení utajovaných informací a poučením, vydanými podle zvláštního právního předpisu.56)
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 116
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7d6cddd571a0a64ed3b -->
 
 ## § 40b — Spis soudu (listinný / elektronický)
 
@@ -689,6 +1227,54 @@ Spis se vede listinně nebo elektronicky podle prováděcího předpisu; úkon p
 **Typicky rozhodné důkazy / podklady:** spisový přehled, vyhotovené úkony a způsob jejich podpisu, prováděcí předpis (jednací řád), doklady o konverzi dokumentů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=40149b2b16f1a2d1bb35 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 40b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) O každém sporu nebo jiné právní věci se vede spis v listinné nebo v elektronické podobě. Soud vyhotovuje písemné úkony v té podobě, v jaké je veden spis; je-li však o věci veden listinný spis, předseda senátu může rozhodnout, že se písemný úkon soudu vyhotoví v elektronické podobě. Podmínky vedení spisu stanoví prováděcí právní předpis.
+>
+> (2) Nestanoví-li zákon jinak, v listinné nebo v elektronické podobě vyhotovený úkon soudu podepisuje předseda senátu nebo ten, kdo ho z pověření předsedy senátu nebo podle zákona učinil. Jeho stejnopis se vyhotoví, jestliže je to třeba; podrobnosti stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40149b2b16f1a2d1bb35 -->
 
 ## ÚKONY ÚČASTNÍKŮ
 
@@ -762,6 +1348,56 @@ Procesní úkony se posuzují podle obsahu, ne podle označení; nesprávně ozn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cb98a3c2277992fa58a8 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastníci mohou provádět své úkony jakoukoli formou, pokud zákon pro některé úkony nepředepisuje určitou formu.
+>
+> (2) Každý úkon posuzuje soud podle jeho obsahu, i když je úkon nesprávně označen.
+>
+> (3) Hmotněprávní jednání účastníka učiněné vůči soudu je účinné také vůči ostatním účastníkům, avšak teprve od okamžiku, kdy se o něm v řízení dozvěděli; to platí i tehdy, je-li pro platnost hmotněprávního jednání předepsána písemná forma. Ustanovení § 40 odst. 3 se použije obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb98a3c2277992fa58a8 -->
+
 ## § 41a — Výslovnost a podmínky úkonů
 
 > (1) Nestanoví-li zákon jinak, může účastník učinit úkon jen výslovně.
@@ -829,6 +1465,58 @@ Procesní úkony se posuzují podle obsahu, ne podle označení; nesprávně ozn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e953f6275e3932f6046e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 41a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li zákon jinak, může účastník učinit úkon jen výslovně.
+>
+> (2) K úkonu účastníka, který je vázán na splnění podmínky nebo doložení času, se nepřihlíží.
+>
+> (3) K úkonu účastníka, který není za řízení přípustný, se nepřihlíží.
+>
+> (4) Úkon může být odvolán, jen jestliže jeho odvolání dojde soudu nejpozději současně s tímto úkonem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e953f6275e3932f6046e -->
+
 ## § 41b — Účinnost smíru / uznání nároku
 
 > Dokud nebyl uzavřený smír nebo uznání nároku (§ 153a odst. 1), k nimž došlo do protokolu, podepsán také účastníky smíru nebo žalovaným, soud k těmto úkonům nepřihlíží.
@@ -878,6 +1566,52 @@ Smír a uznání nároku do protokolu nabývají účinků až podpisem účastn
 **Typicky rozhodné důkazy / podklady:** protokol o smíru/uznání s podpisy, záznam z jednání, projevy vůle účastníků, usnesení o schválení smíru (§ 99).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e8e174cd2f63eab71873 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 41b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Dokud nebyl uzavřený smír nebo uznání nároku (§ 153a odst. 1), k nimž došlo do protokolu, podepsán také účastníky smíru nebo žalovaným, soud k těmto úkonům nepřihlíží.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 153a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8e174cd2f63eab71873 -->
 
 ## § 42 — Forma podání
 
@@ -967,6 +1701,58 @@ Podání lze učinit listinně, elektronicky nebo telefaxem; prostý e-mail s n�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4de4f106c92a3da31c59 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Podání je možno učinit písemně. Písemné podání se činí v listinné nebo elektronické podobě prostřednictvím veřejné datové sítě nebo telefaxem.
+>
+> (2) Písemné podání obsahující návrh ve věci samé učiněné telefaxem nebo v elektronické podobě je třeba nejpozději do 3 dnů doplnit předložením jeho originálu, případně písemným podáním shodného znění. K těmto podáním, pokud nebyla ve stanovené lhůtě doplněna, soud nepřihlíží. Stanoví-li to předseda senátu, je účastník povinen soudu předložit originál (písemné podání shodného znění) i jiných podání učiněných telefaxem.
+>
+> (3) V případě podání v elektronické podobě podepsaného způsobem, se kterým zvláštní právní předpis spojuje účinky vlastnoručního podpisu103), se nevyžaduje doplnění podání předložením jeho originálu podle odstavce 2.
+>
+> (4) Pokud zákon pro podání určitého druhu nevyžaduje další náležitosti, musí být z podání patrno, kterému soudu je určeno, kdo je činí, které věci se týká a co sleduje, a musí být podepsáno a datováno. Povinnost podpisu a datování se nevztahuje na podání v elektronické podobě podle zvláštního právního předpisu58a). Je-li účastník zastoupen advokátem, může být podpis advokáta nahrazen otiskem podpisového razítka, jehož vzor byl uložen u soudu, kterému je podání určeno. Podání v listinné podobě je třeba předložit s potřebným počtem stejnopisů a s přílohami tak, aby jeden stejnopis zůstal u soudu a aby každý účastník dostal jeden stejnopis, jestliže je to třeba. Podání v jiných formách se činí pouze jedním stejnopisem. K podání učiněnému elektronicky lze připojit také všechny jeho přílohy v elektronické podobě.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4de4f106c92a3da31c59 -->
+
 ## § 43 — Vady podání a jejich odstranění
 
 > (1) Předseda senátu usnesením vyzve účastníka, aby bylo opraveno nebo doplněno podání, které neobsahuje všechny stanovené náležitosti nebo které je nesrozumitelné nebo neurčité. K opravě nebo doplnění podání určí lhůtu a účastníka poučí, jak je třeba opravu nebo doplnění provést.
@@ -1046,6 +1832,54 @@ Vadné podání zahajující řízení nelze odmítnout bez předchozí výzvy s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=86097ac0e654de650156 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 43
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Předseda senátu usnesením vyzve účastníka, aby bylo opraveno nebo doplněno podání, které neobsahuje všechny stanovené náležitosti nebo které je nesrozumitelné nebo neurčité. K opravě nebo doplnění podání určí lhůtu a účastníka poučí, jak je třeba opravu nebo doplnění provést.
+>
+> (2) Není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne. K ostatním podáním soud nepřihlíží, dokud nebudou řádně opravena nebo doplněna. O těchto následcích musí být účastník poučen.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86097ac0e654de650156 -->
+
 ## § 44 — Nahlížení do spisu
 
 > (1) Účastníci a jejich zástupci mají právo nahlížet do soudního spisu, s výjimkou protokolu o hlasování, a činit si z něho výpisy a opisy.
@@ -1113,6 +1947,58 @@ Vadné podání zahajující řízení nelze odmítnout bez předchozí výzvy s
 **Typicky rozhodné důkazy / podklady:** žádost o nahlížení, doklad o právním zájmu (např. ručitelské prohlášení), spis a jeho obsah, technické prostředky k přehrání záznamu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6925ce8cc9d10c7c5d81 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 44
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastníci a jejich zástupci mají právo nahlížet do soudního spisu, s výjimkou protokolu o hlasování, a činit si z něho výpisy a opisy.
+>
+> (2) Každému, kdo na tom má právní zájem nebo kdo pro to má vážné důvody, předseda senátu na žádost povolí, aby nahlédl do spisu a aby si z něho učinil výpisy nebo opisy, ledaže jde o spis, o němž právní předpisy stanoví, že jeho obsah musí zůstat utajen.
+>
+> (3) Při povolování nahlížet do spisů je nutno učinit takové opatření, aby byla zachována tajnost utajovaných informací chráněných zvláštním zákonem.56)
+>
+> (4) Odstavce 1 až 3 se použijí obdobně pro přehrávání záznamů, poskytování jejich kopií nebo pro jiné způsoby zachycení obsahu listiny.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6925ce8cc9d10c7c5d81 -->
 
 ## DORUČOVÁNÍ (§ 45 — § 50m)
 
@@ -1201,6 +2087,60 @@ Doručuje se v zákonné kaskádě: nejprve při jednání, poté do datové sch
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3fa23c43ad2c246060ea generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 45 — Způsoby doručování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Písemnost doručuje soud při jednání nebo jiném soudním úkonu.
+>
+> (2) Nedošlo-li k doručení písemnosti podle odstavce 1, doručí ji soud prostřednictvím veřejné datové sítě do datové schránky58a). Není-li možné doručit písemnost prostřednictvím veřejné datové sítě do datové schránky, soud ji doručí na žádost adresáta na jinou adresu nebo na elektronickou adresu.
+>
+> (3) Není-li možné doručit písemnost podle odstavce 2, předseda senátu nařídí doručit ji prostřednictvím
+>
+> - a) doručujícího orgánu, nebo
+>
+> - b) účastníka řízení či jeho zástupce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3fa23c43ad2c246060ea -->
+
 ## § 46 — Adresa pro elektronické doručování
 
 > (1) Adresou pro doručování prostřednictvím veřejné datové sítě je adresa datové schránky evidovaná podle zvláštního právního předpisu.
@@ -1255,6 +2195,54 @@ Adresou pro doručování přes veřejnou datovou síť je adresa datové schrá
 **Typicky rozhodné důkazy / podklady:** podání se souhlasem/žádostí o e-mailové doručování, doklad o odeslání e-mailu a potvrzení adresáta, výpis z ISDS, doručenka a způsob adresace zásilky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d52695f60a65b6a86712 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 46 — Adresa pro doručování prostřednictvím veřejné datové sítě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Adresou pro doručování prostřednictvím veřejné datové sítě je adresa datové schránky evidovaná podle zvláštního právního předpisu58a).
+>
+> (2) Prostřednictvím veřejné datové sítě soud doručuje na elektronickou adresu, kterou adresát sdělil soudu, jestliže soud o doručení písemnosti tímto způsobem požádal nebo s ním vyslovil souhlas.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d52695f60a65b6a86712 -->
 
 ## § 46a — Adresa pro doručování (obecná)
 
@@ -1318,6 +2306,56 @@ Sdělená doručovací adresa platí pro dané řízení až do oznámení změn
 **Typicky rozhodné důkazy / podklady:** podání/žádost o doručovací adresu, doručenky, výpis z evidence obyvatel, oznámení změny adresy (a doklad o jeho doručení soudu).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=80f2eccddd1e59b2b58b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 46a — Adresa pro doručování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Adresátu se doručuje na adresu pro doručování, lze mu rovněž doručit na kterémkoliv jiném místě, na němž bude zastižen.
+>
+> (2) Jestliže o to adresát požádá, soud doručuje na jinou adresu nebo elektronickou adresu, kterou mu sdělil, nevylučuje-li to zákon nebo povaha věci, zejména může-li to přispět k urychlení řízení. Tato adresa je pro dané řízení adresou pro doručování.
+>
+> (3) Adresát je v řízení povinen bez zbytečného odkladu soudu sdělit změny veškerých skutečností významných pro doručování podle odstavce 2, tyto změny jsou vůči soudu účinné, jakmile mu byly adresátem oznámeny.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=80f2eccddd1e59b2b58b -->
 
 ## § 46b — Adresa „z úřední povinnosti" (default adresa)
 
@@ -1400,6 +2438,80 @@ Neuvede-li adresát adresu, soud doručuje na zákonem určenou default adresu p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fbbb5ac93e1de4e9f527 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 46b — Adresa pro doručování prostřednictvím doručujícího orgánu, účastníka řízení nebo jeho zástupce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Neuvedl-li adresát ve svém podání nebo jiném úkonu učiněném vůči soudu adresu místa v České republice, na kterou mu mají nebo mohou být doručovány písemnosti, je adresou pro doručování u písemnosti doručované prostřednictvím doručujícího orgánu, účastníka řízení nebo jeho zástupce
+>
+> - a) u fyzické osoby adresa evidovaná v informačním systému evidence obyvatel, na kterou jí mají být doručovány písemnosti58b); není-li taková adresa evidována, adresa místa trvalého pobytu vedená podle zvláštního právního předpisu58c) nebo adresa místa pobytu cizince na území České republiky podle druhu pobytu cizince,
+>
+> - b) u podnikající fyzické osoby adresa sídla nebo adresa zástupce pro doručování uvedená ve smlouvě, ve sporu z této smlouvy; má-li obchodní závod (dále jen „závod“) fyzické osoby organizační složku, i adresa sídla organizační složky,
+>
+> - c) u fyzické osoby ve výkonu trestu odnětí svobody nebo ve vazbě adresa věznice, v níž vykonává trest nebo vazbu,
+>
+> - d) u fyzické osoby v zařízení pro výkon ochranného opatření zabezpečovací detence, ústavní nebo ochranné výchovy adresa tohoto zařízení,
+>
+> - e) u právnické osoby adresa sídla zapsaná v příslušném rejstříku nebo adresa zástupce pro doručování uvedená ve smlouvě, ve sporu z této smlouvy; má-li právnická osoba organizační složku, i adresa sídla organizační složky,
+>
+> - f) u advokátů adresa jejich sídla,
+>
+> - g) u notářů adresa jejich notářské kanceláře,
+>
+> - h) u soudních exekutorů adresa jejich kanceláře,
+>
+> - i) u patentových zástupců adresa jejich sídla nebo bydliště zapsaná u Komory patentových zástupců,
+>
+> - j) u insolvenčních správců adresa jejich sídla zapsaná v seznamu insolvenčních správců,
+>
+> - k) u státu adresa sídla příslušné organizační složky státu, v případě Úřadu pro zastupování státu ve věcech majetkových adresa jeho příslušného územního pracoviště,
+>
+> - l) u státního zastupitelství adresa jeho sídla,
+>
+> - m) u správních úřadů adresa jejich sídla,
+>
+> - n) u obcí a vyšších územních samosprávných celků adresa sídla obecního úřadu a adresa sídla krajského úřadu nebo Magistrátu hlavního města Prahy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fbbb5ac93e1de4e9f527 -->
+
 ## § 46c — Zástupce pro doručování
 
 > (1) Není-li možné účastníku nebo jeho zástupci doručovat písemnosti bez obtíží nebo průtahů, předseda senátu ho bez prodlení vyzve, aby si zvolil pro doručování písemností zástupce; to neplatí v případech, kdy účastník řízení nebo zástupce je ve výkonu trestu odnětí svobody, ve vazbě nebo v zařízení pro výkon ochranného opatření zabezpečovací detence, ústavní nebo ochranné výchovy, kdy účastník řízení nebo zástupce požívá diplomatické výsady a imunity, je v bytě toho, kdo požívá diplomatické výsady a imunity, nebo mu má být doručeno v budově nebo místnosti chráněné diplomatickou imunitou, nebo kdy účastník řízení nebo zástupce je vojákem v činné službě, příslušníkem Policie České republiky, příslušníkem Hasičského záchranného sboru České republiky nebo příslušníkem Vězeňské služby a justiční stráže, kterému nelze doručit jinak než prostřednictvím krajského vojenského velitelství, Ministerstva vnitra nebo Ministerstva spravedlnosti.
@@ -1466,6 +2578,58 @@ Tento institut umožňuje **soudu pokračovat v řízení** i tam, kde se adres�
 **Typicky rozhodné důkazy / podklady:** vrácené zásilky s poznámkami pošty, výzva ke zvolení zástupce s poučením a doklad o jejím doručení/vyvěšení, protokoly o pokusech o doručení, případně rozhodnutí o vykázání (odst. 3).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=db4efeb229091b5f7b8f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 46c — Zástupce pro doručování písemností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li možné účastníku nebo jeho zástupci doručovat písemnosti bez obtíží nebo průtahů, předseda senátu ho bez prodlení vyzve, aby si zvolil pro doručování písemností zástupce; to neplatí v případech, kdy účastník řízení nebo zástupce je ve výkonu trestu odnětí svobody, ve vazbě nebo v zařízení pro výkon ochranného opatření zabezpečovací detence, ústavní nebo ochranné výchovy, kdy účastník řízení nebo zástupce požívá diplomatické výsady a imunity, je v bytě toho, kdo požívá diplomatické výsady a imunity, nebo mu má být doručeno v budově nebo místnosti chráněné diplomatickou imunitou, nebo kdy účastník řízení nebo zástupce je vojákem v činné službě, příslušníkem Policie České republiky, příslušníkem Hasičského záchranného sboru České republiky nebo příslušníkem Vězeňské služby a justiční stráže, kterému nelze doručit jinak než prostřednictvím krajského vojenského velitelství, Ministerstva vnitra nebo Ministerstva spravedlnosti.
+>
+> (2) Nezvolí-li si účastník nebo jeho zástupce ve stanovené lhůtě zástupce pro doručování písemností nebo není-li možné ani tomuto zástupci bez obtíží a průtahů doručovat, doručují se jim písemnosti uložením u doručujícího soudu. Účastník nebo jeho zástupce o tom musí být ve výzvě podle odstavce 1 poučeni.
+>
+> (3) Toho, komu bylo v opatření na ochranu před domácím násilím zakázáno, aby se zdržoval v bytě nebo jinde, kam by mu mohlo být doručováno (§ 46a odst. 1 a [[#§ 2|2]]), soud při provedení výkonu rozhodnutí vyzve, aby, není-li možné mu doručovat prostřednictvím veřejné datové sítě do datové schránky, soudu sdělil adresu, na kterou mu bude možné po dobu trvání opatření doručovat písemnosti ([[#§ 46|§ 46]] a § 46a odst. 1), nebo aby si zvolil zástupce pro doručování písemnosti. Nevyhoví-li výzvě, doručují se mu písemnosti uložením u soudu; o tomto následku musí být ve výzvě poučen.
+>
+> (4) Písemnost, která byla uložena u soudu podle odstavců 2 a [[#§ 3|3]], se považuje za doručenou dnem uložení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46a, § 2, § 46, § 3
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db4efeb229091b5f7b8f -->
 
 ## § 47 — Doručování datovou schránkou
 
@@ -1537,6 +2701,56 @@ Doručování do datové schránky se řídí zákonem č. 300/2008 Sb. a podlé
 **Typicky rozhodné důkazy / podklady:** doručenka/dodejka z ISDS (čas dodání, čas přihlášení/fikce), výpis z obchodního rejstříku o zřízení DS, e-mail s žádostí a potvrzení adresáta (u § 46 odst. 2).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=27984aa62fb82b86b322 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 47 — Doručování prostřednictvím veřejné datové sítě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Při doručování prostřednictvím veřejné datové sítě do datové schránky se postupuje podle zvláštního právního předpisu58a).
+>
+> (2) Při doručování písemnosti podle § 46 odst. 2 soud adresáta vyzve, aby doručení potvrdil soudu do 3 dnů od odeslání písemnosti datovou zprávou podepsanou adresátem.
+>
+> (3) Doručení prostřednictvím veřejné datové sítě na elektronickou adresu je neúčinné, jestliže se písemnost zaslaná na elektronickou adresu vrátila soudu jako nedoručitelná nebo jestliže adresát do 3 dnů od odeslání písemnosti nepotvrdil soudu její přijetí datovou zprávou podle odstavce 2.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27984aa62fb82b86b322 -->
 
 ## § 48 — Doručující orgány
 
@@ -1615,6 +2829,78 @@ Okruh doručujících orgánů je taxativní; doručení subjektem mimo výčet 
 **Typicky rozhodné důkazy / podklady:** doručenka, sdělení věznice/velitelství/ministerstva, doklad o místě výkonu trestu nebo služby, případně pověření k doručení účastníkem (§ 50e).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d01d55f6609fbef9ea48 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 48 — Doručování prostřednictvím doručujícího orgánu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Doručujícími orgány jsou
+>
+> - a) soudní doručovatelé,
+>
+> - b) orgány Justiční stráže,
+>
+> - c) soudní exekutoři,
+>
+> - d) provozovatelé poštovních služeb.
+>
+> (2) Doručujícími orgány jsou též
+>
+> - a) Vězeňská služba České republiky, jde-li o doručování fyzickým osobám ve výkonu trestu odnětí svobody nebo ve vazbě,
+>
+> - b) zařízení pro výkon ústavní nebo ochranné výchovy, jde-li o doručování fyzickým osobám umístěným v těchto zařízeních,
+>
+> - c) ústav pro výkon zabezpečovací detence, jde-li o doručování fyzickým osobám umístěným v tomto zařízení,
+>
+> - d) krajská vojenská velitelství, jde-li o doručování vojákům v činné službě a písemnost není možno doručit jinak,
+>
+> - e) Ministerstvo vnitra, jde-li o doručování příslušníkům Policie České republiky a písemnost není možno doručit jinak,
+>
+> - f) Ministerstvo spravedlnosti (dále jen „ministerstvo“), jde-li o doručování fyzickým osobám požívajícím diplomatické výsady a imunity, nebo osobám, které jsou v bytě toho, kdo požívá diplomatické výsady a imunity, anebo osobám, jimž má být písemnost doručena v budově nebo v místnosti chráněné diplomatickou imunitou.
+>
+> (3) Prostřednictvím provozovatelů poštovních služeb lze písemnost doručovat, jen jestliže podle uzavřené poštovní smlouvy58d) vznikne provozovateli poštovních služeb povinnost dodat zásilku obsahující písemnost způsobem, který je předepsán pro doručování písemnosti tímto zákonem.
+>
+> (4) Doručuje-li se prostřednictvím provozovatele poštovních služeb, stejnopisy rozhodnutí a jiné písemnosti soudu v listinné podobě mohou být vyhotovovány za součinnosti tohoto provozovatele; podrobnosti takového postupu stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d01d55f6609fbef9ea48 -->
 
 ## § 49 — Doručování do vlastních rukou (s fikcí)
 
@@ -1724,6 +3010,70 @@ Fikce doručení do vlastních rukou po 10 dnech je nejčastější „past" civ
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=487418ad97aa5665b93d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 49 — Doručování písemností do vlastních rukou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Do vlastních rukou se doručují písemnosti, u nichž tak stanoví zákon nebo nařídí-li tak soud.
+>
+> (2) Nezastihl-li doručující orgán adresáta písemnosti, písemnost uloží a adresátu zanechá vhodným způsobem písemnou výzvu, aby si písemnost vyzvedl. Nelze-li zanechat výzvu v místě doručování, vrátí doručující orgán písemnost odesílajícímu soudu a uvede, ve který den nebyl adresát zastižen. Odesílající soud vyvěsí na úřední desce výzvu k vyzvednutí písemnosti u soudu.
+>
+> (3) Písemnost se ukládá
+>
+> - a) v provozovně provozovatele poštovních služeb, jestliže se písemnost doručuje jeho prostřednictvím,
+>
+> - b) u soudu, jemuž byla písemnost vrácena z důvodu nemožnosti zanechat výzvu,
+>
+> - c) v ostatních případech u okresního soudu, v jehož obvodu je místo doručení.
+>
+> (4) Nevyzvedne-li si adresát písemnost ve lhůtě 10 dnů ode dne, kdy byla připravena k vyzvednutí, považuje se písemnost posledním dnem této lhůty za doručenou, i když se adresát o uložení nedozvěděl. Doručující orgán po marném uplynutí této lhůty vhodí písemnost do domovní nebo jiné adresátem užívané schránky, ledaže soud i bez návrhu vyloučí vhození písemnosti do schránky. Není-li takové schránky, písemnost se vrátí odesílajícímu soudu a vyvěsí se o tom sdělení na úřední desce soudu.
+>
+> (5) U písemností, u nichž to stanoví zákon, nebo u nichž to nařídil předseda senátu, je vyloučeno doručení podle odstavce 4. Doručující orgán v takovém případě vrátí písemnost odesílajícímu soudu po marném uplynutí lhůty 10 dnů ode dne, kdy byla připravena k vyzvednutí.
+>
+> (6) Doručení písemnosti prostřednictvím veřejné datové sítě se považuje za doručení do vlastních rukou adresáta.
+>
+> (7) Zjistí-li doručující orgán, že adresát zemřel, písemnost vrátí se zprávou odesílajícímu soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=487418ad97aa5665b93d -->
+
 ## § 50 — Doručování jiných (= nikoli do vlastních rukou) písemností
 
 > (1) Nezastihl-li doručující orgán adresáta písemnosti, vhodí písemnost do domovní nebo jiné adresátem užívané schránky; písemnost se považuje za doručenou vhozením do schránky, datum vhození vyznačí doručující orgán na doručence a na písemnosti.
@@ -1782,6 +3132,54 @@ Tento režim je **rychlejší a méně formální** než § 49. Hodí se pro mez
 **Typicky rozhodné důkazy / podklady:** doručenka s datem vhození, popis/foto domovní schránky, písemné oznámení zanechané v místě doručení, doklad o vyvěšení na úřední desce (u odst. 2).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c30bd85aa96705b9a03a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50 — Doručování jiných písemností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nezastihl-li doručující orgán adresáta písemnosti, vhodí písemnost do domovní nebo jiné adresátem užívané schránky; písemnost se považuje za doručenou vhozením do schránky, datum vhození vyznačí doručující orgán na doručence a na písemnosti.
+>
+> (2) Nelze-li doručit podle odstavce 1, doručující orgán písemnost vrátí odesílajícímu soudu a v místě doručení o této skutečnosti zanechá písemné oznámení. Odesílající soud doručí písemnost vyvěšením na úřední desce soudu; písemnost se považuje za doručenou desátým dnem po vyvěšení. Stejně se postupuje, nelze-li v místě doručení zanechat oznámení; § 49 odst. 7 se použije obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c30bd85aa96705b9a03a -->
 
 ## § 50a — Příjemci písemností
 
@@ -1847,6 +3245,60 @@ Za adresáta mohou písemnost přijmout zákonem vymezené osoby; u advokáta po
 **Typicky rozhodné důkazy / podklady:** doručenka s podpisem a vztahem příjemce, plná moc před poštou (u FO), pracovní smlouva/doklad o vztahu příjemce ke kanceláři, doklad o formě výkonu advokacie.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=322f5e0fa02eda53a33f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50a — Příjemci písemností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Za fyzické osoby jsou oprávněny písemnost přijmout osoby, které k tomu byly adresátem zmocněny na základě písemné plné moci udělené před provozovatelem poštovních služeb.
+>
+> (2) Za osoby uvedené v § 46b písm. e), k), m) a n) jsou oprávněny písemnost přijmout osoby uvedené v § 21 až 21b, případně jiné osoby, které tím byly pověřeny, které k tomu byly zmocněny nebo u nichž je to vzhledem k jejich pracovnímu nebo jinému obdobnému vztahu k adresátu obvyklé.
+>
+> (3) Za podnikající fyzickou osobu jsou oprávněny písemnost přijmout osoby, které k tomu byly zmocněny nebo u nichž je to vzhledem k jejich pracovnímu nebo jinému obdobnému vztahu k adresátu obvyklé.
+>
+> (4) Písemnost určenou advokátu, notáři, soudnímu exekutorovi a patentovému zástupci za ně mohou přijímat osoby, které k tomu byly zmocněny, nebo jejich zaměstnanci. Vykonávají-li tyto osoby svou činnost společně s jinými osobami, mohou ji přijmout i tyto jiné osoby a jejich zaměstnanci.
+>
+> (5) Písemnost určenou advokátu, který vykonává advokacii jako společník obchodní společnosti, mohou za něj přijmout statutární orgán, ostatní společníci této společnosti nebo její zaměstnanci a osoby, které k tomu byly zmocněny. Vykonává-li advokát advokacii v pracovním poměru k jinému advokátovi nebo ke společnosti, může za něj písemnost přijmout jeho zaměstnavatel, jeho zaměstnanci a osoby k tomu zmocněné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46b, § 21
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=322f5e0fa02eda53a33f -->
 
 ## § 50b — Doručování zástupci
 
@@ -1921,6 +3373,68 @@ Má-li účastník zástupce, doručuje se zásadně jen zástupci a lhůty bě�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f54c068b574d4f51ae68 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50b — Doručování zástupci účastníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Má-li účastník zástupce, doručuje se pouze zástupci, nestanoví-li zákon jinak.
+>
+> (2) Má-li účastník zástupce s procesní plnou mocí, nařídí předseda senátu doručení písemnosti (elektronického dokumentu) jen tomuto zástupci, nestanoví-li zákon jinak.
+>
+> (3) Udělil-li účastník plnou moc pouze pro určité úkony, nařídí předseda senátu doručení písemnosti (elektronického dokumentu) pouze jeho zástupci, jen jestliže ho k tomu plná moc výslovně opravňuje, nestanoví-li zákon jinak.
+>
+> (4) Písemnost se doručuje rovněž účastníku,
+>
+> - a) má-li se účastník osobně dostavit k výslechu nebo jinému úkonu soudu nebo má-li něco jiného v řízení osobně vykonat,
+>
+> - b) je-li účastník zastoupen zákonným zástupcem podle [[#§ 23|§ 23]]; nezletilému účastníku, který dovršil patnácti let, se doručuje také tehdy, je-li zastoupen zákonným zástupcem podle [[#§ 22|§ 22]],
+>
+> - c) jde-li o doručení usnesení o ustanovení opatrovníka podle [[#§ 29|§ 29]]; usnesení o ustanovení opatrovníka účastníku, jehož pobyt není znám, účastníku, jemuž se nepodařilo doručit na známou adresu v cizině, neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, a právnické osobě, která jako účastník řízení nemůže před soudem vystupovat proto, že tu není osoba oprávněná za ni jednat, nebo že je sporné, kdo je osobou oprávněnou za ni jednat, se však doručuje jen ostatním účastníkům řízení a ustanovenému opatrovníku a vyvěsí se na úřední desce soudu,
+>
+> - d) byl-li účastníku ustanoven opatrovník proto, že se nemůže z jiných zdravotních důvodů než pro postižení duševní poruchou nikoliv jen po přechodnou dobu účastnit řízení, nebo že není schopen se srozumitelně vyjadřovat,
+>
+> - e) rozhodne-li tak soud.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23, § 22, § 29
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f54c068b574d4f51ae68 -->
+
 ## § 50c — Odepření přijetí písemnosti
 
 > (1) Odepře-li adresát nebo příjemce písemnosti přijmout doručovanou písemnost, považuje se písemnost za doručenou dnem, kdy přijetí písemnosti bylo odepřeno; o tom musí být adresát nebo příjemce písemnosti poučen.
@@ -1976,6 +3490,56 @@ Odepře-li adresát převzetí nebo odmítne prokázat totožnost a je řádně 
 **Typicky rozhodné důkazy / podklady:** doručenka s poznámkou o odepření a poučení, písemné poučení (bylo-li předáno/zanecháno), sdělení doručovatele o průběhu doručení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=65251be7668321f76d7a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50c — Odepření přijetí písemnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Odepře-li adresát nebo příjemce písemnosti přijmout doručovanou písemnost, považuje se písemnost za doručenou dnem, kdy přijetí písemnosti bylo odepřeno; o tom musí být adresát nebo příjemce písemnosti poučen.
+>
+> (2) Adresát nebo příjemce písemnosti je povinen na výzvu doručujícího orgánu prokázat svou totožnost nebo poskytnout jinou součinnost nezbytnou k řádnému doručení písemnosti. Odmítne-li adresát nebo příjemce písemnosti postup podle věty prvé, považuje se písemnost za doručenou dnem, kdy prokázání totožnosti nebo poskytnutí součinnosti bylo odmítnuto; o tom musí být adresát nebo příjemce písemnosti poučen.
+>
+> (3) Poučení podle odstavců 1 a [[#§ 2|2]] se poskytne ústně při doručování nebo písemně; písemné poučení se předá příjemci. Není-li možné písemné poučení příjemci předat, lze je zanechat v adresátově domovní nebo jiné jím užívané schránce nebo na jiném vhodném místě.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=65251be7668321f76d7a -->
 
 ## § 50d — Neúčinnost doručení
 
@@ -2053,6 +3617,56 @@ Odepře-li adresát převzetí nebo odmítne prokázat totožnost a je řádně 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b528972b11a1dd7cee1b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50d — Neúčinnost doručení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Na návrh účastníka rozhodne odesílající soud, že doručení je neúčinné, pokud se účastník nebo jeho zástupce nemohl z omluvitelného důvodu s písemností seznámit. Návrh je třeba podat do 15 dnů ode dne, kdy se s doručovanou písemností seznámil nebo mohl seznámit. V návrhu musí být vedle obecných náležitostí (§ 42 odst. 4) uveden den, kdy se účastník s doručovanou písemností seznámil nebo mohl seznámit, a označení důkazů, jimiž má být včasnost a důvodnost návrhu prokázána.
+>
+> (2) Omluvitelným důvodem podle odstavce 1 nemůže být skutečnost, že se fyzická osoba na adrese pro doručování trvale nezdržuje, skutečnost, že v případě podnikající fyzické osoby a právnické osoby se na adrese pro doručování nikdo nezdržuje.
+>
+> (3) Rozhodl-li soud o tom, že doručení písemnosti je neúčinné, považuje se písemnost za doručenou dnem právní moci rozhodnutí o neúčinnosti.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b528972b11a1dd7cee1b -->
+
 ## § 50e — Doručování účastníkem nebo zástupcem
 
 > (1) Na žádost účastníka řízení nebo jeho zástupce je soud může pověřit doručením písemnosti určené do vlastních rukou nebo jiné písemnosti. Pověření není soudním rozhodnutím.
@@ -2111,6 +3725,56 @@ Doručení účastníkem na základě pověření soudu je výjimečný, ale ú�
 **Typicky rozhodné důkazy / podklady:** pověření soudu, potvrzení o přijetí (označení písemnosti, datum, podpis), doklad o vrácení písemnosti soudu při neúspěchu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e55178ab1db550d5ad87 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50e — Doručování účastníkem řízení nebo jeho zástupcem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Na žádost účastníka řízení nebo jeho zástupce je soud může pověřit doručením písemnosti určené do vlastních rukou nebo jiné písemnosti. Pověření není soudním rozhodnutím.
+>
+> (2) Osoba pověřená podle odstavce 1 předá písemnost adresátovi na adrese pro doručování nebo kdekoliv jej zastihne. Adresát je povinen přijetí písemnosti potvrdit; potvrzení musí obsahovat označení doručované písemnosti, která byla vložena do obálky, den doručení a podpis adresáta. Písemnost se považuje za doručenou dnem uvedeným v potvrzení o doručení.
+>
+> (3) Pokud adresát odepře přijmout písemnost nebo se účastníkovi nebo jeho zástupci nepodaří písemnost doručit, vrátí účastník nebo jeho zástupce neprodleně písemnost soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e55178ab1db550d5ad87 -->
 
 ## § 50f — Průkaz doručení
 
@@ -2180,6 +3844,60 @@ Doručenka je veřejná listina s presumpcí pravdivosti; kdo tvrdí, že písem
 **Typicky rozhodné důkazy / podklady:** doručenka, protokol o jednání, potvrzovací datová zpráva, potvrzení o přijetí účastníkem, vzory podpisu a znalecký posudek při zpochybnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6173f3d242cf73ef555c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50f — Průkaz doručení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Doručuje-li soud písemnost při jednání nebo při jiném soudním úkonu, o němž se pořizuje protokol, uvede to v protokolu o jednání nebo v protokolu, který byl sepsán o jiném soudním úkonu. V protokolu se kromě ostatních náležitostí (§ 40 odst. 6) uvede, jaká písemnost byla doručena. Protokol podepíše také ten, kdo doručení provedl, a příjemce.
+>
+> (2) Byla-li písemnost doručována prostřednictvím veřejné datové sítě na elektronickou adresu, je doručení prokázáno datovou zprávou adresáta, podepsanou adresátem, kterou potvrdil přijetí písemnosti.
+>
+> (3) Doručuje-li soud písemnost při úkonu, o němž se nepořizuje protokol, nebo prostřednictvím doručujícího orgánu, vyznačí se doručení písemnosti na doručence. Doručenka je veřejnou listinou. Není-li prokázán opak, považují se údaje uvedené na doručence za pravdivé.
+>
+> (4) V případě doručování účastníkem nebo jeho zástupcem je průkazem doručení potvrzení o přijetí opatřené datem a podpisem příjemce.
+>
+> (5) Nelze-li doručení prokázat žádným ze způsobů uvedených v odstavcích 1 až 4, lze je prokázat též jiným způsobem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6173f3d242cf73ef555c -->
 
 ## § 50g — Doručenka (náležitosti)
 
@@ -2262,6 +3980,94 @@ Náležitosti doručenky podle § 50g slouží k ověření průběhu doručení
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=84c022c0c06b00d6bfdc generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50g — Doručenka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Doručenka musí obsahovat
+>
+> - a) označení soudu, který písemnost předal k doručení,
+>
+> - b) označení doručujícího orgánu,
+>
+> - c) označení doručované písemnosti,
+>
+> - d) označení adresáta a adresy, na niž má být písemnost doručena,
+>
+> - e) prohlášení doručujícího orgánu o tom, v který den nebyl adresát zastižen, v který den byla písemnost odevzdána adresátu či příjemci, v který den byla písemnost připravena k vyzvednutí, v který den bylo přijetí písemnosti odepřeno nebo nebyla poskytnuta součinnost nezbytná k řádnému doručení písemnosti,
+>
+> - f) hodinu a minutu doručení, byla-li vyznačena poznámka „přesný čas doručení“,
+>
+> - g) jméno a příjmení doručovatele, jeho podpis a otisk úředního razítka doručujícího orgánu,
+>
+> - h) jméno a příjmení osoby, která písemnost převzala nebo která převzetí písemnosti odepřela nebo která neposkytla součinnost potřebnou k řádnému doručení písemnosti, jsou-li tyto údaje doručujícímu orgánu známy, údaj o jejím vztahu k adresátu, jestliže písemnost přijala za adresáta, a její podpis,
+>
+> - i) údaj, zda je vyloučeno vhození písemnosti do schránky.
+>
+> (2) Byla-li písemnost uložena, musí doručenka obsahovat také údaj o tom, zda byla adresátu zanechána výzva, aby si písemnost vyzvedl.
+>
+> (3) Vyzvedne-li adresát, popřípadě příjemce, uloženou písemnost, musí doručenka obsahovat také
+>
+> - a) jméno a příjmení toho, kdo písemnost předal, jeho podpis a otisk úředního razítka doručujícího orgánu,
+>
+> - b) prohlášení doručujícího orgánu, v který den byla písemnost vyzvednuta,
+>
+> - c) hodinu a minutu doručení, byla-li vyznačena poznámka „přesný čas doručení“,
+>
+> - d) jméno a příjmení osoby, která uloženou písemnost vyzvedla, a její podpis.
+>
+> (4) Odepřel-li adresát, popřípadě příjemce, písemnost přijmout, nebo neposkytl-li součinnost nezbytnou k řádnému doručení písemnosti, musí doručenka obsahovat také údaj o tom, zda bylo poskytnuto ústní nebo písemné poučení o následcích odepření přijetí písemnosti nebo neposkytnutí součinnosti, a zda, popřípadě čím bylo odepření přijetí písemnosti odůvodněno nebo v čem neposkytnutí součinnosti spočívalo.
+>
+> (5) Byla-li doručována písemnost podle [[#§ 50|§ 50]] a nebyla-li písemnost doručena adresátu, popřípadě příjemci, musí doručenka kromě náležitostí uvedených v odstavci 1 obsahovat
+>
+> - a) prohlášení doručujícího orgánu o tom, v který den byla písemnost vhozena do domovní nebo jiné adresátem užívané schránky,
+>
+> - b) hodinu a minutu doručení, byla-li vyznačena poznámka „přesný čas doručení“,
+>
+> - c) jméno a příjmení doručovatele, jeho podpis a otisk úředního razítka doručujícího orgánu.
+>
+> (6) Nemůže-li příjemce svým podpisem potvrdit doručení písemnosti, potvrdí doručení příjemci na doručence svým podpisem kromě doručovatele také jiná vhodná fyzická osoba.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 50
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84c022c0c06b00d6bfdc -->
+
 ## § 50h — Výzva (k vyzvednutí uložené písemnosti)
 
 > (1) Výzva podle § 49 odst. 2 musí obsahovat označení
@@ -2324,6 +4130,66 @@ Výzva k vyzvednutí musí u písemností s přípustným náhradním doručení
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7a0519dfd52aab7f75b6 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50h — Výzva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Výzva podle § 49 odst. 2 musí obsahovat označení
+>
+> - a) soudu, který písemnost předal k doručení,
+>
+> - b) doručované písemnosti, která byla vložena do obálky,
+>
+> - c) adresáta a adresy, na niž má být obálka s písemností doručena,
+>
+> - d) doručujícího orgánu,
+>
+> - e) jméno a příjmení doručovatele a jeho podpis.
+>
+> (2) Není-li vyloučeno náhradní doručení písemnosti, musí v ní být též obsaženo poučení o následcích, jestliže písemnost nebude vyzvednuta.
+>
+> (3) Doručující orgán ve výzvě uvede, u koho, kde a v který den byla písemnost připravena k vyzvednutí a do kdy a v jaké době si příjemce může písemnost vyzvednout.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a0519dfd52aab7f75b6 -->
+
 ## § 50i — Oznámení (po vrácení soudu)
 
 Oznámení podle § 50 odst. 2 (po vrácení nedoručitelné písemnosti zaslané v „lehkém" režimu) obsahuje obdobné údaje a sdělení, že písemnost byla vrácena soudu.
@@ -2365,6 +4231,64 @@ Oznámení podle § 50i je informačním krokem „lehkého" režimu doručován
 **Typicky rozhodné důkazy / podklady:** kopie/vzor oznámení, doručenka o vrácení písemnosti, doklad o vyvěšení na úřední desce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=733e062ef0ee7184eff7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50i — Oznámení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Oznámení podle § 50 odst. 2 musí obsahovat označení
+>
+> - a) soudu, který písemnost předal k doručení,
+>
+> - b) doručované písemnosti,
+>
+> - c) adresáta a adresy, na niž má být obálka s písemností doručena,
+>
+> - d) doručujícího orgánu,
+>
+> - e) sdělení, že písemnost byla vrácena odesílajícímu soudu,
+>
+> - f) jméno a příjmení doručovatele a jeho podpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 50
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=733e062ef0ee7184eff7 -->
 
 ## § 50j — Doručování do ciziny
 
@@ -2423,6 +4347,54 @@ Doručování do ciziny se řídí hierarchií pramenů (smlouva → předpis EU
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0c61df201d81e9ac71ad generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50j — Doručování do ciziny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Při doručování do ciziny se postupuje podle mezinárodní smlouvy nebo podle přímo použitelného předpisu Evropských společenství upravujícího doručování soudních a mimosoudních písemností58e) anebo podle zvláštního právního předpisu.58f)
+>
+> (2) Je-li doručováno do ciziny, a nelze-li zjistit datum doručení písemnosti, avšak z obsahu listiny nebo jiného úkonu adresáta jednoznačně vyplývá, že mu písemnost byla doručena, platí, že písemnost byla doručena dnem, kdy byla odesílajícímu soudu předložena taková listina nebo kdy byl u soudu učiněn takový úkon.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c61df201d81e9ac71ad -->
+
 ## § 50k — Vyhlášky v Obchodním věstníku
 
 Pokud zákon ukládá zveřejnit vyhláškou, splní soud povinnost **uveřejněním v Obchodním věstníku** (= digitální OV — ovestnik.justice.cz). To se použije, pokud zákon nelimituje zveřejnění jen na úřední desku soudu.
@@ -2464,6 +4436,52 @@ Pokud zákon ukládá zveřejnit vyhláškou, splní soud povinnost **uveřejně
 **Typicky rozhodné důkazy / podklady:** doklad o uveřejnění v Obchodním věstníku, znění zvláštní úpravy řízení vyžadující vyhlášku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=21a8778eed7f0a8ad983 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50k — Uveřejňování vyhlášek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Povinnost soudu zveřejnit vyhláškou nebo jiným způsobem určité údaje, stanovená v zákoně, je splněna jejich uveřejněním v Obchodním věstníku, neomezuje-li se zákon na zveřejnění údajů jen na úřední desce soudu; tím není dotčena zákonem stanovená povinnost uveřejnění údajů v tisku nebo jiným vhodným způsobem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21a8778eed7f0a8ad983 -->
 
 ## § 50l — Vyvěšení na úřední desce
 
@@ -2529,6 +4547,56 @@ Vyvěšení na úřední desce zakládá fikci doručení 10. den po vyvěšení
 **Typicky rozhodné důkazy / podklady:** doklad o vyvěšení a sejmutí na úřední desce (vč. elektronické), usnesení o ustanovení opatrovníka, spisový záznam o okruhu dědiců/pobytu účastníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a9127b38fccb0a087d49 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50l — Vyvěšení na úřední desce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Stanoví-li zákon, že rozhodnutí nebo jiná písemnost mají být vyvěšeny na úřední desce soudu, platí, že desátým dnem po dni vyvěšení byly doručeny účastníkům, kteří nejsou soudu známi, jejichž pobyt není znám, kterým se nepodařilo doručit na známou adresu v cizině, nebo neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, anebo právnické osobě, která jako účastník řízení nemůže před soudem vystupovat proto, že tu není osoba oprávněná za ni jednat nebo že je sporné, kdo je osobou oprávněnou za ni jednat, a zástupcům nebo opatrovníkům účastníků, jejichž pobyt není znám nebo kterým se nepodařilo doručit na známou adresu v cizině, popřípadě též dalším osobám, o nichž to stanoví zákon.
+>
+> (2) Stanoví-li zákon, že na úřední desce soudu má být vyvěšena výzva nebo sdělení, sejme se výzva nebo sdělení po uplynutí 30 dnů ode dne vyvěšení.
+>
+> (3) Obsah úřední desky soud zveřejňuje i způsobem umožňujícím dálkový přístup.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a9127b38fccb0a087d49 -->
 
 ## § 50m — Doručování na ohlašovnu
 
@@ -2604,3 +4672,70 @@ Má-li adresát trvalý pobyt na adrese ohlašovny, soud doručuje uložením u 
 ---
 
 **Pokračování:** [04-cast1-hlava4b-lhuty-rozhod.md](04-cast1-hlava4b-lhuty-rozhod.md) — § 51 až § 78 (předvolání, předvádění, pořádkové opatření, lhůty — typy, počítání, prominutí; předběžná opatření obecně podle § 74—77a).
+
+<!-- LEGAL-REVISION:BEGIN id=b8b79943e367c2a753f6 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 50m — Doručování na ohlašovnu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Doručuje-li se adresátovi písemnost prostřednictvím provozovatele poštovních služeb na adresu místa trvalého pobytu, kterým je sídlo ohlašovny označené v informačním systému evidence obyvatel jako adresa úřadu podle zákona o evidenci obyvatel, odesílající soud uloží doručovanou písemnost u sebe a vyvěsí na úřední desce výzvu, aby si adresát písemnost vyzvedl nebo požádal o její zaslání na jinou adresu.
+>
+> (2) Výzva podle odstavce 1 musí obsahovat
+>
+> - a) označení soudu, který písemnost vyhotovil,
+>
+> - b) označení doručované písemnosti včetně informace, zda jde o písemnost doručovanou do vlastních rukou či nikoliv,
+>
+> - c) označení adresáta a adresy trvalého pobytu adresáta,
+>
+> - d) uvedení místa uložení písemnosti a konkrétního dne, do kterého si adresát může písemnost vyzvednout nebo požádat o doručení na jinou adresu,
+>
+> - e) poučení o následcích, jestliže písemnost nebude vyzvednuta.
+>
+> (3) Nevyzvedne-li si adresát písemnost ve lhůtě 10 dnů ode dne zveřejnění výzvy podle odstavce 1 nebo nepodá-li ve stejné lhůtě žádost o zaslání písemnosti na jinou adresu, považuje se písemnost posledním dnem této lhůty za doručenou, i když se adresát o uložení nedozvěděl. Adresa, kterou adresát uvedl v žádosti, se považuje za adresu pro doručování podle § 46a odst. 2.
+>
+> (4) Odstavce 1 až 3 se nepoužijí
+>
+> - a) pro doručování první písemnosti, která je adresátovi doručována v řízení,
+>
+> - b) pro doručování písemností, u kterých je náhradní doručení vyloučeno,
+>
+> - c) pro doručování písemností adresátovi v daném řízení, pokud si adresát ve lhůtě podle § 49 odst. 4 nebo § 50 odst. 2 vyzvedl písemnost podle písmene a).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46a, § 49, § 50
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b8b79943e367c2a753f6 -->

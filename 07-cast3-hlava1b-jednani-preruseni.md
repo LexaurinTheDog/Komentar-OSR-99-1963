@@ -85,6 +85,54 @@ V praxi § 115 vynucuje, aby soud u prvního jednání bez předchozího přípr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b26c4b81717aca7db20d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 115
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li zákon jinak, nařídí předseda senátu k projednání věci samé jednání, k němuž předvolá účastníky a všechny, jejichž přítomnosti je třeba.
+>
+> (2) Předvolání musí být účastníkům doručeno tak, aby měli dostatek času k přípravě, zpravidla nejméně 10 dnů přede dnem, kdy se jednání má konat, pokud nepředcházelo přípravné jednání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b26c4b81717aca7db20d -->
+
 ## § 115a — Rozhodnutí bez nařízení jednání
 
 > K projednání věci samé není třeba nařizovat jednání, jestliže ve věci lze rozhodnout jen na základě účastníky předložených listinných důkazů a účastníci se práva účasti na projednání věci vzdali, popřípadě s rozhodnutím věci bez nařízení jednání souhlasí.
@@ -137,6 +185,52 @@ Soud nemusí nařizovat jednání, pokud:
 **Typicky rozhodné důkazy / podklady:** smlouvy, faktury, dodací listy, reklamační a další korespondence; výslovné vyjádření účastníků o souhlasu s rozhodnutím bez jednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=86d98cb171ba836f96c0 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 115a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> K projednání věci samé není třeba nařizovat jednání, jestliže ve věci lze rozhodnout jen na základě účastníky předložených listinných důkazů a účastníci se práva účasti na projednání věci vzdali, popřípadě s rozhodnutím věci bez nařízení jednání souhlasí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86d98cb171ba836f96c0 -->
 
 ## § 116 — Veřejnost jednání
 
@@ -218,6 +312,58 @@ Soud nemusí nařizovat jednání, pokud:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3273d554a4de008f5052 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 116
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Jednání je veřejné.
+>
+> (2) Veřejnost může být pro celé jednání nebo pro jeho část vyloučena, jen kdyby veřejné projednání věci ohrozilo tajnost utajovaných informací chráněných zvláštním zákonem,56) obchodní tajemství, důležitý zájem účastníků nebo mravnost.
+>
+> (3) Jestliže byla veřejnost vyloučena, soud může povolit jednotlivým fyzickým osobám, aby byly při jednání nebo jeho části přítomny; současně je poučí, že jsou povinny zachovávat mlčenlivost o všem, co se při jednání o utajovaných informacích, obchodním tajemství nebo zájmech účastníků dozvěděly.
+>
+> (4) I když veřejnost nebyla vyloučena, může soud odepřít přístup k jednání nezletilým a fyzickým osobám, u nichž je obava, že by mohli rušit důstojný průběh jednání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3273d554a4de008f5052 -->
+
 ## § 116a — Podpůrce účastníka
 
 > (1) Účastník má během jednání právo na konzultace s osobou, která mu podle občanského zákoníku může napomáhat při rozhodování (podpůrce); je-li takových osob více, zvolí si účastník jednu z nich. Ustanovení § 23 tím není dotčeno.
@@ -273,6 +419,54 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 **Typicky rozhodné důkazy / podklady:** smlouva o nápomoci a doklad o jejím zápisu, protokol o jednání zachycující úkon podporovaného a námitku podpůrce, případně lékařské podklady k rozhodovací způsobilosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f1f5c9044939ba0571cb generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 116a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastník má během jednání právo na konzultace s osobou, která mu podle [[občanského zákoníku|občanského zákoníku]] může napomáhat při rozhodování (podpůrce); je-li takových osob více, zvolí si účastník jednu z nich. Ustanovení [[#§ 23|§ 23]] tím není dotčeno.
+>
+> (2) Namítne-li v průběhu řízení podpůrce účastníka vlastním jménem neplatnost právního jednání učiněného podporovaným účastníkem, soud k této námitce v řízení přihlédne.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f1f5c9044939ba0571cb -->
 
 ## § 117 — Předseda senátu vede jednání
 
@@ -341,6 +535,56 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 **Typicky rozhodné důkazy / podklady:** protokol o jednání zachycující opatření předsedy, nesouhlas účastníka a žádost o rozhodnutí senátu; obsah svědeckých výpovědí a případné rozpory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c0997533462eabe9e75e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 117
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Předseda senátu zahajuje, řídí a končí jednání, uděluje a odnímá slovo, provádí dokazování, činí vhodná opatření, aby zajistil splnění účelu jednání, a vyhlašuje rozhodnutí. Dbá přitom, aby jednání probíhalo důstojně a nerušeně a aby věc mohla být úplně, spravedlivě a bez průtahů projednána.
+>
+> (2) Ve věcech příslušejících senátu mohou jednotlivé úkony při dokazování provádět se souhlasem předsedy také členové senátu.
+>
+> (3) Kdo ve věcech příslušejících senátu nesouhlasí s opatřením předsedy senátu, které učinil při jednání, může žádat, aby rozhodl senát.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c0997533462eabe9e75e -->
 
 ## § 118 — Úvodní fáze jednání
 
@@ -411,6 +655,56 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 **Typicky rozhodné důkazy / podklady:** žaloba a písemné vyjádření, smlouva/objednávka, předávací protokol, korespondence stran, protokol o jednání s vymezením sporných a nesporných tvrzení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6cf53994b3e85f406eb3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 118
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Po zahájení jednání předseda senátu vyzve žalobce (navrhovatele), aby přednesl žalobu (návrh na zahájení řízení) nebo sdělil její obsah, a žalovaného (ostatní účastníky řízení), aby přednesl nebo sdělil obsah podaných písemných vyjádření ve věci; podání nepřítomných účastníků přečte nebo sdělí jejich obsah předseda senátu. Žalovaného (jiného účastníka), který dosud neučinil písemné podání, předseda senátu vyzve, aby se ve věci vyjádřil. Je-li to potřebné, předseda senátu účastníka též vyzve, aby svá tvrzení doplnil a aby navrhl k prokázání svých tvrzení důkazy.
+>
+> (2) Po provedení úkonů podle odstavce 1 předseda senátu sdělí výsledky přípravy jednání a podle dosavadních výsledků řízení uvede, která právně významná skutková tvrzení účastníků lze považovat za shodná, která právně významná skutková tvrzení zůstala sporná a které z dosud navržených důkazů budou provedeny, popřípadě které důkazy soud provede, i když je účastníci nenavrhli.
+>
+> (3) Nestanoví-li zákon jinak, určuje další průběh jednání předseda senátu podle okolností případu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6cf53994b3e85f406eb3 -->
 
 ## § 118a — Materiální poučovací povinnost (klíčový institut!)
 
@@ -500,6 +794,58 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 **Typicky rozhodné důkazy / podklady:** žaloba a vyjádření, listiny k právnímu titulu (smlouva, předávací dokumentace), znalecký posudek k hodnotě plnění, protokol zachycující výzvu a poučení podle § 118a.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a18e4a9f0af286258930 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 118a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ukáže-li se v průběhu jednání, že účastník nevylíčil všechny rozhodné skutečnosti nebo že je uvedl neúplně, předseda senátu jej vyzve, aby svá tvrzení doplnil, a poučí jej, o čem má tvrzení doplnit a jaké by byly následky nesplnění této výzvy.
+>
+> (2) Má-li předseda senátu za to, že věc je možné po právní stránce posoudit jinak než podle účastníkova právního názoru, vyzve účastníka, aby v potřebném rozsahu doplnil vylíčení rozhodných skutečností; postupuje přitom obdobně podle odstavce 1.
+>
+> (3) Zjistí-li předseda senátu v průběhu jednání, že účastník dosud nenavrhl důkazy potřebné k prokázání všech svých sporných tvrzení, vyzve jej, aby tyto důkazy označil bez zbytečného odkladu, a poučí jej o následcích nesplnění této výzvy.
+>
+> (4) Při jednání předseda senátu poskytuje účastníkům poučení též o jiných jejich procesních právech a povinnostech; to neplatí, je-li účastník zastoupen advokátem nebo notářem v rozsahu jeho oprávnění stanoveného zvláštními předpisy.57)
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a18e4a9f0af286258930 -->
 
 ## § 118b — KONCENTRACE ŘÍZENÍ (kritický institut!)
 
@@ -610,6 +956,56 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4199df7a7895f54f3c79 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 118b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ve věcech, v nichž byla provedena příprava jednání podle [[#§ 114c|§ 114c]], mohou účastníci uvést rozhodné skutečnosti o věci samé a označit důkazy k jejich prokázání jen do skončení přípravného jednání, popřípadě do uplynutí lhůty, která jim byla poskytnuta k doplnění tvrzení o skutečnostech významných pro věc, k podání návrhů na provedení důkazů nebo ke splnění dalších procesních povinností (§ 114c odst. 4). Pokud nebyla provedena příprava jednání podle [[#§ 114c|§ 114c]], mohou účastníci uvést rozhodné skutečnosti o věci samé a označit důkazy k jejich prokázání jen do skončení prvního jednání, popřípadě do uplynutí lhůty, která byla účastníkům poskytnuta k doplnění tvrzení o skutečnostech významných pro věc, k podání návrhů na provedení důkazů nebo ke splnění dalších procesních povinností. K později uvedeným skutečnostem a označeným důkazům smí soud přihlédnout, jen jde-li o skutečnosti nebo důkazy, jimiž má být zpochybněna věrohodnost provedených důkazních prostředků, které nastaly po přípravném, a nebylo-li provedeno, po prvním jednání nebo které účastník nemohl bez své viny včas uvést, jakož i ke skutečnostem nebo důkazům, které účastníci uvedli poté, co byl některý z nich vyzván k doplnění rozhodujících skutečností podle § 118a odst. 1 až 3.
+>
+> (2) Byla-li připuštěna změna žaloby ([[#§ 95|§ 95]]), nejsou tím účinky podle odstavce 1 dotčeny. Došlo-li k přistoupení dalšího účastníka (§ 92 odst. 1) nebo záměně účastníka (§ 92 odst. 2), nastávají ve vztahu s novými účastníky účinky podle odstavce 1 skončením prvního jednání, které bylo nařízeno po přistoupení nebo záměně účastníka a které se ve věci konalo; o tom musí být účastníci poučeni v předvolání k tomuto jednání.
+>
+> (3) Omezení podle odstavců 1 a [[#§ 2|2]] neplatí v případě, že účastníci nebyli řádně poučeni podle odstavce 2 části druhé věty za středníkem nebo podle § 114c odst. 5.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 114c, § 118a, § 95, § 92, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4199df7a7895f54f3c79 -->
+
 ## § 119 — Odročení jednání
 
 > (1) Jednání může být odročeno jen z důležitých důvodů, které musí být sděleny. Nebrání-li tomu okolnosti případu, oznámí předseda senátu při odročení jednání den, kdy se bude konat další jednání; ustanovení § 115a zde platí obdobně.
@@ -676,6 +1072,56 @@ Institut **podpůrce** byl zaveden OZ 2014 jako **alternativa k omezení svépr�
 **Typicky rozhodné důkazy / podklady:** žádost o odročení s doložením překážky (kolizní předvolání, lékařské potvrzení), doklad o stavu opatřovaného důkazu (znalecký posudek), protokol o předchozím jednání s obsahem přednesů a provedených důkazů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=eed6e2b1b7b3d6473ddb generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 119
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Jednání může být odročeno jen z důležitých důvodů, které musí být sděleny. Nebrání-li tomu okolnosti případu, oznámí předseda senátu při odročení jednání den, kdy se bude konat další jednání; ustanovení [[#§ 115a|§ 115a]] zde platí obdobně.
+>
+> (2) K dalšímu jednání musí být účastníci předvoláni zpravidla nejméně pět dnů předem.
+>
+> (3) Došlo-li ke změně v obsazení soudu, předseda senátu na začátku dalšího jednání sdělí obsah přednesů a provedených důkazů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 115a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eed6e2b1b7b3d6473ddb -->
 
 ## § 119a — Závěrečné poučení (druhá koncentrační hráz)
 
@@ -747,6 +1193,54 @@ Toto poučení působí jako **„druhá koncentrační hráz"** — i pokud ned
 **Typicky rozhodné důkazy / podklady:** protokol o jednání zachycující závěrečné poučení podle § 119a a výzvu k shrnutí, obsah žaloby a vyjádření s uplatněnými skutečnostmi a důkazy, odvolání a doklady k případné novotě (zde k tvrzenému započtení).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c6c4a10815257e0c92da generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 119a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Před skončením jednání je předseda senátu povinen účastníky přítomné při jednání poučit, že všechny rozhodné skutečnosti musí uvést a že důkazy musí být označeny dříve, než ve věci vyhlásí rozhodnutí, neboť později uplatněné skutečnosti a důkazy jsou odvolacím důvodem jen za podmínek uvedených v [[#§ 205a|§ 205a]]. Ustanovení [[#§ 118b|§ 118b]] a § 175 odst. 4 část první věty za středníkem tím nejsou dotčena.
+>
+> (2) Jestliže účastníci ani po poučení podle odstavce 1 nové skutečnosti a důkazy neuvedou, jestliže nové skutečnosti a důkazy byly uplatněny v rozporu s [[#§ 118b|§ 118b]] nebo § 175 odst. 4 část první věty za středníkem nebo jestliže soud rozhodl, že navrhované důkazy neprovede, předseda senátu účastníky vyzve, aby shrnuli své návrhy a aby se vyjádřili k dokazování a ke skutkové a k právní stránce věci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 205a, § 118b, § 175
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6c4a10815257e0c92da -->
 
 ## Shrnutí: 4 hráze proti nečasovaným tvrzením
 

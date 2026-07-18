@@ -128,6 +128,58 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=108451f7caf2c4b17d59 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 228
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žalobou na obnovu řízení účastník může napadnout pravomocný rozsudek nebo pravomocné usnesení, kterým bylo rozhodnuto ve věci samé:
+>
+> - a) jsou-li tu skutečnosti, rozhodnutí nebo důkazy, které bez své viny nemohl použít v původním řízení před soudem prvního stupně nebo za podmínek uvedených v ustanovení [[#§ 205a|§ 205a]] a [[#§ 211a|211a]] též před odvolacím soudem, pokud mohou přivodit pro něho příznivější rozhodnutí ve věci;
+>
+> - b) lze-li provést důkazy, které nemohly být provedeny v původním řízení před soudem prvního stupně nebo za podmínek uvedených v ustanovení [[#§ 205a|§ 205a]] a [[#§ 211a|211a]] též před odvolacím soudem, pokud mohou přivodit pro něho příznivější rozhodnutí ve věci.
+>
+> (2) Žalobou na obnovu řízení účastník může napadnout také pravomocné usnesení, kterým byl schválen smír, lze-li důvody obnovy podle odstavce 1 vztahovat i na předpoklady, za nichž byl smír schvalován; to platí obdobně pro pravomocný platební rozkaz, pravomocný rozkaz k vyklizení, pravomocný rozsudek pro uznání a pravomocný rozsudek pro zmeškání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 205a, § 211a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=108451f7caf2c4b17d59 -->
+
 ## § 229 — Žaloba pro ZMATEČNOST (klíčové!)
 
 > **(1)** Žalobou pro zmatečnost účastník může napadnout pravomocné rozhodnutí soudu prvního stupně nebo odvolacího soudu, kterým bylo řízení skončeno, jestliže
@@ -237,6 +289,80 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f2bd11c6754cf94e3e1f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 229
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žalobou pro zmatečnost účastník může napadnout pravomocné rozhodnutí soudu prvního stupně nebo odvolacího soudu, kterým bylo řízení skončeno, jestliže
+>
+> - a) bylo rozhodnuto ve věci, která nenáleží do pravomoci soudů,
+>
+> - b) ten, kdo v řízení vystupoval jako účastník, neměl způsobilost být účastníkem řízení,
+>
+> - c) účastník řízení neměl procesní způsobilost nebo nemohl před soudem vystupovat (§ 29 odst. 2) a nebyl řádně zastoupen,
+>
+> - d) nebyl podán návrh na zahájení řízení, ačkoliv podle zákona ho bylo třeba,
+>
+> - e) rozhodoval vyloučený soudce,
+>
+> - f) soud byl nesprávně obsazen, ledaže místo samosoudce rozhodoval senát,
+>
+> - g) bylo rozhodnuto v neprospěch účastníka v důsledku trestného činu soudce,
+>
+> - h) účastníku řízení byl ustanoven opatrovník z důvodu neznámého pobytu nebo proto, že se mu nepodařilo doručit na známou adresu v cizině, ačkoliv k takovému opatření nebyly splněny předpoklady.
+>
+> (2) Žalobou pro zmatečnost účastník může napadnout také pravomocný rozsudek soudu prvního stupně nebo odvolacího soudu nebo pravomocné usnesení těchto soudů, kterým bylo rozhodnuto ve věci samé, anebo pravomocný platební rozkaz (směnečný a šekový platební rozkaz), elektronický platební rozkaz nebo rozkaz k vyklizení, jestliže
+>
+> - a) v téže věci bylo již dříve zahájeno řízení,
+>
+> - b) v téže věci bylo dříve pravomocně rozhodnuto,
+>
+> - c) odvolacím soudem byl pravomocně zamítnut návrh na nařízení výkonu těchto rozhodnutí nebo pravomocně zastaven výkon rozhodnutí z důvodu, že povinnosti rozsudkem, usnesením, platebním rozkazem nebo rozkazem k vyklizení uložené nelze vykonat ([[#§ 261a|§ 261a]]).
+>
+> (3) Žalobou pro zmatečnost účastník může napadnout též pravomocný rozsudek odvolacího soudu nebo jeho pravomocné usnesení, kterým bylo rozhodnuto ve věci samé, jestliže mu byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem. Totéž platí, jde-li o pravomocný rozsudek soudu prvního stupně, proti němuž není odvolání přípustné podle § 202 odst. 2.
+>
+> (4) Žalobou pro zmatečnost účastník může napadnout rovněž pravomocné usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, jakož i pravomocné usnesení odvolacího soudu, kterým bylo potvrzeno nebo změněno usnesení soudu prvního stupně o odmítnutí odvolání nebo dovolání pro opožděnost.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 261a, § 202
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f2bd11c6754cf94e3e1f -->
+
 ## § 230 — Vyloučení žaloby
 
 > **(1)** Žaloba není přípustná proti
@@ -297,6 +423,62 @@ Tato kapitola dokončuje **systém opravných prostředků** v civilním procesu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=578944784fd54e5c7178 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 230
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žaloba není přípustná proti
+>
+> - a) usnesení, jímž bylo rozhodnuto o žalobě z rušené držby;
+>
+> - b) jen proti výrokům rozhodnutí o nákladech řízení, o lhůtě k plnění a o předběžné vykonatelnosti;
+>
+> - c) jen proti důvodům rozhodnutí.
+>
+> (2) Žaloba na obnovu řízení není přípustná též proti rozsudkům a usnesením, jejichž zrušení nebo změny lze dosáhnout jinak, nepočítaje v to dovolání.
+>
+> (3) Žaloba pro zmatečnost není přípustná také proti usnesení, jímž bylo rozhodnuto o žalobě pro zmatečnost.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=578944784fd54e5c7178 -->
+
 ## § 231 — Oprávnění subjekty (vedlejší účastník, SZ, ÚZSVM, OPD)
 
 Vedlejší účastník, SZ, ÚZSVM, OPD mohou podat žalobu z důvodů § 229 (zmatečnost), za podmínek analogických § 203.
@@ -338,6 +520,60 @@ Vedlejší účastník, SZ, ÚZSVM, OPD mohou podat žalobu z důvodů § 229 (z
 **Typicky rozhodné důkazy / podklady:** doklad o postavení podatele (osvědčení vedlejšího účastenství, kompetenční titul SZ/ÚZSVM/OPD), podklady k důvodu zmatečnosti, vyjádření hlavního účastníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=86f9d95597a5094e7e1c generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 231
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žalobu může podat z důvodů uvedených v [[#§ 228|§ 228]] a [[#§ 229|229]] též vedlejší účastník, jestliže vstoupil do původního řízení. Žaloba je však nepřípustná, jestliže s ní jím podporovaný účastník nesouhlasí.
+>
+> (2) Státní zastupitelství může podat z důvodů uvedených v [[#§ 229|§ 229]] žalobu pro zmatečnost jen ve věcech, do nichž může podle zákona vstoupit nebo v nichž může podat návrh na zahájení řízení. Nevstoupilo-li státní zastupitelství do řízení, v němž bylo vydáno napadené rozhodnutí, může žalobu podat, dokud běží lhůta některému z účastníků, jestliže současně vstoupí do řízení.
+>
+> (3) Úřad pro zastupování státu ve věcech majetkových, pokud není přímo účastníkem řízení, může podat z důvodů uvedených v [[#§ 229|§ 229]] žalobu pro zmatečnost jen v případech a za podmínek uvedených v [[#§ 35a|§ 35a]]. Nevstoupil-li Úřad pro zastupování státu ve věcech majetkových do řízení, v němž bylo vydáno napadené rozhodnutí, může žalobu podat, dokud běží lhůta některému z účastníků, jestliže současně vstoupí do řízení ([[#§ 35a|§ 35a]]).
+>
+> (4) Ochránce práv dětí může podat z důvodů uvedených v [[#§ 229|§ 229]] žalobu pro zmatečnost jen v případech a za podmínek uvedených v [[#§ 35b|§ 35b]]. Nevstoupil-li ochránce práv dětí do řízení, v němž bylo vydáno napadené rozhodnutí, může žalobu podat, dokud běží lhůta některému z účastníků, jestliže současně vstoupí do řízení.
+>
+> (5) Ustanovení [[#§ 230|§ 230]] zde platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 228, § 229, § 35a, § 35b, § 230
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86f9d95597a5094e7e1c -->
 
 ## § 232 — Náležitosti žaloby
 
@@ -390,6 +626,54 @@ Vedle obecných (§ 42 odst. 4):
 **Typicky rozhodné důkazy / podklady:** stejnopis napadeného rozhodnutí, doklady o okamžiku zjištění důvodu (k včasnosti), listinné/jiné důkazy k tvrzenému důvodu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3d45d45070a62006d4f2 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 232
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žaloba musí vedle obecných náležitostí (§ 42 odst. 4) obsahovat označení rozhodnutí, proti němuž směřuje, v jakém rozsahu je napadá, důvod žaloby (důvod obnovy řízení nebo zmatečnosti), vylíčení skutečností, které svědčí o tom, že je žaloba podána včas, označení důkazů, jimiž má být důvodnost žaloby prokázána, jakož i to, čeho se ten, kdo podal žalobu, domáhá.
+>
+> (2) Rozsah, v jakém se rozhodnutí napadá, a důvod žaloby (důvod obnovy řízení nebo zmatečnosti) mohou být měněny jen v průběhu trvání lhůt k žalobě.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d45d45070a62006d4f2 -->
 
 ## § 233 — Lhůta pro ŽALOBU NA OBNOVU
 
@@ -450,6 +734,54 @@ Lhůta k obnově je dvojí — 3 měsíce subjektivní (s minimem 3 měsíců od
 **Typicky rozhodné důkazy / podklady:** civilní rozsudek (s odkazem na trestní výrok), zrušený trestní rozsudek a rozhodnutí o jeho zrušení/zproštění s vyznačením právní moci, doklady o okamžiku zjištění důvodu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=696b591b875ce0d5e39a generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 233
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žaloba na obnovu řízení musí být podána ve lhůtě tří měsíců od té doby, kdy ten, kdo obnovu navrhuje, se dozvěděl o důvodu obnovy, nebo od té doby, kdy jej mohl uplatnit; běh této lhůty však neskončí před uplynutím tří měsíců od právní moci napadeného rozhodnutí.
+>
+> (2) Po třech letech od právní moci napadeného rozhodnutí může být žaloba na obnovu řízení podána jen tehdy, jestliže trestní rozsudek nebo rozhodnutí o přestupku nebo jiném správním deliktu, na jejichž podkladě bylo v občanském soudním řízení přiznáno právo, byly později podle příslušných právních předpisů zrušeny.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=696b591b875ce0d5e39a -->
 
 ## § 234 — Lhůta pro ŽALOBU PRO ZMATEČNOST
 
@@ -514,6 +846,62 @@ Lhůta k obnově je dvojí — 3 měsíce subjektivní (s minimem 3 měsíců od
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=16e91ad1be905f10235b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 234
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, musí být žaloba pro zmatečnost podána ve lhůtě tří měsíců od doručení napadeného rozhodnutí.
+>
+> (2) Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. c) lze žalobu podat ve lhůtě tří měsíců, která počíná běžet dnem, kdy účastníku byl ustanoven zástupce nebo kdy odpadla překážka, pro kterou nemohl před soudem samostatně jednat nebo pro kterou nemohl před soudem vystupovat, nejpozději však do tří let od právní moci napadeného rozhodnutí.
+>
+> (3) Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. e) lze žalobu podat ve lhůtě tří měsíců od té doby, kdy se ten, kdo žalobu podává, o důvodu zmatečnosti dozvěděl, nejpozději však do tří let od právní moci napadeného rozhodnutí.
+>
+> (4) Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. g) lze žalobu podat ve lhůtě tří měsíců od té doby, kdy se ten, kdo žalobu podává, o důvodu zmatečnosti dozvěděl.
+>
+> (5) Z důvodu zmatečnosti uvedeného v § 229 odst. 1 písm. h) lze žalobu podat ve lhůtě 3 měsíců od té doby, kdy se ten, kdo žalobu podává, dozvěděl o napadeném rozhodnutí.
+>
+> (6) Z důvodu zmatečnosti uvedeného v § 229 odst. 2 písm. c) lze žalobu podat ve lhůtě tří měsíců od právní moci usnesení odvolacího soudu o zamítnutí návrhu na nařízení výkonu rozhodnutí nebo o zastavení výkonu rozhodnutí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 229
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16e91ad1be905f10235b -->
+
 ## § 235 — Nepřípustnost prominutí + dovolání
 
 **Odst. 1:** **Prominutí lhůty NENÍ PŘÍPUSTNÉ** (= striktní).
@@ -557,6 +945,54 @@ Lhůty k obnově a zmatečnosti jsou nepromíjitelné (odst. 1); jedinou „úle
 **Typicky rozhodné důkazy / podklady:** doložky právní moci napadeného rozhodnutí a rozhodnutí NS, kopie dovolání a rozhodnutí o něm, výpočet běhu lhůt.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=56aae388f75aebedc511 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Prominutí zmeškání lhůt k žalobě není přípustné.
+>
+> (2) Bylo-li proti žalobou napadenému rozhodnutí podáno také dovolání, nepočítá se do běhu lhůt podle § 234 odst. 1 až 4 doba od právní moci napadeného rozhodnutí do právní moci rozhodnutí dovolacího soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 234
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=56aae388f75aebedc511 -->
 
 ## § 235a — Příslušnost + procesní pravidla
 
@@ -615,6 +1051,54 @@ Příslušnost se řídí typem zmatečnostního důvodu: zpravidla soud 1. stup
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=87e6dd04d018bed4a9c2 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žalobu projedná a rozhodne o ní soud, který o věci rozhodoval v prvním stupni. Žalobu pro zmatečnost podanou z důvodů uvedených v § 229 odst. 3 a [[#§ 4|4]] však projedná a rozhodne o ní soud, jehož rozhodnutí bylo napadeno; to neplatí ve věcech, v nichž je k řízení v prvním stupni příslušný krajský soud (§ 9 odst. 2).
+>
+> (2) Pro řízení o žalobě platí přiměřeně ustanovení o řízení v prvním stupni, není-li dále stanoveno něco jiného.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 229, § 4, § 9
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87e6dd04d018bed4a9c2 -->
+
 ## § 235b — Spojení + omezení procesních institutů
 
 **Odst. 1:** Pokud byly podány obě žaloby (obnova + zmatečnost), soud je **spojí** do společného řízení.
@@ -660,6 +1144,56 @@ Souběžně podané žaloby (obnova + zmatečnost) soud spojí; v řízení o ni
 **Typicky rozhodné důkazy / podklady:** obě žaloby a jejich petit, doklad o podání dovolání, spis k posouzení obou žalob.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b38d48fe263c593902eb generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Byla-li proti stejnému rozhodnutí podána žaloba na obnovu řízení i pro zmatečnost, spojí soud věci ke společnému řízení.
+>
+> (2) Ustanovení [[#§ 92|§ 92]], [[#§ 97|97]] a [[#§ 98|98]] pro řízení o žalobě neplatí. Pro řízení o žalobě pro zmatečnost neplatí též ustanovení [[#§ 107a|§ 107a]].
+>
+> (3) Bylo-li proti napadenému rozhodnutí podáno též dovolání, soud řízení o žalobě přeruší až do rozhodnutí dovolacího soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 92, § 97, § 98, § 107a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b38d48fe263c593902eb -->
 
 ## § 235c, § 235d, § 235e, § 235f, § 235g — Procesní pravidla
 
@@ -716,6 +1250,248 @@ Tato procesní ustanovení řídí odklad vykonatelnosti (jen při pravděpodobn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fc6f399994f1d4c52687 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Je-li pravděpodobné, že žalobě bude vyhověno, může soud nařídit odklad vykonatelnosti napadeného rozhodnutí o věci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc6f399994f1d4c52687 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=83f3a4e131aaa24413a5 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Soud projedná věc v mezích, ve kterých se ten, kdo podal žalobu, domáhá povolení obnovy řízení nebo zrušení napadeného rozhodnutí pro zmatečnost. Tímto rozsahem není vázán
+>
+> - a) v případech, kdy na rozhodnutí o napadeném výroku je závislý výrok, který žalobou nebyl dotčen,
+>
+> - b) v případech, kde jde o taková společná práva nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří vystupují na jedné straně, a kde platí úkony jednoho z nich i pro ostatní (§ 91 odst. 2),
+>
+> - c) jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 91
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=83f3a4e131aaa24413a5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=812901685d0924699e46 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Žalobu na obnovu řízení soud usnesením buď zamítne nebo povolí obnovu řízení.
+>
+> (2) Žalobu pro zmatečnost soud usnesením buď zamítne nebo napadené rozhodnutí zruší. Zruší-li rozhodnutí z důvodů uvedených v § 229 odst. 1 písm. a), b) a d) nebo v § 229 odst. 2 písm. a) a b), rozhodne též o zastavení řízení o věci, popřípadě o postoupení věci orgánu, do jehož pravomoci náleží. Platí-li důvody, pro které bylo zrušeno rozhodnutí odvolacího soudu, i na rozhodnutí soudu prvního stupně, zruší soud i toto rozhodnutí, i když nebylo žalobou napadeno.
+>
+> (3) Bylo-li stejné rozhodnutí napadeno žalobou na obnovu řízení i pro zmatečnost, může soud povolit důvodně uplatněnou obnovu řízení, jen když žalobu pro zmatečnost zamítne, odmítne nebo o ní zastaví řízení.
+>
+> (4) Bylo-li napadené rozhodnutí dovolacím soudem zrušeno, soud řízení o žalobě zastaví.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 229
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=812901685d0924699e46 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=70a4e3699d9be24f12c3 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Zamítá-li soud žalobu proto, že není přípustná, nebo proto, že ji podal někdo, kdo k ní nebyl oprávněn, nebo proto, že byla podána po uplynutí lhůt počítaných od právní moci napadeného rozhodnutí, nemusí nařizovat jednání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=70a4e3699d9be24f12c3 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=33c8558ac1428926aca5 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Povolením obnovy řízení odkládá se vykonatelnost napadeného rozhodnutí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=33c8558ac1428926aca5 -->
+
 ## § 235h, § 235i — Po povolení / zrušení
 
 **§ 235h — nové projednání:**
@@ -761,6 +1537,106 @@ Po povolení obnovy soud 1. stupně bez návrhu věc znovu projedná a buď náv
 **Typicky rozhodné důkazy / podklady:** povolovací/zrušovací rozhodnutí, nově provedené důkazy, vyčíslení nákladů obou fází řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=86b21658c62c2257b6d1 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Byla-li povolena obnova řízení, soud prvního stupně, jakmile usnesení nabude právní moci, věc znovu bez dalšího návrhu projedná; přihlédne přitom ke všemu, co vyšlo najevo v původním řízení nebo při projednávání žaloby. Shledá-li soud napadené rozhodnutí věcně správným, zamítne usnesením návrh na jeho změnu. Jestliže soud napadené rozhodnutí ve věci samé změní, nové rozhodnutí nahradí původní rozhodnutí.
+>
+> (2) Bylo-li napadené rozhodnutí pro zmatečnost zrušeno, soud, o jehož rozhodnutí jde, věc, jakmile usnesení nabude právní moci, bez dalšího návrhu projedná a rozhodne; přihlédne přitom ke všemu, co vyšlo najevo v původním řízení nebo při projednávání žaloby. Právní názor obsažený ve zrušovacím usnesení je pro nové projednání a rozhodnutí věci závazný.
+>
+> (3) Odstavec 2 neplatí, bylo-li řízení ve věci zastaveno (§ 235e odst. 2 věta druhá).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 235e
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86b21658c62c2257b6d1 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7abec35a2a95cf08ad1e generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 235i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) V novém rozhodnutí o věci rozhodne soud o náhradě nákladů původního řízení i řízení o žalobě; o náhradě nákladů původního řízení však nerozhodne, jestliže rozhodnutí po povolení obnovy nenahrazuje původní rozhodnutí.
+>
+> (2) Zruší-li soud napadené rozhodnutí a zastaví-li též řízení o věci (§ 235e odst. 2 věta druhá), rozhodne i o náhradě nákladů původního řízení.
+>
+> (3) Právní poměry někoho jiného než účastníka řízení nemohou být novým rozhodnutím o věci dotčeny.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 235e
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7abec35a2a95cf08ad1e -->
 
 # HLAVA III — DOVOLÁNÍ (§ 236 — § 243g)
 
@@ -834,6 +1710,54 @@ Dovolání směřuje výlučně proti pravomocným rozhodnutím odvolacího soud
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí odvolacího soudu s vyznačením právní moci, vymezení, kterým výrokem je dovolatel dotčen.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=418fd67cc1bc30ee807f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 236
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+>
+> (2) Dovolání jen proti důvodům rozhodnutí není přípustné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=418fd67cc1bc30ee807f -->
 
 ## § 237 — PŘÍPUSTNOST DOVOLÁNÍ (kritický institut!)
 
@@ -928,6 +1852,52 @@ Dovolání směřuje výlučně proti pravomocným rozhodnutím odvolacího soud
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí a jeho nosné právní závěry, relevantní judikatura NS k otázce, text dovolání s vymezením přípustnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=112b2ac4a9cca0811d50 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 237
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=112b2ac4a9cca0811d50 -->
 
 ## § 238 — Vyloučení dovolání (taxativně)
 
@@ -1025,6 +1995,80 @@ Dovolání směřuje výlučně proti pravomocným rozhodnutím odvolacího soud
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=71f3b3c75fbcc3946868 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 238
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dovolání podle [[#§ 237|§ 237]] není přípustné
+>
+> - a) ve věcech upravených v [[části druhé|části druhé]] [[občanského zákoníku|občanského zákoníku]], je-li řízení o nich vedeno podle tohoto zákona a nejedná-li se o manželské majetkové právo,
+>
+> - b) ve věcech upravených zákonem [[o registrovaném partnerství|o registrovaném partnerství]], je-li řízení o nich vedeno podle tohoto zákona,
+>
+> - c) proti rozsudkům a usnesením vydaným v řízeních, jejichž předmětem bylo v době vydání rozhodnutí obsahujícího napadený výrok peněžité plnění nepřevyšující 50 000 Kč, včetně řízení o výkon rozhodnutí a exekučního řízení, ledaže jde o vztahy ze spotřebitelských smluv a o pracovněprávní vztahy; k příslušenství pohledávky se přitom nepřihlíží,
+>
+> - d) ve věcech odkladu provedení výkonu rozhodnutí nebo exekuce,
+>
+> - e) proti usnesením, proti nimž je přípustná žaloba pro zmatečnost podle § 229 odst. 4,
+>
+> - f) proti usnesením, kterými bylo rozhodnuto o předběžném opatření, pořádkovém opatření, znalečném nebo tlumočném,
+>
+> - g) proti usnesení, jímž bylo rozhodnuto o žalobě z rušené držby,
+>
+> - h) proti rozhodnutím v části týkající se výroku o nákladech řízení,
+>
+> - i) proti usnesením, kterými bylo rozhodnuto o návrhu na osvobození od soudního poplatku nebo o povinnosti zaplatit soudní poplatek,
+>
+> - j) proti usnesením, kterými bylo rozhodnuto o žádosti účastníka o ustanovení zástupce,
+>
+> - k) proti rozhodnutím, kterými odvolací soud zrušil rozhodnutí soudu prvního stupně a věc vrátil soudu prvního stupně k dalšímu řízení,
+>
+> - l) proti usnesením, kterými bylo rozhodnuto o zproštění od složení zálohy nebo odejmutí zproštění od složení zálohy podle exekučního řádu.
+>
+> (2) U opětujícího se peněžitého plnění je pro závěr, zda rozhodnutí obsahující dovoláním napadený výrok bylo vydáno v řízení, jehož předmětem bylo v době vydání rozhodnutí peněžité plnění nepřevyšující 50 000 Kč [odstavec 1 písm. c)], rozhodný součet všech opětujících se plnění; jde-li však o peněžité plnění na dobu života, na dobu neurčitou nebo na dobu určitou delší než 5 let, je rozhodný pouze pětinásobek výše ročního plnění.
+>
+> (3) Za rozhodnutí podle odstavce 1 písm. c) se považuje i rozhodnutí vydané v řízení o určení pravosti nebo výše pohledávky nepřevyšující 50 000 Kč.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 237, § 229
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=71f3b3c75fbcc3946868 -->
+
 ## § 238a — Speciální přípustnost (procesní nástupnictví)
 
 **Dovolání je dále přípustné** proti usnesení odvolacího soudu o:
@@ -1080,6 +2124,52 @@ Dovolání směřuje výlučně proti pravomocným rozhodnutím odvolacího soud
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ec0621c6596baa2b9408 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 238a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Dovolání je dále přípustné proti usnesení odvolacího soudu, kterým bylo v průběhu odvolacího řízení rozhodnuto o tom, kdo je procesním nástupcem účastníka, o vstupu do řízení na místo dosavadního účastníka ([[#§ 107a|§ 107a]]), o přistoupení dalšího účastníka (§ 92 odst. 1) a o záměně účastníka (§ 92 odst. 2).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 107a, § 92
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ec0621c6596baa2b9408 -->
+
 ## § 239 — Přípustnost zkoumá jen dovolací soud
 
 **Přípustnost dovolání (§ 237—238a) zkoumá VÝLUČNĚ NS.** Soud 1. stupně ani odvolací nemohou rozhodnout, že dovolání není přípustné — to je vyhrazeno **dovolacímu soudu**.
@@ -1132,6 +2222,52 @@ O přípustnosti dovolání rozhoduje výlučně NS; poučení nižších soudů
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí včetně poučení o opravných prostředcích, doklad o doručení (počátek lhůty), text dovolání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=36c5dac835518510b481 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 239
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Přípustnost dovolání (§ 237 až 238a) je oprávněn zkoumat jen dovolací soud; ustanovení § 241b odst. 1 a [[#§ 2|2]] tím nejsou dotčena.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 237, § 241b, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36c5dac835518510b481 -->
 
 ## § 240 — LHŮTA DOVOLÁNÍ + místo podání
 
@@ -1216,6 +2352,56 @@ Lhůta k dovolání činí 2 měsíce od doručení rozhodnutí odvolacího soud
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=05a0d9880b4e261bc550 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 240
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení.
+>
+> (2) Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+>
+> (3) Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do tří měsíců od doručení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=05a0d9880b4e261bc550 -->
+
 ## § 241 — POVINNÉ ZASTOUPENÍ ADVOKÁTEM (klíčový!)
 
 > **(1)** Není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy.
@@ -1296,6 +2482,62 @@ Dovolatel musí být zastoupen advokátem (notářem) a dovolání jím sepsáno
 **Typicky rozhodné důkazy / podklady:** plná moc pro advokáta, doklad o právnickém vzdělání jednající osoby, žádost o ustanovení zástupce a podklady k osvobození od poplatků (majetkové poměry).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ef563d012de03823e3ce generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 241
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy.57)
+>
+> (2) Odstavec 1 neplatí,
+>
+> - a) je-li dovolatelem fyzická osoba, která má právnické vzdělání,
+>
+> - b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v [[#§ 21|§ 21]], [[#§ 21a|21a]], anebo v [[#§ 21b|§ 21b]], která má právnické vzdělání.
+>
+> (3) Odstavec 1 neplatí také tehdy, je-li dovolatelem obec, kterou zastupuje stát podle [[#§ 26a|§ 26a]], jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3, která má právnické vzdělání.
+>
+> (4) Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v [[#§ 21|§ 21]], [[#§ 21a|21a]], [[#§ 21b|21b]], anebo v § 26a odst. 3, která má právnické vzdělání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 21a, § 21b, § 26a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef563d012de03823e3ce -->
 
 ## § 241a — DOVOLACÍ DŮVOD (jen nesprávné právní posouzení!)
 
@@ -1408,6 +2650,62 @@ Jediným dovolacím důvodem je nesprávné právní posouzení věci; nelze nap
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5600fb4a7249e7d9bdb6 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 241a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Dovolání nelze podat z důvodu vad podle § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3.
+>
+> (2) V dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+>
+> (3) Důvod dovolání se vymezí tak, že dovolatel uvede právní posouzení věci, které pokládá za nesprávné, a že vyloží, v čem spočívá nesprávnost tohoto právního posouzení.
+>
+> (4) V dovolání nelze poukazovat na podání, která dovolatel učinil za řízení před soudem prvního stupně nebo v odvolacím řízení.
+>
+> (5) K obsahu podání, v němž dovolatel uvedl, v jakém rozsahu napadá rozhodnutí odvolacího soudu, nebo v němž vymezil důvody dovolání, aniž by byla splněna podmínka stanovená v [[#§ 241|§ 241]], se nepřihlíží.
+>
+> (6) V dovolání nelze uplatnit nové skutečnosti nebo důkazy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 229, § 42, § 237, § 241
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5600fb4a7249e7d9bdb6 -->
+
 ## § 241b — Postup soudu 1. stupně
 
 > **(1)** Ustanovení § 208 odst. 1, § 209 a 210 platí obdobně.
@@ -1472,6 +2770,56 @@ Soud 1. stupně odstraňuje vady dovolání obdobně jako u odvolání a vyzýv�
 **Typicky rozhodné důkazy / podklady:** dovolání a jeho náležitosti, doklad o doručení (běh lhůty), plná moc / žádost o ustanovení zástupce, výzvy soudu a doklady o jejich doručení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cbcc107384ee14866ab7 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 241b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Ustanovení § 208 odst. 1, [[#§ 209|§ 209]] a [[#§ 210|210]] platí obdobně.
+>
+> (2) Není-li splněna podmínka uvedená v [[#§ 241|§ 241]], postupuje se obdobně podle § 104 odst. 2; to neplatí, bylo-li dovolání podáno opožděně, někým, kdo k dovolání není oprávněn, nebo směřuje-li proti rozhodnutí, proti němuž není dovolání podle [[#§ 238|§ 238]] přípustné.
+>
+> (3) Dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen v průběhu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v [[#§ 241|§ 241]], běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce ([[#§ 30|§ 30]]), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto. Nebyl-li nedostatek podmínky uvedené v [[#§ 241|§ 241]] ani ve lhůtě určené ke splnění této podmínky odstraněn, předseda senátu soudu prvního stupně dovolací řízení zastaví.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 208, § 209, § 210, § 241, § 104, § 238, § 237, § 30
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cbcc107384ee14866ab7 -->
 
 ## ŘÍZENÍ U NEJVYŠŠÍHO SOUDU (§ 242 — § 243g)
 
@@ -1559,6 +2907,64 @@ NS přezkoumává napadené rozhodnutí v rozsahu napadeného výroku a jen z vy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2609479cc7fb82ba2285 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 242
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dovolací soud přezkoumá rozhodnutí odvolacího soudu v rozsahu, ve kterém byl jeho výrok napaden.
+>
+> (2) Dovolací soud není vázán rozsahem dovolacích návrhů
+>
+> - a) v případech, kdy na rozhodnutí o napadeném výroku je závislý výrok, který dovoláním nebyl dotčen,
+>
+> - b) v případech, kde jde o taková společná práva nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří vystupují na jedné straně, a kde platí úkony jednoho z nich i pro ostatní (§ 91 odst. 2), třebaže dovolání podal jen některý z účastníků,
+>
+> - c) jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+>
+> (3) Rozhodnutí odvolacího soudu lze přezkoumat jen z důvodu vymezeného v dovolání. Je-li dovolání přípustné, dovolací soud přihlédne též k vadám uvedeným v § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3, jakož i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci.
+>
+> (4) Účastníci mohou po dobu trvání lhůty k podání dovolání měnit vymezení důvodu dovolání a rozsah, ve kterém rozhodnutí odvolacího soudu napadají; ke změně není třeba souhlasu soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 91, § 229
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2609479cc7fb82ba2285 -->
+
 ## § 243 — Odklad vykonatelnosti / právní moci
 
 > Před rozhodnutím o dovolání může dovolací soud i bez návrhu odložit
@@ -1615,6 +3021,56 @@ Dovolání samo o sobě nemá odkladný účinek; NS však může i bez návrhu 
 **Typicky rozhodné důkazy / podklady:** návrh na odklad, podklady k hrozící újmě (povaha plnění, dopady výkonu), údaje o případně dotčených třetích osobách, stav exekučního/vykonávacího řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=132eb9080910c766de19 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Před rozhodnutím o dovolání může dovolací soud i bez návrhu odložit
+>
+> - a) vykonatelnost napadeného rozhodnutí, kdyby neprodleným výkonem rozhodnutí nebo exekucí hrozila dovolateli závažná újma, nebo
+>
+> - b) právní moc napadeného rozhodnutí, je-li dovolatel závažně ohrožen ve svých právech a nedotkne-li se odklad právních poměrů jiné osoby než účastníka řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=132eb9080910c766de19 -->
 
 ## § 243a, § 243b — Bez jednání zpravidla
 
@@ -1689,6 +3145,100 @@ Dovolací soud rozhoduje zpravidla bez jednání a aplikuje pravidla 1. stupně 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c355fdbf0bc4da9e5d52 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dovolací soud rozhodne o dovolání zpravidla bez jednání. Považuje-li to za potřebné, nařídí k projednání dovolání jednání.
+>
+> (2) Nařídí-li dovolací soud jednání, postupuje obdobně podle [[#§ 215|§ 215]] a § 216 odst. 3.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 215, § 216
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c355fdbf0bc4da9e5d52 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=abfc60843c4a9e7eec1d generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> Pro dovolací řízení platí přiměřeně ustanovení o řízení před soudem prvního stupně, není-li stanoveno jinak; ustanovení [[#§ 43|§ 43]], [[#§ 92|92]], 95 až 99 a [[#§ 107a|107a]] však pro dovolací řízení neplatí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43, § 92, § 107a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=abfc60843c4a9e7eec1d -->
+
 ## § 243c — Odmítnutí dovolání
 
 > **(1)** Dovolání podané proti rozhodnutí odvolacího soudu, které není přípustné nebo které trpí vadami, jež nebyly ve lhůtě (§ 241b odst. 3) odstraněny a pro něž nelze v dovolacím řízení pokračovat, anebo které je zjevně bezdůvodné, dovolací soud odmítne.
@@ -1743,6 +3293,56 @@ NS odmítne dovolání nepřípustné, trpící neodstraněnými vadami nebo zje
 **Typicky rozhodné důkazy / podklady:** text dovolání (vymezení přípustnosti a otázky), procesní spis o doplnění/odstranění vad, případné zpětvzetí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=829c46384cc299621b7b generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Dovolání podané proti rozhodnutí odvolacího soudu, které není přípustné nebo které trpí vadami, jež nebyly ve lhůtě (§ 241b odst. 3) odstraněny a pro něž nelze v dovolacím řízení pokračovat, anebo které je zjevně bezdůvodné, dovolací soud odmítne.
+>
+> (2) K přijetí usnesení o odmítnutí dovolání z důvodu, že dovolání není podle [[#§ 237|§ 237]] přípustné, je třeba souhlasu všech členů senátu.
+>
+> (3) Ustanovení § 218 písm. b), [[#§ 218a|§ 218a]], § 224 odst. 1 a [[#§ 2|2]] a [[#§ 225|§ 225]] platí pro řízení u dovolacího soudu obdobně. Vezme-li dovolatel dovolání zcela zpět, dovolací soud řízení zastaví. Nerozhodl-li předseda senátu soudu prvního stupně podle § 241b odst. 3 věty třetí, ačkoliv se nezdařilo odstranit nedostatek podmínky uvedené v [[#§ 241|§ 241]], rozhodne o zastavení dovolacího řízení pro nesplnění této podmínky dovolací soud.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 241b, § 237, § 218, § 218a, § 224, § 2, § 225, § 241
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=829c46384cc299621b7b -->
 
 ## § 243d — Zamítnutí / ZMĚNA dovolacím soudem
 
@@ -1810,6 +3410,58 @@ NS dovolání buď zamítne (je-li napadené rozhodnutí správné), nebo je mů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1ad62248aabcbdc61e27 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nepostupoval-li podle [[#§ 243c|§ 243c]], dovolací soud
+>
+> - a) dovolání zamítne, dojde-li k závěru, že rozhodnutí odvolacího soudu je správné, nebo
+>
+> - b) může rozhodnutí odvolacího soudu změnit, jestliže odvolací soud rozhodl nesprávně a jestliže dosavadní výsledky řízení ukazují, že je možné o věci rozhodnout.
+>
+> (2) Změní-li dovolací soud rozhodnutí odvolacího soudu, zruší rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, která jsou na změněném rozhodnutí odvolacího soudu závislá. Dozví-li se dovolací soud až dodatečně o tom, že na změněném rozhodnutí odvolacího soudu jsou závislá rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, rozhodne o jejich zrušení samostatným usnesením.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 243c
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ad62248aabcbdc61e27 -->
+
 ## § 243e — ZRUŠENÍ A VRÁCENÍ (nejčastější)
 
 > **(1)** Nejsou-li podmínky pro zastavení dovolacího řízení, pro odmítnutí dovolání, pro zamítnutí dovolání nebo pro změnu rozhodnutí odvolacího soudu, dovolací soud je zruší.
@@ -1876,6 +3528,58 @@ Typickým výsledkem úspěšného dovolání je zrušení a vrácení; platí-l
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bb2f9c10969e80dda66f generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Nejsou-li podmínky pro zastavení dovolacího řízení, pro odmítnutí dovolání, pro zamítnutí dovolání nebo pro změnu rozhodnutí odvolacího soudu, dovolací soud je zruší.
+>
+> (2) Zruší-li dovolací soud rozhodnutí odvolacího soudu, vrátí mu věc k dalšímu řízení. Platí-li důvody, pro které bylo zrušeno rozhodnutí odvolacího soudu, také na rozhodnutí soudu prvního stupně, zruší dovolací soud i toto rozhodnutí a vrátí věc soudu prvního stupně k dalšímu řízení, popřípadě věc postoupí k dalšímu řízení věcně příslušnému soudu. Dovolací soud zruší též další rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, která jsou na zrušovaném rozhodnutí odvolacího soudu závislá. Dozví-li se dovolací soud až dodatečně o tom, že na zrušeném rozhodnutí odvolacího soudu jsou závislá rozhodnutí vydaná v řízení v prvním stupni nebo v odvolacím řízení, rozhodne o jejich zrušení samostatným usnesením.
+>
+> (3) Zruší-li dovolací soud rozhodnutí odvolacího soudu proto, že nebyl dodržen závazný právní názor (§ 243g odst. 1) nebo že v řízení došlo k závažným vadám, může nařídit, aby věc v dalším řízení projednal jiný senát nebo přikázat věc k dalšímu řízení jinému odvolacímu soudu. V případě, že dovolací soud zruší rovněž rozhodnutí soudu prvního stupně, může také nařídit, aby věc v dalším řízení projednal u soudu prvního stupně jiný senát (samosoudce) nebo přikázat věc k dalšímu řízení jinému soudu prvního stupně.
+>
+> (4) Zruší-li dovolací soud rozhodnutí odvolacího soudu a soudu prvního stupně pro vady uvedené v § 229 odst. 1 písm. a), b) nebo d) a v § 229 odst. 2 písm. a) nebo b), rozhodne též o zastavení řízení, popřípadě o postoupení věci orgánu, do jehož pravomoci náleží.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 243g, § 229
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bb2f9c10969e80dda66f -->
+
 ## § 243f — Procesní pravidla rozhodování + vyhlášení
 
 **Odst. 1 — rozhodující stav:** Stav v době vydání **napadeného rozhodnutí** odvolacího soudu.
@@ -1926,6 +3630,62 @@ NS rozhoduje podle stavu k době vydání napadeného rozhodnutí odvolacího so
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e7cace8e658cb7ed3645 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Pro rozhodnutí dovolacího soudu je rozhodující stav v době vydání napadeného rozhodnutí odvolacího soudu.
+>
+> (2) O zastavení dovolacího řízení nebo o odmítnutí dovolání, které bylo podáno opožděně, které bylo podáno někým, kdo k dovolání není oprávněn, nebo které nebylo řádně doplněno nebo opraveno a v dovolacím řízení nelze pro tento nedostatek pokračovat, může rozhodnout předseda senátu dovolacího soudu nebo pověřený člen senátu.
+>
+> (3) V odůvodnění usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně uvede, proč je dovolání opožděné, nepřípustné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo proč muselo být dovolací řízení zastaveno. Bylo-li dovolání odmítnuto nebo bylo-li dovolací řízení zastaveno, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno.
+>
+> (4) Dovolací soud rozhoduje rozsudkem, jestliže zamítá dovolání proti rozsudku odvolacího soudu nebo jestliže mění či zrušuje rozsudek odvolacího soudu; jinak rozhoduje usnesením.
+>
+> (5) Rozsudek se vyhlašuje ústně, proběhlo-li ve věci jednání a při vyhlášení je přítomen alespoň jeden účastník nebo osoba zúčastněná na řízení anebo veřejnost. Jsou-li při vyhlašování rozsudku přítomny pouze soudní osoby, rozsudek se vyhlásí vyvěšením zkráceného písemného vyhotovení bez odůvodnění na úřední desce v budově soudu a na elektronické úřední desce (dále jen „úřední deska soudu“) po dobu patnácti dnů. Předseda senátu může rozhodnout, že tímto způsobem se uveřejní i nosné důvody rozsudku.
+>
+> (6) Předseda senátu může rozhodnout též o uveřejnění jiného rozhodnutí Nejvyššího soudu na úřední desce soudu způsobem uvedeným v odstavci 5.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e7cace8e658cb7ed3645 -->
+
 ## § 243g — ZÁVAZNÝ PRÁVNÍ NÁZOR
 
 > *(Implicitně — pokud NS zruší a vrátí, soud 1. stupně i odvolací jsou vázáni jeho právním názorem.)*
@@ -1974,3 +3734,50 @@ Po zrušení a vrácení jsou nižší soudy vázány právním názorem NS; jeh
 ---
 
 **Pokračování:** [13-cast5-rozhodovano-jinym-organem.md](13-cast5-rozhodovano-jinym-organem.md) — § 244 až § 250l (Část pátá: řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem — soudní přezkum rozhodnutí správních orgánů v soukromoprávních věcech, NE správní soudnictví podle SŘS).
+
+<!-- LEGAL-REVISION:BEGIN id=212dffa16a197f1d0e50 generator=2026-07-17.4 source_sha256=a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9 -->
+### Revizní doplnění k § 243g — Další průběh řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md`; identifikátor verze: `SB-1963-00099_2026-01-01`; SHA-256: `a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9`.
+
+#### Znění ustanovení
+
+> (1) Jestliže dovolací soud zruší rozhodnutí odvolacího soudu (rozhodnutí soudu prvního stupně), jedná dále o věci soud, jemuž byla věc vrácena nebo postoupena k dalšímu řízení; ustanovení [[#§ 226|§ 226]] zde platí obdobně. O náhradě nákladů řízení včetně nákladů dovolacího řízení soud rozhodne v novém rozhodnutí o věci.
+>
+> (2) Právní poměry někoho jiného než účastníka řízení nemohou být novým rozhodnutím dotčeny.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 226
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=212dffa16a197f1d0e50 -->
