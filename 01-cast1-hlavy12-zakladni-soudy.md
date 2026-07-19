@@ -11,64 +11,58 @@ Bez pevného uchopení Hlav I—II nelze konzistentně číst zbytek zákona —
 
 ## § 1 — Účel občanského soudního řádu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Občanský soudní řád upravuje postup soudu a účastníků v občanském soudním řízení tak, aby byla zajištěna spravedlivá ochrana soukromých práv a oprávněných zájmů účastníků, jakož i výchova k dodržování smluv a zákonů, k čestnému plnění povinností a k úctě k právům jiných osob.
 
-### Výklad / smysl ustanovení
+### Přehled výkladu
 
-Paragraf 1 plní **trojí roli**:
+Paragraf 1 vymezuje předmět úpravy a účel civilního procesu. Je účelovou a interpretační normou: pomáhá volit mezi textově obhajitelnými výklady procesních ustanovení, ale sám neruší jasnou procesní podmínku ani zpravidla nezakládá samostatný procesní nárok nebo opravný důvod. Zákonná výchovná klauzule trvá; její původní ideové vysvětlení je historické a bez dalšího je nelze vydávat za současnou doktrínu.
 
-1. **Vymezení předmětu úpravy** — OSŘ upravuje *postup* soudu a účastníků, tedy **procesní pravidla**. Hmotné právo (kdo má jaký nárok) řeší jiné předpisy (občanský zákoník č. 89/2012 Sb., zákon o obchodních korporacích č. 90/2012 Sb. atd.). OSŘ je tedy *ryze procesním* zákonem.
+### Souvisící ustanovení
 
-2. **Vymezení účelu řízení** — **spravedlivá ochrana soukromých práv a oprávněných zájmů účastníků**. Slovo „spravedlivá" zde má **ústavněprávní rozměr** — váže se na čl. 36 odst. 1 Listiny (právo na spravedlivý proces, „due process") a na čl. 6 EÚLP. Cíl není rychlost za každou cenu, ale rychlost, jež nezpronevěří kvalitu rozhodnutí.
+- **§ 2 a § 3** — činnost soudů a možnost domáhat se ochrany ohroženého nebo porušeného soukromého práva.
+- **§ 5 a § 6** — procesní poučení, předvídatelný postup, součinnost, rychlá a účinná ochrana a zákaz zneužití procesní úpravy.
+- **§ 41 odst. 2, § 43 a § 79** — posouzení procesního úkonu podle obsahu, náležitosti žaloby a odstraňování vad podání.
 
-3. **Tzv. „výchovné poslání"** — formulace „výchova k dodržování smluv a zákonů, k čestnému plnění povinností a k úctě k právům jiných osob" je **reliktem socialistické dikce** z roku 1963. V současné výkladové praxi se však výchovná funkce **zachovává**, byť v jiném obsahovém pojetí: znamená, že soudní rozhodnutí má **preventivně-výchovnou hodnotu** — odrazuje od porušování práva a posiluje právní vědomí společnosti (úzce spojeno s tzv. **konzistentní judikatura jako vedlejší zdroj práva**).
+### Souvisící předpisy
 
-### Vazby a souvislosti
+- **Čl. 36 odst. 1 Listiny základních práv a svobod** — právo domáhat se stanoveným postupem práva u nezávislého a nestranného soudu.
+- **Čl. 6 odst. 1 Úmluvy o ochraně lidských práv a základních svobod** — garance spravedlivého řízení při rozhodování o občanských právech a závazcích v autonomním úmluvním významu.
+- **§ 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních** — vztah ZŘS a OSŘ ve zvláštních řízeních.
 
-- **§ 2** — konkretizuje, *co* soudy v řízení dělají (projednávání, rozhodování, výkon rozhodnutí).
-- **§ 3** — garantuje *právo* domáhat se ochrany u soudu.
-- **§ 5, § 6** — způsoby, jakými soud cíl naplňuje (poučení, předvídatelnost).
-- **čl. 36 LZPS** + **čl. 6 EÚLP** — ústavní a mezinárodní zakotvení práva na spravedlivý proces.
+### Z důvodové zprávy
 
-### Praktické dopady
+Oficiální vládní návrh občanského soudního řádu, tisk Národního shromáždění č. 147 z roku 1963, vysvětloval základní ustanovení jako pravidla pro výklad jednotlivých institutů a původní socialistický civilní proces popisoval ochrannou a výchovnou funkcí. Tento pramen objasňuje původní text, nikoli automaticky dnešní znění. Paragraf 1 byl po roce 1989 terminologicky proměněn zejména novelami č. 519/1991 Sb. a č. 30/2000 Sb.; dnešní soukromoprávní terminologii přinesl zákon č. 293/2013 Sb. s účinností od 1. 1. 2014.
 
-- **Restriktivní výklad procesních norem** v neprospěch účastníka je nepřípustný — § 1 nutí soud zvolit takovou interpretaci, která chrání soukromé právo, nikoli odpírá ochranu z formálních důvodů. ÚS opakovaně judikoval, že **přepjatý formalismus** odporuje § 1 OSŘ ve spojení s čl. 36 LZPS (např. **nález ÚS sp. zn. II. ÚS 2398/18**, **I. ÚS 2434/16**).
-- Při výkladu kteréhokoli ustanovení OSŘ se vždy ptejte, zda směřuje k naplnění některého z cílů uvedených v § 1 — pravidlo, které by těmto cílům odporovalo, by mělo být vykládáno restriktivně.
+### Literatura
 
-### F. Kazuistika
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní literární rešerši.
 
-**1. Modelová situace.** Žalobce podal žalobu o zaplacení 80 000 Kč z titulu nezaplacené kupní ceny. Žaloba obsahovala drobnou formální vadu — v záhlaví chyběl přesný název soudu, jinak však byla zcela srozumitelná, plyne z ní, kdo, co a proč po kom žádá. Soud prvního stupně žalobu bez výzvy k odstranění vady usnesením odmítl s odkazem na formální nedostatek. Účastníci: žalobce (věřitel — prodávající), žalovaný (kupující). Důkazy: kupní smlouva, dodací list, korespondence, samotné podání žaloby.
+### Výklad
 
-**2. Právní otázka.** Smí soud odmítnout věcně projednatelnou žalobu z ryze formálních důvodů, aniž by účastníku poskytl prostor k nápravě, s ohledem na účel řízení podle § 1?
+[1] První část věty určuje, že OSŘ upravuje postup soudu a účastníků. Jde svou základní funkcí o procesní kodex: § 1 sám nerozhoduje, komu svědčí uplatněné soukromé právo, nýbrž vyjadřuje účel pravidel, podle nichž má být soudní ochrana poskytnuta.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 1 — účelem řízení je *spravedlivá* ochrana soukromých práv; restriktivní výklad procesní normy v neprospěch účastníka je nepřípustný.
-- *Související ustanovení téhož zákona:* § 5 (poučovací povinnost), § 43 (výzva k odstranění vad podání), § 3 (právo domáhat se ochrany).
-- *Související předpisy:* čl. 36 odst. 1 Listiny (právo na spravedlivý proces); čl. 6 odst. 1 EÚLP.
-- *Judikatura:* nálezy ÚS k zákazu přepjatého formalismu citované přímo v komentáři (sp. zn. II. ÚS 2398/18, I. ÚS 2434/16) — formalistický výklad odpírající ochranu z formálních důvodů odporuje § 1 OSŘ ve spojení s čl. 36 Listiny.
+[2] „Spravedlivá ochrana“ podporuje takový výklad procesních pravidel, který zachovává jejich zákonný účel a současně účinný přístup k soudu. Nezakládá však absolutní zákaz procesních omezení. Lhůty, náležitosti podání, koncentrace i podmínky opravných prostředků mohou přístup k soudu zákonně omezit; § 1 je neopravňuje ignorovat.
 
-**4. Subsumpce.** Znak „spravedlivá ochrana soukromých práv" je naplněn jen tehdy, je-li účastníku ochrana fakticky poskytnuta, nikoli odepřena z formálních důvodů. Vada žaloby byla odstranitelná (§ 43); soud byl povinen vyzvat k nápravě, nikoli rovnou odmítnout. Postup soudu tedy odporuje účelu vyjádřenému v § 1.
+[3] Praktický význam § 1 je zprostředkovaný. U více textově možných výkladů je argumentem proti řešení, které bez legitimního a přiměřeného důvodu maří ochranu práva. Konkrétní procesní následek je však třeba opřít o použitelné ustanovení OSŘ a případně o základní právo, nikoli pouze o obecnou účelovou větu § 1.
 
-**5. Řešení.** Odvolací soud usnesení o odmítnutí zruší. Správný postup: výzva podle § 43 k odstranění vady, po jejím odstranění věcné projednání. § 1 zde funguje jako interpretační direktiva, jíž se poměřuje každé procesní rozhodnutí. Riziko: § 1 je programové ustanovení, samo o sobě nezaložuje konkrétní procesní nárok — nutno je vždy spojit s konkrétní normou (zde § 43).
+[4] U vad podání je nutné nejprve zjistit, zda podání skutečně nesplňuje zákonné náležitosti, a poté, zda vada brání pokračování v řízení. Podle § 43 odst. 2 lze podání odmítnout, jen není-li přes řádnou výzvu opraveno nebo doplněno a nelze-li pro vadu v řízení pokračovat; zákon stanoví výjimku pro některá podání, u nichž výzva nebo oprava přípustná není.
 
-**6. Varianty.** (a) Pokud by vada byla neodstranitelná a bránila projednání (např. naprostá neurčitost petitu, již nelze ani po výzvě upřesnit), odmítnutí by obstálo. (b) Pokud by žalobce na výzvu podle § 43 nereagoval, odmítnutí žaloby by bylo namístě a § 1 by nebyl porušen.
+[5] Nález Ústavního soudu ze dne 9. 4. 2009 sp. zn. III. ÚS 2690/08 se týkal žaloby na neplatnost výpovědi, v níž byl namísto České republiky označen úřad práce. Z obsahu žaloby bylo zřejmé, že nárok směřuje proti státu. Ústavní soud považoval zastavení řízení bez možnosti odstranit tuto vadu za překvapivý přepjatý formalismus a zrušil rozsudek Nejvyššího soudu. Ratio je vázáno na odstranitelnou procesní vadu rozpoznatelnou z obsahu žaloby; nejde o povinnost soudu napravovat věcnou legitimaci ani o obecné prominutí vad.
 
-### G. Protiargumenty a rizika
+[6] Ani výzva podle § 43 není samoúčelný rituál. V usnesení ze dne 22. 5. 2024 sp. zn. I. ÚS 982/24 Ústavní soud akceptoval odmítnutí opakovaně neurčité žaloby bez nové výzvy ve výjimečném kontextu žalobce, který byl o totožných vadách a následcích mnohokrát poučen. Rozhodnutí současně potvrzuje, že právo na přístup k soudu není absolutní a zákonné procesní podmínky musejí sledovat legitimní cíl a být přiměřené.
 
-- *Protiargument:* „§ 1 je jen proklamace bez normativní síly." Neutralizace: ÚS jej opakovaně používá jako měřítko ústavně konformního výkladu procesních norem (zákaz přepjatého formalismu) — má reálné dopady, byť zprostředkované konkrétními ustanoveními.
-- *Protiargument:* „Výchovná funkce je socialistický relikt, k němuž nelze přihlížet." Neutralizace: současná praxe ji reinterpretuje jako preventivně-výchovnou hodnotu rozhodnutí a roli konzistentní judikatury — nejde o ideologický balast, ale o legitimní funkci.
-- *Slabé místo:* § 1 nelze použít jako samostatný důvod postupu; vždy je nutné jej navázat na konkrétní procesní normu, jinak argumentace zůstává v rovině obecné proklamace.
+[7] Výchovná část § 1 zůstává součástí platného textu. Původní důvodová zpráva ji spojovala s dobovou socialistickou koncepcí procesu. Bez ověřené současné opory z ní nelze dovozovat zvláštní pravomoc soudu, samostatný procesní nárok ani vazbu na judikaturu jako „vedlejší zdroj práva“; její dnešní samostatný praktický dosah je proto nutné formulovat zdrženlivě.
 
-### H. Praktický závěr
+[8] Pro probíhající řízení je rozhodné aktuálně účinné procesní právo. Historická znění a důvodová zpráva slouží k vysvětlení geneze; zachování účinků dřívějších procesních úkonů se posuzuje podle přechodných ustanovení konkrétní novely, nikoli podle § 1 samotného.
 
-Paragraf 1 je výkladovým klíčem celého OSŘ: při pochybnostech o smyslu procesní normy se volí interpretace chránící soukromé právo, nikoli odpírající ochranu. Zároveň je ryze procesní povahy — neřeší, *kdo má pravdu*, ale *jak* se vede řízení.
+### Judikatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Směřuje zvolený výklad procesní normy k naplnění některého z cílů § 1 (spravedlivá ochrana, předvídatelnost, výchovná prevence)?
-- [ ] Nejde o přepjatý formalismus odpírající ochranu z formálních důvodů?
-- [ ] Je odepření projednání spojeno s konkrétní normou (§ 43, § 104), nebo jde o nepřípustný formalismus?
-
-**Typicky rozhodné důkazy / podklady:** samotné podání (pro posouzení projednatelnosti), doklad o poučení/výzvě k odstranění vad, listiny zakládající hmotněprávní nárok.
+- **ÚS, nález ze dne 9. 4. 2009, sp. zn. III. ÚS 2690/08** — civilní pracovněprávní spor; odstranitelná vada označení žalovaného, patrná z obsahu žaloby, neměla bez možnosti nápravy vést k zastavení řízení. Ústavní soud zrušil rozsudek Nejvyššího soudu pro překvapivý přepjatý formalismus.
+- **ÚS, usnesení ze dne 22. 5. 2024, sp. zn. I. ÚS 982/24** — civilní žaloba na náhradu škody proti státu; v mimořádném kontextu mnoha obdobných podání a opakovaných předchozích poučení nebyla další totožná výzva nezbytná. Zákonná omezení přístupu k soudu jsou přípustná, sledují-li legitimní cíl a jsou-li přiměřená.
 
 ---
 
